@@ -92,77 +92,6 @@ def getInfo(filename):
     return r
 
 
-# Identify sentences that have been split in the manual revision.
-def formatSplitSentences(info):
-    # Input: a structure as returned by /getInfo/.
-    # Output: a structure alike, with complementary IDs to indicate splits.
-    IDs_count = {}  # Will help find different entries that have the same sentence_ID (which means that sentence was split)
-    r = []  # Will save data to return
-
-    for i in info:  # For each entry
-        if i['sentence_id'] in IDs_count:
-            IDs_count[i['sentence_id']].append(i['entry_id'])
-        else:
-            IDs_count[i['sentence_id']] = [i['entry_id']]
-
-    # /IDs_count/ now maps each sentence ID to all the entries that match it.
-
-    for i in info:  # For each entry
-
-        if len(IDs_count[i['sentence_id']]) == 1:
-            i['id_complement'] = ' '  # If there's only one entry with that sentence ID, it hasn't been split.
-
-        else:  # Else, it has been split.
-            id_complement = 0  # Will keep track of a sequential complement for the ID
-            for n in IDs_count[i['sentence_id']]:  # For this set of entries sharing that sentence ID,
-                if n < i['entry_id']:  # count how many entries there are before the current one
-                    id_complement += 1  # so the ID complement is the position of the current entry within the set of entries sharing the sentence_ID
-            i['id_complement'] = chr(id_complement + ord('a'))  # Save the ID complement as a letter
-
-        r.append(i)
-
-    info = r
-
-
-# Identify sentences that have been joined or corrected in the manual revision.
-# Call this function AFTER /formatSplitSentences/
-def formatJoinedSentences(info_original, info_edited):
-    # Input: two structures in the format as returned by /getInfo/.
-    # Output: a structure alike, with complementary IDs to indicate joints.
-    r = []
-    for i in info_edited:
-
-        if i['id_complement'] != ' ':  # Skip sentences that have been split. This is why it should be called after /formatSplitSentences/.
-            continue
-
-        s = i['sentence']
-        sWasCopiedAsIs = False  # Will indicate whether the sentence /s/ was not changed in the revised file.
-
-        for j in info_original:
-            if j['sentence'] == s and j['sentence_id'] == i['sentence_id']:
-                sWasCopiedAsIs = True  # If the sentence appears in the raw file and has the same ID (so duplicates are out), then it was hasn't changed.
-
-        if sWasCopiedAsIs == False:
-            countJoinedSentences = 0
-            for j in info_original:
-                if j['review_id'] != i['review_id']:
-                    continue
-                if j['sentence'] in i['sentence']:
-                    countJoinedSentences += 1  # Count how many sentences were merged.
-
-            if countJoinedSentences == 0:
-                i['id_complement'] = '*'  # If a sentence has changed but wasn't merged with another sentence, then it was corrected.
-            else:
-                i['id_complement'] = str(countJoinedSentences)
-        r.append(i)
-
-
-def formatEditedSentences(info_raw, info_revised):
-    formatSplitSentences(info_revised)
-    formatJoinedSentences(info_raw, info_revised)
-    return info_revised
-
-
 
 def opinionToStringPlain(opinion):
     s = ''
@@ -355,7 +284,7 @@ for filename in files_to_read:
     info_revised = getInfo(DIR_ANNOTATED_MANUAL + '/' + filename)
     info_raw = getInfo(DIR_ANNOTATED_AUTO + '/' + filename)
 
-    data_revised = formatEditedSentences(info_raw['data'], info_revised['data'])
+    data_revised = info_revised['data']
 
     data_merged = []
 
