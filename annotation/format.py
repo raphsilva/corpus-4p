@@ -1,46 +1,14 @@
-# -*- coding: utf-8 -*-
-
-# Made by: Raphael Rocha da Silva
-# May 2018
-# VERSION: <WORKING DRAFT> 2018-06-03
-
-
-# TODO trocar 'raw' por 'automatically annotaded'
-
+import datetime
 import io
 import os
-import json
-
 from pprint import pprint
 
-import datetime
 date = datetime.datetime.now()
 
-SENTENCE_BEGIN_INDICATOR = '::' # Symbol used to indicate beginning of sentence in the dataset. 
+SENTENCE_BEGIN_INDICATOR = '::'  # Symbol used to indicate beginning of sentence in the dataset.
 
-FORMATTED_DIR = 'split'     # Folder where formatted files will be saved to. 
-DOUBLECHECK_DIR = 'DOUBLECHECK' # Folder containing differences between revised and automatically annotaded files. 
-
-
-REDUCED = False
-#CHOP = 7
-CHOP = 0
-
-if REDUCED:
-    SUFFIX='-sel'
-elif CHOP != 0:
-    SUFFIX='-chop'
-else:
-    SUFFIX=''
-
-GET_ONLY_THESES_ASPECTS = []
-REMOVE_ASPECT = []
-#REMOVE_ASPECT = ['OUTRO', 'SOM', 'TAMANHO', 'TELA']
-#GET_ONLY_THESES_ASPECTS = ['CÂMERA', 'DESEMPENHO', 'OUTRO', 'RESISTÊNCIA']
-#GET_ONLY_THESES_ASPECTS = ['CÂMERA', 'DESEMPENHO', 'DESIGN', 'PREÇO', 'RESISTÊNCIA']
-#GET_ONLY_THESES_ASPECTS = ['CÂMERA', 'DESEMPENHO', 'DESIGN', 'PREÇO']
-#SUFFIX = '-sel'
-
+FORMATTED_DIR = 'split'  # Folder where formatted files will be saved to.
+DOUBLECHECK_DIR = 'DOUBLECHECK'  # Folder containing differences between revised and automatically annotaded files.
 
 # Create directories 
 output_directories = [FORMATTED_DIR, DOUBLECHECK_DIR]
@@ -48,9 +16,9 @@ for i in output_directories:
     if not os.path.exists(i):
         os.makedirs(i)
 
+
 # Read file (revised or automatically annotaded)
-def getInfo(filename): 
-    
+def getInfo(filename):
     # Get product ID from filename 
     product_id = filename.split('/')[-1].split('.')[0]
 
@@ -58,52 +26,45 @@ def getInfo(filename):
     r = {}
     r['data'] = []  # Will save the main info
     r['meta'] = []  # Will save metadata 
-    
-    entry_id = 0       # Will keep track of the position of each entry in the file
 
-    data = io.open(filename, 'r', encoding="utf-8").read() # Read file
+    entry_id = 0  # Will keep track of the position of each entry in the file
+
+    data = io.open(filename, 'r', encoding="utf-8").read()  # Read file
 
     for line in data.splitlines():
         print(filename)
         print(line)
-        
+
         # Skip blank lines
         if len(line) == 0:
             continue
 
         # Line containing metadata
-        if line[0] == '>': 
+        if line[0] == '>':
             r['meta'].append(line)
             continue
-        
+
         # Skip line containing comment
         if line[0] == '#':
             continue
-        
+
         # Unexpected line (not a coment, not metadata, not data)
         if '[' not in line:
-            print ("Weird line. Please check:")
+            print("Weird line. Please check:")
             print(line, end="\n")
             continue
-        
-        flags = line[0:line.find('(')] # Gets flags (such as 'd' for "duplicated", 'x' for "garbage")
-        
-        line = line[line.find('('):] # Removes flags from line (were already saved)
-        
-        #if flags != '':
-            #print(line)
-            #print(flags)
-            #continue
-        
 
-        sentence = line.split('::')[-1] # Get sentence from the entry
-        info = line.split('::')[0]      # Get info (polarity, aspect, etc) from the sentence
-        info = info.replace('[','').replace('(','').replace(' ', '') # Remove characters that won't be used (they are there for human readability)
+        flags = line[0:line.find('(')]  # Gets flags (such as 'd' for "duplicated", 'x' for "garbage")
+
+        line = line[line.find('('):]  # Removes flags from line (were already saved)
+
+        sentence = line.split('::')[-1]  # Get sentence from the entry
+        info = line.split('::')[0]  # Get info (polarity, aspect, etc) from the sentence
+        info = info.replace('[', '').replace('(', '').replace(' ', '')  # Remove characters that won't be used (they are there for human readability)
         line_id = info.split(')')[0]
-  
-        
-        n = {}  # Will save information about this entry 
-        
+
+        n = {}  # Will save information about this entry
+
         n['product_id'] = product_id
         n['review_id'] = line_id.split('.')[0]
         n['sentence_id'] = line_id.split('.')[1]
@@ -112,119 +73,36 @@ def getInfo(filename):
         n['sentence'] = sentence
         n['entry_id'] = entry_id
         n['flags'] = flags
-        n['id_complement'] = '' # Will be used to identify split and joined sentences. 
-        
-        #print(GET_ONLY_THESES_ASPECTS)
-        #print(n['aspect'])
-        #print()
-        
-        #if len(GET_ONLY_THESES_ASPECTS) > 0 and not any(i in GET_ONLY_THESES_ASPECTS for i in n['aspect']):
-            #input()
-            #continue
-        
-        entry_id += 1
-        
-        r['data'].append(n)
+        n['id_complement'] = ''  # Will be used to identify split and joined sentences.
 
+        entry_id += 1
+
+        r['data'].append(n)
 
     return r
 
 
 
-# Identify sentences that have been split in the manual revision.
-def formatSplitSentences(info):
-# Input: a structure as returned by /getInfo/.
-# Output: a structure alike, with complementary IDs to indicate splits.     
-    IDs_count = {} # Will help find different entries that have the same sentence_ID (which means that sentence was split) 
-    r = [] # Will save data to return
-        
-    for i in info: # For each entry
-        if i['sentence_id'] in IDs_count:
-            IDs_count[i['sentence_id']].append(i['entry_id'])
-        else:
-            IDs_count[i['sentence_id']] = [i['entry_id']]
-            
-    # /IDs_count/ now maps each sentence ID to all the entries that match it.
-                
-    for i in info: # For each entry
-        
-        if len(IDs_count[i['sentence_id']]) == 1:
-            i['id_complement'] = ' ' # If there's only one entry with that sentence ID, it hasn't been split.
-        
-        else: # Else, it has been split. 
-            id_complement = 0 # Will keep track of a sequential complement for the ID
-            for n in IDs_count[i['sentence_id']]: # For this set of entries sharing that sentence ID, 
-                if n < i['entry_id']: # count how many entries there are before the current one
-                    id_complement += 1 # so the ID complement is the position of the current entry within the set of entries sharing the sentence_ID
-            i['id_complement'] = chr(id_complement + ord('a')) # Save the ID complement as a letter
-        
-        r.append(i)
-        
-    info = r
-        
-    
-# Identify sentences that have been joined or corrected in the manual revision. 
-# Call this function AFTER /formatSplitSentences/
-def formatJoinedSentences(info_original, info_edited):
-# Input: two structures in the format as returned by /getInfo/.
-# Output: a structure alike, with complementary IDs to indicate joints.   
-    r = []
-    for i in info_edited: 
-        
-        if i['id_complement'] != ' ': # Skip sentences that have been split. This is why it should be called after /formatSplitSentences/.
-            continue
-        
-        s = i['sentence']        
-        sWasCopiedAsIs = False # Will indicate whether the sentence /s/ was not changed in the revised file.
-        
-        
-        for j in info_original:
-            if j['sentence'] == s and j['sentence_id'] == i['sentence_id']:
-                sWasCopiedAsIs = True # If the sentence appears in the raw file and has the same ID (so duplicates are out), then it was hasn't changed. 
-        
-        if sWasCopiedAsIs == False: 
-            countJoinedSentences = 0
-            for j in info_original: 
-                if j['review_id'] != i['review_id']: 
-                    continue
-                if j['sentence'] in i['sentence']:
-                    countJoinedSentences += 1 # Count how many sentences were merged. 
-            
-            if countJoinedSentences == 0: 
-                i['id_complement'] = '*' # If a sentence has changed but wasn't merged with another sentence, then it was corrected. 
-            else:
-                i['id_complement'] = str(countJoinedSentences)
-        r.append(i)
-                
-        
-def formatEditedSentences(info_raw, info_revised):
-    formatSplitSentences(info_revised)
-    formatJoinedSentences(info_raw, info_revised)
-    return info_revised
-        
-
-           
-            
 def opinionToStringPlain(opinion):
     s = ''
     s += opinion['flags']
-    for a in range(3-len(opinion['flags'])):
+    for a in range(3 - len(opinion['flags'])):
         s += ' '
-    s += '['+str(opinion['review_id'])+'.'
-    s += str(opinion['sentence_id'])+']'
-    s += '['+str(opinion['id_complement'])+']'
-    for a in range(2-len(opinion['id_complement'])):
+    s += '[' + str(opinion['review_id']) + '.'
+    s += str(opinion['sentence_id']) + ']'
+    s += '[' + str(opinion['id_complement']) + ']'
+    for a in range(2 - len(opinion['id_complement'])):
         s += ' '
-    for a in range(2-len(opinion['polarity'])):
+    for a in range(2 - len(opinion['polarity'])):
         s += ' '
-    s += '['+opinion['polarity']+']'
-    s += '['+opinion['aspect']+']'
-    for a in range(16-len(opinion['aspect'])):
+    s += '[' + opinion['polarity'] + ']'
+    s += '[' + opinion['aspect'] + ']'
+    for a in range(16 - len(opinion['aspect'])):
         s += ' '
-    s += '  '+SENTENCE_BEGIN_INDICATOR+'  ' 
+    s += '  ' + SENTENCE_BEGIN_INDICATOR + '  '
     s += str(opinion['sentence'])
     return s
-            
+
 
 # Removes any spaces in the beginning or end of a string; transforms double spaces into single spaces. 
 def cleanExtraSpaces(text):
@@ -244,27 +122,22 @@ def formatSentence(sentence):
     if sentence[-1].isalpha() or sentence[-1].isdigit():
         r += '.'
     return cleanExtraSpaces(r)
-            
+
+
 def opinionToString(opinion):
     s = ''
-    
-#    s += '\n'    
-    s += str(opinion['id_f']) + ')  '
-    for a in range(2-len(opinion['polarity'])):
+    s += opinion['review_id'] + '.' + opinion['sentence_id'] + '.' +str(opinion['id_f']) + ')  '
+    for a in range(2 - len(opinion['polarity'])):
         s += ' '
-    s += '['+opinion['polarity']+']'
-    s += '['+opinion['aspect']+']'
-    for a in range(16-len(opinion['aspect'])):
+    s += '[' + opinion['polarity'] + ']'
+    s += '[' + opinion['aspect'] + ']'
+    for a in range(16 - len(opinion['aspect'])):
         s += ' '
-    s += '  ::  ' 
-    s += str(formatSentence(opinion['sentence'])) # Sentence separator can't be used in the middle of a sentence
-#    s += '\n'
-#    for a in range(37):
-#        s += ' '
-#    s += '_'+str(opinion['review_id'])+'_'+str(opinion['sentence_id'])+'_'+str(opinion['id_complement'])+'_'
-#    if opinion['flags'] != '':
-#        s += '  ' + '(' + opinion['flags'] + ') '
+    s += '  ::  '
+    s += str(formatSentence(opinion['sentence']))  # Sentence separator can't be used in the middle of a sentence
+
     return s
+
 
 def originString(opinion):
     s = ''
@@ -272,19 +145,21 @@ def originString(opinion):
     s += '  >  '
     s += str(opinion['product_id']) + '.'
     s += str(opinion['review_id']) + '.'
-    s += str(opinion['sentence_id']) 
+    s += str(opinion['sentence_id'])
     if opinion['id_complement'].replace(' ', '') != '':
-        s += '-' +str(opinion['id_complement'])
+        s += '-' + str(opinion['id_complement'])
     return s
 
 
 ids_correspondency = {}
+
+
 def register_id(opinion):
     global ids_correspondency
     new_id = str(opinion['product_id']) + '.' + str(opinion['id_f'])
-    old_id = str(opinion['product_id']) + '.'+ str(opinion['review_id']) + '.' + str(opinion['sentence_id']) 
+    old_id = str(opinion['product_id']) + '.' + str(opinion['review_id']) + '.' + str(opinion['sentence_id'])
     if opinion['id_complement'].replace(' ', '') != '':
-        old_id += '-' +str(opinion['id_complement'])
+        old_id += '-' + str(opinion['id_complement'])
     ids_correspondency[new_id] = old_id
 
 
@@ -298,54 +173,39 @@ def getPolarity(s):
     else:
         return '.'
 
+SPECIAL_ASPECTS = ['PRODUTO', 'EMPRESA', '_NONE', '_GENERIC', 'X', 'x']
 
 def countAspects(info):
     count_aspects = {}
-    count_aspects['_TOTAL_'] = {'+':0, '-':0, '.':0, 'x':0, 'total':0}
-    
-    
-    
+    count_aspects['_TOTAL_'] = {'+': 0, '-': 0, '.': 0, 'x': 0, 'total': 0}
+
     for i in info:
-        
+
         for d in range(len(i['aspect'])):
             aspect = i['aspect'][d]
             polarity = i['polarity'][d]
 
-            if aspect not in count_aspects: 
-                count_aspects[aspect] = {'+':0, '-':0, '.':0, 'x':0,  'total':0}
+            if aspect not in count_aspects:
+                count_aspects[aspect] = {'+': 0, '-': 0, '.': 0, 'x': 0, 'total': 0}
             count_aspects[aspect][getPolarity(polarity)] += 1
-            
-            if aspect not in ['PRODUTO', 'EMPRESA', '_NONE', '_GENERIC', 'X', 'x']:
+
+            if aspect not in SPECIAL_ASPECTS:
                 count_aspects['_TOTAL_'][getPolarity(polarity)] += 1
-    #        if i['aspect'] == 'PREÇO': 
-    #            if getPolarity(i['polarity']) == '.':
-    #                pprint(i)
-    #                input()
-    
-        #if len(i['aspect']) == 0:
-            #if '_UNIDENTIFIED' not in count_aspects:
-                #count_aspects['_UNIDENTIFIED'] =  {'+':0, '-':0, '.':0, 'x':0,  'total':0}
-            #count_aspects['_UNIDENTIFIED']['x'] += 1
-                
-    
+
     return count_aspects
 
 
 def countAspects_segments(info):
     count_aspects = {}
-    count_aspects['_TOTAL_'] = {'+':0, '-':0, '.':0, 'x':0, 'total':0}
+    count_aspects['_TOTAL_'] = {'+': 0, '-': 0, '.': 0, 'x': 0, 'total': 0}
     for i in info:
-        if i['aspect'] not in count_aspects: 
-            count_aspects[i['aspect']] = {'+':0, '-':0, '.':0, 'x':0,  'total':0}
+        if i['aspect'] not in count_aspects:
+            count_aspects[i['aspect']] = {'+': 0, '-': 0, '.': 0, 'x': 0, 'total': 0}
         count_aspects[i['aspect']][getPolarity(i['polarity'])] += 1
         count_aspects['_TOTAL_'][getPolarity(i['polarity'])] += 1
-#        if i['aspect'] == 'PREÇO': 
-#            if getPolarity(i['polarity']) == '.':
-#                pprint(i)
-#                input()
     return count_aspects
-            
-            
+
+
 def lineAspectsCounts(list_of_aspects, aspect):
     s = ''
     s += "%-21s" % (aspect)
@@ -353,17 +213,21 @@ def lineAspectsCounts(list_of_aspects, aspect):
     s += "%10d" % list_of_aspects[aspect]['-']
     s += "%10d" % list_of_aspects[aspect]['.']
     s += "%10d" % list_of_aspects[aspect]['x']
-    s += "%10d" % (list_of_aspects[aspect]['+']+list_of_aspects[aspect]['-']+list_of_aspects[aspect]['.']+list_of_aspects[aspect]['x'])
+    s += "%10d" % (list_of_aspects[aspect]['+'] + list_of_aspects[aspect]['-'] + list_of_aspects[aspect]['.'] + list_of_aspects[aspect]['x'])
     return s.replace(' 0 ', '   ')
-    
+
 
 # Kludge to be able to sort Portuguese words alphabetically. 
-s='aáÁàÀAâÂbBcCçÇdDeêÊéEfFgGğĞhHiİîÎíīıIÍjJkKlLmMnNóoOÓöÖôpPqQrRsSşŞtTuUÚûúÛüÜvVwWxXyYzZ_'
-s2='aaaaaaaabbccccddeeeeeffgggghhiiiiiiiiijjkkllmmnnooooooÔppqqrrssssttuuuuuuuuvvwwxxyyzzz'
+s = 'aáÁàÀAâÂbBcCçÇdDeêÊéEfFgGğĞhHiİîÎíīıIÍjJkKlLmMnNóoOÓöÖôpPqQrRsSşŞtTuUÚûúÛüÜvVwWxXyYzZ_'
+s2 = 'aaaaaaaabbccccddeeeeeffgggghhiiiiiiiiijjkkllmmnnooooooÔppqqrrssssttuuuuuuuuvvwwxxyyzzz'
 trans = str.maketrans(s, s2)
+
+
 def unikey(seq):
-    if '_' in seq: # Specific for the aspect '_TOTAL_', which goes in the last line of the table. 
-        return 'zzzzzzzzzz'
+    # if '_' in seq:  # Specific for the aspect '_TOTAL_', which goes in the last line of the table.
+    #     return 'zzzzzzzzzz'
+    if seq == '_TOTAL_':
+        return 'yz'
     return seq.translate(trans)
 
 
@@ -377,76 +241,50 @@ def tabularAspectsCount(list_of_aspects):
     s += "%10s" % 'total'
     s = s.replace(' ', '_')
     s += '\n'
-#    for a in list_of_aspects:
     for a in sorted(list_of_aspects, key=unikey):
         s += '# '
         l = lineAspectsCounts(list_of_aspects, a)
-        if len(s.splitlines())%2 == 1:
+        if len(s.splitlines()) % 2 == 1:
             l = l.replace('   ', ' _ ')
         if a == '_TOTAL_':
             l = l.replace(' ', '_')
         s += l
         s += '\n'
-#    s += "%-17s" % '### TOTAL ###'    
     return s
-    
-
-
-def removeGarbage(info):
-    r = []
-    for i in info:
-        if i['flags'] == '':
-            r.append(i)
-    return r
-            
 
 
 
 
 files_to_read = []
 dirpath = 'REVISED'
-list_of_files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))] # List of data files already saved in the disk
+list_of_files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))]  # List of data files already saved in the disk
 for i in list_of_files:
-    i_filename = i.split('.')[0] # Get filename without extension, which is that product's ID
-    #if i_filename.isdigit() == True: # If filename is not a number, then it's not actually a product data file.
+    i_filename = i.split('.')[0]  # Get filename without extension, which is that product's ID
     files_to_read.append(i)
-        
+
 iteration = 0
 
 for filename in files_to_read:
-#for filename in ['11.txt']:
-    
+
     iteration += 1
-    
-    print (">> PROCESSING FILE %s (%d/%d)" % (filename, iteration, len(files_to_read)))
-    #input()
-    
+
+    print(">> PROCESSING FILE %s (%d/%d)" % (filename, iteration, len(files_to_read)))
+
     i_filename = filename.split('.')[0]
-    
-    
-    
 
-    info_revised = getInfo('REVISED/'+filename)
-    info_raw = getInfo('raw/auto/'+filename)
+    info_revised = getInfo('REVISED/' + filename)
+    info_raw = getInfo('raw/auto/' + filename)
 
-    
-    data_parsed = formatEditedSentences(info_raw['data'], info_revised['data'])
-    
-    #pprint(data_parsed)
-    #input()
-    
+    data_revised = info_revised['data']
+
     data_merged = []
-    
-    removed_sentences = []
-    
+
     count_stats = {}
-    
+
     c_sentences_included = 0
-    
+
     for r in info_raw['data']:
-        #print()
-        #print('%2d.%03d                %s %s' % (int(r['review_id']), int(r['sentence_id']), SENTENCE_BEGIN_INDICATOR, r['sentence']))
-        
+
         n = {}
         n['aspect'] = []
         n['polarity'] = []
@@ -454,258 +292,179 @@ for filename in files_to_read:
         n['product_id'] = r['product_id']
         n['sentence_id'] = r['sentence_id']
         n['sentence'] = formatSentence(r['sentence'])
-        
-        for p in data_parsed: 
-            if p['flags'] != '' and p['sentence_id'] == r['sentence_id']:
-                if p['flags'] == 'd':
-                    n['aspect'] = ['_DUPLICATE']
-                else:
-                    n['aspect'] = ['_TRASH']
-                n['polarity'] = ['x']
-                continue
+
+        for p in data_revised:
             if p['sentence_id'] == r['sentence_id']:
-                #print(' %2s %s' % (p['polarity'], p['aspect']))
-                n['aspect'].append(p['aspect'])
-                n['polarity'].append(p['polarity'])
-                
-        
-        
-        if len(n['aspect']) == 1 and 'PRODUTO' in n['aspect']:
-            n['aspect'] = ['_GENERIC']
-        
+                if p['flags'] != '':
+                    if p['flags'] == 'd':
+                        n['aspect'] = ['_DUPLICATE']
+                        p['aspect'] = '_DUPLICATE'
+                    elif p['flags'] == 'u':
+                        n['aspect'] = ['_UNINTELLIGIBLE']
+                        p['aspect'] = '_UNINTELLIGIBLE'
+                    elif p['flags'] == 'b':
+                        n['aspect'] = ['_BROKEN']
+                        p['aspect'] = '_BROKEN'
+                    elif p['flags'] == 'i':
+                        n['aspect'] = ['_IRRELEVANT']
+                        p['aspect'] = '_IRRELEVANT'
+                    elif p['flags'] == 'c':
+                        n['aspect'] = ['_CONTEXT']
+                        p['aspect'] = '_CONTEXT'
+                    else:
+                        n['aspect'] = ['_OUTSCOPE']
+                        p['aspect'] = '_OUTSCOPE'
+                    n['polarity'] = ['x']
+                    p['polarity'] = 'x'
+                    # continue
+                else:
+                    n['aspect'].append(p['aspect'])
+                    n['polarity'].append(p['polarity'])
+
+            # if len(n['aspect']) == 1 and 'PRODUTO' in n['aspect']:
+            #     n['aspect'] = ['PRODUTO_GENERIC']
+            #     p['aspect'] = 'PRODUTO_GENERIC'
+
         if len(n['aspect']) == 0:
             n['aspect'] = ['_NONE']
             n['polarity'] = ['x']
-            
+            # pprint(n)
+            # input()
+
         aspects = n['aspect']
         polarities = n['polarity']
-            
-        
-        if REDUCED:
-        
-            
-            if len(GET_ONLY_THESES_ASPECTS) > 0 and all(i not in GET_ONLY_THESES_ASPECTS for i in aspects):
-                removed_sentences.append(n['sentence_id'])
-                continue
-            
-            elif any(i in REMOVE_ASPECT for i in aspects):
-                removed_sentences.append(n['sentence_id'])
-                continue
-        
-            
-                        
+
         for i in range(len(aspects)):
-            
+
             if aspects[i] not in count_stats:
                 count_stats[aspects[i]] = {}
             if polarities[i][0] not in count_stats[aspects[i]]:
                 count_stats[aspects[i]][polarities[i][0]] = 0
             count_stats[aspects[i]][polarities[i][0]] += 1
-        
-        
-        data_merged.append(n)
-        
-        
-        if CHOP != 0:
-            print(c_sentences_included, c_sentences_included%CHOP)
-            if c_sentences_included%CHOP != 0:
-                removed_sentences.append(n['sentence_id'])
-        
-        
-        c_sentences_included += 1
-      
-    #print()  
-    #pprint(count_stats)
-    #print()
-    #input()
-    
-    
-    
-    if REDUCED: 
-            
-            
-        fl = True
-        
-        
-        
-        while fl:
-            fl = False
-            for n in data_merged:   
-                
-                if n['sentence_id'] in removed_sentences:
-                    continue
-                
-                aspects = n['aspect']
-                polarities = n['polarity']
-                
-                
-                
-                for i in range(len(aspects)):
-                    
-                    aspect = aspects[i]
-                    polarity = polarities[i][0]
-                    
-                    if aspects[i] == 'PRODUTO':
-                        continue
-                    
-                    c = count_stats[aspects[i]][polarities[i][0]]
-                    if c <= 0:
-                        continue
-                    
-                    s = 0
-                    for t in ['-', '+']:
-                        if t in count_stats[aspects[i]]:
-                            s += count_stats[aspects[i]][t]
 
-                    if c < 4 or (c > 10 and c > 0.75*s):
-                        
-                        removed_sentences.append(n['sentence_id'])
-                        for j in range(len(aspects)):
-                            count_stats[aspects[j]][polarities[j][0]] -= 1
-                        fl = True
-                        break
-                    
-        
-    for i in range(len(data_parsed)-1,0,-1):
-        if data_parsed[i]['sentence_id'] in removed_sentences:
-            del data_parsed[i]
-    for i in range(len(data_merged)-1,0,-1):
-        if data_merged[i]['sentence_id'] in removed_sentences:
-            del data_merged[i]
-            
-    
-    
+        data_merged.append(n)
+
+        c_sentences_included += 1
+
+
+    fl = True
+
+    while fl:
+        fl = False
+        for n in data_merged:
+
+            aspects = n['aspect']
+            polarities = n['polarity']
+
+            for i in range(len(aspects)):
+
+                aspect = aspects[i]
+                polarity = polarities[i][0]
+
+                if aspects[i] == 'PRODUTO':
+                    continue
+
+                c = count_stats[aspects[i]][polarities[i][0]]
+                if c <= 0:
+                    continue
+
+                s = 0
+                for t in ['-', '+']:
+                    if t in count_stats[aspects[i]]:
+                        s += count_stats[aspects[i]][t]
+
+
     ##COUNT REVIEWS
     rrr = []
     for i in data_merged:
         pprint(i)
         if i['review_id'] not in rrr:
             rrr.append(i['review_id'])
-            
 
     print(filename)
     print(len(rrr))
-    
-    
-    #for i in data_parsed:
-        #for j in data_parsed:
-            #if i == j:
-                #continue
-            #if i['sentence_id'] == j['sentence_id']:
-                #pprint(i)
-                #pprint(j)
-                #for o in info_raw['data']:
-                    #if o['sentence_id'] == i['sentence_id']:
-                        #print(o['sentence'])
-                #print()
-         
-    #pprint(data_merged)
-    #pprint(info_raw)
-    #input()
-    
-    
-    filename_save = i_filename + SUFFIX
-    
-    info_revised['meta'].append("> File generation date: " + str(date.strftime("%Y-%m-%d")) )
 
-    
-    
-    f = open('DOUBLECHECK/'+filename_save, 'w')
+    filename_save = i_filename
+
+    info_revised['meta'].append("> File generation date: " + str(date.strftime("%Y-%m-%d")))
+
+    f = open('DOUBLECHECK/' + filename_save, 'w')
     for i in info_revised['meta']:
-        f.write(i+'\n\n')
+        f.write(i + '\n\n')
     f.write('\n')
-    for i in data_parsed: 
+    for i in data_revised:
         f.write(opinionToStringPlain(i))
         f.write('\n\n')
     f.close()
-    
-    
-    f = open('DOUBLECHECK/'+filename_save+'.diff', 'w')
+
+    f = open('DOUBLECHECK/' + filename_save + '.diff', 'w')
     for i in info_revised['meta']:
-        f.write(i.replace('>',' ')+'\n\n')
+        f.write(i.replace('>', ' ') + '\n\n')
     f.write('\n')
-    for i in info_raw['data']: 
-        if i['sentence'] not in [y['sentence'] for y in info_revised['data']]: 
+    for i in info_raw['data']:
+        if i['sentence'] not in [y['sentence'] for y in info_revised['data']]:
             f.write('<' + opinionToStringPlain(i))
             f.write('\n')
-            for j in info_revised['data']: 
-                if j['sentence_id'] == i['sentence_id'] :
+            for j in info_revised['data']:
+                if j['sentence_id'] == i['sentence_id']:
                     f.write('>' + opinionToStringPlain(j))
                     f.write('\n')
             f.write('\n')
     f.close()
-    
-    data_parsed = removeGarbage(data_parsed)
+
     count_aspects = countAspects(data_merged)
-    
-    f = open('split/'+filename_save+'.txt', 'w')
-    
+
+    f = open('split/' + filename_save + '.txt', 'w')
+
     for i in info_revised['meta']:
-        f.write(i+'\n\n')
+        f.write(i + '\n\n')
     f.write(tabularAspectsCount(count_aspects))
     f.write('\n\n\n\n')
-    data_parsed_by_aspects = sorted(data_parsed, key=lambda k: (unikey(k['aspect']), k['polarity'], len(k['sentence']), unikey(formatSentence(k['sentence']))))
+
+    data_parsed_by_aspects = sorted(data_revised, key=lambda k: (unikey(k['aspect']), k['polarity'], len(k['sentence']), unikey(formatSentence(k['sentence']))))
     id_f = 1
-    for i in data_parsed_by_aspects: 
-        
-        
-        
-#        if i['flags'] != '':
-#            continue
-        i['id_f'] = ("%04d" %(id_f))
-        
+    for i in data_parsed_by_aspects:
+        i['id_f'] = ("%04d" % (id_f))
         register_id(i)
-        
-#        g.write(originString(i) + '\n')
-        
         id_f += 1
         f.write(opinionToString(i))
         f.write('\n\n')
     f.close()
-    
-    
-    
-    f = open('merged/'+filename_save+'.txt', 'w')
-    
-    
-    info_revised['meta'].append('> Format: sentences_multiasp_vertical')
-    info_revised['meta'].append('> Total of opinions: %d' % (len(data_parsed)))
+
+    f = open('merged/' + filename_save + '.txt', 'w')
+
+    info_revised['meta'].append('> Total of opinions: %d' % (len(data_revised)))
     info_revised['meta'].append('> Total of sentences: %d' % (len(data_merged)))
-    
+
     for i in info_revised['meta']:
-        f.write(i+'\n\n')
+        f.write(i + '\n\n')
     f.write(tabularAspectsCount(count_aspects))
     f.write('\n\n\n\n')
-    data_parsed_by_aspects = sorted(data_merged, key=lambda k: (len(k['aspect'])==0, len(k['aspect']), unikey(str(sorted(k['aspect']))), str(k['polarity']), len(k['sentence']), unikey(formatSentence(k['sentence']))))
-    for i in data_parsed_by_aspects: 
-        
-        #pprint(i)
-       
-        #f.write(opinionToString(i))
-        
+    data_parsed_by_aspects = sorted(data_merged, key=lambda k: (len(k['aspect']) == 0, len(k['aspect']), unikey(str(sorted(k['aspect']))), str(k['polarity']), len(k['sentence']), unikey(formatSentence(k['sentence']))))
+
+    for i in data_parsed_by_aspects:
+
         f.write('(%03d.%03d)\n%s\n\n' % (int(i['review_id']), int(i['sentence_id']), i['sentence']))
         for s in range(len(i['aspect'])):
             f.write('%s %-2s\n' % (i['aspect'][s], i['polarity'][s]))
-        
+
         f.write('\n')
         f.write('\n\n')
     f.close()
-    
+
     from writefiles import *
     import json
-    
+
     meta_info = {}
     for i in info_revised['meta']:
-        a = i.split(':')[0].replace('> ','')
+        a = i.split(':')[0].replace('> ', '')
         b = i.split(':')[1][1:]
         meta_info[a] = b
 
-    
-    
     s = {}
     s['meta'] = meta_info
     s['data'] = data_merged
-    
+
     for i in s['data']:
         i['opinions'] = []
         for j in range(len(i['aspect'])):
@@ -713,44 +472,28 @@ for filename in files_to_read:
         del i['aspect']
         del i['polarity']
         del i['product_id']
-        #del i['sentence_id']
+        # del i['sentence_id']
         del i['review_id']
         i['id'] = int(i['sentence_id'])
-        del i['sentence_id'] 
-    
+        del i['sentence_id']
 
     s['meta']['Human editor'] = None
     del s['meta']['Human editor']
-    
-    #aa = [int(i['sentence_id']) for i in data_merged]
-    #for i in range(max(aa)):
-        #if i not in aa:
-            #print(i, filename)
-    #input()
-        
-    
+
+    # aa = [int(i['sentence_id']) for i in data_merged]
+    # for i in range(max(aa)):
+    # if i not in aa:
+    # print(i, filename)
+    # input()
+
     for i in s['data']:
         i['sentence'] = i['sentence'].replace('\"', '&dquote&')
         i['sentence'] = i['sentence'].replace('\'', '&squote&')
-    
-    save_to_file('merged/json/'+filename_save+'.json', json.dumps(s,sort_keys=True,indent=4, separators=(',', ': '), ensure_ascii=False))
 
+    save_to_file('merged/json/' + filename_save + '.json', json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
 f = open('info/mapsegments.info', 'w')
-#f.write(json.dumps(ids_correspondency, indent=4))
-for i in ids_correspondency: 
+# f.write(json.dumps(ids_correspondency, indent=4))
+for i in ids_correspondency:
     f.write(i + '  >  ' + ids_correspondency[i] + '\n')
 f.close()
-    
-    
-    
-    
-            
-        
-        
-            
-
-
-
-
-
