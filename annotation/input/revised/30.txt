@@ -62,12 +62,12 @@ b(001.002) [+][PRODUTO]  ::  Pouca, recém comprada.
 (002.012) [+][PRODUTO]  ::  A qualidade é muito boa.
 
 
-(002.013) [x][x]  ::  Só para caráter de comparação:
+c(002.013) [x][x]  ::  Só para caráter de comparação:
 (002.014) [+][PREÇO]  ::  só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
 
 
 (002.015) [-][ACESSÓRIO]  ::  Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
-(002.015) [x][ACESSÓRIO]  ::  Auxilia muito no transporte.
+c(002.015) [x][ACESSÓRIO]  ::  Auxilia muito no transporte.
 
 
 (002.017) [-][ACESSÓRIO]  ::  Poderia vir um software pelo menos trial para poder editar fotos.
@@ -250,8 +250,8 @@ b(012.049) [+][PRODUTO]  ::  Câmera rebel T5.
 
 
 (020.073) [+][TELA]  ::  O Display é bem fácil de acessar
-(020.073) [+][FOCO]  ::   controle de foco fácil.
-(020.073) [x][X]  ::   Manual ou automático.
+(020.073) [+][FOCO]  ::   controle de foco fácil. Manual ou automático.
+#j (020.073) [][]  ::   Manual ou automático.
 
 
 

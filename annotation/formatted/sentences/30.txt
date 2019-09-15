@@ -16,12 +16,12 @@
 
 > File generation date: 2019-09-15
 
-> Total of opinions: 162
+> Total of opinions: 161
 
 > Total of sentences: 131
 
 #_aspect_____________positive__negative___neutral____non-op_____total
-# ACESSÓRIO                 6         5                   1        12
+# ACESSÓRIO                 6         4                            10
 # ÁUDIO _  _  _  _  _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _   1
 # BATERIA                             1                             1
 # DESIGN _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
@@ -36,12 +36,11 @@
 # TAMANHO                   1         1                             2
 # TELA _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # USABILIDADE               9         1         1                  11
-# x _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  1 _  _  _ 1
-# X                                                       1         1
-# _TOTAL___________________44________11_________2_________9________66
+# _TOTAL___________________44________10_________2________10________66
 # _BROKEN                                                 3         3
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
-# _NONE                                                   3         3
+# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
+# _DUPLICATE                                              5         5
+# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 3 _  _  _ 3
 
 
 
@@ -732,13 +731,6 @@ USABILIDADE +.
 
 
 
-(002.013)
-Só para caráter de comparação.
-
-x x 
-
-
-
 (034.110)
 Canon t5.
 
@@ -757,6 +749,20 @@ _BROKEN x
 Pouca, recém comprada.
 
 _BROKEN x 
+
+
+
+(002.013)
+Só para caráter de comparação.
+
+_CONTEXT x 
+
+
+
+(002.015)
+Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
+
+_CONTEXT x 
 
 
 
@@ -816,14 +822,6 @@ _NONE x
 
 
 
-(002.015)
-Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
-
-ACESSÓRIO - 
-ACESSÓRIO x 
-
-
-
 (003.021)
 Deveria vir com bateria extrado demais atende minhas necessidades.
 
@@ -852,6 +850,14 @@ EMPRESA +
 O foco automático é um pouco lento, o que não permite muitas fotos em movimento, mas é ótimo para poses.
 
 FOCO - 
+FOCO + 
+
+
+
+(020.073)
+O Display é bem fácil de acessar, controle de foco fácil.
+
+TELA + 
 FOCO + 
 
 
@@ -950,15 +956,6 @@ Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha 
 PRODUTO + 
 BATERIA - 
 USABILIDADE + 
-
-
-
-(020.073)
-O Display é bem fácil de acessar, controle de foco fácil.
-
-TELA + 
-FOCO + 
-X x 
 
 
 

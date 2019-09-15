@@ -105,7 +105,7 @@
             "opinions": [
                 [
                     "USABILIDADE",
-                    "X"
+                    "&"
                 ]
             ],
             "sentence": "Estou ainda aprendendo a manusear."
@@ -740,7 +740,7 @@
                 ],
                 [
                     "ARMAZENAMENTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Recomendo essa excelente câmera Canon SX520!Me agradou muito sua funcionalidade, com ótimo zoom, leve e agradável manuseio.Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna."
@@ -1091,7 +1091,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "+."
                 ]
             ],
             "sentence": "Ganhei de presente e não usei ainda.Mas, já li a respeito e por isso eu escolhi de presente de aniversario."

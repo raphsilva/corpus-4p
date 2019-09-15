@@ -18,7 +18,7 @@
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 1         1                             2
-# ARMAZENAMENTO _  _  _  _  _  _  _   1 _  _  _  _  _  _  1 _  _  _ 2
+# ARMAZENAMENTO _  _  _  _  _  _  _   1 _  _  _ 1 _  _  _  _  _  _  2
 # ÁUDIO                               1                             1
 # BATERIA _  _  _  _  _  _  1 _  _  _  _  _  _  1 _  _  _  _  _  _  2
 # FOCO                                1                             1
@@ -26,13 +26,13 @@
 # IMAGEM                    7                                       7
 # PESO _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # PREÇO                     6                                       6
-# PRODUTO _  _  _  _  _  _ 65 _  _  _  _  _  _  _  _  _   1 _  _   66
+# PRODUTO _  _  _  _  _  _ 66 _  _  _  _  _  _  _  _  _  _  _  _   66
 # RESISTÊNCIA               1                                       1
 # TAMANHO _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
 # TELA                      1                                       1
-# USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _  _  _  _  1 _  _   14
+# USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 14
 # VÍDEO                               1                             1
-# _TOTAL___________________43_________8_________1________15________67
+# _TOTAL___________________43_________8_________3________13________67
 # _BROKEN                                                 1         1
 # _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 12 _  _   12
 # _NONE                                                   3         3
@@ -45,9 +45,9 @@
 
 005.013.0002)   [-][ACESSÓRIO]         ::  Algumas informações não vieram no Manual.
 
-026.063.0003)  [-.][ARMAZENAMENTO]     ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
+026.063.0003)   [&][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
 
-026.063.0004)   [x][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
+026.063.0004)  [-.][ARMAZENAMENTO]     ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
 
 009.024.0005)   [-][ÁUDIO]             ::  Porém, me incomodou o ruído presente no momento de gravação de videos. A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
 
@@ -231,7 +231,7 @@
 
 013.035.0095)  [+.][PRODUTO]           ::  Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar.
 
-039.095.0096)   [x][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
+039.095.0096)  [+.][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
 
 011.031.0097)   [+][RESISTÊNCIA]       ::  Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
 
@@ -239,33 +239,33 @@
 
 033.081.0099)  [++][TELA]              ::  Display perfeito.
 
-033.081.0100)   [+][USABILIDADE]       ::  Fácil manuseio.
+005.012.0100)   [&][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
 
-041.101.0101)   [+][USABILIDADE]       ::  Fácil manuseio.
+033.081.0101)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-014.038.0102)   [+][USABILIDADE]       ::  Fácil de manusear.
+041.101.0102)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-015.040.0103)   [+][USABILIDADE]       ::  Facilidade no uso.
+014.038.0103)   [+][USABILIDADE]       ::  Fácil de manusear.
 
-020.051.0104)   [+][USABILIDADE]       ::  Facilidade no uso.
+015.040.0104)   [+][USABILIDADE]       ::  Facilidade no uso.
 
-026.063.0105)   [+][USABILIDADE]       ::  Agradável manuseio.
+020.051.0105)   [+][USABILIDADE]       ::  Facilidade no uso.
 
-009.023.0106)   [+][USABILIDADE]       ::  Muito fácil de usar.
+026.063.0106)   [+][USABILIDADE]       ::  Agradável manuseio.
 
-032.079.0107)   [+][USABILIDADE]       ::  Ótima legal de usar.
+009.023.0107)   [+][USABILIDADE]       ::  Muito fácil de usar.
 
-006.015.0108)   [+][USABILIDADE]       ::  Muito fácil manuseio.
+032.079.0108)   [+][USABILIDADE]       ::  Ótima legal de usar.
 
-020.050.0109)   [+][USABILIDADE]       ::  Maquina Boa utilização.
+006.015.0109)   [+][USABILIDADE]       ::  Muito fácil manuseio.
 
-008.020.0110)   [+][USABILIDADE]       ::  Amei super facil de usar.
+020.050.0110)   [+][USABILIDADE]       ::  Maquina Boa utilização.
 
-015.041.0111)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
+008.020.0111)   [+][USABILIDADE]       ::  Amei super facil de usar.
 
-040.097.0112)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
+015.041.0112)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
 
-005.012.0113)   [X][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
+040.097.0113)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
 
 009.026.0114)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
 
