@@ -12,11 +12,11 @@
 
 > Source: www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels
 
-> Human reviser: Otávio / Raphael
+> Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-03-03
+> File generation date: 2019-09-15
 
-> Total of opinions: 120
+> Total of opinions: 133
 
 > Total of sentences: 108
 
@@ -30,18 +30,17 @@
 # IMAGEM                    7                                       7
 # PESO _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # PREÇO                     6                                       6
-# PRODUTO _  _  _  _  _  _  9 _  _  _  _  _  _  _  _  _  _  _  _  _ 9
+# PRODUTO _  _  _  _  _  _ 65 _  _  _  _  _  _  _  _  _   1 _  _   66
 # RESISTÊNCIA               1                                       1
 # TAMANHO _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
 # TELA                      1                                       1
 # USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _  _  _  _  1 _  _   14
 # VÍDEO                               1                             1
-# ZOOM _  _  _  _  _  _  _  6 _  _  _  _  _  _  _  _  _  _  _  _  _ 6
 # _TOTAL___________________43_________8_________1________15________67
-# _GENERIC _  _  _  _  _   56 _  _  _  _  _  _  _  _  _   1 _  _   57
-# _NONE                                                   3         3
+# _BROKEN                                                 1         1
 # _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 12 _  _   12
-# _TRASH                                                  1         1
+# _NONE                                                   3         3
+# ZOOM _  _  _  _  _  _  _  6 _  _  _  _  _  _  _  _  _  _  _  _  _ 6
 
 
 
@@ -130,6 +129,405 @@ PREÇO +
 
 
 
+(003.006)
+Boa.
+
+PRODUTO + 
+
+
+
+(013.034)
+Bom.
+
+PRODUTO + 
+
+
+
+(037.090)
+Bom.
+
+PRODUTO + 
+
+
+
+(045.111)
+Bom.
+
+PRODUTO + 
+
+
+
+(008.019)
+Amei.
+
+PRODUTO + 
+
+
+
+(010.027)
+Amei.
+
+PRODUTO + 
+
+
+
+(012.032)
+Otima.
+
+PRODUTO + 
+
+
+
+(034.083)
+Ótimo!
+
+PRODUTO + 
+
+
+
+(033.082)
+Adorei!
+
+PRODUTO + 
+
+
+
+(043.108)
+Mt boa.
+
+PRODUTO + 
+
+
+
+(024.058)
+Mto Boa.
+
+PRODUTO + 
+
+
+
+(002.003)
+Excelente.
+
+PRODUTO + 
+
+
+
+(018.046)
+Muito boa!
+
+PRODUTO + 
+
+
+
+(030.073)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(041.099)
+Muito Bom!
+
+PRODUTO + 
+
+
+
+(005.011)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(035.086)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(044.109)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(033.080)
+Maravilhosa!
+
+PRODUTO + 
+
+
+
+(031.076)
+Maravilhosa.
+
+PRODUTO + 
+
+
+
+(005.010)
+Maravilhoso.
+
+PRODUTO + 
+
+
+
+(031.077)
+Grava Vídeos.
+
+PRODUTO + 
+
+
+
+(030.075)
+Muita qualidade!
+
+PRODUTO + 
+
+
+
+(014.039)
+Adorei o produto.
+
+PRODUTO + 
+
+
+
+(026.062)
+Excelente câmera!
+
+PRODUTO + 
+
+
+
+(001.001)
+Excelente produto.
+
+PRODUTO + 
+
+
+
+(014.037)
+Excelente produto.
+
+PRODUTO + 
+
+
+
+(017.044)
+Excelente produto.
+
+PRODUTO + 
+
+
+
+(042.103)
+Produto Excelente.
+
+PRODUTO + 
+
+
+
+(028.068)
+Produto muito bom.
+
+PRODUTO + 
+
+
+
+(007.017)
+Gostei e recomendo!
+
+PRODUTO + 
+
+
+
+(006.014)
+Ótimo, eu recomendo!
+
+PRODUTO + 
+
+
+
+(011.029)
+Uma ótima aquisição!
+
+PRODUTO + 
+
+
+
+(039.094)
+Produto show de bola.
+
+PRODUTO + 
+
+
+
+(003.005)
+Muito bom ..estou feliz.
+
+PRODUTO + 
+
+
+
+(024.059)
+Me surpreendeu o produto.
+
+PRODUTO + 
+
+
+
+(030.074)
+Era tudo o que eu esperava.
+
+PRODUTO + 
+
+
+
+(025.060)
+Maravilhosa câmera (Canon SX520)
+
+PRODUTO + 
+
+
+
+(001.002)
+Pode comprar esse produto tem qualidade.
+
+PRODUTO + 
+
+
+
+(040.096)
+A câmera atende ao que se propõe. Muito boa.
+
+PRODUTO + 
+
+
+
+(010.028)
+Amei, super recomendo a todos camera maravilhosa.
+
+PRODUTO + 
+
+
+
+(007.018)
+É tudo que eu esperava, completamente satisfeito!
+
+PRODUTO + 
+
+
+
+(002.004)
+Recomendo o produto pela sua qualidade, nota 1000.
+
+PRODUTO + 
+
+
+
+(023.057)
+Ótimo produto, superou minhas expectativas, recomendo.
+
+PRODUTO + 
+
+
+
+(036.088)
+Produto coerente com todas as especificações técnicas.
+
+PRODUTO + 
+
+
+
+(041.100)
+Experimentei com um amigo e adorei! Quero uma camera assim.
+
+PRODUTO + 
+
+
+
+(040.098)
+O modo automático não é muito eficiente, mas as funções são variadas e sabendo usa-las a câmera é muito boa.
+
+PRODUTO + 
+
+
+
+(019.049)
+Ótimo produto, recomendo a todos a compra dessa câmera, para quem gosta de fotos vai suprir todas as necessidades.
+
+PRODUTO + 
+
+
+
+(034.084)
+Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações.
+
+PRODUTO ++
+
+
+
+(042.104)
+Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer.
+
+PRODUTO ++
+
+
+
+(012.033)
+Não tenho mas estou encantada.
+
+PRODUTO +.
+
+
+
+(004.008)
+Ótimo produto pra quem está iniciando no ramo de fotografia.
+
+PRODUTO +.
+
+
+
+(044.110)
+Produto muito bom para quem é amador e quer tirar fotos no lazer.
+
+PRODUTO +.
+
+
+
+(009.022)
+O produto era o que eu esperava, para uma câmera semi-profissional de entrada.
+
+PRODUTO +.
+
+
+
+(021.053)
+Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
+
+PRODUTO +.
+
+
+
+(013.035)
+Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar.
+
+PRODUTO +.
+
+
+
+(039.095)
+Ganhei de presente e não usei ainda.Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
+
+PRODUTO x 
+
+
+
 (011.031)
 Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
 
@@ -179,409 +577,10 @@ USABILIDADE X
 
 
 
-(017.045)
-Ótimo zoon.
+(045.112)
+Nenhuma.
 
-ZOOM + 
-
-
-
-(018.047)
-Nossa o zoom dela é incrível, muito boa!
-
-ZOOM + 
-
-
-
-(003.006)
-Boa.
-
-_GENERIC + 
-
-
-
-(013.034)
-Bom.
-
-_GENERIC + 
-
-
-
-(037.090)
-Bom.
-
-_GENERIC + 
-
-
-
-(045.111)
-Bom.
-
-_GENERIC + 
-
-
-
-(008.019)
-Amei.
-
-_GENERIC + 
-
-
-
-(010.027)
-Amei.
-
-_GENERIC + 
-
-
-
-(012.032)
-Otima.
-
-_GENERIC + 
-
-
-
-(034.083)
-Ótimo!
-
-_GENERIC + 
-
-
-
-(033.082)
-Adorei!
-
-_GENERIC + 
-
-
-
-(043.108)
-Mt boa.
-
-_GENERIC + 
-
-
-
-(024.058)
-Mto Boa.
-
-_GENERIC + 
-
-
-
-(002.003)
-Excelente.
-
-_GENERIC + 
-
-
-
-(018.046)
-Muito boa!
-
-_GENERIC + 
-
-
-
-(030.073)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(041.099)
-Muito Bom!
-
-_GENERIC + 
-
-
-
-(005.011)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(035.086)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(044.109)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(033.080)
-Maravilhosa!
-
-_GENERIC + 
-
-
-
-(031.076)
-Maravilhosa.
-
-_GENERIC + 
-
-
-
-(005.010)
-Maravilhoso.
-
-_GENERIC + 
-
-
-
-(031.077)
-Grava Vídeos.
-
-_GENERIC + 
-
-
-
-(030.075)
-Muita qualidade!
-
-_GENERIC + 
-
-
-
-(014.039)
-Adorei o produto.
-
-_GENERIC + 
-
-
-
-(026.062)
-Excelente câmera!
-
-_GENERIC + 
-
-
-
-(001.001)
-Excelente produto.
-
-_GENERIC + 
-
-
-
-(014.037)
-Excelente produto.
-
-_GENERIC + 
-
-
-
-(017.044)
-Excelente produto.
-
-_GENERIC + 
-
-
-
-(042.103)
-Produto Excelente.
-
-_GENERIC + 
-
-
-
-(028.068)
-Produto muito bom.
-
-_GENERIC + 
-
-
-
-(007.017)
-Gostei e recomendo!
-
-_GENERIC + 
-
-
-
-(006.014)
-Ótimo, eu recomendo!
-
-_GENERIC + 
-
-
-
-(011.029)
-Uma ótima aquisição!
-
-_GENERIC + 
-
-
-
-(039.094)
-Produto show de bola.
-
-_GENERIC + 
-
-
-
-(003.005)
-Muito bom ..estou feliz.
-
-_GENERIC + 
-
-
-
-(024.059)
-Me surpreendeu o produto.
-
-_GENERIC + 
-
-
-
-(030.074)
-Era tudo o que eu esperava.
-
-_GENERIC + 
-
-
-
-(025.060)
-Maravilhosa câmera (Canon SX520)
-
-_GENERIC + 
-
-
-
-(001.002)
-Pode comprar esse produto tem qualidade.
-
-_GENERIC + 
-
-
-
-(040.096)
-A câmera atende ao que se propõe. Muito boa.
-
-_GENERIC + 
-
-
-
-(010.028)
-Amei, super recomendo a todos camera maravilhosa.
-
-_GENERIC + 
-
-
-
-(007.018)
-É tudo que eu esperava, completamente satisfeito!
-
-_GENERIC + 
-
-
-
-(002.004)
-Recomendo o produto pela sua qualidade, nota 1000.
-
-_GENERIC + 
-
-
-
-(023.057)
-Ótimo produto, superou minhas expectativas, recomendo.
-
-_GENERIC + 
-
-
-
-(036.088)
-Produto coerente com todas as especificações técnicas.
-
-_GENERIC + 
-
-
-
-(041.100)
-Experimentei com um amigo e adorei! Quero uma camera assim.
-
-_GENERIC + 
-
-
-
-(040.098)
-O modo automático não é muito eficiente, mas as funções são variadas e sabendo usa-las a câmera é muito boa.
-
-_GENERIC + 
-
-
-
-(019.049)
-Ótimo produto, recomendo a todos a compra dessa câmera, para quem gosta de fotos vai suprir todas as necessidades.
-
-_GENERIC + 
-
-
-
-(034.084)
-Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações.
-
-_GENERIC ++
-
-
-
-(042.104)
-Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer.
-
-_GENERIC ++
-
-
-
-(012.033)
-Não tenho mas estou encantada.
-
-_GENERIC +.
-
-
-
-(004.008)
-Ótimo produto pra quem está iniciando no ramo de fotografia.
-
-_GENERIC +.
-
-
-
-(044.110)
-Produto muito bom para quem é amador e quer tirar fotos no lazer.
-
-_GENERIC +.
-
-
-
-(009.022)
-O produto era o que eu esperava, para uma câmera semi-profissional de entrada.
-
-_GENERIC +.
-
-
-
-(021.053)
-Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
-
-_GENERIC +.
-
-
-
-(013.035)
-Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar.
-
-_GENERIC +.
+_BROKEN x 
 
 
 
@@ -596,13 +595,6 @@ _DUPLICATE x
 MT bom.
 
 _DUPLICATE x 
-
-
-
-(045.112)
-Nenhuma.
-
-_TRASH x 
 
 
 
@@ -669,13 +661,6 @@ _DUPLICATE x
 
 
 
-(026.064)
-Mas já substituí o cartão de 8gb por um de 32gb.
-
-_NONE x 
-
-
-
 (036.089)
 Produto coerente com todas as especificações técnicas.
 
@@ -683,10 +668,10 @@ _DUPLICATE x
 
 
 
-(039.095)
-Ganhei de presente e não usei ainda.Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
+(026.064)
+Mas já substituí o cartão de 8gb por um de 32gb.
 
-_GENERIC x 
+_NONE x 
 
 
 
@@ -701,6 +686,20 @@ _NONE x
 A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
 
 _NONE x 
+
+
+
+(017.045)
+Ótimo zoon.
+
+ZOOM + 
+
+
+
+(018.047)
+Nossa o zoom dela é incrível, muito boa!
+
+ZOOM + 
 
 
 

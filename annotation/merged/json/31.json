@@ -1,0 +1,1209 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente produto."
+        },
+        {
+            "id": 2,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Pode comprar esse produto tem qualidade."
+        },
+        {
+            "id": 3,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente."
+        },
+        {
+            "id": 4,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Recomendo o produto pela sua qualidade, nota 1000."
+        },
+        {
+            "id": 5,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Muito bom ..estou feliz."
+        },
+        {
+            "id": 6,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Boa."
+        },
+        {
+            "id": 7,
+            "opinions": [
+                [
+                    "PREÇO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente custo-benefício."
+        },
+        {
+            "id": 8,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+."
+                ]
+            ],
+            "sentence": "Ótimo produto pra quem está iniciando no ramo de fotografia."
+        },
+        {
+            "id": 10,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Maravilhoso."
+        },
+        {
+            "id": 11,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Muito bom."
+        },
+        {
+            "id": 12,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "X"
+                ]
+            ],
+            "sentence": "Estou ainda aprendendo a manusear."
+        },
+        {
+            "id": 13,
+            "opinions": [
+                [
+                    "ACESSÓRIO",
+                    "-"
+                ]
+            ],
+            "sentence": "Algumas informações não viram no Manual."
+        },
+        {
+            "id": 14,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Ótimo, eu recomendo!"
+        },
+        {
+            "id": 15,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ],
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "Correspondente com todas as características citadas, muito fácil manuseio.."
+        },
+        {
+            "id": 17,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Gostei e recomendo!"
+        },
+        {
+            "id": 18,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "É tudo que eu esperava, completamente satisfeito!"
+        },
+        {
+            "id": 19,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Amei."
+        },
+        {
+            "id": 20,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "Amei super facil de usar."
+        },
+        {
+            "id": 21,
+            "opinions": [
+                [
+                    "PREÇO",
+                    "+"
+                ]
+            ],
+            "sentence": "Bom custo-beneficio."
+        },
+        {
+            "id": 22,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+."
+                ]
+            ],
+            "sentence": "O produto era o que eu esperava, para uma câmera semi-profissional de entrada."
+        },
+        {
+            "id": 23,
+            "opinions": [
+                [
+                    "IMAGEM",
+                    "+"
+                ],
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "A imagem é muito boa e muito fácil de usar."
+        },
+        {
+            "id": 24,
+            "opinions": [
+                [
+                    "ÁUDIO",
+                    "-"
+                ]
+            ],
+            "sentence": "Porém, me incomodou o ruído presente no momento de gravação de videos."
+        },
+        {
+            "id": 25,
+            "opinions": [
+                [
+                    "_NONE",
+                    "x"
+                ]
+            ],
+            "sentence": "A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece."
+        },
+        {
+            "id": 26,
+            "opinions": [
+                [
+                    "VÍDEO",
+                    "-."
+                ],
+                [
+                    "PRODUTO",
+                    "+"
+                ],
+                [
+                    "FOTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Não recomento a câmera para quem queira fazer videos profissionais, fora isso, é uma boa câmera, e a qualidade de imagem para fotos é incrível."
+        },
+        {
+            "id": 27,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Amei."
+        },
+        {
+            "id": 28,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Amei, super recomendo a todos camera maravilhosa."
+        },
+        {
+            "id": 29,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Uma ótima aquisição!"
+        },
+        {
+            "id": 30,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ],
+                [
+                    "IMAGEM",
+                    "+"
+                ],
+                [
+                    "BATERIA",
+                    "+"
+                ],
+                [
+                    "FOTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Camera muito boa, imagem excelente da pra brincar até de ser fotógrafo!! kkkkkk a bateria é bastante resistente, tem tb diversas funçoes para tirar foto bem interessante."
+        },
+        {
+            "id": 31,
+            "opinions": [
+                [
+                    "RESISTÊNCIA",
+                    "+"
+                ]
+            ],
+            "sentence": "Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!"
+        },
+        {
+            "id": 32,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Otima."
+        },
+        {
+            "id": 33,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+."
+                ]
+            ],
+            "sentence": "Não tenho mas estou encantada."
+        },
+        {
+            "id": 34,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Bom."
+        },
+        {
+            "id": 35,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+."
+                ]
+            ],
+            "sentence": "Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar."
+        },
+        {
+            "id": 36,
+            "opinions": [
+                [
+                    "PREÇO",
+                    "+"
+                ]
+            ],
+            "sentence": "Ótimo custo-benefício."
+        },
+        {
+            "id": 37,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente produto."
+        },
+        {
+            "id": 38,
+            "opinions": [
+                [
+                    "IMAGEM",
+                    "+"
+                ],
+                [
+                    "BATERIA",
+                    "."
+                ],
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "Imagem com resolução muito boa, bateria com duração razoável, fácil de manusear."
+        },
+        {
+            "id": 39,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Adorei o produto."
+        },
+        {
+            "id": 40,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "Facilidade no uso."
+        },
+        {
+            "id": 41,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "+"
+                ],
+                [
+                    "IMAGEM",
+                    "+"
+                ]
+            ],
+            "sentence": "Maquina de fácil utilização e boa resolução das fotos."
+        },
+        {
+            "id": 42,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Ótimo custo-benefício."
+        },
+        {
+            "id": 43,
+            "opinions": [
+                [
+                    "PREÇO",
+                    "+"
+                ]
+            ],
+            "sentence": "Adquiri o produto e avalio ótimo custo-benefício."
+        },
+        {
+            "id": 44,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente produto."
+        },
+        {
+            "id": 45,
+            "opinions": [
+                [
+                    "ZOOM",
+                    "+"
+                ]
+            ],
+            "sentence": "Ótimo zoon."
+        },
+        {
+            "id": 46,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Muito boa!"
+        },
+        {
+            "id": 47,
+            "opinions": [
+                [
+                    "ZOOM",
+                    "+"
+                ]
+            ],
+            "sentence": "Nossa o zoom dela é incrível, muito boa!"
+        },
+        {
+            "id": 48,
+            "opinions": [
+                [
+                    "FOTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Uma ótima câmera para quem gosta de fotos."
+        },
+        {
+            "id": 49,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Ótimo produto, recomendo a todos a compra dessa câmera, para quem gosta de fotos vai suprir todas as necessidades."
+        },
+        {
+            "id": 50,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "Maquina Boa utilização."
+        },
+        {
+            "id": 51,
+            "opinions": [
+                [
+                    "IMAGEM",
+                    "+"
+                ],
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "Qualidade da imagem, facilidade no uso."
+        },
+        {
+            "id": 52,
+            "opinions": [
+                [
+                    "IMAGEM",
+                    "+"
+                ]
+            ],
+            "sentence": "Imagem de ótima qualidade."
+        },
+        {
+            "id": 53,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+."
+                ]
+            ],
+            "sentence": "Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu."
+        },
+        {
+            "id": 54,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Muito boa!"
+        },
+        {
+            "id": 55,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ],
+                [
+                    "ZOOM",
+                    "+"
+                ]
+            ],
+            "sentence": "Câmera muito boa! O zoom dela é incrível!"
+        },
+        {
+            "id": 56,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Ótimo produto."
+        },
+        {
+            "id": 57,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Ótimo produto, superou minhas expectativas, recomendo."
+        },
+        {
+            "id": 58,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Mto Boa."
+        },
+        {
+            "id": 59,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Me surpreendeu o produto."
+        },
+        {
+            "id": 60,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Maravilhosa câmera (Canon SX520)"
+        },
+        {
+            "id": 61,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ],
+                [
+                    "ZOOM",
+                    "+"
+                ],
+                [
+                    "FOTO",
+                    "+"
+                ],
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Estou adorando a experiência com a Canon Powershot SX520!Muito boa, essa câmera!Excelente zoom (42) e ótimas fotos com várias alternativas..."
+        },
+        {
+            "id": 62,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente câmera!"
+        },
+        {
+            "id": 63,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ],
+                [
+                    "PRODUTO",
+                    "+"
+                ],
+                [
+                    "ZOOM",
+                    "+"
+                ],
+                [
+                    "PESO",
+                    "+"
+                ],
+                [
+                    "USABILIDADE",
+                    "+"
+                ],
+                [
+                    "ARMAZENAMENTO",
+                    "-."
+                ],
+                [
+                    "ARMAZENAMENTO",
+                    "x"
+                ]
+            ],
+            "sentence": "Recomendo essa excelente câmera Canon SX520!Me agradou muito sua funcionalidade, com ótimo zoom, leve e agradável manuseio.Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna."
+        },
+        {
+            "id": 64,
+            "opinions": [
+                [
+                    "_NONE",
+                    "x"
+                ]
+            ],
+            "sentence": "Mas já substituí o cartão de 8gb por um de 32gb."
+        },
+        {
+            "id": 65,
+            "opinions": [
+                [
+                    "PREÇO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente custo benefício para um iniciante."
+        },
+        {
+            "id": 66,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Excelente custo benefício."
+        },
+        {
+            "id": 67,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Muito boa."
+        },
+        {
+            "id": 68,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Produto muito bom."
+        },
+        {
+            "id": 69,
+            "opinions": [
+                [
+                    "ZOOM",
+                    "+"
+                ],
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Excelente zoom e muitos recursos!"
+        },
+        {
+            "id": 70,
+            "opinions": [
+                [
+                    "FOTO",
+                    "-"
+                ]
+            ],
+            "sentence": "Foto ruim pouca luminosidade."
+        },
+        {
+            "id": 71,
+            "opinions": [
+                [
+                    "FOTO",
+                    "-"
+                ]
+            ],
+            "sentence": "Fotograr à noite ou locais com pouca luminosidade é difícil."
+        },
+        {
+            "id": 72,
+            "opinions": [
+                [
+                    "FOCO",
+                    "-"
+                ]
+            ],
+            "sentence": "Não dá para focar e o flash só acende na hora do disparo."
+        },
+        {
+            "id": 73,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Muito bom!"
+        },
+        {
+            "id": 74,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Era tudo o que eu esperava."
+        },
+        {
+            "id": 75,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Muita qualidade!"
+        },
+        {
+            "id": 76,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Maravilhosa."
+        },
+        {
+            "id": 77,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Grava Vídeos."
+        },
+        {
+            "id": 78,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Bom legal de usar."
+        },
+        {
+            "id": 79,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "+"
+                ]
+            ],
+            "sentence": "Ótima legal de usar."
+        },
+        {
+            "id": 80,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Maravilhosa!"
+        },
+        {
+            "id": 81,
+            "opinions": [
+                [
+                    "PESO",
+                    "+"
+                ],
+                [
+                    "USABILIDADE",
+                    "+"
+                ],
+                [
+                    "ACESSÓRIO",
+                    "+"
+                ],
+                [
+                    "TELA",
+                    "++"
+                ],
+                [
+                    "FOTO",
+                    "++"
+                ]
+            ],
+            "sentence": "Câmera leve e fácil manuseio, manual completo, além do display e qualidade das fotos perfeitas."
+        },
+        {
+            "id": 82,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Adorei!"
+        },
+        {
+            "id": 83,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Ótimo!"
+        },
+        {
+            "id": 84,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "++"
+                ]
+            ],
+            "sentence": "Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações."
+        },
+        {
+            "id": 85,
+            "opinions": [
+                [
+                    "_NONE",
+                    "x"
+                ]
+            ],
+            "sentence": "Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!"
+        },
+        {
+            "id": 86,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Muito bom."
+        },
+        {
+            "id": 87,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Muito bom."
+        },
+        {
+            "id": 88,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Produto coerente com todas as especificações técnicas."
+        },
+        {
+            "id": 89,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Produto coerente com todas as especificações técnicas."
+        },
+        {
+            "id": 90,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Bom."
+        },
+        {
+            "id": 91,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Muito bom."
+        },
+        {
+            "id": 92,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Bom."
+        },
+        {
+            "id": 93,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "Muito bom."
+        },
+        {
+            "id": 94,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Produto show de bola."
+        },
+        {
+            "id": 95,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "x"
+                ]
+            ],
+            "sentence": "Ganhei de presente e não usei ainda.Mas, já li a respeito e por isso eu escolhi de presente de aniversario."
+        },
+        {
+            "id": 96,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "A câmera atende ao que se propõe. Muito boa."
+        },
+        {
+            "id": 97,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "-"
+                ]
+            ],
+            "sentence": "É necessário aprender a usar as funções."
+        },
+        {
+            "id": 98,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "O modo automático não é muito eficiente, mas as funções são variadas e sabendo usa-las a câmera é muito boa."
+        },
+        {
+            "id": 99,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Muito Bom!"
+        },
+        {
+            "id": 100,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Experimentei com um amigo e adorei! Quero uma camera assim."
+        },
+        {
+            "id": 101,
+            "opinions": [
+                [
+                    "USABILIDADE",
+                    "+"
+                ],
+                [
+                    "TAMANHO",
+                    "+."
+                ]
+            ],
+            "sentence": "Fácil manuseio e não tão grande."
+        },
+        {
+            "id": 103,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Produto Excelente."
+        },
+        {
+            "id": 104,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "++"
+                ]
+            ],
+            "sentence": "Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer."
+        },
+        {
+            "id": 105,
+            "opinions": [
+                [
+                    "PREÇO",
+                    "+"
+                ],
+                [
+                    "IMAGEM",
+                    "+"
+                ]
+            ],
+            "sentence": "Está em ótimo custo beneficio garanto que quem adquirir esse produto não vai se arrepender e se você ama registrar momentos noturno essa câmera não deixa a desejar."
+        },
+        {
+            "id": 107,
+            "opinions": [
+                [
+                    "_DUPLICATE",
+                    "x"
+                ]
+            ],
+            "sentence": "MT bom."
+        },
+        {
+            "id": 108,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Mt boa."
+        },
+        {
+            "id": 109,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Recomendo."
+        },
+        {
+            "id": 110,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+."
+                ]
+            ],
+            "sentence": "Produto muito bom para quem é amador e quer tirar fotos no lazer."
+        },
+        {
+            "id": 111,
+            "opinions": [
+                [
+                    "PRODUTO",
+                    "+"
+                ]
+            ],
+            "sentence": "Bom."
+        },
+        {
+            "id": 112,
+            "opinions": [
+                [
+                    "_BROKEN",
+                    "x"
+                ]
+            ],
+            "sentence": "Nenhuma."
+        }
+    ],
+    "meta": {
+        "Average rating": "9/10",
+        "Collection date": "2018-05-28",
+        "File generation date": "2019-09-15",
+        "Human revisers": "Otávio (May 2018), Raphael (July 2018, September 2019)",
+        "ID": "31",
+        "Number of reviews": "45",
+        "Product": "Câmera Digital Canon PowerShot SX520 HS 16.0 Megapixels",
+        "Source": "www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels",
+        "Total of opinions": "133",
+        "Total of sentences": "108",
+        "Type": "Câmera"
+    }
+}

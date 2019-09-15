@@ -12,11 +12,11 @@
 
 > Source: www.buscape.com.br/avaliacoes/canon-eos-rebel-t5-18-0-megapixels
 
-> Human reviser: Raphael
+> Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-03-03
+> File generation date: 2019-09-15
 
-> Total of opinions: 154
+> Total of opinions: 162
 
 > Total of sentences: 131
 
@@ -31,7 +31,7 @@
 # IMAGEM _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # PESO                                1                             1
 # PREÇO _  _  _  _  _  _   11 _  _  _  _  _  _  _  _  _  _  _  _   11
-# PRODUTO                  16                                      16
+# PRODUTO                  90                   1                  91
 # RESISTÊNCIA _  _  _  _  _ 1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
 # TAMANHO                   1         1                             2
 # TELA _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
@@ -39,10 +39,9 @@
 # x _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  1 _  _  _ 1
 # X                                                       1         1
 # _TOTAL___________________44________11_________2_________9________66
-# _GENERIC                 74                   1                  75
-# _TRASH _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   3 _  _  _ 3
-# _NONE                                                   3         3
+# _BROKEN                                                 3         3
 # _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
+# _NONE                                                   3         3
 
 
 
@@ -180,6 +179,531 @@ PREÇO +
 
 
 
+(005.034)
+Apesar de ter nome parecido, não recomendo que seja feita comparação com a T5i por serem equipamentos beeem diferentes, não só no valor ( cerca de R$1000,00 de diferença), como na destinação do produto, já que a T5 é volta para fotos( apesar de fazer vídeos curtos) e a T5i possui tecnologia para vídeos bem mais avançada, incluindo comando touch( mais rápido para correção durante uma gravação)
+
+PRODUTO ! 
+
+
+
+(028.094)
+Bom!
+
+PRODUTO + 
+
+
+
+(010.044)
+Bom.
+
+PRODUTO + 
+
+
+
+(015.058)
+Bom.
+
+PRODUTO + 
+
+
+
+(033.107)
+Bom.
+
+PRODUTO + 
+
+
+
+(013.051)
+Ótima.
+
+PRODUTO + 
+
+
+
+(022.080)
+Ótima.
+
+PRODUTO + 
+
+
+
+(029.096)
+Ótima.
+
+PRODUTO + 
+
+
+
+(004.022)
+Gostei.
+
+PRODUTO + 
+
+
+
+(007.038)
+Positivo.
+
+PRODUTO + 
+
+
+
+(008.041)
+Excelente.
+
+PRODUTO + 
+
+
+
+(014.053)
+Excelente.
+
+PRODUTO + 
+
+
+
+(016.060)
+Muito Boa.
+
+PRODUTO + 
+
+
+
+(012.050)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(024.086)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(039.120)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(001.001)
+Boa Câmera.
+
+PRODUTO + 
+
+
+
+(019.068)
+Fantastica.
+
+PRODUTO + 
+
+
+
+(018.066)
+Maravilhosa.
+
+PRODUTO + 
+
+
+
+(020.070)
+Maravilhoso.
+
+PRODUTO + 
+
+
+
+(037.116)
+Maravilhoso.
+
+PRODUTO + 
+
+
+
+(023.083)
+Sensacional.
+
+PRODUTO + 
+
+
+
+(027.092)
+Sensacional.
+
+PRODUTO + 
+
+
+
+(015.059)
+Gostei muito.
+
+PRODUTO + 
+
+
+
+(025.088)
+Interessante.
+
+PRODUTO + 
+
+
+
+(032.105)
+Minha paixão.
+
+PRODUTO + 
+
+
+
+(021.075)
+Sensacional..
+
+PRODUTO + 
+
+
+
+(044.131)
+Encatamento!!!
+
+PRODUTO + 
+
+
+
+(006.036)
+Ótimo Produto!
+
+PRODUTO + 
+
+
+
+(007.039)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(035.112)
+Otimo produto.
+
+PRODUTO + 
+
+
+
+(004.023)
+Esta sendo bom.
+
+PRODUTO + 
+
+
+
+(042.127)
+Uma ótima compra.
+
+PRODUTO + 
+
+
+
+(009.042)
+EXCELENTE PRODUTO.
+
+PRODUTO + 
+
+
+
+(045.134)
+Maquina excelente.
+
+PRODUTO + 
+
+
+
+(002.003)
+Começo com pé direito.
+
+PRODUTO + 
+
+
+
+(027.093)
+Muito bom, vale a pena!
+
+PRODUTO + 
+
+
+
+(002.012)
+A qualidade é muito boa.
+
+PRODUTO + 
+
+
+
+(026.090)
+Gostei muito do produto!
+
+PRODUTO + 
+
+
+
+(029.097)
+Recomendo, recomendo super.
+
+PRODUTO + 
+
+
+
+(046.136)
+Rebel T5 Canon, uma boa opça.
+
+PRODUTO + 
+
+
+
+(040.123)
+Ótimo pra quem está começando.
+
+PRODUTO + 
+
+
+
+(020.071)
+Tive uma excelente experiência.
+
+PRODUTO + 
+
+
+
+(009.043)
+ÓTIMO PRODUTO PARA SEMI PROFISSIONAIS.
+
+PRODUTO + 
+
+
+
+(031.100)
+Registre seus melhores momentos em detalhes!
+
+PRODUTO + 
+
+
+
+(013.052)
+Ela é uma das melhores câmeras que eu já usei.
+
+PRODUTO + 
+
+
+
+(046.137)
+Ótimo produto, confiável e com bom rendimento.
+
+PRODUTO + 
+
+
+
+(022.081)
+Meu primo tem uma, se eu pudesse compraria uma.
+
+PRODUTO + 
+
+
+
+(038.119)
+Excelente produto para iniciantes em fotografia.
+
+PRODUTO + 
+
+
+
+(037.117)
+Faço free lance e está sendo de ótimo benefício!
+
+PRODUTO + 
+
+
+
+(019.069)
+Me satisfaz em melhores imagens do meu dia a dia.
+
+PRODUTO + 
+
+
+
+(045.135)
+Boa maquina para quem esta começando a fotografar.
+
+PRODUTO + 
+
+
+
+(011.046)
+Quero ter uma Canon- Eos-rebel-t5- 18,0 Megapixels.
+
+PRODUTO + 
+
+
+
+(034.111)
+Produto de excelente qualidade ! recomendo a todos .
+
+PRODUTO + 
+
+
+
+(044.132)
+Adquiri há pouco tempo mas, estou adorando o produto.
+
+PRODUTO + 
+
+
+
+(044.133)
+Há tempo queria comprar, dessa forma é, uma realização.
+
+PRODUTO + 
+
+
+
+(002.018)
+Mas o essencial para ter bons resultados é possível com este produto.
+
+PRODUTO + 
+
+
+
+(023.085)
+A Câmera tem ótimo desempenho e tem resultados de uma semi professional.
+
+PRODUTO + 
+
+
+
+(031.102)
+Registrei com detalhes os melhores momentos em família, amigos e amores.
+
+PRODUTO + 
+
+
+
+(014.054)
+Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
+
+PRODUTO + 
+
+
+
+(031.104)
+Só a Conon mesmo para me proporcionar tanta coisa boa! Sou fotógrafa por paixão e Conor de coração!
+
+PRODUTO + 
+
+
+
+(042.128)
+Esta câmera é um ótimo produto,estou satisfeito e fazendo muitos registro importante, pode compra esta aprovado.
+
+PRODUTO + 
+
+
+
+(011.047)
+Tenho Uma Canon Power Shot SX 40 HS, é uma excelente Câmera, mas gostaria muito de ter uma Canon-Eos-rebel- T5 -18.0 megapixels.
+
+PRODUTO + 
+
+
+
+(021.076)
+A três anos fiz um pesquisa aqui no site Buscape sobre câmeras digitais e fui tirando minhas duvidas, enfim escolhi a câmera Canon EOS Rebel T5.
+
+PRODUTO + 
+
+
+
+(031.103)
+Mas não para por ai! As fotos ficaram tão bacanas e reconhecidas que fiz desse meu talento que descobri com a Conon EOS Rebel a construção da minha vida profissional! Hoje faço fotos de todos os tipos e para todos os gostos.
+
+PRODUTO + 
+
+
+
+(041.125)
+Perfect.
+
+PRODUTO ++
+
+
+
+(017.063)
+Perfeita.
+
+PRODUTO ++
+
+
+
+(024.087)
+Produto perfeito muito bom.
+
+PRODUTO ++
+
+
+
+(021.078)
+Não tenho oque reclamar deste aparelho, simplesmente sensacional.
+
+PRODUTO ++
+
+
+
+(017.064)
+Faço freela para fotografia, comprei essa camera faz uns 2 anos ela e perfeita.
+
+PRODUTO ++
+
+
+
+(043.129)
+Surpreendente para uma Camera Canon.
+
+PRODUTO +.
+
+
+
+(002.011)
+Não posso marcar pontos negativos pelo que paguei.
+
+PRODUTO +.
+
+
+
+(036.115)
+Não possuo,mas penso em ser fotográfa e obtê-la um dia!
+
+PRODUTO +.
+
+
+
+(002.019)
+Para quem nunca teve experiências com câmera DSLR é um bom começo e possível início da arte da fotografia.
+
+PRODUTO +.
+
+
+
+(005.025)
+Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom.
+
+PRODUTO +.
+
+
+
 (014.055)
 O display giratório que possui em alguns modelos diferentes não interfere na qualidade do T5!!! Recomendo.
 
@@ -215,528 +739,24 @@ x x
 
 
 
-(005.034)
-Apesar de ter nome parecido, não recomendo que seja feita comparação com a T5i por serem equipamentos beeem diferentes, não só no valor ( cerca de R$1000,00 de diferença), como na destinação do produto, já que a T5 é volta para fotos( apesar de fazer vídeos curtos) e a T5i possui tecnologia para vídeos bem mais avançada, incluindo comando touch( mais rápido para correção durante uma gravação)
+(034.110)
+Canon t5.
 
-_GENERIC ! 
+_BROKEN x 
 
 
 
-(028.094)
-Bom!
+(012.049)
+Câmera rebel T5.
 
-_GENERIC + 
+_BROKEN x 
 
 
 
-(010.044)
-Bom.
+(001.002)
+Pouca, recém comprada.
 
-_GENERIC + 
-
-
-
-(015.058)
-Bom.
-
-_GENERIC + 
-
-
-
-(033.107)
-Bom.
-
-_GENERIC + 
-
-
-
-(013.051)
-Ótima.
-
-_GENERIC + 
-
-
-
-(022.080)
-Ótima.
-
-_GENERIC + 
-
-
-
-(029.096)
-Ótima.
-
-_GENERIC + 
-
-
-
-(004.022)
-Gostei.
-
-_GENERIC + 
-
-
-
-(007.038)
-Positivo.
-
-_GENERIC + 
-
-
-
-(008.041)
-Excelente.
-
-_GENERIC + 
-
-
-
-(014.053)
-Excelente.
-
-_GENERIC + 
-
-
-
-(016.060)
-Muito Boa.
-
-_GENERIC + 
-
-
-
-(012.050)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(024.086)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(039.120)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(001.001)
-Boa Câmera.
-
-_GENERIC + 
-
-
-
-(019.068)
-Fantastica.
-
-_GENERIC + 
-
-
-
-(018.066)
-Maravilhosa.
-
-_GENERIC + 
-
-
-
-(020.070)
-Maravilhoso.
-
-_GENERIC + 
-
-
-
-(037.116)
-Maravilhoso.
-
-_GENERIC + 
-
-
-
-(023.083)
-Sensacional.
-
-_GENERIC + 
-
-
-
-(027.092)
-Sensacional.
-
-_GENERIC + 
-
-
-
-(015.059)
-Gostei muito.
-
-_GENERIC + 
-
-
-
-(025.088)
-Interessante.
-
-_GENERIC + 
-
-
-
-(032.105)
-Minha paixão.
-
-_GENERIC + 
-
-
-
-(021.075)
-Sensacional..
-
-_GENERIC + 
-
-
-
-(044.131)
-Encatamento!!!
-
-_GENERIC + 
-
-
-
-(006.036)
-Ótimo Produto!
-
-_GENERIC + 
-
-
-
-(007.039)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(035.112)
-Otimo produto.
-
-_GENERIC + 
-
-
-
-(004.023)
-Esta sendo bom.
-
-_GENERIC + 
-
-
-
-(042.127)
-Uma ótima compra.
-
-_GENERIC + 
-
-
-
-(009.042)
-EXCELENTE PRODUTO.
-
-_GENERIC + 
-
-
-
-(045.134)
-Maquina excelente.
-
-_GENERIC + 
-
-
-
-(002.003)
-Começo com pé direito.
-
-_GENERIC + 
-
-
-
-(027.093)
-Muito bom, vale a pena!
-
-_GENERIC + 
-
-
-
-(002.012)
-A qualidade é muito boa.
-
-_GENERIC + 
-
-
-
-(026.090)
-Gostei muito do produto!
-
-_GENERIC + 
-
-
-
-(029.097)
-Recomendo, recomendo super.
-
-_GENERIC + 
-
-
-
-(046.136)
-Rebel T5 Canon, uma boa opça.
-
-_GENERIC + 
-
-
-
-(040.123)
-Ótimo pra quem está começando.
-
-_GENERIC + 
-
-
-
-(020.071)
-Tive uma excelente experiência.
-
-_GENERIC + 
-
-
-
-(009.043)
-ÓTIMO PRODUTO PARA SEMI PROFISSIONAIS.
-
-_GENERIC + 
-
-
-
-(031.100)
-Registre seus melhores momentos em detalhes!
-
-_GENERIC + 
-
-
-
-(013.052)
-Ela é uma das melhores câmeras que eu já usei.
-
-_GENERIC + 
-
-
-
-(046.137)
-Ótimo produto, confiável e com bom rendimento.
-
-_GENERIC + 
-
-
-
-(022.081)
-Meu primo tem uma, se eu pudesse compraria uma.
-
-_GENERIC + 
-
-
-
-(038.119)
-Excelente produto para iniciantes em fotografia.
-
-_GENERIC + 
-
-
-
-(037.117)
-Faço free lance e está sendo de ótimo benefício!
-
-_GENERIC + 
-
-
-
-(019.069)
-Me satisfaz em melhores imagens do meu dia a dia.
-
-_GENERIC + 
-
-
-
-(045.135)
-Boa maquina para quem esta começando a fotografar.
-
-_GENERIC + 
-
-
-
-(011.046)
-Quero ter uma Canon- Eos-rebel-t5- 18,0 Megapixels.
-
-_GENERIC + 
-
-
-
-(034.111)
-Produto de excelente qualidade ! recomendo a todos .
-
-_GENERIC + 
-
-
-
-(044.132)
-Adquiri há pouco tempo mas, estou adorando o produto.
-
-_GENERIC + 
-
-
-
-(044.133)
-Há tempo queria comprar, dessa forma é, uma realização.
-
-_GENERIC + 
-
-
-
-(002.018)
-Mas o essencial para ter bons resultados é possível com este produto.
-
-_GENERIC + 
-
-
-
-(023.085)
-A Câmera tem ótimo desempenho e tem resultados de uma semi professional.
-
-_GENERIC + 
-
-
-
-(031.102)
-Registrei com detalhes os melhores momentos em família, amigos e amores.
-
-_GENERIC + 
-
-
-
-(014.054)
-Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
-
-_GENERIC + 
-
-
-
-(031.104)
-Só a Conon mesmo para me proporcionar tanta coisa boa! Sou fotógrafa por paixão e Conor de coração!
-
-_GENERIC + 
-
-
-
-(042.128)
-Esta câmera é um ótimo produto,estou satisfeito e fazendo muitos registro importante, pode compra esta aprovado.
-
-_GENERIC + 
-
-
-
-(011.047)
-Tenho Uma Canon Power Shot SX 40 HS, é uma excelente Câmera, mas gostaria muito de ter uma Canon-Eos-rebel- T5 -18.0 megapixels.
-
-_GENERIC + 
-
-
-
-(021.076)
-A três anos fiz um pesquisa aqui no site Buscape sobre câmeras digitais e fui tirando minhas duvidas, enfim escolhi a câmera Canon EOS Rebel T5.
-
-_GENERIC + 
-
-
-
-(031.103)
-Mas não para por ai! As fotos ficaram tão bacanas e reconhecidas que fiz desse meu talento que descobri com a Conon EOS Rebel a construção da minha vida profissional! Hoje faço fotos de todos os tipos e para todos os gostos.
-
-_GENERIC + 
-
-
-
-(041.125)
-Perfect.
-
-_GENERIC ++
-
-
-
-(017.063)
-Perfeita.
-
-_GENERIC ++
-
-
-
-(024.087)
-Produto perfeito muito bom.
-
-_GENERIC ++
-
-
-
-(021.078)
-Não tenho oque reclamar deste aparelho, simplesmente sensacional.
-
-_GENERIC ++
-
-
-
-(017.064)
-Faço freela para fotografia, comprei essa camera faz uns 2 anos ela e perfeita.
-
-_GENERIC ++
-
-
-
-(043.129)
-Surpreendente para uma Camera Canon.
-
-_GENERIC +.
-
-
-
-(002.011)
-Não posso marcar pontos negativos pelo que paguei.
-
-_GENERIC +.
-
-
-
-(036.115)
-Não possuo,mas penso em ser fotográfa e obtê-la um dia!
-
-_GENERIC +.
-
-
-
-(002.019)
-Para quem nunca teve experiências com câmera DSLR é um bom começo e possível início da arte da fotografia.
-
-_GENERIC +.
-
-
-
-(005.025)
-Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom.
-
-_GENERIC +.
+_BROKEN x 
 
 
 
@@ -754,24 +774,10 @@ _DUPLICATE x
 
 
 
-(034.110)
-Canon t5.
-
-_TRASH x 
-
-
-
 (008.040)
 Ótimo produto.
 
 _DUPLICATE x 
-
-
-
-(012.049)
-Câmera rebel T5.
-
-_TRASH x 
 
 
 
@@ -782,24 +788,17 @@ _DUPLICATE x
 
 
 
-(020.074)
-Manual ou automático.
-
-_NONE x 
-
-
-
-(001.002)
-Pouca, recém comprada.
-
-_TRASH x 
-
-
-
 (030.099)
 Recomendo, recomendo super.
 
 _DUPLICATE x 
+
+
+
+(020.074)
+Manual ou automático.
+
+_NONE x 
 
 
 
