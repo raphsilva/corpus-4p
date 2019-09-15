@@ -2,16 +2,26 @@ import datetime
 import io
 import os
 from pprint import pprint
+from writefiles import save_to_file
+import json
+
 
 date = datetime.datetime.now()
 
 SENTENCE_BEGIN_INDICATOR = '::'  # Symbol used to indicate beginning of sentence in the dataset.
 
-FORMATTED_DIR = 'split'  # Folder where formatted files will be saved to.
-DOUBLECHECK_DIR = 'DOUBLECHECK'  # Folder containing differences between revised and automatically annotaded files.
+# Input directories
+DIR_ANNOTATED_MANUAL = 'revised'
+DIR_ANNOTATED_AUTO = 'automatic'
+
+# Output directories
+DIR_FORMATTED_SPLIT = 'formatted/manual split'  # Folder where formatted files will be saved to.
+DIR_FORMATTED_NOSPLIT = 'formatted/automatic split'  # Folder where formatted files will be saved to.
+DIR_EXTRA_INFO = 'extra'  # Folder where formatted files will be saved to.
+DIR_COMPARISON = DIR_EXTRA_INFO + '/diff'  # Folder containing differences between revised and automatically annotaded files.
 
 # Create directories 
-output_directories = [FORMATTED_DIR, DOUBLECHECK_DIR]
+output_directories = [DIR_FORMATTED_SPLIT, DIR_FORMATTED_NOSPLIT, DIR_EXTRA_INFO, DIR_COMPARISON]
 for i in output_directories:
     if not os.path.exists(i):
         os.makedirs(i)
@@ -82,7 +92,6 @@ def getInfo(filename):
     return r
 
 
-
 def opinionToStringPlain(opinion):
     s = ''
     s += opinion['flags']
@@ -126,7 +135,7 @@ def formatSentence(sentence):
 
 def opinionToString(opinion):
     s = ''
-    s += opinion['review_id'] + '.' + opinion['sentence_id'] + '.' +str(opinion['id_f']) + ')  '
+    s += opinion['review_id'] + '.' + opinion['sentence_id'] + '.' + str(opinion['id_f']) + ')  '
     for a in range(2 - len(opinion['polarity'])):
         s += ' '
     s += '[' + opinion['polarity'] + ']'
@@ -173,7 +182,9 @@ def getPolarity(s):
     else:
         return '.'
 
+
 SPECIAL_ASPECTS = ['PRODUTO', 'EMPRESA', '_NONE', '_GENERIC', 'X', 'x']
+
 
 def countAspects(info):
     count_aspects = {}
@@ -253,11 +264,8 @@ def tabularAspectsCount(list_of_aspects):
     return s
 
 
-
-
 files_to_read = []
-dirpath = 'REVISED'
-list_of_files = [f for f in os.listdir(dirpath) if os.path.isfile(os.path.join(dirpath, f))]  # List of data files already saved in the disk
+list_of_files = [f for f in os.listdir(DIR_ANNOTATED_MANUAL) if os.path.isfile(os.path.join(DIR_ANNOTATED_MANUAL, f))]  # List of data files already saved in the disk
 for i in list_of_files:
     i_filename = i.split('.')[0]  # Get filename without extension, which is that product's ID
     files_to_read.append(i)
@@ -272,8 +280,8 @@ for filename in files_to_read:
 
     i_filename = filename.split('.')[0]
 
-    info_revised = getInfo('REVISED/' + filename)
-    info_raw = getInfo('raw/auto/' + filename)
+    info_revised = getInfo(DIR_ANNOTATED_MANUAL + '/' + filename)
+    info_raw = getInfo(DIR_ANNOTATED_AUTO + '/' + filename)
 
     data_revised = info_revised['data']
 
@@ -346,7 +354,6 @@ for filename in files_to_read:
 
         c_sentences_included += 1
 
-
     fl = True
 
     while fl:
@@ -373,7 +380,6 @@ for filename in files_to_read:
                     if t in count_stats[aspects[i]]:
                         s += count_stats[aspects[i]][t]
 
-
     ##COUNT REVIEWS
     rrr = []
     for i in data_merged:
@@ -388,7 +394,7 @@ for filename in files_to_read:
 
     info_revised['meta'].append("> File generation date: " + str(date.strftime("%Y-%m-%d")))
 
-    f = open('DOUBLECHECK/' + filename_save, 'w')
+    f = open(DIR_COMPARISON + '/' + filename_save, 'w')
     for i in info_revised['meta']:
         f.write(i + '\n\n')
     f.write('\n')
@@ -397,7 +403,7 @@ for filename in files_to_read:
         f.write('\n\n')
     f.close()
 
-    f = open('DOUBLECHECK/' + filename_save + '.diff', 'w')
+    f = open(DIR_COMPARISON + '/' + filename_save + '.diff', 'w')
     for i in info_revised['meta']:
         f.write(i.replace('>', ' ') + '\n\n')
     f.write('\n')
@@ -414,7 +420,7 @@ for filename in files_to_read:
 
     count_aspects = countAspects(data_merged)
 
-    f = open('split/' + filename_save + '.txt', 'w')
+    f = open(DIR_FORMATTED_SPLIT + '/' + filename_save + '.txt', 'w')
 
     for i in info_revised['meta']:
         f.write(i + '\n\n')
@@ -431,7 +437,7 @@ for filename in files_to_read:
         f.write('\n\n')
     f.close()
 
-    f = open('merged/' + filename_save + '.txt', 'w')
+    f = open(DIR_FORMATTED_NOSPLIT + '/' + filename_save + '.txt', 'w')
 
     info_revised['meta'].append('> Total of opinions: %d' % (len(data_revised)))
     info_revised['meta'].append('> Total of sentences: %d' % (len(data_merged)))
@@ -451,9 +457,6 @@ for filename in files_to_read:
         f.write('\n')
         f.write('\n\n')
     f.close()
-
-    from writefiles import *
-    import json
 
     meta_info = {}
     for i in info_revised['meta']:
@@ -490,9 +493,9 @@ for filename in files_to_read:
         i['sentence'] = i['sentence'].replace('\"', '&dquote&')
         i['sentence'] = i['sentence'].replace('\'', '&squote&')
 
-    save_to_file('merged/json/' + filename_save + '.json', json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+    save_to_file(DIR_FORMATTED_NOSPLIT + '/json/' + filename_save + '.json', json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
 
-f = open('info/mapsegments.info', 'w')
+f = open(DIR_EXTRA_INFO + '/mapsegments.info', 'w')
 # f.write(json.dumps(ids_correspondency, indent=4))
 for i in ids_correspondency:
     f.write(i + '  >  ' + ids_correspondency[i] + '\n')
