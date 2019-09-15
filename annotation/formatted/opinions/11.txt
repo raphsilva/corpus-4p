@@ -145,9 +145,9 @@
 
 051.145.0050)   [-][BATERIA]           ::  O problema pra mim é a bateria.
 
-139.417.0051)   [-][BATERIA]           ::  Peca um pouco na duração de bateria.
+198.604.0051)   [-][BATERIA]           ::  Quanto à bateria, não vi melhoria.
 
-198.604.0052)   [-][BATERIA]           ::  Quanto à bateria, não vi melhoria.
+139.417.0052)   [-][BATERIA]           ::  Peca um pouco na duração de bateria.
 
 187.572.0053)   [-][BATERIA]           ::  Apenas achei que a bateria fosse durar um pouco mais.
 
@@ -173,7 +173,7 @@
 
 125.378.0064)   [x][BATERIA]           ::  Vamos ver a bateria daqui um tempo.
 
-097.291.0065)   [+][CÂMERA]            ::  Boa câmera
+097.291.0065)   [+][CÂMERA]            ::  Boa câmera.
 
 022.056.0066)   [+][CÂMERA]            ::  Câmera boa.
 
@@ -291,15 +291,15 @@
 
 114.344.0123)   [+][DESEMPENHO]        ::  Rápido.
 
-126.384.0124)   [+][DESEMPENHO]        ::  Rápido.
+121.360.0124)   [+][DESEMPENHO]        ::  Rápido.
 
-147.435.0125)   [+][DESEMPENHO]        ::  Rápido.
+126.384.0125)   [+][DESEMPENHO]        ::  Rápido.
 
-166.507.0126)   [+][DESEMPENHO]        ::  Rápido.
+147.435.0126)   [+][DESEMPENHO]        ::  Rápido.
 
-152.449.0127)   [+][DESEMPENHO]        ::  Moderno.
+166.507.0127)   [+][DESEMPENHO]        ::  Rápido.
 
-121.360.0128)   [+][DESEMPENHO]        ::  Rápido
+152.449.0128)   [+][DESEMPENHO]        ::  Moderno.
 
 067.197.0129)   [+][DESEMPENHO]        ::  Rápido!
 
@@ -351,9 +351,9 @@
 
 070.204.0153)   [+][DESEMPENHO]        ::  Tem ótima resposta (tempo)
 
-161.484.0154)   [+][DESEMPENHO]        ::  Alta qualidade e performance.
+170.517.0154)   [+][DESEMPENHO]        ::  Nenhum sinal de travamento.
 
-170.517.0155)   [+][DESEMPENHO]        ::  Nenhum sinal de travamento.
+161.484.0155)   [+][DESEMPENHO]        ::  Alta qualidade e performance.
 
 071.208.0156)   [+][DESEMPENHO]        ::  O aparelho é bastante rápido.
 
@@ -895,53 +895,53 @@
 
 063.178.0425)   [+][PRODUTO]           ::  Ótimo Aparelho.
 
-047.133.0426)   [+][PRODUTO]           ::  Ótimo celular.
+002.003.0426)   [+][PRODUTO]           ::  Ótimo celular.
 
-150.443.0427)   [+][PRODUTO]           ::  Otimo celular.
+047.133.0427)   [+][PRODUTO]           ::  Ótimo celular.
 
-160.481.0428)   [+][PRODUTO]           ::  Ótimo celular.
+150.443.0428)   [+][PRODUTO]           ::  Otimo celular.
 
-200.615.0429)   [+][PRODUTO]           ::  Otimo celular.
+160.481.0429)   [+][PRODUTO]           ::  Ótimo celular.
 
-024.061.0430)   [+][PRODUTO]           ::  Otimo em tudo!
+200.615.0430)   [+][PRODUTO]           ::  Otimo celular.
 
-015.039.0431)   [+][PRODUTO]           ::  Ótimo produto.
+024.061.0431)   [+][PRODUTO]           ::  Otimo em tudo!
 
-026.065.0432)   [+][PRODUTO]           ::  Ótimo produto.
+015.039.0432)   [+][PRODUTO]           ::  Ótimo produto.
 
-104.310.0433)   [+][PRODUTO]           ::  Ótimo produto.
+026.065.0433)   [+][PRODUTO]           ::  Ótimo produto.
 
-138.414.0434)   [+][PRODUTO]           ::  Otimo produto.
+104.310.0434)   [+][PRODUTO]           ::  Ótimo produto.
 
-139.416.0435)   [+][PRODUTO]           ::  Ótimo Produto.
+138.414.0435)   [+][PRODUTO]           ::  Otimo produto.
 
-164.492.0436)   [+][PRODUTO]           ::  Ótimo produto.
+139.416.0436)   [+][PRODUTO]           ::  Ótimo Produto.
 
-192.588.0437)   [+][PRODUTO]           ::  Ótimo produto.
+164.492.0437)   [+][PRODUTO]           ::  Ótimo produto.
 
-197.599.0438)   [+][PRODUTO]           ::  Ótimo produto.
+192.588.0438)   [+][PRODUTO]           ::  Ótimo produto.
 
-032.080.0439)   [+][PRODUTO]           ::  Produto otimo.
+197.599.0439)   [+][PRODUTO]           ::  Ótimo produto.
 
-082.241.0440)   [+][PRODUTO]           ::  É tudo de bom.
+032.080.0440)   [+][PRODUTO]           ::  Produto otimo.
 
-131.396.0441)   [+][PRODUTO]           ::  Òtimo Produto.
+082.241.0441)   [+][PRODUTO]           ::  É tudo de bom.
 
-207.630.0442)   [+][PRODUTO]           ::  Aparelho otimo.
+131.396.0442)   [+][PRODUTO]           ::  Òtimo Produto.
 
-056.158.0443)   [+][PRODUTO]           ::  De outro mundo!
+207.630.0443)   [+][PRODUTO]           ::  Aparelho otimo.
 
-048.136.0444)   [+][PRODUTO]           ::  Gostei de tudo.
+056.158.0444)   [+][PRODUTO]           ::  De outro mundo!
 
-111.333.0445)   [+][PRODUTO]           ::  Muitas funções.
+048.136.0445)   [+][PRODUTO]           ::  Gostei de tudo.
 
-065.191.0446)   [+][PRODUTO]           ::  Não decepciona.
+111.333.0446)   [+][PRODUTO]           ::  Muitas funções.
 
-033.082.0447)   [+][PRODUTO]           ::  Otimo aparelho!
+065.191.0447)   [+][PRODUTO]           ::  Não decepciona.
 
-190.583.0448)   [+][PRODUTO]           ::  Ótimo aparelho.
+033.082.0448)   [+][PRODUTO]           ::  Otimo aparelho!
 
-002.003.0449)   [+][PRODUTO]           ::  Ótimo celular.
+190.583.0449)   [+][PRODUTO]           ::  Ótimo aparelho.
 
 054.151.0450)   [+][PRODUTO]           ::  Quase perfeito.
 
@@ -1023,35 +1023,35 @@
 
 121.361.0489)   [+][PRODUTO]           ::  Compra recomendada.
 
-111.331.0490)   [+][PRODUTO]           ::  Excelente aparelho.
+190.584.0490)   [+][PRODUTO]           ::  Excelente aparelho!
 
-121.358.0491)   [+][PRODUTO]           ::  Excelente aparelho.
+111.331.0491)   [+][PRODUTO]           ::  Excelente aparelho.
 
-188.574.0492)   [+][PRODUTO]           ::  Excelente aparelho.
+121.358.0492)   [+][PRODUTO]           ::  Excelente aparelho.
 
-101.302.0493)   [+][PRODUTO]           ::  Funciona muito bem.
+188.574.0493)   [+][PRODUTO]           ::  Excelente aparelho.
 
-114.343.0494)   [+][PRODUTO]           ::  Muito bom aparelho.
+101.302.0494)   [+][PRODUTO]           ::  Funciona muito bem.
 
-150.444.0495)   [+][PRODUTO]           ::  Muito bom aparelho.
+114.343.0495)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-151.446.0496)   [+][PRODUTO]           ::  Muito bom aparelho.
+150.444.0496)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-201.618.0497)   [+][PRODUTO]           ::  Produto maravilhoso.
+151.446.0497)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-125.378.0498)   [+][PRODUTO]           ::  Tudo show de bola..
+201.618.0498)   [+][PRODUTO]           ::  Produto maravilhoso.
 
-139.417.0499)   [+][PRODUTO]           ::  Um ótimo Smartphone.
+125.378.0499)   [+][PRODUTO]           ::  Tudo show de bola..
 
-153.452.0500)   [+][PRODUTO]           ::  Um ótimo smartphone.
+139.417.0500)   [+][PRODUTO]           ::  Um ótimo Smartphone.
 
-197.600.0501)   [+][PRODUTO]           ::  Adorei esse celular.
+153.452.0501)   [+][PRODUTO]           ::  Um ótimo smartphone.
 
-184.563.0502)   [+][PRODUTO]           ::  Aprovei e recomendo.
+197.600.0502)   [+][PRODUTO]           ::  Adorei esse celular.
 
-200.616.0503)   [+][PRODUTO]           ::  Aprovei e recomendo.
+184.563.0503)   [+][PRODUTO]           ::  Aprovei e recomendo.
 
-190.584.0504)   [+][PRODUTO]           ::  Excelente aparelho!
+200.616.0504)   [+][PRODUTO]           ::  Aprovei e recomendo.
 
 155.464.0505)   [+][PRODUTO]           ::  Excelente smartphone.
 
@@ -1137,13 +1137,13 @@
 
 012.029.0546)   [+][PRODUTO]           ::  Nada a reclamar do produto.
 
-056.160.0547)   [+][PRODUTO]           ::  O Galaxy S7 não decepciona.
+065.192.0547)   [+][PRODUTO]           ::  O Galaxy S7 é surpreendente.
 
-172.523.0548)   [+][PRODUTO]           ::  Vale a pena o investimento.
+056.160.0548)   [+][PRODUTO]           ::  O Galaxy S7 não decepciona.
 
-106.316.0549)   [+][PRODUTO]           ::  Melhor aparelho que ja usei.
+172.523.0549)   [+][PRODUTO]           ::  Vale a pena o investimento.
 
-065.192.0550)   [+][PRODUTO]           ::  O Galaxy S7 é surpreendente
+106.316.0550)   [+][PRODUTO]           ::  Melhor aparelho que ja usei.
 
 019.048.0551)   [+][PRODUTO]           ::  Ótimo smartphone, recomendo!
 
@@ -1291,7 +1291,7 @@
 
 185.566.0623)   [+][PRODUTO]           ::  TUDO O QUE EU QUERIA E ESPERAVAPODE PARECER UM POUCO CARO, MAS FAZ TODA DIFERENÇA PARA QUEM PROCURA RAPIDEZ E AGILIDADE ASSIM COMO EU, POIS GARANTO QUE NÃO VAI SE ARREPENDER.
 
-185.566.0624)   [+][PRODUTO]           ::  TINHA O GALAXY S6 E AMAVA DE PAIXÃO, ACABEI VENDENDO E TROQUEI POR UM GALAXY A7, DO QUAL ME ARREPENDO ATÉ HOJE, CELULAR MUITO INFERIOR A LINHA "S".FIQUEI APENAS 03 MESES E ENTÃO DECIDI COMPRAR O GALAXY S7 E ESTOU AMANDOOOO! QUANDO EU TROQUEI MEU S6 PELO A7, FIQUEI 03 MESES SOFRENDO!!! CELULAR TRAVAVA DEMAIS, QUALIDADE RUIM E EU FICAVA MUITO ESTRESSADA, COISA QUE NÃO PASSO HOJE EM DIA COM O GALAXS S7AMANDOOOOO
+185.566.0624)   [+][PRODUTO]           ::  TINHA O GALAXY S6 E AMAVA DE PAIXÃO, ACABEI VENDENDO E TROQUEI POR UM GALAXY A7, DO QUAL ME ARREPENDO ATÉ HOJE, CELULAR MUITO INFERIOR A LINHA "S".FIQUEI APENAS 03 MESES E ENTÃO DECIDI COMPRAR O GALAXY S7 E ESTOU AMANDOOOO! QUANDO EU TROQUEI MEU S6 PELO A7, FIQUEI 03 MESES SOFRENDO!!! CELULAR TRAVAVA DEMAIS, QUALIDADE RUIM E EU FICAVA MUITO ESTRESSADA, COISA QUE NÃO PASSO HOJE EM DIA COM O GALAXS S7AMANDOOOOO.
 
 050.141.0625)  [++][PRODUTO]           ::  100%.
 
@@ -1325,9 +1325,9 @@
 
 089.270.0640)  [++][PRODUTO]           ::  O melhor smartphone que tive.
 
-054.152.0641)  [++][PRODUTO]           ::  O melhor smartphone que já usei.
+143.427.0641)  [++][PRODUTO]           ::  Não há do que reclamar! Só isso!
 
-143.427.0642)  [++][PRODUTO]           ::  Não há do que reclamar! Só isso!
+054.152.0642)  [++][PRODUTO]           ::  O melhor smartphone que já usei.
 
 163.489.0643)  [++][PRODUTO]           ::  Não há aparelho melhor no mercado.
 
@@ -1493,7 +1493,7 @@
 
 131.397.0724)   [+][TELA]              ::  Ótima tela.
 
-173.525.0725)   [+][TELA]              ::  Ótimo display
+173.525.0725)   [+][TELA]              ::  Ótimo display.
 
 089.271.0726)   [+][TELA]              ::  Tela espetacular.
 
@@ -1529,11 +1529,11 @@
 
 029.074.0742)   [+][USABILIDADE]       ::  Amigável.
 
-122.364.0743)   [+][USABILIDADE]       ::  Fácil de usar.
+114.344.0743)   [+][USABILIDADE]       ::  Fácil de usar.
 
-186.568.0744)   [+][USABILIDADE]       ::  Fácil de usar.
+122.364.0744)   [+][USABILIDADE]       ::  Fácil de usar.
 
-114.344.0745)   [+][USABILIDADE]       ::  Fácil de usar
+186.568.0745)   [+][USABILIDADE]       ::  Fácil de usar.
 
 192.589.0746)   [+][USABILIDADE]       ::  Fácil manuseio.
 
@@ -1553,9 +1553,9 @@
 
 038.101.0754)   [x][X]                 ::  Antes eu tinha um S4.
 
-064.190.0755)   [x][X]                 ::  Vamos ver nele como vai.
+020.050.0755)   [x][X]                 ::  Mudança do S6 para o S7.
 
-020.050.0756)   [x][X]                 ::  Mudança do S6 para o S7.
+064.190.0756)   [x][X]                 ::  Vamos ver nele como vai.
 
 153.458.0757)   [x][X]                 ::  Nada de novidade neste quesito.
 

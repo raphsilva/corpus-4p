@@ -18,7 +18,7 @@
 
 
 <   [002.003][]   [+][PRODUTO]           ::   Ótimo celular. Câmera excelente.
->   [002.003][]   [+][PRODUTO]           ::   Ótimo celular. 
+>   [002.003][]   [+][PRODUTO]           ::   Ótimo celular.
 >   [002.003][]   [+][CÂMERA]            ::   Câmera excelente.
 
 <   [002.004][]   [+][PRODUTOCÂMERA]     ::   Celular muito bom no geral, se destacando pela câmera.
@@ -62,9 +62,6 @@
 
 <   [018.044][]   [+][PRODUTO]           ::   Exelente.
 >   [018.044][]   [+][PRODUTO]           ::   Excelente.
-
-<   [020.050][]   [+][PRODUTO]           ::   Mudança do S6 para o S7.
->   [020.050][]   [x][X]                 ::   Mudança do S6 para o S7. 
 
 <   [022.056][]   [+][CÂMERA]            ::   Processamento rápido e câmera boa.
 >   [022.056][]   [+][DESEMPENHO]        ::   Processamento rápido.
@@ -117,9 +114,6 @@
 
 <   [038.100][]   [+][PRODUTO]           ::   Estou com o aparelho a menos de um mes e até agora estou gostando muito.
 >   [038.100][]   [+][PRODUTO]           ::   Estou com o aparelho há menos de um mês e até agora estou gostando muito.
-
-<   [038.101][]   [+][PRODUTO]           ::   Antes eu tinha um S4.
->   [038.101][]   [x][X]                 ::   Antes eu tinha um S4. 
 
 <   [040.111][]   [+][PRODUTO]           ::   A qualidade da imagem com pouca luz também impressiona.
 >   [040.111][]   [+][CÂMERA]            ::   A qualidade da imagem com pouca luz impressiona.
@@ -203,7 +197,7 @@
 >   [063.182][]  [-.][PREÇO]             ::   Paguei R$ 2.000 porque realmente eu precisava de um aparelho TOP, uma vez que meu S5 travava demais. Mas só indico gastar essa pequena fortuna pra quem dependa de um celular de alta performance ou quem esteja nadando no dinheiro.
 
 <   [063.183][]   [+][PRODUTOTELA]       ::   Mas só indico gastar essa pequena fortuna pra quem dependa de um celular de alta performance ou quem esteja nadando no dinheiro.Outro ponto negativo é não achar em lugar nenhum película protetora de tela pro modelo flat.Não me arrependo não.
->   [063.183][]   [-][ACESSÓRIO]         ::   Um ponto negativo é não achar em lugar nenhum película protetora de tela pro modelo flat. 
+>   [063.183][]   [-][ACESSÓRIO]         ::   Um ponto negativo é não achar em lugar nenhum película protetora de tela pro modelo flat.
 >   [063.183][]   [+][PRODUTO]           ::   Não me arrependo não.
 
 <   [064.185][]   [+][PREÇO]             ::   O S7 Edge é um telefone excepcional que, a R$2200,00 na promoção da Fast, é o melhor custo-benefício do mercado até o momento.
@@ -220,7 +214,7 @@
 >   [064.187][]   [+][CÂMERA]            ::   ótima câmera.
 
 <   [065.192][]   [+][BATERIA]           ::   O Galaxy S7 é surpreendente com uma bateria que, se utilizada corretamente,  pode durar até 24h.
->   [065.192][]   [+][PRODUTO]           ::   O Galaxy S7 é surpreendente 
+>   [065.192][]   [+][PRODUTO]           ::   O Galaxy S7 é surpreendente
 >   [065.192][]   [+][BATERIA]           ::   Tem uma bateria que, se utilizada corretamente, pode durar até 24h.
 
 <   [067.197][]   [+][PRODUTO]           ::   Interface mais fluida que a versão anterior, rápido e econômico na bateria!
@@ -261,12 +255,6 @@
 >   [081.231][]   [+][DESEMPENHO]        ::   Celular muito rápido.
 >   [081.231][]   [+][CÂMERA]            ::   Excelente câmera frontal.
 
-<   [082.235][]   [+][PRODUTO]           ::   Deixei de comprar o S6 para pegar um mais atual.
->   [082.235][]   [x][PRODUTO]           ::   Deixei de comprar o S6 para pegar um mais atual. 
-
-<   [082.236][]   [+][PRODUTO]           ::   O celular regrediu.
->   [082.236][]   [-][PRODUTO]           ::   O celular regrediu. 
-
 <   [082.241][]   [+][PRODUTO]           ::   As câmeras são boas, a velocidade de processamento é boa, enfim o resto é tudo de bom.
 >   [082.241][]   [+][CÂMERA]            ::   As câmeras são boas.
 >   [082.241][]   [+][DESEMPENHO]        ::   A velocidade de processamento é boa.
@@ -299,7 +287,7 @@
 <   [094.283][]   [+][DESIGNTELA]        ::   Velocidade de processamento boa e design agradável.O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
 >   [094.283][]   [+][DESEMPENHO]        ::   Velocidade de processamento boa.
 >   [094.283][]   [+][DESIGN]            ::   Design agradável.
->   [094.283][]   [-][ACESSÓRIO]         ::   O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo. 
+>   [094.283][]   [-][ACESSÓRIO]         ::   O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
 >   [094.283][]   [+][PRODUTO]           ::   excelente!
 
 <   [094.284][]   [+][PRODUTO]           ::   De mais, excelente!
@@ -315,9 +303,9 @@
 
 <   [104.311][]   [+][PRODUTODESEMPENHOARMAZENAMENTO]  ::   Ótimo produto, velocidade do processador e espaço em RAM perfeitos! Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
 >d  [104.311][]   [x][_DUPLICATE]        ::   Ótimo produto
->   [104.311][]  [++][DESEMPENHO]        ::   velocidade do processador perfeito! 
->   [104.311][]  [++][ARMAZENAMENTO]     ::   espaço perfeito! 
->   [104.311][]  [++][DESEMPENHO]        ::   RAM perfeita! 
+>   [104.311][]  [++][DESEMPENHO]        ::   velocidade do processador perfeito!
+>   [104.311][]  [++][ARMAZENAMENTO]     ::   espaço perfeito!
+>   [104.311][]  [++][DESEMPENHO]        ::   RAM perfeita!
 >   [104.311][]   [-][ARMAZENAMENTO]     ::   Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
 
 <   [104.313][]   [+][DESIGNTELACÂMERAPRODUTO]  ::   Porém, design perfeito, a tela perfeita, uma ótima câmera, leitor de digital super rápido, e liberdade para configurar o aparelho do jeito que quiser...
@@ -353,15 +341,12 @@
 >   [111.333][]   [+][CÂMERA]            ::   câmera excelente
 >   [111.333][]   [+][PRODUTO]           ::   muitas funções.
 
-<   [114.341][]   [+][PRODUTO]           ::   Troquei um S4 octa core por esse S7.
->   [114.341][]   [x][PRODUTO]           ::   Troquei um S4 octa core por esse S7. 
-
 <   [114.342][]   [+][PRODUTO]           ::   Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
 >   [114.342][]   [+][PRODUTO]           ::    Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
 
 <   [114.344][]   [+][USABILIDADE]       ::   Rápido, fácil de usar etc.
 >   [114.344][]   [+][DESEMPENHO]        ::   Rápido
->   [114.344][]   [+][USABILIDADE]       ::   fácil de usar 
+>   [114.344][]   [+][USABILIDADE]       ::   fácil de usar
 
 <   [117.350][]   [+][PRODUTO]           ::   Produto de boa qualidade, supera as expectativas.
 >   [117.350][]   [+][PRODUTO]           ::   Produto de boa qualidade
@@ -386,7 +371,7 @@
 >   [121.359][]   [+][CÂMERA]            ::   câmera fantástica.
 
 <   [121.360][]   [+][BATERIA]           ::   Rápido e com boa duração de bateria.
->   [121.360][]   [+][DESEMPENHO]        ::   Rápido 
+>   [121.360][]   [+][DESEMPENHO]        ::   Rápido
 >   [121.360][]   [+][BATERIA]           ::   boa duração de bateria.
 
 <   [122.364][]   [+][USABILIDADECÂMERAARMAZENAMENTO]  ::   Fácil de usar, câmera excelente, a possibilidade de expansão de memória veio a calhar.
@@ -460,7 +445,7 @@
 <   [140.420][]   [+][PRODUTO]           ::   Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
 
 <   [143.427][]   [+][BATERIA]           ::   Não há do que reclamar! Só isso! Camera excelente, bateria excelente!
->   [143.427][]  [++][PRODUTO]           ::   Não há do que reclamar! Só isso! 
+>   [143.427][]  [++][PRODUTO]           ::   Não há do que reclamar! Só isso!
 >   [143.427][]   [+][CÂMERA]            ::   Camera excelente
 >   [143.427][]   [+][BATERIA]           ::   bateria excelente!
 
@@ -496,7 +481,7 @@
 >   [153.454][]   [+][DESIGN]            ::    as bordas metálicas e revestimento de vidro trazem um desconforto relacionado às impressões digitais que marcam todo o aparelho.
 
 <   [153.455][]   [+][CÂMERA]            ::   Para evitar isso comprei uma capa da ClearView da própria Samsung. A câmera traseira é muito boa, porém em condições de baixa luminosidade a perda de qualidade é absurda.
->   [153.455][]  [+.][DESIGN]            ::   Para evitar marcas de digitais comprei uma capa da ClearView da própria Samsung. 
+>   [153.455][]  [+.][DESIGN]            ::   Para evitar marcas de digitais comprei uma capa da ClearView da própria Samsung.
 >   [153.455][]   [+][CÂMERA]            ::   A câmera traseira é muito boa, porém em condições de baixa luminosidade a perda de qualidade é absurda.
 
 <   [153.456][]   [+][CÂMERABATERIA]     ::   O mesmo para a câmera traseira, guardadas as devidas proporções. Os apps não travam nem engasgam. A duração da bateria não é tão boa quanto deveria.
@@ -547,12 +532,6 @@
 >   [165.496][]   [+][PRODUTO]           ::   O aparelho é excelente.
 >   [165.496][]   [+][DESEMPENHO]        ::   o desempenho me surpreendeu muito.
 
-<   [165.498][]   [+][PRODUTO]           ::   E nesse quesito o S7 não deixa a desejar.
->   [165.498][]   [x][X]                 ::   E nesse quesito o S7 não deixa a desejar. 
-
-<   [165.500][]   [+][EMPRESATELEVISÃO]  ::   O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc.
->   [165.500][]   [-][OUTRO]             ::   O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc. 
-
 <   [165.501][]   [+][USABILIDADE]       ::   E agora não é mais possível usar essa função na S7)
 >   [165.501][]   [x][X]                 ::    e agora não é mais possível usar essa função na S7)
 
@@ -569,7 +548,7 @@
 
 <   [170.517][]   [+][PRODUTO]           ::   Produto dispensa comparativos, sem nenhum sinal de travamento.Bastante simplificado.
 >   [170.517][]   [+][PRODUTO]           ::   Produto dispensa comparativos
->   [170.517][]   [+][DESEMPENHO]        ::    nenhum sinal de travamento. 
+>   [170.517][]   [+][DESEMPENHO]        ::    nenhum sinal de travamento.
 >   [170.517][]   [+][USABILIDADE]       ::   Bastante simplificado.
 
 <   [170.518][]   [+][DESEMPENHO]        ::   Não possui a mesma beleza de um iphone mais o processador não se compara com o mesmo.
@@ -578,7 +557,7 @@
 
 <   [173.525][]   [+][PRODUTOTELACÂMERA]  ::   Aparelho rápido, ótimo display e fotos, achei que esquenta quando utilizo o gear vr.
 >   [173.525][]   [+][DESEMPENHO]        ::   Aparelho rápido
->   [173.525][]   [+][TELA]              ::   ótimo display 
+>   [173.525][]   [+][TELA]              ::   ótimo display
 >   [173.525][]   [+][CÂMERA]            ::   ótimas fotos
 >   [173.525][]   [-][DESEMPENHO]        ::   achei que esquenta quando utilizo o gear vr.
 
@@ -597,13 +576,7 @@
 >   [177.537][]  [++][PRODUTO]           ::    perfeito.
 
 <   [181.545][]   [+][PRODUTO]           ::   Duas surpresas desagradáveis com a compra do aparelho.
->   [181.545][]   [-][X]                 ::   Surpresas desagradáveis com a compra do aparelho. 
-
-<   [181.546][]   [+][PRODUTO]           ::   O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo.
->   [181.546][]   [-][PRODUTO]           ::   O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo. 
-
-<   [181.547][]   [+][TELAPRODUTO]       ::   A tela do aparelho é levemente curvada na lateral(sim estamos falando do Flat não do Edge), o que impede de haver uma película que cubra toda a tela do celular.
->   [181.547][]   [-][ACESSÓRIO]         ::   A tela do aparelho é levemente curvada na lateral(sim estamos falando do Flat não do Edge), o que impede de haver uma película que cubra toda a tela do celular. 
+>   [181.545][]   [-][X]                 ::   Surpresas desagradáveis com a compra do aparelho.
 
 <   [181.548][]   [+][PRODUTO]           ::   O mais estranho é que existe película para o Edge, mas para o flat não..
 >   [181.548][]   [-][ACESSÓRIO]         ::   O mais estranho é que existe película para o Edge, mas para o flat não.
@@ -616,12 +589,12 @@
 <   [181.552][]   [+][EMPRESA]           ::   Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
 <   [185.566][]   [+][PRODUTOTELATAMANHOPREÇO]  ::   TINHA O GALAXY S6 E AMAVA DE PAIXÃO, ACABEI VENDENDO E TROQUEI POR UM GALAXY A7, DO QUAL ME ARREPENDO ATÉ HOJE, CELULAR MUITO INFERIOR A LINHA "S".FIQUEI APENAS 03 MESES E ENTÃO DECIDI COMPRAR O GALAXY S7 E ESTOU AMANDOOOO! INCRIVEL, NÃO TRAVA DE FORMA ALGUMA, A QUALIDADE DAS IMAGENS SÃO EXCELENTES, O TOQUE DO DISPLAY É MARAVILHOSO E SUPER DELICADO, O FORMATO DO APARELHO CABE CERTINHO E CONFORTAVELMENTE NA PALMA DA MÃO, TUDO O QUE EU QUERIA E ESPERAVAPODE PARECER UM POUCO CARO, MAS FAZ TODA DIFERENÇA PARA QUEM PROCURA RAPIDEZ E AGILIDADE ASSIM COMO EU, POIS GARANTO QUE NÃO VAI SE ARREPENDER.QUANDO EU TROQUEI MEU S6 PELO A7, FIQUEI 03 MESES SOFRENDO!!! CELULAR TRAVAVA DEMAIS, QUALIDADE RUIM E EU FICAVA MUITO ESTRESSADA, COISA QUE NÃO PASSO HOJE EM DIA COM O GALAXS S7AMANDOOOOO ???
->   [185.566][]   [+][PRODUTO]           ::   TINHA O GALAXY S6 E AMAVA DE PAIXÃO, ACABEI VENDENDO E TROQUEI POR UM GALAXY A7, DO QUAL ME ARREPENDO ATÉ HOJE, CELULAR MUITO INFERIOR A LINHA "S".FIQUEI APENAS 03 MESES E ENTÃO DECIDI COMPRAR O GALAXY S7 E ESTOU AMANDOOOO! QUANDO EU TROQUEI MEU S6 PELO A7, FIQUEI 03 MESES SOFRENDO!!! CELULAR TRAVAVA DEMAIS, QUALIDADE RUIM E EU FICAVA MUITO ESTRESSADA, COISA QUE NÃO PASSO HOJE EM DIA COM O GALAXS S7AMANDOOOOO 
+>   [185.566][]   [+][PRODUTO]           ::   TINHA O GALAXY S6 E AMAVA DE PAIXÃO, ACABEI VENDENDO E TROQUEI POR UM GALAXY A7, DO QUAL ME ARREPENDO ATÉ HOJE, CELULAR MUITO INFERIOR A LINHA "S".FIQUEI APENAS 03 MESES E ENTÃO DECIDI COMPRAR O GALAXY S7 E ESTOU AMANDOOOO! QUANDO EU TROQUEI MEU S6 PELO A7, FIQUEI 03 MESES SOFRENDO!!! CELULAR TRAVAVA DEMAIS, QUALIDADE RUIM E EU FICAVA MUITO ESTRESSADA, COISA QUE NÃO PASSO HOJE EM DIA COM O GALAXS S7AMANDOOOOO
 >   [185.566][]   [+][DESEMPENHO]        ::   INCRIVEL, NÃO TRAVA DE FORMA ALGUMA
 >   [185.566][]   [+][TELA]              ::    A QUALIDADE DAS IMAGENS SÃO EXCELENTES
 >   [185.566][]   [+][TELA]              ::    O TOQUE DO DISPLAY É MARAVILHOSO E SUPER DELICADO
 >   [185.566][]   [+][TAMANHO]           ::    O FORMATO DO APARELHO CABE CERTINHO E CONFORTAVELMENTE NA PALMA DA MÃO
->   [185.566][]   [+][PRODUTO]           ::    TUDO O QUE EU QUERIA E ESPERAVAPODE PARECER UM POUCO CARO, MAS FAZ TODA DIFERENÇA PARA QUEM PROCURA RAPIDEZ E AGILIDADE ASSIM COMO EU, POIS GARANTO QUE NÃO VAI SE ARREPENDER. 
+>   [185.566][]   [+][PRODUTO]           ::    TUDO O QUE EU QUERIA E ESPERAVAPODE PARECER UM POUCO CARO, MAS FAZ TODA DIFERENÇA PARA QUEM PROCURA RAPIDEZ E AGILIDADE ASSIM COMO EU, POIS GARANTO QUE NÃO VAI SE ARREPENDER.
 
 <   [186.567][]   [+][PRODUTO]           ::   Design lindo, mas bateria poderia ser melhor.
 >   [186.567][]   [+][DESIGN]            ::   Design lindo
@@ -659,7 +632,7 @@
 <   [189.582][]   [+][PRODUTO]           ::   Perdi valor sedex ??
 
 <   [190.584][]   [+][PREÇO]             ::   Excelente aparelho! Só o preço que é alto demais e a Samsung que enche de APPs que não se utiliza que não tem como apagar.
->   [190.584][]   [+][PRODUTO]           ::   Excelente aparelho! 
+>   [190.584][]   [+][PRODUTO]           ::   Excelente aparelho!
 >   [190.584][]   [-][PREÇO]             ::   Só o preço que é alto demais
 >   [190.584][]   [-][OUTRO]             ::   a Samsung que enche de APPs que não se utiliza que não tem como apagar.
 
@@ -684,7 +657,7 @@
 
 <   [198.604][]   [+][BATERIAPESOCÂMERA]  ::   Por hora estou gostando muito, exceto a bateria pois não vi melhoria.O material parece de qualidade, apesar de ser um ímã para impressão digital e ser um pouco pesado.A câmera esta me surpreendendo a cada dia.
 >   [198.604][]   [+][PRODUTO]           ::   Por hora estou gostando muito
->   [198.604][]   [-][BATERIA]           ::   quanto à bateria, não vi melhoria. 
+>   [198.604][]   [-][BATERIA]           ::   quanto à bateria, não vi melhoria.
 >   [198.604][]   [+][RESISTÊNCIA]       ::   O material parece de qualidade
 >   [198.604][]   [-][DESIGN]            ::   é um ímã para impressão digital
 >   [198.604][]   [-][PESO]              ::   é um pouco pesado.
@@ -696,9 +669,6 @@
 >   [198.605][]   [-][OUTRO]             ::   O always on poderia exibir os ícones de outros apps como facebook, whatsapp, instagram...
 >   [198.605][]   [+][OUTRO]             ::   O leitor de digital é outro fator positivo, pois ele é rápido e prático.
 >   [198.605][]   [X][OUTRO]             ::   A certificação de resistência à agua eu não testei, pois no S5 essa resistência, seguindo todas as recomendações e verificações, não funcionou.
-
-<   [199.608][]   [+][PRODUTO]           ::   Realizei a troca do galaxy s5 para o galaxy s7.
->   [199.608][]   [x][PRODUTO]           ::   Realizei a troca do galaxy s5 para o galaxy s7. 
 
 <   [199.610][]   [+][PRODUTOPESO]       ::   Achei o aparelho um pouco pesado, porem, o material parece de qualidade.
 >   [199.610][]   [-][PESO]              ::   Achei o aparelho um pouco pesado
@@ -741,7 +711,7 @@
 >   [208.636][]   [-][RESISTÊNCIA]       ::   Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
 <   [208.638][]   [-][TELAPREÇOPRODUTOEMPRESA]  ::   Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
->   [208.638][]   [-][EMPRESA]           ::   Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. 
+>   [208.638][]   [-][EMPRESA]           ::   Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
 
 <   [209.641][]   [-][PRODUTO]           ::   O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor.
 >   [209.641][]   [-][RESISTÊNCIA]       ::   O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor. Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
@@ -764,10 +734,6 @@
 
 <   [211.651][]   [-][PRODUTO]           ::   Por isso acabei devolvendo o aparelho para tentar adquirir outro.
 >   [211.651][]  [--][PRODUTO]           ::   Acabei devolvendo o aparelho para tentar adquirir outro.
-
-<   [212.652][]   [-][PRODUTO]           ::   S7 razoavel.
->   [212.652][]   [.][PRODUTO]           ::   S7 razoavel. 
->   [212.652][]   [-][PREÇO]             ::   Pouco tempo mas caro para o que oferece.
 
 <   [214.656][]   [-][PRODUTO]           ::   Ótima tecnologia, péssima resistência.
 >   [214.656][]   [+][PRODUTO]           ::   Ótima tecnologia

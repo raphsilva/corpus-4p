@@ -74,12 +74,11 @@ def getInfo(filename):
         line_id = info.split(')')[0]
 
         n = {}  # Will save information about this entry
-
         n['product_id'] = product_id
         n['review_id'] = line_id.split('.')[0]
         n['sentence_id'] = line_id.split('.')[1]
-        n['polarity'] = info.split(']')[1]
-        n['aspect'] = info.split(']')[2]
+        n['polarity'] = info.split(')')[1].split(']')[0]
+        n['aspect'] = info.split(']')[1]
         n['sentence'] = sentence
         n['entry_id'] = entry_id
         n['flags'] = flags
@@ -114,7 +113,7 @@ def opinionToStringPlain(opinion):
     return s
 
 
-# Removes any spaces in the beginning or end of a string; transforms double spaces into single spaces. 
+# Removes any spaces in the beginning or end of a string; transforms double spaces into single spaces.
 def cleanExtraSpaces(text):
     r = text
     while len(r) > 0 and r[0] == ' ':
