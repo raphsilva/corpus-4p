@@ -1,4 +1,4 @@
-# Córpus de opiniões em português sobre produtos eletrênicos para sumarização contrastiva
+# Córpus de opiniões em português sobre produtos eletrônicos para sumarização contrastiva
 
 Este repositório contém um córpus que foi construído para testar métodos de sumarização contrastiva de opinião, que é uma tarefa que visa comparar duas entidades por meio de resumos de textos opinativos sobre elas. Houve anotação manual de informações sobre as opiniões contidas em cada sentença, sendo cada opinião indicada por seu aspecto e polaridade: o aspecto é a característica do produto que a opinião avalia e a polaridade indica se a opinião é positiva ou negativa. As 642 sentenças do córpus foram coletadas de 542 comentários opinativos publicados por compradores no site Buscapé e se referem a quatro produtos diferentes: dois aparelhos de telefone móvel e dois modelos de câmera. O córpus foi estendido por meio da criação de entidades fictícias que contêm sentenças das entidades reais selecionadas com diferentes estratégias, para, com isso, simular outras possibilidades de conjuntos de textos opinativos. Formaram-se dois pares de entidades reais e seis pares fictícios. 
 
