@@ -17,7 +17,7 @@ DIR_ANNOTATED_AUTO = 'input/automatic'
 DIR_FORMATTED_SPLIT = 'formatted/opinions'  # Folder where formatted files will be saved to.
 DIR_FORMATTED_NOSPLIT = 'formatted/sentences'  # Folder where formatted files will be saved to.
 DIR_OUTPUT_JSON= 'formatted/json'  # Folder where formatted files will be saved to.
-DIR_EXTRA_INFO = 'extra'  # Folder where formatted files will be saved to.
+DIR_EXTRA_INFO = 'doublecheck'  # Folder where formatted files will be saved to.
 DIR_COMPARISON = DIR_EXTRA_INFO + '/diff'  # Folder containing differences between revised and automatically annotaded files.
 
 # Create directories 
