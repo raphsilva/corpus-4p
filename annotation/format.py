@@ -15,8 +15,8 @@ DIR_ANNOTATED_MANUAL = 'revised'
 DIR_ANNOTATED_AUTO = 'automatic'
 
 # Output directories
-DIR_FORMATTED_SPLIT = 'formatted/manual split'  # Folder where formatted files will be saved to.
-DIR_FORMATTED_NOSPLIT = 'formatted/automatic split'  # Folder where formatted files will be saved to.
+DIR_FORMATTED_SPLIT = 'formatted/opinions'  # Folder where formatted files will be saved to.
+DIR_FORMATTED_NOSPLIT = 'formatted/sentences'  # Folder where formatted files will be saved to.
 DIR_EXTRA_INFO = 'extra'  # Folder where formatted files will be saved to.
 DIR_COMPARISON = DIR_EXTRA_INFO + '/diff'  # Folder containing differences between revised and automatically annotaded files.
 
