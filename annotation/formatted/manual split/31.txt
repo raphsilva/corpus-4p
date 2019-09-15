@@ -1,0 +1,284 @@
+> ID: 31
+
+> Type: Câmera
+
+> Product: Câmera Digital Canon PowerShot SX520 HS 16.0 Megapixels
+
+> Average rating: 9/10
+
+> Number of reviews: 45
+
+> Collection date: 2018-05-28
+
+> Source: www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels
+
+> Human reviser: Otávio / Raphael
+
+> File generation date: 2019-03-03
+
+#_aspect_____________positive__negative___neutral____non-op_____total
+# ACESSÓRIO                 1         1                             2
+# ARMAZENAMENTO _  _  _  _  _  _  _   1 _  _  _  _  _  _  1 _  _  _ 2
+# ÁUDIO                               1                             1
+# BATERIA _  _  _  _  _  _  1 _  _  _  _  _  _  1 _  _  _  _  _  _  2
+# FOCO                                1                             1
+# FOTO _  _  _  _  _  _  _  5 _  _  _ 2 _  _  _  _  _  _  _  _  _   7
+# IMAGEM                    7                                       7
+# PESO _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
+# PREÇO                     6                                       6
+# PRODUTO _  _  _  _  _  _  9 _  _  _  _  _  _  _  _  _  _  _  _  _ 9
+# RESISTÊNCIA               1                                       1
+# TAMANHO _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
+# TELA                      1                                       1
+# USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _  _  _  _  1 _  _   14
+# VÍDEO                               1                             1
+# ZOOM _  _  _  _  _  _  _  6 _  _  _  _  _  _  _  _  _  _  _  _  _ 6
+# _TOTAL___________________43_________8_________1________15________67
+# _GENERIC _  _  _  _  _   56 _  _  _  _  _  _  _  _  _   1 _  _   57
+# _NONE                                                   3         3
+# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 12 _  _   12
+# _TRASH                                                  1         1
+
+
+
+
+0001)   [+][ACESSÓRIO]         ::  Manual completo.
+
+0002)   [-][ACESSÓRIO]         ::  Algumas informações não vieram no Manual.
+
+0003)  [-.][ARMAZENAMENTO]     ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
+
+0004)   [x][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
+
+0005)   [-][ÁUDIO]             ::  Porém, me incomodou o ruído presente no momento de gravação de videos. A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
+
+0006)   [+][BATERIA]           ::  A bateria é bastante resistente.
+
+0007)   [.][BATERIA]           ::  Bateria com duração razoável.
+
+0008)   [-][FOCO]              ::  Não dá para focar. o flash só acende na hora do disparo.
+
+0009)   [+][FOTO]              ::  Ótimas fotos.
+
+0010)   [+][FOTO]              ::  Uma ótima câmera para quem gosta de fotos.
+
+0011)   [+][FOTO]              ::  A qualidade de imagem para fotos é incrível.
+
+0012)   [+][FOTO]              ::  Tem tb diversas funçoes para tirar foto bem interessante.
+
+0013)  [++][FOTO]              ::  Qualidade das fotos perfeita.
+
+0014)   [-][FOTO]              ::  Foto ruim pouca luminosidade.
+
+0015)   [-][FOTO]              ::  Fotograr à noite ou locais com pouca luminosidade é difícil.
+
+0016)   [+][IMAGEM]            ::  Qualidade da imagem.
+
+0017)   [+][IMAGEM]            ::  A imagem é muito boa.
+
+0018)   [+][IMAGEM]            ::  Imagem de ótima qualidade.
+
+0019)   [+][IMAGEM]            ::  Imagem com resolução muito boa.
+
+0020)   [+][IMAGEM]            ::  Maquina de boa resolução das fotos.
+
+0021)   [+][IMAGEM]            ::  Imagem excelente da pra brincar até de ser fotógrafo!! kkkkkk.
+
+0022)   [+][IMAGEM]            ::  Se você ama registrar momentos noturno essa câmera não deixa a desejar.
+
+0023)   [+][PESO]              ::  Leve.
+
+0024)   [+][PESO]              ::  Câmera leve.
+
+0025)   [+][PREÇO]             ::  Bom custo-beneficio.
+
+0026)   [+][PREÇO]             ::  Ótimo custo-benefício.
+
+0027)   [+][PREÇO]             ::  Excelente custo-benefício.
+
+0028)   [+][PREÇO]             ::  Excelente custo benefício para um iniciante.
+
+0029)   [+][PREÇO]             ::  Adquiri o produto e avalio ótimo custo-benefício.
+
+0030)   [+][PREÇO]             ::  Está em ótimo custo beneficio garanto que quem adquirir esse produto não vai se arrepender.
+
+0031)   [+][PRODUTO]           ::  Boa.
+
+0032)   [+][PRODUTO]           ::  Bom.
+
+0033)   [+][PRODUTO]           ::  Bom.
+
+0034)   [+][PRODUTO]           ::  Bom.
+
+0035)   [+][PRODUTO]           ::  Amei.
+
+0036)   [+][PRODUTO]           ::  Amei.
+
+0037)   [+][PRODUTO]           ::  Otima.
+
+0038)   [+][PRODUTO]           ::  Ótimo!
+
+0039)   [+][PRODUTO]           ::  Adorei!
+
+0040)   [+][PRODUTO]           ::  Mt boa.
+
+0041)   [+][PRODUTO]           ::  Mto Boa.
+
+0042)   [+][PRODUTO]           ::  Excelente.
+
+0043)   [+][PRODUTO]           ::  Muito boa!
+
+0044)   [+][PRODUTO]           ::  Muito bom!
+
+0045)   [+][PRODUTO]           ::  Muito Bom!
+
+0046)   [+][PRODUTO]           ::  Muito bom.
+
+0047)   [+][PRODUTO]           ::  Muito bom.
+
+0048)   [+][PRODUTO]           ::  Recomendo.
+
+0049)   [+][PRODUTO]           ::  Maravilhosa!
+
+0050)   [+][PRODUTO]           ::  Maravilhosa.
+
+0051)   [+][PRODUTO]           ::  Maravilhoso.
+
+0052)   [+][PRODUTO]           ::  Grava Vídeos.
+
+0053)   [+][PRODUTO]           ::  Muita qualidade!
+
+0054)   [+][PRODUTO]           ::  Muitos recursos!
+
+0055)   [+][PRODUTO]           ::  É uma boa câmera.
+
+0056)   [+][PRODUTO]           ::  Adorei o produto.
+
+0057)   [+][PRODUTO]           ::  Câmera muito boa!
+
+0058)   [+][PRODUTO]           ::  Camera muito boa.
+
+0059)   [+][PRODUTO]           ::  Excelente câmera!
+
+0060)   [+][PRODUTO]           ::  Excelente produto.
+
+0061)   [+][PRODUTO]           ::  Excelente produto.
+
+0062)   [+][PRODUTO]           ::  Excelente produto.
+
+0063)   [+][PRODUTO]           ::  Produto Excelente.
+
+0064)   [+][PRODUTO]           ::  Produto muito bom.
+
+0065)   [+][PRODUTO]           ::  Gostei e recomendo!
+
+0066)   [+][PRODUTO]           ::  Ótimo, eu recomendo!
+
+0067)   [+][PRODUTO]           ::  Uma ótima aquisição!
+
+0068)   [+][PRODUTO]           ::  Produto show de bola.
+
+0069)   [+][PRODUTO]           ::  Muito bom ..estou feliz.
+
+0070)   [+][PRODUTO]           ::  Me surpreendeu o produto.
+
+0071)   [+][PRODUTO]           ::  Era tudo o que eu esperava.
+
+0072)   [+][PRODUTO]           ::  Fotos com várias alternativas...
+
+0073)   [+][PRODUTO]           ::  Maravilhosa câmera (Canon SX520)
+
+0074)   [+][PRODUTO]           ::  Me agradou muito sua funcionalidade.
+
+0075)   [+][PRODUTO]           ::  Pode comprar esse produto tem qualidade.
+
+0076)   [+][PRODUTO]           ::  A câmera atende ao que se propõe. Muito boa.
+
+0077)   [+][PRODUTO]           ::  Recomendo essa excelente câmera Canon SX520!
+
+0078)   [+][PRODUTO]           ::  Amei, super recomendo a todos camera maravilhosa.
+
+0079)   [+][PRODUTO]           ::  É tudo que eu esperava, completamente satisfeito!
+
+0080)   [+][PRODUTO]           ::  Recomendo o produto pela sua qualidade, nota 1000.
+
+0081)   [+][PRODUTO]           ::  Correspondente com todas as características citadas.
+
+0082)   [+][PRODUTO]           ::  Ótimo produto, superou minhas expectativas, recomendo.
+
+0083)   [+][PRODUTO]           ::  Produto coerente com todas as especificações técnicas.
+
+0084)   [+][PRODUTO]           ::  Experimentei com um amigo e adorei! Quero uma camera assim.
+
+0085)   [+][PRODUTO]           ::  As funções são variadas e sabendo usá-las a câmera é muito boa.
+
+0086)   [+][PRODUTO]           ::  Estou adorando a experiência com a Canon Powershot SX520! Muito boa, essa câmera!
+
+0087)   [+][PRODUTO]           ::  Ótimo produto, recomendo a todos a compra dessa câmera, para quem gosta de fotos vai suprir todas as necessidades.
+
+0088)  [++][PRODUTO]           ::  Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer.
+
+0089)  [++][PRODUTO]           ::  Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações. Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
+
+0090)  [+.][PRODUTO]           ::  Não tenho mas estou encantada.
+
+0091)  [+.][PRODUTO]           ::  Ótimo produto pra quem está iniciando no ramo de fotografia.
+
+0092)  [+.][PRODUTO]           ::  Produto muito bom para quem é amador e quer tirar fotos no lazer.
+
+0093)  [+.][PRODUTO]           ::  O produto era o que eu esperava, para uma câmera semi-profissional de entrada.
+
+0094)  [+.][PRODUTO]           ::  Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
+
+0095)  [+.][PRODUTO]           ::  Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar.
+
+0096)   [x][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
+
+0097)   [+][RESISTÊNCIA]       ::  Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
+
+0098)  [+.][TAMANHO]           ::  Não tão grande.
+
+0099)  [++][TELA]              ::  Display perfeito.
+
+0100)   [+][USABILIDADE]       ::  Fácil manuseio.
+
+0101)   [+][USABILIDADE]       ::  Fácil manuseio.
+
+0102)   [+][USABILIDADE]       ::  Fácil de manusear.
+
+0103)   [+][USABILIDADE]       ::  Facilidade no uso.
+
+0104)   [+][USABILIDADE]       ::  Facilidade no uso.
+
+0105)   [+][USABILIDADE]       ::  Agradável manuseio.
+
+0106)   [+][USABILIDADE]       ::  Muito fácil de usar.
+
+0107)   [+][USABILIDADE]       ::  Muito fácil manuseio.
+
+0108)   [+][USABILIDADE]       ::  Ótima legal de usar.
+
+0109)   [+][USABILIDADE]       ::  Maquina Boa utilização.
+
+0110)   [+][USABILIDADE]       ::  Amei super facil de usar.
+
+0111)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
+
+0112)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
+
+0113)   [X][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
+
+0114)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
+
+0115)   [+][ZOOM]              ::  Ótimo zoom.
+
+0116)   [+][ZOOM]              ::  Com ótimo zoom.
+
+0117)   [+][ZOOM]              ::  Excelente zoom.
+
+0118)   [+][ZOOM]              ::  Excelente zoom (42).
+
+0119)   [+][ZOOM]              ::  O zoom dela é incrível!
+
+0120)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
+
