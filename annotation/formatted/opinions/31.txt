@@ -253,9 +253,9 @@
 
 009.023.0106)   [+][USABILIDADE]       ::  Muito fácil de usar.
 
-006.015.0107)   [+][USABILIDADE]       ::  Muito fácil manuseio.
+032.079.0107)   [+][USABILIDADE]       ::  Ótima legal de usar.
 
-032.079.0108)   [+][USABILIDADE]       ::  Ótima legal de usar.
+006.015.0108)   [+][USABILIDADE]       ::  Muito fácil manuseio.
 
 020.050.0109)   [+][USABILIDADE]       ::  Maquina Boa utilização.
 

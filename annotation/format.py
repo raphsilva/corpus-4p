@@ -17,7 +17,7 @@ DIR_ANNOTATED_AUTO = 'input/automatic'
 DIR_FORMATTED_SPLIT = 'formatted/opinions'  # Folder where formatted files will be saved to.
 DIR_FORMATTED_NOSPLIT = 'formatted/sentences'  # Folder where formatted files will be saved to.
 DIR_OUTPUT_JSON= 'formatted/json'  # Folder where formatted files will be saved to.
-DIR_EXTRA_INFO = 'extra'  # Folder where formatted files will be saved to.
+DIR_EXTRA_INFO = 'doublecheck'  # Folder where formatted files will be saved to.
 DIR_COMPARISON = DIR_EXTRA_INFO + '/diff'  # Folder containing differences between revised and automatically annotaded files.
 
 # Create directories 
@@ -70,17 +70,16 @@ def getInfo(filename):
 
         sentence = line.split('::')[-1]  # Get sentence from the entry
         info = line.split('::')[0]  # Get info (polarity, aspect, etc) from the sentence
-        info = info.replace('[', '').replace('(', '').replace(' ', '')  # Remove characters that won't be used (they are there for human readability)
+        info = info.replace('[', '').replace('(', '') # Remove characters that won't be used (they are there for human readability)
         line_id = info.split(')')[0]
 
         n = {}  # Will save information about this entry
-
         n['product_id'] = product_id
         n['review_id'] = line_id.split('.')[0]
         n['sentence_id'] = line_id.split('.')[1]
-        n['polarity'] = info.split(']')[1]
-        n['aspect'] = info.split(']')[2]
-        n['sentence'] = sentence
+        n['polarity'] = info.split(' ')[1].split(']')[0]
+        n['aspect'] = cleanExtraSpaces(info.split(']')[1])
+        n['sentence'] = cleanExtraSpaces(sentence)
         n['entry_id'] = entry_id
         n['flags'] = flags
         n['id_complement'] = ''  # Will be used to identify split and joined sentences.
@@ -114,7 +113,7 @@ def opinionToStringPlain(opinion):
     return s
 
 
-# Removes any spaces in the beginning or end of a string; transforms double spaces into single spaces. 
+# Removes any spaces in the beginning or end of a string; transforms double spaces into single spaces.
 def cleanExtraSpaces(text):
     r = text
     while len(r) > 0 and r[0] == ' ':

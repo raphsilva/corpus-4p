@@ -50,7 +50,7 @@
 
 002.004.0004)   [+][ACESSÓRIO]         ::  O produto vem com duas lentes para fotografia.
 
-002.004.0005)   [+][ACESSÓRIO]         ::  Acompanha bateria tampas de lentes para evitar riscos e manchas ao manusear.
+002.004.0005)   [+][ACESSÓRIO]         ::  Acompanha tampas de lentes para evitar riscos e manchas ao manusear.
 
 043.130.0006)   [+][ACESSÓRIO]         ::  Em que pese a lente do kit basico ser de abertura maxima 3,5 nao muito apropriada para ambientes de pouca iluminacao e internos, por ter um sensor grande o ISO pode ir ate 1600 com um minimo de ruido.
 
@@ -110,11 +110,11 @@
 
 002.007.0034)  [-.][PESO]              ::  O peso atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
 
-039.122.0035)   [+][PREÇO]             ::  Ótimo custo benefício.
+023.084.0035)   [+][PREÇO]             ::  Ótimo custo benefício!
 
-005.024.0036)   [+][PREÇO]             ::  Ótimo custo-benefício.
+039.122.0036)   [+][PREÇO]             ::  Ótimo custo benefício.
 
-023.084.0037)   [+][PREÇO]             ::  Ótimo custo benefício!
+005.024.0037)   [+][PREÇO]             ::  Ótimo custo-benefício.
 
 014.056.0038)   [+][PREÇO]             ::  E o preço esta muito bom.
 
@@ -154,17 +154,17 @@
 
 008.041.0056)   [+][PRODUTO]           ::  Excelente.
 
-016.060.0057)   [+][PRODUTO]           ::  Muito Boa.
+014.053.0057)   [+][PRODUTO]           ::  Excelente.
 
-012.050.0058)   [+][PRODUTO]           ::  Muito bom!
+016.060.0058)   [+][PRODUTO]           ::  Muito Boa.
 
-024.086.0059)   [+][PRODUTO]           ::  Muito bom.
+012.050.0059)   [+][PRODUTO]           ::  Muito bom!
 
-039.120.0060)   [+][PRODUTO]           ::  Muito bom.
+024.086.0060)   [+][PRODUTO]           ::  Muito bom.
 
-001.001.0061)   [+][PRODUTO]           ::  Boa Câmera.
+039.120.0061)   [+][PRODUTO]           ::  Muito bom.
 
-014.053.0062)   [+][PRODUTO]           ::  Excelente.
+001.001.0062)   [+][PRODUTO]           ::  Boa Câmera.
 
 019.068.0063)   [+][PRODUTO]           ::  Fantastica.
 
@@ -222,17 +222,17 @@
 
 046.136.0090)   [+][PRODUTO]           ::  Rebel T5 Canon, uma boa opça.
 
-040.123.0091)   [+][PRODUTO]           ::  Ótimo pra quem está começando.
+026.091.0091)   [+][PRODUTO]           ::  Excelente câmera! Vale a pena.
 
-026.091.0092)   [+][PRODUTO]           ::  Excelente câmera! Vale a pena.
+040.123.0092)   [+][PRODUTO]           ::  Ótimo pra quem está começando.
 
 020.071.0093)   [+][PRODUTO]           ::  Tive uma excelente experiência.
 
 025.089.0094)   [+][PRODUTO]           ::  Ótimo p/ elaborar trabalhos etc.
 
-043.130.0095)   [+][PRODUTO]           ::  Confesso que me surpreendi com ela.
+039.121.0095)   [+][PRODUTO]           ::  Produto muito bom, ótima qualidade.
 
-039.121.0096)   [+][PRODUTO]           ::  Produto muito bom, ótima qualidade
+043.130.0096)   [+][PRODUTO]           ::  Confesso que me surpreendi com ela.
 
 009.043.0097)   [+][PRODUTO]           ::  ÓTIMO PRODUTO PARA SEMI PROFISSIONAIS.
 

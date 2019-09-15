@@ -411,11 +411,11 @@
 
 225.579.0183)   [-][EMPRESA]           ::  Evidentemente houve um erro no envio do produto.
 
-221.557.0184)   [-][EMPRESA]           ::  Valor de oferta de 250,00 não corresponde ao produto.
+224.573.0184)   [-][EMPRESA]           ::  Tentei entrar em contato com a Onofre e não consegui.
 
-186.469.0185)   [-][EMPRESA]           ::  Por isso cancelei a compra e adquiri em outra empresa.
+221.557.0185)   [-][EMPRESA]           ::  Valor de oferta de 250,00 não corresponde ao produto.
 
-224.573.0186)   [-][EMPRESA]           ::  Tentei entrar em contato com a Onofre e não consegui.
+186.469.0186)   [-][EMPRESA]           ::  Por isso cancelei a compra e adquiri em outra empresa.
 
 225.589.0187)   [-][EMPRESA]           ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
@@ -1097,13 +1097,13 @@
 
 069.162.0526)   [+][PRODUTO]           ::  E qualidade melhor ainda.
 
-100.241.0527)   [+][PRODUTO]           ::  Produto de boa qualidade.
+175.444.0527)   [+][PRODUTO]           ::  Muito feliz e satisfeita.
 
-055.132.0528)   [+][PRODUTO]           ::  Bom produto, funciona bem.
+100.241.0528)   [+][PRODUTO]           ::  Produto de boa qualidade.
 
-139.341.0529)   [+][PRODUTO]           ::  Celular com bons recursos.
+055.132.0529)   [+][PRODUTO]           ::  Bom produto, funciona bem.
 
-175.444.0530)   [+][PRODUTO]           ::  Muito feliz e satisfeita.
+139.341.0530)   [+][PRODUTO]           ::  Celular com bons recursos.
 
 160.394.0531)   [+][PRODUTO]           ::  Produto de alta qualidade.
 
@@ -1425,9 +1425,9 @@
 
 224.571.0690)   [-][RESISTÊNCIA]       ::  Aparelho com problema.
 
-217.547.0691)   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
+067.158.0691)   [-][RESISTÊNCIA]       ::  As partes em plástico o tornam frágil.
 
-067.158.0692)   [-][RESISTÊNCIA]       ::  As partes em plástico o tornam frágil.
+217.547.0692)   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
 
 223.567.0693)   [-][RESISTÊNCIA]       ::  Recebi o produto mas o mesmo não carregava.
 
