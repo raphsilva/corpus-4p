@@ -12,7 +12,7 @@
 
 > Source: www.buscape.com.br/avaliacoes/canon-eos-rebel-t5-18-0-megapixels
 
-> Human reviser: Raphael
+> Human revisers: Raphael (May 2018, September 2019)
 
 
 
@@ -21,7 +21,7 @@
 
 (001.001)[] [+][PRODUTO]  ::  Boa Câmera.
 
-x(001.002)[] [+][PRODUTO]  ::  Pouca, recém comprada.
+b(001.002)[] [+][PRODUTO]  ::  Pouca, recém comprada.
 
 
 
@@ -171,7 +171,7 @@ d(010.045)[] [+][PRODUTO]  ::  Bom.
 
 
 
-x(012.049)[] [+][PRODUTO]  ::  Câmera rebel T5.
+b(012.049)[] [+][PRODUTO]  ::  Câmera rebel T5.
 
 (012.050)[] [+][PRODUTO]  ::  Muito bom!
 
@@ -373,7 +373,7 @@ d(030.099)[] [+][PRODUTO]  ::  Recomendo, recomendo super.
 
 
 
-x(034.110)[] [+][PRODUTO]  ::  Canon t5.
+b(034.110)[] [+][PRODUTO]  ::  Canon t5.
 
 (034.111)[] [+][PRODUTO]  ::  Produto de excelente qualidade ! recomendo a todos .
 

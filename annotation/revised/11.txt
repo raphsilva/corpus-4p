@@ -12,7 +12,7 @@
 
 > Source: www.buscape.com.br/smartphone-samsung-galaxy-j5-prime-sm-g570m
 
-> Human editor: Raphael (May 2018)
+> Human revisers: Raphael (May 2018, September 2019)
 
 
 
@@ -72,7 +72,7 @@ d(004.010)[] [-][EMPRESA] :: Na propaganda diz ter tv digital é mentira.
 
 
 
-x(007.017)[] [.][PRODUTO] :: Qualidade.
+b(07.017)[] [.][PRODUTO] :: Qualidade.
 
 (007.018)[a] [-][PRODUTO] :: Produto deixa a desejar.
 (007.018)[b] [-][DESIGN] :: Bordas metalicas riscam com facilidade.
@@ -312,28 +312,28 @@ d(030.076)[] [+][DESIGN] :: Amigável, rapido, excelente acabamento.
 
 
 
-x(034.084)[] [+][PRODUTO] :: Xvcxcvc.
+u(034.084)[] [+][PRODUTO] :: Xvcxcvc.
 
-x(034.085)[] [+][PRODUTO] :: Tá bom, tá é bom.
-
-
+b(034.085)[] [+][PRODUTO] :: Tá bom, tá é bom.
 
 
-x(035.086)[] [+][PRODUTO] :: Não seio o porque estou respondendo está pesquisa!!!!
-
-x(035.087)[] [+][PRODUTO] :: Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
 
 
-x(035.088)[] [+][PRODUTO] :: Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
+i(035.086)[] [+][PRODUTO] :: Não seio o porque estou respondendo está pesquisa!!!!
+
+i(035.087)[] [+][PRODUTO] :: Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
 
 
-x(035.089)[] [+][PRODUTO] :: Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
+i(035.088)[] [+][PRODUTO] :: Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
 
 
-x(035.090)[] [+][PRODUTO] :: CISSA MAGAZINE...
+i(035.089)[] [+][PRODUTO] :: Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
 
 
-x(035.091)[] [+][PRODUTO] :: SEM FUTURO!!!!!!
+b(035.090)[] [+][PRODUTO] :: CISSA MAGAZINE...
+
+
+b(035.091)[] [+][PRODUTO] :: SEM FUTURO!!!!!!
 
 
 
@@ -355,7 +355,7 @@ x(035.091)[] [+][PRODUTO] :: SEM FUTURO!!!!!!
 
 
 
-x(037.097)[] [+][PRODUTO] :: Samsung S7.
+b(037.097)[] [+][PRODUTO] :: Samsung S7.
 
 (037.098)[] [+][PRODUTO] :: Muito bom.
 
@@ -575,12 +575,13 @@ x(037.097)[] [+][PRODUTO] :: Samsung S7.
 
 
 
-x(057.162)[] [+][PRODUTO] :: Porque tenho que avaliar se não tenho o produto.
+i(057.162)[] [+][PRODUTO] :: Porque tenho que avaliar se não tenho o produto.
 
-x(057.163)[] [-][EMPRESA] :: Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
+i(057.163)[] [-][EMPRESA] :: Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
 
 
-x(057.164)[] [+.][PRODUTO] :: Pelo que ouço, é um aparelho muito bom, vou comprar, mas por hora, não sou capaz de opinar.
+(057.164)[] [+.][PRODUTO] :: Pelo que ouço, é um aparelho muito bom, vou comprar
+(057.164)[] [.][PRODUTO] :: por hora, não sou capaz de opinar.
 
 
 
@@ -648,7 +649,7 @@ x(057.164)[] [+.][PRODUTO] :: Pelo que ouço, é um aparelho muito bom, vou comp
 
 
 
-x(064.184)[] [+][PRODUTO] :: Na promoção da Fast Shop vale a pena.
+(064.184)[] [+.][PRODUTO] :: Na promoção da Fast Shop vale a pena.
 
 (064.185)[a] [+][PRODUTO] :: O S7 Edge é um telefone excepcional.
 (064.185)[b] [+][PREÇO] :: A R$2200,00 na promoção da Fast, é o melhor custo-benefício do mercado até o momento.
@@ -690,7 +691,7 @@ x(064.184)[] [+][PRODUTO] :: Na promoção da Fast Shop vale a pena.
 
 
 
-x(067.196)[] [.][PRODUTO] :: Samsung Galaxy S7.
+b(067.196)[] [.][PRODUTO] :: Samsung Galaxy S7.
 
 (067.197)[] [+][SISTEMA] :: Interface mais fluida que a versão anterior.
 (067.197)[] [+][DESEMPENHO] :: Rápido!
@@ -741,7 +742,7 @@ d(068.199)[] [+][PRODUTO] :: Otimo.
 
 
 
-x(072.210)[] [+][PRODUTO] :: Cor.
+b(072.210)[] [+][PRODUTO] :: Cor.
 
 (072.211)[] [-][DESIGN] :: A cor prata é bem enjoativa.
 
@@ -796,7 +797,7 @@ x(072.210)[] [+][PRODUTO] :: Cor.
 
 
 
-x(080.228)[] [.][PRODUTO] :: Samsung s7.
+b(080.228)[] [.][PRODUTO] :: Samsung s7.
 
 (080.229)[] [+][PRODUTO] :: Bom produto.
 
@@ -942,7 +943,7 @@ d(087.266)[] [+][PRODUTO] :: Uso muito o aparelho.
 
 
 
-x(090.273)[] [.][PRODUTO] :: MEU S7.
+b(090.273)[] [.][PRODUTO] :: MEU S7.
 
 (090.274)[] [+][PRODUTO] :: SUPER RECOMENDO, POIS A BATERIA DE TODOS SÃO RUINS, NO MAIS ELE É MARAVILHOSO.
 
@@ -954,9 +955,9 @@ x(090.273)[] [.][PRODUTO] :: MEU S7.
 
 
 
-x(092.277)[] [+][PRODUTO] :: NÃO LEIA A DESCRIÇÃO.
+i(092.277)[] [+][PRODUTO] :: NÃO LEIA A DESCRIÇÃO.
 
-x(092.278)[] [+][PRODUTO] :: NÃO LEIA O TITULO.
+i(092.278)[] [+][PRODUTO] :: NÃO LEIA O TITULO.
 
 
 
@@ -1287,7 +1288,7 @@ d(104.311)[] [+][ ] :: Ótimo produto
 
 
 
-x(124.371)[] [+][PRODUTO] :: S7 Edge.
+b(124.371)[] [+][PRODUTO] :: S7 Edge.
 
 (124.372)[] [+][PRODUTO] :: Ótimo.
 
@@ -1579,7 +1580,7 @@ d(145.431)[] [+][PRODUTO] :: Maravilhosa.
 (153.455)[] [+][CÂMERA] :: A câmera traseira é muito boa, porém em condições de baixa luminosidade a perda de qualidade é absurda.
 
 
-x(153.456)[] [+][CÂMERA BATERIA] :: O mesmo para a câmera traseira, guardadas as devidas proporções. 
+b(153.456)[] [+][CÂMERA BATERIA] :: O mesmo para a câmera traseira, guardadas as devidas proporções.
 (153.456)[] [+][DESEMPENHO] :: Os apps não travam nem engasgam.
 (153.456)[] [-][BATERIA] ::  A duração da bateria não é tão boa quanto deveria. Tem dias que dura apenas 10 horas de uso moderado.
 
@@ -1660,7 +1661,7 @@ d(162.486)[] [+][PRODUTO] :: Produto de alta qualidade e performance.
 
 (163.487)[] [+][PRODUTO] :: Aparelho excelente, cumpre com o prometido.
 
-x(163.488)[] [][] :: Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
+b(163.488)[] [][] :: Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
 
 
 (163.489)[] [++][PRODUTO] :: Não há aparelho melhor no mercado.
@@ -1762,7 +1763,8 @@ x(163.488)[] [][] :: Todos os aspectos marcados acima retratam fielmente o apare
 (170.517)[] [+][USABILIDADE] :: Bastante simplificado.
 
 
-x(170.518)[] [+][DESEMPENHO] :: Não possui a mesma beleza de um iphone mais o processador não se compara com o mesmo.
+(170.518)[] [-][DESIGN] :: Não possui a mesma beleza de um iphone
+b(170.518)[] [+][DESEMPENHO] :: mais o processador não se compara com o mesmo.
 
 
 
@@ -1992,7 +1994,7 @@ d(188.575)[] [+][PRODUTO] :: Aparelho excelente.
 
 
 
-x(191.586)[] [+][PRODUTO] :: Celular samsung.
+b(191.586)[] [+][PRODUTO] :: Celular samsung.
 
 (191.587)[] [+][PRODUTO] :: Boa.
 
@@ -2172,7 +2174,7 @@ x(191.586)[] [+][PRODUTO] :: Celular samsung.
 (208.638)[] [-][EMPRESA] :: Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. 
 
 
-x(208.639)[] [][X] :: Não há explicações para a fragilidade de um produto qu.
+b(208.639)[] [][X] :: Não há explicações para a fragilidade de um produto qu.
 
 
 
@@ -2213,9 +2215,9 @@ x(208.639)[] [][X] :: Não há explicações para a fragilidade de um produto qu
 
 
 
-x(213.654)[] [-][PRODUTO] :: Boa.
+b(213.654)[] [-][PRODUTO] :: Boa.
 
-x(213.655)[] [-][PRODUTO] :: Foi boa.
+b(213.655)[] [-][PRODUTO] :: Foi boa.
 
 
 
@@ -2223,10 +2225,10 @@ x(213.655)[] [-][PRODUTO] :: Foi boa.
 (214.656)[] [+][PRODUTO] :: Ótima tecnologia
 (214.656)[] [-][RESISTÊNCIA] :: péssima resistência.
 
-x(214.657)[] [][x] :: Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
+c(214.657)[] [][x] :: Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
 
 
-x(214.658)[] [][x] :: Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
+c(214.658)[] [][x] :: Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
 
 
 (214.659)[] [-][RESISTÊNCIA] :: Recentemente comprei um Galaxy S7, em 3 dias, numa pequena queda trincou parte do display (falo pequena queda porque os outros modelos que tive, sofreram quedas piores e permaneceram intactos). Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
@@ -2248,9 +2250,9 @@ x(214.658)[] [][x] :: Depois disso, os modelos que tive foram super resistentes 
 
 
 
-x(218.670)[] [-][PRODUTO] :: Nao comprei.
+i(218.670)[] [-][PRODUTO] :: Nao comprei.
 
-x(218.671)[] [-][PRODUTO] :: Nao comprei.
+i(218.671)[] [-][PRODUTO] :: Nao comprei.
 
 
 
@@ -2265,7 +2267,7 @@ x(218.671)[] [-][PRODUTO] :: Nao comprei.
 
 
 
-x(220.675)[] [-][PRODUTO] :: Geral.
+b(220.675)[] [-][PRODUTO] :: Geral.
 
 (220.676)[] [-][ACESSÓRIO] :: Achei ruim a tela ter as bordas curvas, pois nao se encontra o protetor de tela, o que é muito complicado.
 

@@ -12,7 +12,7 @@
 
 > Source: www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels
 
-> Human reviser: Otávio / Raphael
+> Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
 
 
@@ -404,7 +404,7 @@ d(043.107)[] [+][PRODUTO]  ::  MT bom.
 
 (045.111)[] [+][PRODUTO]  ::  Bom.
 
-x(045.112)[] [.][PRODUTO]  ::  Nenhuma.
+b(045.112)[] [.][PRODUTO]  ::  Nenhuma.
 
 
 
