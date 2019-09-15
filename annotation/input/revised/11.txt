@@ -65,7 +65,7 @@ d(004.010) [-][EMPRESA] :: Na propaganda diz ter tv digital é mentira.
 
 (006.014) [+][PRODUTO] :: Top de linha de verdade.
 
-(006.015) [X][PRODUTO] :: Sempre quis um aparelho da linha S.
+(006.015) [+.][PRODUTO] :: Sempre quis um aparelho da linha S.
 (006.015) [+][TAMANHO] :: O S7 tem o tamanho perfeito para não chamar muita atenção.
 (006.015) [+][DESEMPENHO] :: Desempenho fantástico.
 
