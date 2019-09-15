@@ -64,4 +64,4 @@ A versão para leitura automática do conjunto de dados contém 16 arquivos em f
 
 O diretório de anotação contém todos os dados extraídos da fonte e as informações inseridas pelos anotadores. Ela contém arquivos para os quatro produtos cujos comentários foram coletados.
 
-
+Além dos conjuntos de dados, o diretório contém o script que foi usado para transformar os dados anotados em seu formato final.
