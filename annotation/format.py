@@ -16,6 +16,7 @@ DIR_ANNOTATED_AUTO = 'input/automatic'
 # Output directories
 DIR_FORMATTED_SPLIT = 'formatted/opinions'  # Folder where formatted files will be saved to.
 DIR_FORMATTED_NOSPLIT = 'formatted/sentences'  # Folder where formatted files will be saved to.
+DIR_OUTPUT_JSON= 'formatted/json'  # Folder where formatted files will be saved to.
 DIR_EXTRA_INFO = 'extra'  # Folder where formatted files will be saved to.
 DIR_COMPARISON = DIR_EXTRA_INFO + '/diff'  # Folder containing differences between revised and automatically annotaded files.
 
@@ -497,7 +498,7 @@ for filename in files_to_read:
         i['sentence'] = i['sentence'].replace('\"', '&dquote&')
         i['sentence'] = i['sentence'].replace('\'', '&squote&')
 
-    f = open(DIR_FORMATTED_NOSPLIT + '/json/' + filename_save + '.json', 'w')
+    f = open(DIR_OUTPUT_JSON + '/' + filename_save + '.json', 'w')
     f.write(json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
     f.close()
 
