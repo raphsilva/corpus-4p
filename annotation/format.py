@@ -78,8 +78,8 @@ def getInfo(filename):
         n['review_id'] = line_id.split('.')[0]
         n['sentence_id'] = line_id.split('.')[1]
         n['polarity'] = info.split(' ')[1].split(']')[0]
-        n['aspect'] = info.split(']')[1]
-        n['sentence'] = sentence
+        n['aspect'] = cleanExtraSpaces(info.split(']')[1])
+        n['sentence'] = cleanExtraSpaces(sentence)
         n['entry_id'] = entry_id
         n['flags'] = flags
         n['id_complement'] = ''  # Will be used to identify split and joined sentences.
