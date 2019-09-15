@@ -296,6 +296,7 @@ for filename in files_to_read:
         n = {}
         n['aspect'] = []
         n['polarity'] = []
+        n['excerpts'] = []
         n['review_id'] = r['review_id']
         n['product_id'] = r['product_id']
         n['sentence_id'] = r['sentence_id']
@@ -303,6 +304,7 @@ for filename in files_to_read:
 
         for p in data_revised:
             if p['sentence_id'] == r['sentence_id']:
+                n['excerpts'].append(p['sentence'])
                 if p['flags'] != '':
                     if p['flags'] == 'd':
                         n['aspect'] = ['_DUPLICATE']
@@ -479,6 +481,8 @@ for filename in files_to_read:
         del i['review_id']
         i['id'] = int(i['sentence_id'])
         del i['sentence_id']
+        if len(i['excerpts']) <= 1:
+            del i['excerpts']
 
     s['meta']['Human editor'] = None
     del s['meta']['Human editor']

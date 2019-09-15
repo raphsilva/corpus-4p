@@ -131,6 +131,10 @@
             "sentence": "Ótimo, eu recomendo!"
         },
         {
+            "excerpts": [
+                "  Correspondente com todas as características citadas",
+                " muito fácil manuseio."
+            ],
             "id": 15,
             "opinions": [
                 [
@@ -205,6 +209,10 @@
             "sentence": "O produto era o que eu esperava, para uma câmera semi-profissional de entrada."
         },
         {
+            "excerpts": [
+                "  A imagem é muito boa.",
+                "  muito fácil de usar."
+            ],
             "id": 23,
             "opinions": [
                 [
@@ -239,6 +247,11 @@
             "sentence": "A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece."
         },
         {
+            "excerpts": [
+                "  Não recomento a câmera para quem queira fazer videos profissionais",
+                "  é uma boa câmera",
+                "  a qualidade de imagem para fotos é incrível."
+            ],
             "id": 26,
             "opinions": [
                 [
@@ -287,6 +300,12 @@
             "sentence": "Uma ótima aquisição!"
         },
         {
+            "excerpts": [
+                "  Camera muito boa.",
+                "  imagem excelente da pra brincar até de ser fotógrafo!! kkkkkk.",
+                "  a bateria é bastante resistente.",
+                "  tem tb diversas funçoes para tirar foto bem interessante."
+            ],
             "id": 30,
             "opinions": [
                 [
@@ -379,6 +398,11 @@
             "sentence": "Excelente produto."
         },
         {
+            "excerpts": [
+                "  Imagem com resolução muito boa.",
+                "  bateria com duração razoável.",
+                "  fácil de manusear."
+            ],
             "id": 38,
             "opinions": [
                 [
@@ -417,6 +441,10 @@
             "sentence": "Facilidade no uso."
         },
         {
+            "excerpts": [
+                "  Maquina de fácil utilização.",
+                "  Maquina de boa resolução das fotos."
+            ],
             "id": 41,
             "opinions": [
                 [
@@ -521,6 +549,10 @@
             "sentence": "Maquina Boa utilização."
         },
         {
+            "excerpts": [
+                "  Qualidade da imagem.",
+                "  facilidade no uso."
+            ],
             "id": 51,
             "opinions": [
                 [
@@ -565,6 +597,10 @@
             "sentence": "Muito boa!"
         },
         {
+            "excerpts": [
+                "  Câmera muito boa!",
+                "  O zoom dela é incrível!"
+            ],
             "id": 55,
             "opinions": [
                 [
@@ -629,6 +665,12 @@
             "sentence": "Maravilhosa câmera (Canon SX520)"
         },
         {
+            "excerpts": [
+                "  Estou adorando a experiência com a Canon Powershot SX520! Muito boa, essa câmera!",
+                "  Excelente zoom (42).",
+                "  ótimas fotos.",
+                "  fotos com várias alternativas..."
+            ],
             "id": 61,
             "opinions": [
                 [
@@ -661,6 +703,15 @@
             "sentence": "Excelente câmera!"
         },
         {
+            "excerpts": [
+                "  Recomendo essa excelente câmera Canon SX520!",
+                "  Me agradou muito sua funcionalidade.",
+                "  com ótimo zoom.",
+                "  leve.",
+                "  agradável manuseio.",
+                "  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.",
+                "  Mas já substituí o cartão de 8gb por um de 32gb."
+            ],
             "id": 63,
             "opinions": [
                 [
@@ -745,6 +796,10 @@
             "sentence": "Produto muito bom."
         },
         {
+            "excerpts": [
+                "  Excelente zoom.",
+                "  muitos recursos!"
+            ],
             "id": 69,
             "opinions": [
                 [
@@ -869,6 +924,13 @@
             "sentence": "Maravilhosa!"
         },
         {
+            "excerpts": [
+                "  Câmera leve.",
+                "  fácil manuseio.",
+                "  manual completo.",
+                "  display perfeito.",
+                "  qualidade das fotos perfeita."
+            ],
             "id": 81,
             "opinions": [
                 [
@@ -1085,6 +1147,10 @@
             "sentence": "Experimentei com um amigo e adorei! Quero uma camera assim."
         },
         {
+            "excerpts": [
+                "  Fácil manuseio.",
+                "  não tão grande."
+            ],
             "id": 101,
             "opinions": [
                 [
@@ -1119,6 +1185,10 @@
             "sentence": "Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer."
         },
         {
+            "excerpts": [
+                "  Está em ótimo custo beneficio garanto que quem adquirir esse produto não vai se arrepender.",
+                "  se você ama registrar momentos noturno essa câmera não deixa a desejar."
+            ],
             "id": 105,
             "opinions": [
                 [
