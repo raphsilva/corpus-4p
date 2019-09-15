@@ -227,7 +227,7 @@ b  [021.047][]   [x][_BROKEN]           ::  Moto G.
 
    [030.070][]   [+][PREÇO]             ::  O preço estava bom.
 
-   [030.070][]   [+][EMPRESA]           ::  chegou bem rápido.
+   [030.070][]   [+][_outscope]           ::  chegou bem rápido.
 
    [031.071][]   [+][PREÇO]             ::  Excelente custo-benefício.
 
@@ -285,7 +285,7 @@ b  [033.080][]   [x][_BROKEN]           ::  Moto G5plus.
 
    [037.089][]   [+][USABILIDADE]       ::  fácil mexer, até o momento não tenho queixas.
 
-   [037.090][]   [+][EMPRESA]           ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+   [037.090][]   [+][_outscope]           ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
 
    [038.091][]   [+][PRODUTO]           ::  Ótimo produto.
 
@@ -507,7 +507,7 @@ i  [072.169][]   [x][_IRRELEVANT]       ::  Já tive um moto E.
 
    [074.172][]   [+][PRODUTO]           ::  Bom aparelho, atende na maioria dos requisitos!
 
-   [074.173][]   [+][EMPRESA]           ::  Entrega rápida.
+   [074.173][]   [+][_outscope]           ::  Entrega rápida.
 
    [074.173][]   [+][PRODUTO]           ::  e até então estou gostando muito do aparelho.
 
@@ -555,7 +555,7 @@ i  [072.169][]   [x][_IRRELEVANT]       ::  Já tive um moto E.
 
    [081.189][]   [+][PREÇO]             ::  Celular com ótimo custo-benefício.
 
-   [081.190][]   [+][EMPRESA]           ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
+   [081.190][]   [+][_outscope]           ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
 
    [081.190][]   [+][PRODUTO]           ::  produto muito bom, atendendo as expectativas da marca Moto.
 
@@ -599,7 +599,7 @@ i  [072.169][]   [x][_IRRELEVANT]       ::  Já tive um moto E.
 
    [086.205][]  [+.][PRODUTO]           ::  nao tive nenhum problema por enquanto.
 
-   [086.206][]   [+][EMPRESA]           ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
+   [086.206][]   [+][_outscope]           ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
 
    [087.207][]   [+][PRODUTO]           ::  Intermediário de ponta.
 
@@ -709,11 +709,11 @@ b  [096.230][]   [x][_BROKEN]           ::  Moto g 5 Plus.
 
    [105.252][]   [-][CÂMERA]            ::  e a camera deixa bastante a desejar.
 
-   [106.253][]   [-][EMPRESA]           ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+   [106.253][]   [-][_outscope]           ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
 
-   [106.254][]   [-][EMPRESA]           ::  COMO VOU SABER, SE NÃO RECEBI.
+   [106.254][]   [-][_outscope]           ::  COMO VOU SABER, SE NÃO RECEBI.
 
-   [106.255][]  [--][EMPRESA]           ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+   [106.255][]  [--][_outscope]           ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
 
    [107.256][]   [+][PREÇO]             ::  Bom custo/beneficio.
 
@@ -849,7 +849,7 @@ b  [124.298][]   [x][_BROKEN]           ::  Bateria.
 
    [126.312][]   [+][PRODUTO]           ::  Bem...é bem legal.
 
-   [126.312][]   [-][EMPRESA]           ::  faltou um pouco de capricho pelo fabricante.
+   [126.312][]   [-][_outscope]           ::  faltou um pouco de capricho pelo fabricante.
 
 b  [127.313][]   [x][_BROKEN]           ::  Pesquisa de opiniao - compra smartphone moto g5.
 
@@ -913,7 +913,7 @@ b  [136.333][]   [x][_BROKEN]           ::  Moto G Plus.
 
    [138.338][]   [+][PREÇO]             ::  Celular de ótimo custo-benefício.
 
-   [138.338][]   [+][EMPRESA]           ::  entregue antes do prazo.
+   [138.338][]   [+][_outscope]           ::  entregue antes do prazo.
 
    [138.339][]   [+][PRODUTO]           ::  Recomendo.
 
@@ -1257,7 +1257,7 @@ b  [184.463][]   [x][_BROKEN]           ::  Moto G5.
 
    [184.464][]   [+][PRODUTO]           ::  Ótimo produto.
 
-   [184.464][]   [+][EMPRESA]           ::  entrega rápida.
+   [184.464][]   [+][_outscope]           ::  entrega rápida.
 
    [184.464][]   [-][DESEMPENHO]        ::  só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 
@@ -1273,13 +1273,13 @@ b  [184.463][]   [x][_BROKEN]           ::  Moto G5.
 
    [186.467][]   [+][PRODUTO]           ::  O produto é muito bom.
 
-   [186.467][]   [-][EMPRESA]           ::  não comprei na empresa efacil, empresa ruim.
+   [186.467][]   [-][_outscope]           ::  não comprei na empresa efacil, empresa ruim.
 
 d  [186.468][]   [x][_DUPLICATE]        ::  O produto é muito bom.
 
-   [186.468][]   [-][EMPRESA]           ::  não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+   [186.468][]   [-][_outscope]           ::  não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
-   [186.469][]   [-][EMPRESA]           ::  Por isso cancelei a compra e adquiri em outra empresa.
+   [186.469][]   [-][_outscope]           ::  Por isso cancelei a compra e adquiri em outra empresa.
 
    [187.470][]   [+][PRODUTO]           ::  Muito bom produto.
 
@@ -1439,9 +1439,9 @@ i  [214.535][]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário de
 
    [215.536][]   [-][PRODUTO]           ::  O produto e intermediario digamos que pobre tem que tomar no *** memo.
 
-   [215.537][]   [-][EMPRESA]           ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+   [215.537][]   [-][_outscope]           ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
 
-   [215.538][]   [-][EMPRESA]           ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
+   [215.538][]   [-][_outscope]           ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
 
    [215.539][]   [-][PRODUTO]           ::  E se vcs quiserem celular bom indico que procurem um iphone da apple mesmo versões mais antigas pois nunca perdem valor de mercado apple e apple...
 
@@ -1457,7 +1457,7 @@ i  [214.535][]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário de
 
    [216.545][]  [--][PRODUTO]           ::  Foi o pior aparelho que já comprei, não recomendo para ninguem.
 
-   [216.546][]  [--][EMPRESA]           ::  Motorola nunca mais!
+   [216.546][]  [--][_outscope]           ::  Motorola nunca mais!
 
    [217.547][]   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
 
@@ -1493,11 +1493,11 @@ i  [214.535][]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário de
 
    [220.556][]   [-][PRODUTO]           ::  Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
 
-   [221.557][]   [-][EMPRESA]           ::  Valor de oferta de 250,00 não corresponde ao produto.
+   [221.557][]   [-][_outscope]           ::  Valor de oferta de 250,00 não corresponde ao produto.
 
-   [221.558][]   [-][EMPRESA]           ::  Verificar a oferta do Shoptime.
+   [221.558][]   [-][_outscope]           ::  Verificar a oferta do Shoptime.
 
-   [221.559][]   [-][EMPRESA]           ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+   [221.559][]   [-][_outscope]           ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
 
    [222.561][]  [--][PRODUTO]           ::  MOTO G5: Pior opção possível.
 
@@ -1533,39 +1533,39 @@ i  [214.535][]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário de
 
    [224.572][]   [-][BATERIA]           ::  O produto após duas semanas não carrega mais.
 
-   [224.573][]   [-][EMPRESA]           ::  Tentei entrar em contato com a Onofre e não consegui.
+   [224.573][]   [-][_outscope]           ::  Tentei entrar em contato com a Onofre e não consegui.
 
-   [225.574][]   [-][EMPRESA]           ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+   [225.574][]   [-][_outscope]           ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
 
-   [225.575][]   [-][EMPRESA]           ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+   [225.575][]   [-][_outscope]           ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-   [225.576][]   [.][EMPRESA]           ::  A promessa foi que o produto seria entregue até 09/05/17.
+   [225.576][]   [.][_outscope]           ::  A promessa foi que o produto seria entregue até 09/05/17.
 
-   [225.577][]   [.][EMPRESA]           ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+   [225.577][]   [.][_outscope]           ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
-   [225.578][]   [-][EMPRESA]           ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+   [225.578][]   [-][_outscope]           ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
-   [225.579][]   [-][EMPRESA]           ::  Evidentemente houve um erro no envio do produto.
+   [225.579][]   [-][_outscope]           ::  Evidentemente houve um erro no envio do produto.
 
 c  [225.580][]   [x][_CONTEXT]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
 c  [225.581][]   [x][_CONTEXT]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
-   [225.582][]   [-][EMPRESA]           ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+   [225.582][]   [-][_outscope]           ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 
-   [225.583][]   [.][EMPRESA]           ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+   [225.583][]   [.][_outscope]           ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
 
-   [225.584][]   [.][EMPRESA]           ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+   [225.584][]   [.][_outscope]           ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
 
-   [225.585][]   [-][EMPRESA]           ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+   [225.585][]   [-][_outscope]           ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
 
-   [225.586][]   [-][EMPRESA]           ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+   [225.586][]   [-][_outscope]           ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
 
 i  [225.587][]   [x][_IRRELEVANT]       ::  O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
-   [225.588][]   [-][EMPRESA]           ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
+   [225.588][]   [-][_outscope]           ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
 
-   [225.589][]   [-][EMPRESA]           ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+   [225.589][]   [-][_outscope]           ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
    [226.590][]   [+][PREÇO]             ::  Boa relação custo-benefício.
 
@@ -1579,13 +1579,13 @@ i  [225.587][]   [x][_IRRELEVANT]       ::  O aparelho era um presente para a mi
 
    [227.596][]   [-][PRODUTO]           ::  Estou insatisfeita com o produto que eu adquiri.
 
-   [227.597][]   [-][EMPRESA]           ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
+   [227.597][]   [-][_outscope]           ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
 
    [227.598][]   [-][BATERIA]           ::  A bateria mal da pra um dia completo.
 
    [227.599][]   [-][PRODUTO]           ::  Estou muito infeliz com a compra desse produto.
 
-   [227.599][]   [-][EMPRESA]           ::  dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+   [227.599][]   [-][_outscope]           ::  dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
    [227.600][]   [-][PRODUTO]           ::  Moto g 5 , não indico pra ninguém.
 
@@ -1597,9 +1597,9 @@ i  [225.587][]   [x][_IRRELEVANT]       ::  O aparelho era um presente para a mi
 
    [228.604][]   [-][OUTRO]             ::  Troca de bateria só pode ser feita na assistência técnica, pois não é possível abrir a tampa do aparelho.
 
-   [228.605][]   [-][EMPRESA]           ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+   [228.605][]   [-][_outscope]           ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
 
-   [228.606][]   [-][EMPRESA]           ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+   [228.606][]   [-][_outscope]           ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
 
    [228.607][]  [--][PRODUTO]           ::  MOTO G ou MOTO Z NUNCA MAIS!
 
