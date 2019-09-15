@@ -14,7 +14,7 @@
 
 > Human editor: Raphael (May 2018)
 
-> File generation date: 2019-03-03
+> File generation date: 2019-09-15
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                          11                            11
@@ -27,1529 +27,1651 @@
 # OUTRO _  _  _  _  _  _   14 _  _   10 _  _  _  _  _  _  1 _  _   25
 # PESO                      2         3                             5
 # PREÇO _  _  _  _  _  _   13 _  _   18 _  _  _  _  _  _  _  _  _  31
-# PRODUTO                  65         2         1         3        71
+# PRODUTO                 359         8         3        15       385
 # RESISTÊNCIA _  _  _  _  _ 7 _  _   15 _  _  _ 2 _  _  _  _  _  _ 24
 # SISTEMA                   8         2                            10
 # TAMANHO _  _  _  _  _  _  3 _  _  _  _  _  _  _  _  _  _  _  _  _ 3
 # TELA                     19         1                            20
 # USABILIDADE _  _  _  _  _ 9 _  _  _  _  _  _  _  _  _  _  _  _  _ 9
 # X                         1         2                   6         9
-# _TOTAL__________________242________89_________6________60_______397
-# _GENERIC                292         6         1        12       311
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 25 _  _   25
-# _TRASH                                                 33        33
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   33 _  _   33
+# _TOTAL__________________242________89_________6________58_______395
+# _BROKEN                                                18        18
+# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
+# _DUPLICATE                                             25        25
+# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _   10 _  _   10
+# _NONE                                                  33        33
+# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
 
 
 
 
-0001)   [-][ACESSÓRIO]         ::  Complicado de encontrar películas compatíveis com a tela toda.
+007.019.0001)   [-][ACESSÓRIO]         ::  Complicado de encontrar películas compatíveis com a tela toda.
 
-0002)   [-][ACESSÓRIO]         ::  O mais estranho é que existe película para o Edge, mas para o flat não.
+181.548.0002)   [-][ACESSÓRIO]         ::  O mais estranho é que existe película para o Edge, mas para o flat não.
 
-0003)   [-][ACESSÓRIO]         ::  Um ponto negativo é não achar em lugar nenhum película protetora de tela pro modelo flat.
+063.183.0003)   [-][ACESSÓRIO]         ::  Um ponto negativo é não achar em lugar nenhum película protetora de tela pro modelo flat.
 
-0004)   [-][ACESSÓRIO]         ::  Achei ruim a tela ter as bordas curvas, pois nao se encontra o protetor de tela, o que é muito complicado.
+220.676.0004)   [-][ACESSÓRIO]         ::  Achei ruim a tela ter as bordas curvas, pois nao se encontra o protetor de tela, o que é muito complicado.
 
-0005)   [-][ACESSÓRIO]         ::  Ele não vem com película protetora, como o J7, e no mercado NÃO existe uma que ajuste 100%, devido a tela ser um pouco curva.
+137.412.0005)   [-][ACESSÓRIO]         ::  Ele não vem com película protetora, como o J7, e no mercado NÃO existe uma que ajuste 100%, devido a tela ser um pouco curva.
 
-0006)   [-][ACESSÓRIO]         ::  O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
+094.283.0006)   [-][ACESSÓRIO]         ::  O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
 
-0007)   [-][ACESSÓRIO]         ::  A tela do aparelho é levemente curvada na lateral(sim estamos falando do Flat não do Edge), o que impede de haver uma película que cubra toda a tela do celular.
+181.547.0007)   [-][ACESSÓRIO]         ::  A tela do aparelho é levemente curvada na lateral(sim estamos falando do Flat não do Edge), o que impede de haver uma película que cubra toda a tela do celular.
 
-0008)   [-][ACESSÓRIO]         ::  Os modelos de película disponíveis tem uma margem de uns 4mm, o que torna uma luta a experiência de manipular o menu e selecionar um aplicativo e jogar para o canto da tela para ele ir para a página do lado.
+181.549.0008)   [-][ACESSÓRIO]         ::  Os modelos de película disponíveis tem uma margem de uns 4mm, o que torna uma luta a experiência de manipular o menu e selecionar um aplicativo e jogar para o canto da tela para ele ir para a página do lado.
 
-0009)   [-][ACESSÓRIO]         ::  Só não dei 5 estrelas porque devido o mesmo ser curvo, desnecessário, não é possível encontrar no mercado nenhuma película que fica perfeita nele. Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
+140.419.0009)   [-][ACESSÓRIO]         ::  Só não dei 5 estrelas porque devido o mesmo ser curvo, desnecessário, não é possível encontrar no mercado nenhuma película que fica perfeita nele. Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
 
-0010)  [-.][ACESSÓRIO]         ::  A capa que protege a lente e um pouco frágil.
+106.317.0010)  [-.][ACESSÓRIO]         ::  A capa que protege a lente e um pouco frágil.
 
-0011)  [-.][ACESSÓRIO]         ::  Acessórios um pouco carros para ter todos, mais o óculos foi brinde foi menos um para compra.
+106.317.0011)  [-.][ACESSÓRIO]         ::  Acessórios um pouco carros para ter todos, mais o óculos foi brinde foi menos um para compra.
 
-0012)   [+][ARMAZENAMENTO]     ::  Tem uma boa memória.
+186.569.0012)   [+][ARMAZENAMENTO]     ::  Tem uma boa memória.
 
-0013)   [+][ARMAZENAMENTO]     ::  Alta capacidade de memória.
+176.534.0013)   [+][ARMAZENAMENTO]     ::  Alta capacidade de memória.
 
-0014)   [+][ARMAZENAMENTO]     ::  A memória é ótima e ainda é expansível.
+046.132.0014)   [+][ARMAZENAMENTO]     ::  A memória é ótima e ainda é expansível.
 
-0015)   [+][ARMAZENAMENTO]     ::  Capacidade de armazenamento muito bom...
+070.204.0015)   [+][ARMAZENAMENTO]     ::  Capacidade de armazenamento muito bom...
 
-0016)   [+][ARMAZENAMENTO]     ::  Comparando com S4 e S5 tem mais memória...
+101.303.0016)   [+][ARMAZENAMENTO]     ::  Comparando com S4 e S5 tem mais memória...
 
-0017)   [+][ARMAZENAMENTO]     ::  A possibilidade de expansão de memória veio a calhar.
+122.364.0017)   [+][ARMAZENAMENTO]     ::  A possibilidade de expansão de memória veio a calhar.
 
-0018)   [+][ARMAZENAMENTO]     ::  Para armazená-las possui ótimo espaço (32gb), além de permitir expandir o espaço utilizando o cartão de memória.
+184.561.0018)   [+][ARMAZENAMENTO]     ::  Para armazená-las possui ótimo espaço (32gb), além de permitir expandir o espaço utilizando o cartão de memória.
 
-0019)   [+][ARMAZENAMENTO]     ::  Optei pelo S7 pela possibilidade de utilizar cartao de memoria, o que ja nao era possivel no S6 e quem trabalha com o aparelho e precisa instalar varios apps, alguns podem ser colocados no cartao de memoria, liberando a memoria interna.
+125.376.0019)   [+][ARMAZENAMENTO]     ::  Optei pelo S7 pela possibilidade de utilizar cartao de memoria, o que ja nao era possivel no S6 e quem trabalha com o aparelho e precisa instalar varios apps, alguns podem ser colocados no cartao de memoria, liberando a memoria interna.
 
-0020)  [++][ARMAZENAMENTO]     ::  Espaço perfeito!
+104.311.0020)  [++][ARMAZENAMENTO]     ::  Espaço perfeito!
 
-0021)   [-][ARMAZENAMENTO]     ::  Poderia ter um pouco mais de memória.
+149.442.0021)   [-][ARMAZENAMENTO]     ::  Poderia ter um pouco mais de memória.
 
-0022)   [-][ARMAZENAMENTO]     ::  Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
+104.311.0022)   [-][ARMAZENAMENTO]     ::  Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
 
-0023)  [..][ARMAZENAMENTO]     ::  O S7 aceita SD mas não expande a memória interna.
+082.238.0023)  [..][ARMAZENAMENTO]     ::  O S7 aceita SD mas não expande a memória interna.
 
-0024)   [+][BATERIA]           ::  Ótima bateria.
+126.384.0024)   [+][BATERIA]           ::  Ótima bateria.
 
-0025)   [+][BATERIA]           ::  Ótima bateria.
+109.326.0025)   [+][BATERIA]           ::  Ótima bateria.
 
-0026)   [+][BATERIA]           ::  Carrega rápido.
+109.326.0026)   [+][BATERIA]           ::  Carrega rápido.
 
-0027)   [+][BATERIA]           ::  Bateria excelente!
+143.427.0027)   [+][BATERIA]           ::  Bateria excelente!
 
-0028)   [+][BATERIA]           ::  Bateria excelente.
+043.123.0028)   [+][BATERIA]           ::  Bateria excelente.
 
-0029)   [+][BATERIA]           ::  Bateria muito boa.
+050.140.0029)   [+][BATERIA]           ::  Bateria muito boa.
 
-0030)   [+][BATERIA]           ::  Excelente bateria.
+022.054.0030)   [+][BATERIA]           ::  Excelente bateria.
 
-0031)   [+][BATERIA]           ::  Bateria dura muito!
+203.623.0031)   [+][BATERIA]           ::  Bateria dura muito!
 
-0032)   [+][BATERIA]           ::  Econômico na bateria!
+067.197.0032)   [+][BATERIA]           ::  Econômico na bateria!
 
-0033)   [+][BATERIA]           ::  Boa duração de bateria.
+121.360.0033)   [+][BATERIA]           ::  Boa duração de bateria.
 
-0034)   [+][BATERIA]           ::  Duração da bateria me surpreende.
+086.257.0034)   [+][BATERIA]           ::  Duração da bateria me surpreende.
 
-0035)   [+][BATERIA]           ::  Bateria dura até 2 dias, muito boa.
+022.055.0035)   [+][BATERIA]           ::  Bateria dura até 2 dias, muito boa.
 
-0036)   [+][BATERIA]           ::  Bateria de duração que chega quase 1 dia.
+160.482.0036)   [+][BATERIA]           ::  Bateria de duração que chega quase 1 dia.
 
-0037)   [+][BATERIA]           ::  Comparando com S4 e S5, a bateria dura muito mais...
+101.303.0037)   [+][BATERIA]           ::  Comparando com S4 e S5, a bateria dura muito mais...
 
-0038)   [+][BATERIA]           ::  Tem uma bateria que, se utilizada corretamente, pode durar até 24h.
+065.192.0038)   [+][BATERIA]           ::  Tem uma bateria que, se utilizada corretamente, pode durar até 24h.
 
-0039)   [+][BATERIA]           ::  Algumas pessoas falam da bateria, mas pra mim está durando um dia inteiro.
+082.242.0039)   [+][BATERIA]           ::  Algumas pessoas falam da bateria, mas pra mim está durando um dia inteiro.
 
-0040)   [+][BATERIA]           ::  A bateria dura muito e o carregador carrega muito mais rapido que os normais.
+138.415.0040)   [+][BATERIA]           ::  A bateria dura muito e o carregador carrega muito mais rapido que os normais.
 
-0041)   [+][BATERIA]           ::  Igual aos outros, a única coisa que é melhor é que a bateria carrega muito rápido.
+003.006.0041)   [+][BATERIA]           ::  Igual aos outros, a única coisa que é melhor é que a bateria carrega muito rápido.
 
-0042)   [+][BATERIA]           ::  A bateria, comigo, dura um dia inteiro de uso moderado, ou dez horas de uso intenso, o que satisfaz minhas necessidades.
+040.112.0042)   [+][BATERIA]           ::  A bateria, comigo, dura um dia inteiro de uso moderado, ou dez horas de uso intenso, o que satisfaz minhas necessidades.
 
-0043)   [+][BATERIA]           ::  Quanto mais vc usa ela descarrega mesmo porem esse modelo usando o carregador dele faz recarga rapida e carrega rapidão (testei com outro carregador e demora mais) Não aconselho.
+125.376.0043)   [+][BATERIA]           ::  Quanto mais vc usa ela descarrega mesmo porem esse modelo usando o carregador dele faz recarga rapida e carrega rapidão (testei com outro carregador e demora mais) Não aconselho.
 
-0044)  [+.][BATERIA]           ::  Bateria dura mais que um dia (é só não instalar o Facebook rsss)
+085.249.0044)  [+.][BATERIA]           ::  Bateria dura mais que um dia (é só não instalar o Facebook rsss)
 
-0045)   [-][BATERIA]           ::  Bateria ruim.
+194.593.0045)   [-][BATERIA]           ::  Bateria ruim.
 
-0046)   [-][BATERIA]           ::  Bateria horrível.
+221.677.0046)   [-][BATERIA]           ::  Bateria horrível.
 
-0047)   [-][BATERIA]           ::  Bateria meia boca.
+063.178.0047)   [-][BATERIA]           ::  Bateria meia boca.
 
-0048)   [-][BATERIA]           ::  Bateria poderia ser melhor.
+186.567.0048)   [-][BATERIA]           ::  Bateria poderia ser melhor.
 
-0049)   [-][BATERIA]           ::  A bateria poderia durar mais.
+149.442.0049)   [-][BATERIA]           ::  A bateria poderia durar mais.
 
-0050)   [-][BATERIA]           ::  O problema pra mim é a bateria.
+051.145.0050)   [-][BATERIA]           ::  O problema pra mim é a bateria.
 
-0051)   [-][BATERIA]           ::  Peca um pouco na duração de bateria.
+139.417.0051)   [-][BATERIA]           ::  Peca um pouco na duração de bateria.
 
-0052)   [-][BATERIA]           ::  Quanto à bateria, não vi melhoria.
+198.604.0052)   [-][BATERIA]           ::  Quanto à bateria, não vi melhoria.
 
-0053)   [-][BATERIA]           ::  Apenas achei que a bateria fosse durar um pouco mais.
+187.572.0053)   [-][BATERIA]           ::  Apenas achei que a bateria fosse durar um pouco mais.
 
-0054)   [-][BATERIA]           ::  Com a atualizacao a bateria deu uma diminuída na duração.
+045.128.0054)   [-][BATERIA]           ::  Com a atualizacao a bateria deu uma diminuída na duração.
 
-0055)   [-][BATERIA]           ::  Pecou na bateria que não se apresentaram tão bem no uso...
+211.650.0055)   [-][BATERIA]           ::  Pecou na bateria que não se apresentaram tão bem no uso...
 
-0056)   [-][BATERIA]           ::  A bateria é um lixo e antes das 15hs eu já preciso recarregar.
+063.180.0056)   [-][BATERIA]           ::  A bateria é um lixo e antes das 15hs eu já preciso recarregar.
 
-0057)   [-][BATERIA]           ::  A bateria não aguenta a tela e o processador em uso prolongado.
+064.188.0057)   [-][BATERIA]           ::  A bateria não aguenta a tela e o processador em uso prolongado.
 
-0058)   [-][BATERIA]           ::  No momento posso dizer q a bateria não dura como especificado no produto.
+027.069.0058)   [-][BATERIA]           ::  No momento posso dizer q a bateria não dura como especificado no produto.
 
-0059)   [-][BATERIA]           ::  A duração da bateria não é tão boa quanto deveria. Tem dias que dura apenas 10 horas de uso moderado.
+153.456.0059)   [-][BATERIA]           ::  A duração da bateria não é tão boa quanto deveria. Tem dias que dura apenas 10 horas de uso moderado.
 
-0060)   [-][BATERIA]           ::  Como utilizo basicamente para redes sociais e agenda, achei que a bateria pudesse durar um pouco mais - dura no máximo um dia e meio.
+186.568.0060)   [-][BATERIA]           ::  Como utilizo basicamente para redes sociais e agenda, achei que a bateria pudesse durar um pouco mais - dura no máximo um dia e meio.
 
-0061)  [--][BATERIA]           ::  A BATERIA dele é horrível, ainda consegue ser pior que o a do Galaxy S6, que já era péssima, comprei 2 e devolvi por causa da bateria, um celular caro desse com uma bateria péssima, se usar acaba rapidinho mesmo.
+221.678.0061)  [--][BATERIA]           ::  A BATERIA dele é horrível, ainda consegue ser pior que o a do Galaxy S6, que já era péssima, comprei 2 e devolvi por causa da bateria, um celular caro desse com uma bateria péssima, se usar acaba rapidinho mesmo.
 
-0062)  [-.][BATERIA]           ::  A bateria é misteriosa, hora parece que nunca acabará, já em outros momentos, não dura nada..
+104.312.0062)  [-.][BATERIA]           ::  A bateria é misteriosa, hora parece que nunca acabará, já em outros momentos, não dura nada..
 
-0063)   [.][BATERIA]           ::  Bateria é igual de qq smart .
+125.375.0063)   [.][BATERIA]           ::  Bateria é igual de qq smart .
 
-0064)   [x][BATERIA]           ::  Vamos ver a bateria daqui um tempo.
+125.378.0064)   [x][BATERIA]           ::  Vamos ver a bateria daqui um tempo.
 
-0065)   [+][CÂMERA]            ::  Boa câmera
+097.291.0065)   [+][CÂMERA]            ::  Boa câmera
 
-0066)   [+][CÂMERA]            ::  Câmera boa.
+022.056.0066)   [+][CÂMERA]            ::  Câmera boa.
 
-0067)   [+][CÂMERA]            ::  Câmera ótima.
+085.249.0067)   [+][CÂMERA]            ::  Câmera ótima.
 
-0068)   [+][CÂMERA]            ::  Câmera top.
+109.326.0068)   [+][CÂMERA]            ::  Câmera top.
 
-0069)   [+][CÂMERA]            ::  Ótimas fotos.
+173.525.0069)   [+][CÂMERA]            ::  Ótimas fotos.
 
-0070)   [+][CÂMERA]            ::  Câmara ótima.
+149.441.0070)   [+][CÂMERA]            ::  Câmara ótima.
 
-0071)   [+][CÂMERA]            ::  Ótima câmera.
+056.160.0071)   [+][CÂMERA]            ::  Ótima câmera.
 
-0072)   [+][CÂMERA]            ::  Ótima câmera.
+064.187.0072)   [+][CÂMERA]            ::  Ótima câmera.
 
-0073)   [+][CÂMERA]            ::  Câmera bacana.
+120.357.0073)   [+][CÂMERA]            ::  Câmera bacana.
 
-0074)   [+][CÂMERA]            ::  Câmera excelente.
+111.333.0074)   [+][CÂMERA]            ::  Câmera excelente.
 
-0075)   [+][CÂMERA]            ::  Câmera excelente.
+122.364.0075)   [+][CÂMERA]            ::  Câmera excelente.
 
-0076)   [+][CÂMERA]            ::  Camera excelente.
+143.427.0076)   [+][CÂMERA]            ::  Camera excelente.
 
-0077)   [+][CÂMERA]            ::  Camera muito boa.
+164.494.0077)   [+][CÂMERA]            ::  Camera muito boa.
 
-0078)   [+][CÂMERA]            ::  Excelente câmera.
+129.391.0078)   [+][CÂMERA]            ::  Excelente câmera.
 
-0079)   [+][CÂMERA]            ::  Uma ótima câmera.
+104.313.0079)   [+][CÂMERA]            ::  Uma ótima câmera.
 
-0080)   [+][CÂMERA]            ::  Câmara excelente.
+147.436.0080)   [+][CÂMERA]            ::  Câmara excelente.
 
-0081)   [+][CÂMERA]            ::  Câmera excelente.
+002.003.0081)   [+][CÂMERA]            ::  Câmera excelente.
 
-0082)   [+][CÂMERA]            ::  Câmera excelente.
+043.123.0082)   [+][CÂMERA]            ::  Câmera excelente.
 
-0083)   [+][CÂMERA]            ::  Camera muito boa.
+050.140.0083)   [+][CÂMERA]            ::  Camera muito boa.
 
-0084)   [+][CÂMERA]            ::  Câmera fantástica.
+121.359.0084)   [+][CÂMERA]            ::  Câmera fantástica.
 
-0085)   [+][CÂMERA]            ::  Câmera sensacional.
+089.271.0085)   [+][CÂMERA]            ::  Câmera sensacional.
 
-0086)   [+][CÂMERA]            ::  Câmera espetacular.
+077.222.0086)   [+][CÂMERA]            ::  Câmera espetacular.
 
-0087)   [+][CÂMERA]            ::  Excelentes câmeras.
+055.156.0087)   [+][CÂMERA]            ::  Excelentes câmeras.
 
-0088)   [+][CÂMERA]            ::  A câmera é excelente.
+100.299.0088)   [+][CÂMERA]            ::  A câmera é excelente.
 
-0089)   [+][CÂMERA]            ::  As câmeras são boas.
+082.241.0089)   [+][CÂMERA]            ::  As câmeras são boas.
 
-0090)   [+][CÂMERA]            ::  As fotos são ótimas.
+168.513.0090)   [+][CÂMERA]            ::  As fotos são ótimas.
 
-0091)   [+][CÂMERA]            ::  Câmera me surpreende.
+086.257.0091)   [+][CÂMERA]            ::  Câmera me surpreende.
 
-0092)   [+][CÂMERA]            ::  Câmera impressionante.
+042.117.0092)   [+][CÂMERA]            ::  Câmera impressionante.
 
-0093)   [+][CÂMERA]            ::  A câmera é espetacular!
+011.027.0093)   [+][CÂMERA]            ::  A câmera é espetacular!
 
-0094)   [+][CÂMERA]            ::  A câmera é excepcional.
+051.144.0094)   [+][CÂMERA]            ::  A câmera é excepcional.
 
-0095)   [+][CÂMERA]            ::  A camera é sensacional!
+065.193.0095)   [+][CÂMERA]            ::  A camera é sensacional!
 
-0096)   [+][CÂMERA]            ::  Boa qualidade da câmera.
+211.650.0096)   [+][CÂMERA]            ::  Boa qualidade da câmera.
 
-0097)   [+][CÂMERA]            ::  Se destaca pela câmera.
+002.004.0097)   [+][CÂMERA]            ::  Se destaca pela câmera.
 
-0098)   [+][CÂMERA]            ::  Fotos de alta resolução.
+126.384.0098)   [+][CÂMERA]            ::  Fotos de alta resolução.
 
-0099)   [+][CÂMERA]            ::  Excelente câmera frontal.
+081.231.0099)   [+][CÂMERA]            ::  Excelente câmera frontal.
 
-0100)   [+][CÂMERA]            ::  Tira fotos com qualidade.
+204.625.0100)   [+][CÂMERA]            ::  Tira fotos com qualidade.
 
-0101)   [+][CÂMERA]            ::  Tira fotos surpreendentes.
+074.215.0101)   [+][CÂMERA]            ::  Tira fotos surpreendentes.
 
-0102)   [+][CÂMERA]            ::  A câmera tem muita qualidade.
+046.131.0102)   [+][CÂMERA]            ::  A câmera tem muita qualidade.
 
-0103)   [+][CÂMERA]            ::  Uma câmera de ótima qualidade.
+186.569.0103)   [+][CÂMERA]            ::  Uma câmera de ótima qualidade.
 
-0104)   [+][CÂMERA]            ::  A câmera é um dos diferenciais.
+176.535.0104)   [+][CÂMERA]            ::  A câmera é um dos diferenciais.
 
-0105)   [+][CÂMERA]            ::  A câmera é incrivelmente sensacional.
+123.369.0105)   [+][CÂMERA]            ::  A câmera é incrivelmente sensacional.
 
-0106)   [+][CÂMERA]            ::  A câmera esta me surpreendendo a cada dia.
+198.604.0106)   [+][CÂMERA]            ::  A câmera esta me surpreendendo a cada dia.
 
-0107)   [+][CÂMERA]            ::  A câmera é ótima para fotos em alta velocidade.
+040.110.0107)   [+][CÂMERA]            ::  A câmera é ótima para fotos em alta velocidade.
 
-0108)   [+][CÂMERA]            ::  A qualidade da imagem com pouca luz impressiona.
+040.111.0108)   [+][CÂMERA]            ::  A qualidade da imagem com pouca luz impressiona.
 
-0109)   [+][CÂMERA]            ::  A câmera e suas funcionalidades estão me surpreendendo.
+199.611.0109)   [+][CÂMERA]            ::  A câmera e suas funcionalidades estão me surpreendendo.
 
-0110)   [+][CÂMERA]            ::  Já tive o S5 e a Samsung mantem o padrão alto na qualidade da câmera.
+165.499.0110)   [+][CÂMERA]            ::  Já tive o S5 e a Samsung mantem o padrão alto na qualidade da câmera.
 
-0111)   [+][CÂMERA]            ::  Facilidade, produtividade, comprei para gravar vídeos, muito satisfeitp.
+183.557.0111)   [+][CÂMERA]            ::  Facilidade, produtividade, comprei para gravar vídeos, muito satisfeitp.
 
-0112)   [+][CÂMERA]            ::  Sua câmera é excelente, principalmente em situações com baixa luminosidade.
+077.223.0112)   [+][CÂMERA]            ::  Sua câmera é excelente, principalmente em situações com baixa luminosidade.
 
-0113)   [+][CÂMERA]            ::  A câmera traseira é muito boa, porém em condições de baixa luminosidade a perda de qualidade é absurda.
+153.455.0113)   [+][CÂMERA]            ::  A câmera traseira é muito boa, porém em condições de baixa luminosidade a perda de qualidade é absurda.
 
-0114)   [+][CÂMERA]            ::  As fotos noturnas ficam boas e as funcionalidades e opções de personalização são muito úteis para o dia a dia.
+198.604.0114)   [+][CÂMERA]            ::  As fotos noturnas ficam boas e as funcionalidades e opções de personalização são muito úteis para o dia a dia.
 
-0115)  [++][CÂMERA]            ::  Câmera perfeita.
+015.039.0115)  [++][CÂMERA]            ::  Câmera perfeita.
 
-0116)  [++][CÂMERA]            ::  As fotos são perfeitas.
+071.207.0116)  [++][CÂMERA]            ::  As fotos são perfeitas.
 
-0117)  [++][CÂMERA]            ::  As fotos e vídeos possuem imagem perfeitas.
+184.560.0117)  [++][CÂMERA]            ::  As fotos e vídeos possuem imagem perfeitas.
 
-0118)  [++][CÂMERA]            ::  Achei as fotos perfeitas, naao vi deferença entre a superioridade que falam do S6 e vamos combinar que se quer fotos profissionais vc deve comprar uma camera fotografica.
+125.376.0118)  [++][CÂMERA]            ::  Achei as fotos perfeitas, naao vi deferença entre a superioridade que falam do S6 e vamos combinar que se quer fotos profissionais vc deve comprar uma camera fotografica.
 
-0119)   [-][CÂMERA]            ::  Com a atualizacao o zoom da camera infelizmente perde a definição.
+045.128.0119)   [-][CÂMERA]            ::  Com a atualizacao o zoom da camera infelizmente perde a definição.
 
-0120)   [.][CÂMERA]            ::  O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera.
+165.497.0120)   [.][CÂMERA]            ::  O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera.
 
-0121)   [+][DESEMPENHO]        ::  Fluido.
+164.494.0121)   [+][DESEMPENHO]        ::  Fluido.
 
-0122)   [+][DESEMPENHO]        ::  Rápido.
+111.333.0122)   [+][DESEMPENHO]        ::  Rápido.
 
-0123)   [+][DESEMPENHO]        ::  Rápido.
+114.344.0123)   [+][DESEMPENHO]        ::  Rápido.
 
-0124)   [+][DESEMPENHO]        ::  Rápido.
+126.384.0124)   [+][DESEMPENHO]        ::  Rápido.
 
-0125)   [+][DESEMPENHO]        ::  Rápido.
+147.435.0125)   [+][DESEMPENHO]        ::  Rápido.
 
-0126)   [+][DESEMPENHO]        ::  Rápido.
+166.507.0126)   [+][DESEMPENHO]        ::  Rápido.
 
-0127)   [+][DESEMPENHO]        ::  Moderno.
+152.449.0127)   [+][DESEMPENHO]        ::  Moderno.
 
-0128)   [+][DESEMPENHO]        ::  Rápido
+121.360.0128)   [+][DESEMPENHO]        ::  Rápido
 
-0129)   [+][DESEMPENHO]        ::  Rápido!
+067.197.0129)   [+][DESEMPENHO]        ::  Rápido!
 
-0130)   [+][DESEMPENHO]        ::  Rapido.
+029.074.0130)   [+][DESEMPENHO]        ::  Rapido.
 
-0131)   [+][DESEMPENHO]        ::  Potente.
+056.160.0131)   [+][DESEMPENHO]        ::  Potente.
 
-0132)   [+][DESEMPENHO]        ::  É rápido.
+064.187.0132)   [+][DESEMPENHO]        ::  É rápido.
 
-0133)   [+][DESEMPENHO]        ::  Não trava.
+177.537.0133)   [+][DESEMPENHO]        ::  Não trava.
 
-0134)   [+][DESEMPENHO]        ::  Boa fluidez.
+131.397.0134)   [+][DESEMPENHO]        ::  Boa fluidez.
 
-0135)   [+][DESEMPENHO]        ::  Bom desempenho.
+097.291.0135)   [+][DESEMPENHO]        ::  Bom desempenho.
 
-0136)   [+][DESEMPENHO]        ::  Aparelho rápido.
+173.525.0136)   [+][DESEMPENHO]        ::  Aparelho rápido.
 
-0137)   [+][DESEMPENHO]        ::  Ótimo desempenho.
+139.417.0137)   [+][DESEMPENHO]        ::  Ótimo desempenho.
 
-0138)   [+][DESEMPENHO]        ::  Ótima performance.
+109.326.0138)   [+][DESEMPENHO]        ::  Ótima performance.
 
-0139)   [+][DESEMPENHO]        ::  Processador brutal.
+089.271.0139)   [+][DESEMPENHO]        ::  Processador brutal.
 
-0140)   [+][DESEMPENHO]        ::  Desempenho excelente.
+194.593.0140)   [+][DESEMPENHO]        ::  Desempenho excelente.
 
-0141)   [+][DESEMPENHO]        ::  Aparelho muito rápido.
+149.441.0141)   [+][DESEMPENHO]        ::  Aparelho muito rápido.
 
-0142)   [+][DESEMPENHO]        ::  Celular muito rápido.
+081.231.0142)   [+][DESEMPENHO]        ::  Celular muito rápido.
 
-0143)   [+][DESEMPENHO]        ::  Com ótima performance.
+204.625.0143)   [+][DESEMPENHO]        ::  Com ótima performance.
 
-0144)   [+][DESEMPENHO]        ::  Desempenho excelente.
+043.123.0144)   [+][DESEMPENHO]        ::  Desempenho excelente.
 
-0145)   [+][DESEMPENHO]        ::  Desempenho imbatível.
+024.062.0145)   [+][DESEMPENHO]        ::  Desempenho imbatível.
 
-0146)   [+][DESEMPENHO]        ::  O aparelho não trava.
+071.208.0146)   [+][DESEMPENHO]        ::  O aparelho não trava.
 
-0147)   [+][DESEMPENHO]        ::  Performance excelente.
+085.249.0147)   [+][DESEMPENHO]        ::  Performance excelente.
 
-0148)   [+][DESEMPENHO]        ::  Processador poderoso.
+061.175.0148)   [+][DESEMPENHO]        ::  Processador poderoso.
 
-0149)   [+][DESEMPENHO]        ::  Processamento rápido.
+022.056.0149)   [+][DESEMPENHO]        ::  Processamento rápido.
 
-0150)   [+][DESEMPENHO]        ::  Desempenho fantástico.
+006.015.0150)   [+][DESEMPENHO]        ::  Desempenho fantástico.
 
-0151)   [+][DESEMPENHO]        ::  Jogabilidade excelente.
+050.140.0151)   [+][DESEMPENHO]        ::  Jogabilidade excelente.
 
-0152)   [+][DESEMPENHO]        ::  Muito rápido! Não trava!
+203.623.0152)   [+][DESEMPENHO]        ::  Muito rápido! Não trava!
 
-0153)   [+][DESEMPENHO]        ::  Tem ótima resposta (tempo)
+070.204.0153)   [+][DESEMPENHO]        ::  Tem ótima resposta (tempo)
 
-0154)   [+][DESEMPENHO]        ::  Alta qualidade e performance.
+161.484.0154)   [+][DESEMPENHO]        ::  Alta qualidade e performance.
 
-0155)   [+][DESEMPENHO]        ::  Nenhum sinal de travamento.
+170.517.0155)   [+][DESEMPENHO]        ::  Nenhum sinal de travamento.
 
-0156)   [+][DESEMPENHO]        ::  O aparelho é bastante rápido.
+071.208.0156)   [+][DESEMPENHO]        ::  O aparelho é bastante rápido.
 
-0157)   [+][DESEMPENHO]        ::  Sem travamentos, câmera bacana.
+120.357.0157)   [+][DESEMPENHO]        ::  Sem travamentos, câmera bacana.
 
-0158)   [+][DESEMPENHO]        ::  Uma otima experiência em jogos.
+015.039.0158)   [+][DESEMPENHO]        ::  Uma otima experiência em jogos.
 
-0159)   [+][DESEMPENHO]        ::  Os apps não travam nem engasgam.
+153.456.0159)   [+][DESEMPENHO]        ::  Os apps não travam nem engasgam.
 
-0160)   [+][DESEMPENHO]        ::  Velocidade de processamento boa.
+094.283.0160)   [+][DESEMPENHO]        ::  Velocidade de processamento boa.
 
-0161)   [+][DESEMPENHO]        ::  O desempenho me surpreendeu muito.
+165.496.0161)   [+][DESEMPENHO]        ::  O desempenho me surpreendeu muito.
 
-0162)   [+][DESEMPENHO]        ::  INCRIVEL, NÃO TRAVA DE FORMA ALGUMA.
+185.566.0162)   [+][DESEMPENHO]        ::  INCRIVEL, NÃO TRAVA DE FORMA ALGUMA.
 
-0163)   [+][DESEMPENHO]        ::  Não trava nunca e isso é essencial.
+110.330.0163)   [+][DESEMPENHO]        ::  Não trava nunca e isso é essencial.
 
-0164)   [+][DESEMPENHO]        ::  Um produto com um grande desempenho.
+192.589.0164)   [+][DESEMPENHO]        ::  Um produto com um grande desempenho.
 
-0165)   [+][DESEMPENHO]        ::  A velocidade de processamento é boa.
+082.241.0165)   [+][DESEMPENHO]        ::  A velocidade de processamento é boa.
 
-0166)   [+][DESEMPENHO]        ::  O aparelho é fantástico e não trava.
+063.179.0166)   [+][DESEMPENHO]        ::  O aparelho é fantástico e não trava.
 
-0167)   [+][DESEMPENHO]        ::  PRODUTO COM O PROCESSADOR MUITO RAPIDO.
+041.115.0167)   [+][DESEMPENHO]        ::  PRODUTO COM O PROCESSADOR MUITO RAPIDO.
 
-0168)   [+][DESEMPENHO]        ::  Eu procurava um celular veloz. Encontrei.
+127.386.0168)   [+][DESEMPENHO]        ::  Eu procurava um celular veloz. Encontrei.
 
-0169)   [+][DESEMPENHO]        ::  Rápido ótima velocidade de processamento.
+050.139.0169)   [+][DESEMPENHO]        ::  Rápido ótima velocidade de processamento.
 
-0170)   [+][DESEMPENHO]        ::  O sistema é estável, rápido e sem firulas.
+040.108.0170)   [+][DESEMPENHO]        ::  O sistema é estável, rápido e sem firulas.
 
-0171)   [+][DESEMPENHO]        ::  Gosto do processamento extremamente rápido.
+132.400.0171)   [+][DESEMPENHO]        ::  Gosto do processamento extremamente rápido.
 
-0172)   [+][DESEMPENHO]        ::  Com 4 GB de memória RAM (um exagero, sobra!)
+166.507.0172)   [+][DESEMPENHO]        ::  Com 4 GB de memória RAM (um exagero, sobra!)
 
-0173)   [+][DESEMPENHO]        ::  Comparando com S4 e S5, é muito mais rápido...
+101.303.0173)   [+][DESEMPENHO]        ::  Comparando com S4 e S5, é muito mais rápido...
 
-0174)   [+][DESEMPENHO]        ::  Estou impressionado com o desempenho do celular!
+026.066.0174)   [+][DESEMPENHO]        ::  Estou impressionado com o desempenho do celular!
 
-0175)   [+][DESEMPENHO]        ::  Mostrou-se muito rápido, em meu uso nunca travou.
+042.119.0175)   [+][DESEMPENHO]        ::  Mostrou-se muito rápido, em meu uso nunca travou.
 
-0176)   [+][DESEMPENHO]        ::  Smartphone muito bom, o processador até agora não decepcionou.
+051.143.0176)   [+][DESEMPENHO]        ::  Smartphone muito bom, o processador até agora não decepcionou.
 
-0177)   [+][DESEMPENHO]        ::  Comparando com outro Galaxy que tive anteriormente, esse aparelho ainda não travou..
+070.203.0177)   [+][DESEMPENHO]        ::  Comparando com outro Galaxy que tive anteriormente, esse aparelho ainda não travou..
 
-0178)   [+][DESEMPENHO]        ::  O hardware é potente e passa a impressão de que durará vários anos sem se tornar obsoleto.
+040.109.0178)   [+][DESEMPENHO]        ::  O hardware é potente e passa a impressão de que durará vários anos sem se tornar obsoleto.
 
-0179)  [++][DESEMPENHO]        ::  RAM perfeita!
+104.311.0179)  [++][DESEMPENHO]        ::  RAM perfeita!
 
-0180)  [++][DESEMPENHO]        ::  Velocidade do processador perfeito!
+104.311.0180)  [++][DESEMPENHO]        ::  Velocidade do processador perfeito!
 
-0181)   [-][DESEMPENHO]        ::  Trava, mesmo que raramente.
+036.094.0181)   [-][DESEMPENHO]        ::  Trava, mesmo que raramente.
 
-0182)   [-][DESEMPENHO]        ::  Esquenta muito com os dados móveis ligados.
+036.094.0182)   [-][DESEMPENHO]        ::  Esquenta muito com os dados móveis ligados.
 
-0183)   [-][DESEMPENHO]        ::  Achei que esquenta quando utilizo o gear vr.
+173.525.0183)   [-][DESEMPENHO]        ::  Achei que esquenta quando utilizo o gear vr.
 
-0184)   [+][DESIGN]            ::  Bonito.
+149.441.0184)   [+][DESIGN]            ::  Bonito.
 
-0185)   [+][DESIGN]            ::  Bonito.
+166.507.0185)   [+][DESIGN]            ::  Bonito.
 
-0186)   [+][DESIGN]            ::  Design lindo.
+186.567.0186)   [+][DESIGN]            ::  Design lindo.
 
-0187)   [+][DESIGN]            ::  Ótimo design.
+186.568.0187)   [+][DESIGN]            ::  Ótimo design.
 
-0188)   [+][DESIGN]            ::  Muito bonito.
+064.187.0188)   [+][DESIGN]            ::  Muito bonito.
 
-0189)   [+][DESIGN]            ::  Adorei o design.
+093.280.0189)   [+][DESIGN]            ::  Adorei o design.
 
-0190)   [+][DESIGN]            ::  Design invocado.
+089.271.0190)   [+][DESIGN]            ::  Design invocado.
 
-0191)   [+][DESIGN]            ::  Aparelho bonito.
+061.175.0191)   [+][DESIGN]            ::  Aparelho bonito.
 
-0192)   [+][DESIGN]            ::  Design agradável.
+094.283.0192)   [+][DESIGN]            ::  Design agradável.
 
-0193)   [+][DESIGN]            ::  Design excelente.
+043.123.0193)   [+][DESIGN]            ::  Design excelente.
 
-0194)   [+][DESIGN]            ::  Acabamento Premium.
+129.391.0194)   [+][DESIGN]            ::  Acabamento Premium.
 
-0195)   [+][DESIGN]            ::  Elegante (em vidro).
+055.156.0195)   [+][DESIGN]            ::  Elegante (em vidro).
 
-0196)   [+][DESIGN]            ::  Exelente acabamento.
+024.062.0196)   [+][DESIGN]            ::  Exelente acabamento.
 
-0197)   [+][DESIGN]            ::  O aparelho é bonito.
+071.208.0197)   [+][DESIGN]            ::  O aparelho é bonito.
 
-0198)   [+][DESIGN]            ::  Excelente acabamento.
+029.074.0198)   [+][DESIGN]            ::  Excelente acabamento.
 
-0199)   [+][DESIGN]            ::  O acabamento dele é ótimo.
+187.572.0199)   [+][DESIGN]            ::  O acabamento dele é ótimo.
 
-0200)   [+][DESIGN]            ::  Smartphone bonito e elegante.
+204.625.0200)   [+][DESIGN]            ::  Smartphone bonito e elegante.
 
-0201)   [+][DESIGN]            ::  Super indico para quem busca design.
+186.570.0201)   [+][DESIGN]            ::  Super indico para quem busca design.
 
-0202)   [+][DESIGN]            ::  O celular possui design bastante sofisticado, com as bordas metálicas e todo revestido de vidro.
+153.453.0202)   [+][DESIGN]            ::  O celular possui design bastante sofisticado, com as bordas metálicas e todo revestido de vidro.
 
-0203)   [+][DESIGN]            ::  As bordas metálicas e revestimento de vidro trazem um desconforto relacionado às impressões digitais que marcam todo o aparelho.
+153.454.0203)   [+][DESIGN]            ::  As bordas metálicas e revestimento de vidro trazem um desconforto relacionado às impressões digitais que marcam todo o aparelho.
 
-0204)  [++][DESIGN]            ::  Design perfeito...
+104.313.0204)  [++][DESIGN]            ::  Design perfeito...
 
-0205)  [++][DESIGN]            ::  Tem um acabamento perfeito.
+074.215.0205)  [++][DESIGN]            ::  Tem um acabamento perfeito.
 
-0206)  [+.][DESIGN]            ::  Para evitar marcas de digitais comprei uma capa da ClearView da própria Samsung.
+153.455.0206)  [+.][DESIGN]            ::  Para evitar marcas de digitais comprei uma capa da ClearView da própria Samsung.
 
-0207)   [-][DESIGN]            ::  A cor prata é bem enjoativa.
+072.211.0207)   [-][DESIGN]            ::  A cor prata é bem enjoativa.
 
-0208)   [-][DESIGN]            ::  É um ímã para impressão digital.
+198.604.0208)   [-][DESIGN]            ::  É um ímã para impressão digital.
 
-0209)   [-][DESIGN]            ::  Bordas metalicas riscam com facilidade.
+170.518.0209)   [-][DESIGN]            ::  Não possui a mesma beleza de um iphone.
 
-0210)   [-][DESIGN]            ::  O prata suja bastante na parte de trás do aparelho.
+007.018.0210)   [-][DESIGN]            ::  Bordas metalicas riscam com facilidade.
 
-0211)  [-.][DESIGN]            ::  Por ser todo em vidro suja um pouco, mas nada que uma capinha não resolva.
+165.502.0211)   [-][DESIGN]            ::  O prata suja bastante na parte de trás do aparelho.
 
-0212)   [.][DESIGN]            ::  Design discreto, não chama tanto a atenção quanto o Edge.
+187.573.0212)  [-.][DESIGN]            ::  Por ser todo em vidro suja um pouco, mas nada que uma capinha não resolva.
 
-0213)   [+][EMPRESA]           ::  Parabéns Shopfacil.com.
+042.118.0213)   [.][DESIGN]            ::  Design discreto, não chama tanto a atenção quanto o Edge.
 
-0214)   [+][EMPRESA]           ::  A melhor oferta encontrada e entrega rápida.
+005.013.0214)   [+][EMPRESA]           ::  Parabéns Shopfacil.com.
 
-0215)   [+][EMPRESA]           ::  Já sou cliente dos celulares Galaxy eu não troco.
+005.012.0215)   [+][EMPRESA]           ::  A melhor oferta encontrada e entrega rápida.
 
-0216)   [+][EMPRESA]           ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
+134.405.0216)   [+][EMPRESA]           ::  Já sou cliente dos celulares Galaxy eu não troco.
 
-0217)   [+][EMPRESA]           ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
+021.053.0217)   [+][EMPRESA]           ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
 
-0218)   [+][EMPRESA]           ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
+125.379.0218)   [+][EMPRESA]           ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
 
-0219)   [+][EMPRESA]           ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
+018.045.0219)   [+][EMPRESA]           ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
 
-0220)   [+][EMPRESA]           ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
+023.060.0220)   [+][EMPRESA]           ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
 
-0221)   [+][EMPRESA]           ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
+166.509.0221)   [+][EMPRESA]           ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
 
-0222)   [-][EMPRESA]           ::  Falso anúncio.
+140.421.0222)   [+][EMPRESA]           ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
 
-0223)   [-][EMPRESA]           ::  Critica por não ter recebido o blinde.
+210.644.0223)   [-][EMPRESA]           ::  Falso anúncio.
 
-0224)   [-][EMPRESA]           ::  Na propaganda diz ter tv digital é mentira.
+193.590.0224)   [-][EMPRESA]           ::  Critica por não ter recebido o blinde.
 
-0225)   [-][EMPRESA]           ::  E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
+003.007.0225)   [-][EMPRESA]           ::  Na propaganda diz ter tv digital é mentira.
 
-0226)   [-][EMPRESA]           ::  Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
+219.674.0226)   [-][EMPRESA]           ::  E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
 
-0227)   [-][EMPRESA]           ::  Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
+189.579.0227)   [-][EMPRESA]           ::  Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
 
-0228)   [-][EMPRESA]           ::  Paguei sedex pra chegar em 3 dias.. Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
+108.323.0228)   [-][EMPRESA]           ::  Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
 
-0229)   [-][EMPRESA]           ::  O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
+189.580.0229)   [-][EMPRESA]           ::  Paguei sedex pra chegar em 3 dias.. Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
 
-0230)   [-][EMPRESA]           ::  Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
+193.591.0230)   [-][EMPRESA]           ::  O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
 
-0231)   [-][EMPRESA]           ::  O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
+208.637.0231)   [-][EMPRESA]           ::  Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
 
-0232)   [-][EMPRESA]           ::  O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
+210.645.0232)   [-][EMPRESA]           ::  O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
-0233)   [-][EMPRESA]           ::  O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
+217.666.0233)   [-][EMPRESA]           ::  O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
-0234)   [-][EMPRESA]           ::  Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
+194.594.0234)   [-][EMPRESA]           ::  O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
 
-0235)   [-][EMPRESA]           ::  Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+208.632.0235)   [-][EMPRESA]           ::  Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
 
-0236)   [-][EMPRESA]           ::  Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
+181.550.0236)   [-][EMPRESA]           ::  Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
-0237)   [-][EMPRESA]           ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
+208.638.0237)   [-][EMPRESA]           ::  Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
 
-0238)   [+][OUTRO]             ::  Sensor de digital excelente.
+156.466.0238)   [-][EMPRESA]           ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
 
-0239)   [+][OUTRO]             ::  Leitor de digital super rápido.
+043.123.0239)   [+][OUTRO]             ::  Sensor de digital excelente.
 
-0240)   [+][OUTRO]             ::  Oferece atualizações frequentes.
+104.313.0240)   [+][OUTRO]             ::  Leitor de digital super rápido.
 
-0241)   [+][OUTRO]             ::  Não tem aquela portinha chata do S5.
+164.494.0241)   [+][OUTRO]             ::  Oferece atualizações frequentes.
 
-0242)   [+][OUTRO]             ::  O always on é uma inovação no aparelho.
+101.304.0242)   [+][OUTRO]             ::  Não tem aquela portinha chata do S5.
 
-0243)   [+][OUTRO]             ::  O leitor de digital é muito rápido e eficiente.
+198.605.0243)   [+][OUTRO]             ::  O always on é uma inovação no aparelho.
 
-0244)   [+][OUTRO]             ::  A rapidez do leitor de digital também é um ponto positivo.
+165.503.0244)   [+][OUTRO]             ::  O leitor de digital é muito rápido e eficiente.
 
-0245)   [+][OUTRO]             ::  Liberdade para configurar o aparelho do jeito que quiser...
+199.612.0245)   [+][OUTRO]             ::  A rapidez do leitor de digital também é um ponto positivo.
 
-0246)   [+][OUTRO]             ::  Não vem com um monte de aplicativos já instalados - e que você não usa.
+104.313.0246)   [+][OUTRO]             ::  Liberdade para configurar o aparelho do jeito que quiser...
 
-0247)   [+][OUTRO]             ::  O leitor de digital é outro fator positivo, pois ele é rápido e prático.
+186.569.0247)   [+][OUTRO]             ::  Não vem com um monte de aplicativos já instalados - e que você não usa.
 
-0248)   [+][OUTRO]             ::  O leitor de impressões digitais facilita muito o uso e passa tranquilidade pela segurança.
+198.605.0248)   [+][OUTRO]             ::  O leitor de digital é outro fator positivo, pois ele é rápido e prático.
 
-0249)   [+][OUTRO]             ::  Ele informa que tipo de ligação você está recebendo (telemarketing / golpe / propaganda) sem uso de um app especial para isso.
+127.387.0249)   [+][OUTRO]             ::  O leitor de impressões digitais facilita muito o uso e passa tranquilidade pela segurança.
 
-0250)   [+][OUTRO]             ::  Always On é uma função inovadora e muito útil, uma vez que não precisamos mais acender a tela do dispositivo para ver as horas.
+123.368.0250)   [+][OUTRO]             ::  Ele informa que tipo de ligação você está recebendo (telemarketing / golpe / propaganda) sem uso de um app especial para isso.
 
-0251)   [+][OUTRO]             ::  A transferencia dos dados do meu cel ant pra esse foi hiper tranquila em 10 minutos apenas encostando um ap no outro. Uma coisinha ou outra com app da marca mas isso é o de menos.
+199.613.0251)   [+][OUTRO]             ::  Always On é uma função inovadora e muito útil, uma vez que não precisamos mais acender a tela do dispositivo para ver as horas.
 
-0252)   [-][OUTRO]             ::  Botão home ruim.
+125.376.0252)   [+][OUTRO]             ::  A transferencia dos dados do meu cel ant pra esse foi hiper tranquila em 10 minutos apenas encostando um ap no outro. Uma coisinha ou outra com app da marca mas isso é o de menos.
 
-0253)   [-][OUTRO]             ::  O problema pra mim é não ser dual chip.
+007.018.0253)   [-][OUTRO]             ::  Botão home ruim.
 
-0254)   [-][OUTRO]             ::  A Samsung que enche de APPs que não se utiliza que não tem como apagar.
+051.145.0254)   [-][OUTRO]             ::  O problema pra mim é não ser dual chip.
 
-0255)   [-][OUTRO]             ::  O S6 tinha Infravermelho e podia emular controles remotos, o S7 não tem mais.
+190.584.0255)   [-][OUTRO]             ::  A Samsung que enche de APPs que não se utiliza que não tem como apagar.
 
-0256)   [-][OUTRO]             ::  O always on poderia exibir os ícones de outros apps como facebook, whatsapp, instagram...
+082.237.0256)   [-][OUTRO]             ::  O S6 tinha Infravermelho e podia emular controles remotos, o S7 não tem mais.
 
-0257)   [-][OUTRO]             ::  As bordas arredondadas ativa, dificulta o manuseio, pois faz com que ações não conceitual se realize.
+198.605.0257)   [-][OUTRO]             ::  O always on poderia exibir os ícones de outros apps como facebook, whatsapp, instagram...
 
-0258)   [-][OUTRO]             ::  Uma sugestão para o Always On seria exibir o ícone de outros apps, como o whatsapp, facebook e instagram.
+193.591.0258)   [-][OUTRO]             ::  As bordas arredondadas ativa, dificulta o manuseio, pois faz com que ações não conceitual se realize.
 
-0259)   [-][OUTRO]             ::  Único ponto negativo é a impossibilidade de trocar a bateria (ou seja, tem vida útil contada, de 2-3 anos, fora isso, só alegria.
+199.613.0259)   [-][OUTRO]             ::  Uma sugestão para o Always On seria exibir o ícone de outros apps, como o whatsapp, facebook e instagram.
 
-0260)   [-][OUTRO]             ::  O NFC não é compatível com os cartões Mirafire, ou seja não é compatível com o aplicativo da SPTrans e tantas outras aplicações que utilizam este cartão.
+166.508.0260)   [-][OUTRO]             ::  Único ponto negativo é a impossibilidade de trocar a bateria (ou seja, tem vida útil contada, de 2-3 anos, fora isso, só alegria.
 
-0261)   [-][OUTRO]             ::  O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc.
+082.239.0261)   [-][OUTRO]             ::  O NFC não é compatível com os cartões Mirafire, ou seja não é compatível com o aplicativo da SPTrans e tantas outras aplicações que utilizam este cartão.
 
-0262)   [X][OUTRO]             ::  A certificação de resistência à agua eu não testei, pois no S5 essa resistência, seguindo todas as recomendações e verificações, não funcionou.
+165.500.0262)   [-][OUTRO]             ::  O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc.
 
-0263)   [+][PESO]              ::  Leve.
+198.605.0263)   [X][OUTRO]             ::  A certificação de resistência à agua eu não testei, pois no S5 essa resistência, seguindo todas as recomendações e verificações, não funcionou.
 
-0264)   [+][PESO]              ::  Leve.
+149.441.0264)   [+][PESO]              ::  Leve.
 
-0265)   [-][PESO]              ::  É um pouco pesado.
+093.280.0265)   [+][PESO]              ::  Leve.
 
-0266)   [-][PESO]              ::  Só achei um pouco pesado.
+198.604.0266)   [-][PESO]              ::  É um pouco pesado.
 
-0267)   [-][PESO]              ::  Achei o aparelho um pouco pesado.
+022.058.0267)   [-][PESO]              ::  Só achei um pouco pesado.
 
-0268)   [+][PREÇO]             ::  Bom preço.
+199.610.0268)   [-][PESO]              ::  Achei o aparelho um pouco pesado.
 
-0269)   [+][PREÇO]             ::  Vale o que custa.
+008.021.0269)   [+][PREÇO]             ::  Bom preço.
 
-0270)   [+][PREÇO]             ::  Melhor custo beneficio.
+019.047.0270)   [+][PREÇO]             ::  Vale o que custa.
 
-0271)   [+][PREÇO]             ::  Excelente custo beneficio.
+135.406.0271)   [+][PREÇO]             ::  Melhor custo beneficio.
 
-0272)   [+][PREÇO]             ::  Excelente custo beneficio...
+023.059.0272)   [+][PREÇO]             ::  Excelente custo beneficio.
 
-0273)   [+][PREÇO]             ::  Um pouco mais caro que a maioria porém vale cada centavo.
+062.177.0273)   [+][PREÇO]             ::  Excelente custo beneficio...
 
-0274)   [+][PREÇO]             ::  Vale todo o investimento para quem busca um produto premium.
+155.464.0274)   [+][PREÇO]             ::  Um pouco mais caro que a maioria porém vale cada centavo.
 
-0275)   [+][PREÇO]             ::  Depois de pesquisar, achei que esse seria o melhor custo benefício.
+055.156.0275)   [+][PREÇO]             ::  Vale todo o investimento para quem busca um produto premium.
 
-0276)   [+][PREÇO]             ::  A R$2200,00 na promoção da Fast, é o melhor custo-benefício do mercado até o momento.
+135.407.0276)   [+][PREÇO]             ::  Depois de pesquisar, achei que esse seria o melhor custo benefício.
 
-0277)   [+][PREÇO]             ::  Agora com o lançamento do S8 e consequente queda de preço tornou-se um dos melhores custo-benefício do mercado.
+064.185.0277)   [+][PREÇO]             ::  A R$2200,00 na promoção da Fast, é o melhor custo-benefício do mercado até o momento.
 
-0278)  [+.][PREÇO]             ::  É um valor caro a se pagar, mas vale a pena.
+042.120.0278)   [+][PREÇO]             ::  Agora com o lançamento do S8 e consequente queda de preço tornou-se um dos melhores custo-benefício do mercado.
 
-0279)  [+.][PREÇO]             ::  Eu tinha um iphone e pelo alto custo optei pela S7 Samsung.
+131.398.0279)  [+.][PREÇO]             ::  É um valor caro a se pagar, mas vale a pena.
 
-0280)  [+.][PREÇO]             ::  O custo é alto, mas ainda é menor do que dia iPhone equivalentes.
+112.336.0280)  [+.][PREÇO]             ::  Eu tinha um iphone e pelo alto custo optei pela S7 Samsung.
 
-0281)   [-][PREÇO]             ::  Caro.
+152.450.0281)  [+.][PREÇO]             ::  O custo é alto, mas ainda é menor do que dia iPhone equivalentes.
 
-0282)   [-][PREÇO]             ::  Caro.
+031.077.0282)   [-][PREÇO]             ::  Caro.
 
-0283)   [-][PREÇO]             ::  Caríssimo.
+108.322.0283)   [-][PREÇO]             ::  Caro.
 
-0284)   [-][PREÇO]             ::  É caro demais.
+063.178.0284)   [-][PREÇO]             ::  Caríssimo.
 
-0285)   [-][PREÇO]             ::  Poderia ser mais barato.
+063.181.0285)   [-][PREÇO]             ::  É caro demais.
 
-0286)   [-][PREÇO]             ::  Poderia custar mais barato.
+038.099.0286)   [-][PREÇO]             ::  Poderia ser mais barato.
 
-0287)   [-][PREÇO]             ::  Só o preço que é alto demais.
+031.079.0287)   [-][PREÇO]             ::  Poderia custar mais barato.
 
-0288)   [-][PREÇO]             ::  O problema pra mim é o custo.
+190.584.0288)   [-][PREÇO]             ::  Só o preço que é alto demais.
 
-0289)   [-][PREÇO]             ::  Peca um pouco no custo benefício.
+051.145.0289)   [-][PREÇO]             ::  O problema pra mim é o custo.
 
-0290)   [-][PREÇO]             ::  Podia ter melhor custo-benefício.
+139.417.0290)   [-][PREÇO]             ::  Peca um pouco no custo benefício.
 
-0291)   [-][PREÇO]             ::  Pouco tempo mas caro para o que oferece.
+188.576.0291)   [-][PREÇO]             ::  Podia ter melhor custo-benefício.
 
-0292)   [-][PREÇO]             ::  O aparelho poderia ser um pouco mais barato.
+212.652.0292)   [-][PREÇO]             ::  Pouco tempo mas caro para o que oferece.
 
-0293)   [-][PREÇO]             ::  Um celular caro desse com uma bateria péssima.
+038.104.0293)   [-][PREÇO]             ::  O aparelho poderia ser um pouco mais barato.
 
-0294)   [-][PREÇO]             ::  Baixo custo-benefício (como os demais high-ends)
+221.678.0294)   [-][PREÇO]             ::  Um celular caro desse com uma bateria péssima.
 
-0295)   [-][PREÇO]             ::  O preço é alto, mas eu espero que a durabilidade compense o alto investimento.
+153.452.0295)   [-][PREÇO]             ::  Baixo custo-benefício (como os demais high-ends)
 
-0296)  [-.][PREÇO]             ::  Em seu preço original de $4200,00, não vale a pena.
+040.113.0296)   [-][PREÇO]             ::  O preço é alto, mas eu espero que a durabilidade compense o alto investimento.
 
-0297)  [-.][PREÇO]             ::  O preço ainda é salgado, como tudo que é bom no Brasil.
+064.186.0297)  [-.][PREÇO]             ::  Em seu preço original de $4200,00, não vale a pena.
 
-0298)  [-.][PREÇO]             ::  Paguei R$ 2.000 porque realmente eu precisava de um aparelho TOP, uma vez que meu S5 travava demais. Mas só indico gastar essa pequena fortuna pra quem dependa de um celular de alta performance ou quem esteja nadando no dinheiro.
+153.457.0298)  [-.][PREÇO]             ::  O preço ainda é salgado, como tudo que é bom no Brasil.
 
-0299)   [+][PRODUTO]           ::  Boa.
+063.182.0299)  [-.][PREÇO]             ::  Paguei R$ 2.000 porque realmente eu precisava de um aparelho TOP, uma vez que meu S5 travava demais. Mas só indico gastar essa pequena fortuna pra quem dependa de um celular de alta performance ou quem esteja nadando no dinheiro.
 
-0300)   [+][PRODUTO]           ::  Boa.
+113.339.0300)   [+][PRODUTO]           ::  Boa.
 
-0301)   [+][PRODUTO]           ::  Bom.
+191.587.0301)   [+][PRODUTO]           ::  Boa.
 
-0302)   [+][PRODUTO]           ::  Bom.
+010.024.0302)   [+][PRODUTO]           ::  Bom.
 
-0303)   [+][PRODUTO]           ::  Bom.
+010.025.0303)   [+][PRODUTO]           ::  Bom.
 
-0304)   [+][PRODUTO]           ::  Bom.
+017.042.0304)   [+][PRODUTO]           ::  Bom.
 
-0305)   [+][PRODUTO]           ::  Bom.
+017.043.0305)   [+][PRODUTO]           ::  Bom.
 
-0306)   [+][PRODUTO]           ::  Bom.
+025.063.0306)   [+][PRODUTO]           ::  Bom.
 
-0307)   [+][PRODUTO]           ::  Bom.
+031.077.0307)   [+][PRODUTO]           ::  Bom.
 
-0308)   [+][PRODUTO]           ::  Bom.
+036.092.0308)   [+][PRODUTO]           ::  Bom.
 
-0309)   [+][PRODUTO]           ::  Bom.
+060.172.0309)   [+][PRODUTO]           ::  Bom.
 
-0310)   [+][PRODUTO]           ::  Bom.
+069.200.0310)   [+][PRODUTO]           ::  Bom.
 
-0311)   [+][PRODUTO]           ::  Bom.
+078.225.0311)   [+][PRODUTO]           ::  Bom.
 
-0312)   [+][PRODUTO]           ::  Bom.
+079.226.0312)   [+][PRODUTO]           ::  Bom.
 
-0313)   [+][PRODUTO]           ::  Bom.
+083.244.0313)   [+][PRODUTO]           ::  Bom.
 
-0314)   [+][PRODUTO]           ::  Bom.
+113.338.0314)   [+][PRODUTO]           ::  Bom.
 
-0315)   [+][PRODUTO]           ::  Bom.
+167.510.0315)   [+][PRODUTO]           ::  Bom.
 
-0316)   [+][PRODUTO]           ::  Bom.
+167.511.0316)   [+][PRODUTO]           ::  Bom.
 
-0317)   [+][PRODUTO]           ::  Bom.
+174.527.0317)   [+][PRODUTO]           ::  Bom.
 
-0318)   [+][PRODUTO]           ::  Top.
+182.554.0318)   [+][PRODUTO]           ::  Bom.
 
-0319)   [+][PRODUTO]           ::  AMEI!
+052.148.0319)   [+][PRODUTO]           ::  Top.
 
-0320)   [+][PRODUTO]           ::  AMEI.
+011.026.0320)   [+][PRODUTO]           ::  AMEI!
 
-0321)   [+][PRODUTO]           ::  Show.
+123.366.0321)   [+][PRODUTO]           ::  AMEI.
 
-0322)   [+][PRODUTO]           ::  OTIMA.
+154.461.0322)   [+][PRODUTO]           ::  Show.
 
-0323)   [+][PRODUTO]           ::  Otima.
+028.072.0323)   [+][PRODUTO]           ::  OTIMA.
 
-0324)   [+][PRODUTO]           ::  Otima.
+091.276.0324)   [+][PRODUTO]           ::  Otima.
 
-0325)   [+][PRODUTO]           ::  Ótimo.
+207.631.0325)   [+][PRODUTO]           ::  Otima.
 
-0326)   [+][PRODUTO]           ::  Ótimo.
+021.052.0326)   [+][PRODUTO]           ::  Ótimo.
 
-0327)   [+][PRODUTO]           ::  Otimo.
+025.064.0327)   [+][PRODUTO]           ::  Ótimo.
 
-0328)   [+][PRODUTO]           ::  Ótimo.
+041.114.0328)   [+][PRODUTO]           ::  Otimo.
 
-0329)   [+][PRODUTO]           ::  Otimo.
+053.149.0329)   [+][PRODUTO]           ::  Ótimo.
 
-0330)   [+][PRODUTO]           ::  Otimo.
+068.198.0330)   [+][PRODUTO]           ::  Otimo.
 
-0331)   [+][PRODUTO]           ::  Ótimo.
+073.212.0331)   [+][PRODUTO]           ::  Otimo.
 
-0332)   [+][PRODUTO]           ::  Otimo.
+100.296.0332)   [+][PRODUTO]           ::  Ótimo.
 
-0333)   [+][PRODUTO]           ::  Ótimo.
+103.308.0333)   [+][PRODUTO]           ::  Otimo.
 
-0334)   [+][PRODUTO]           ::  Ótimo.
+110.328.0334)   [+][PRODUTO]           ::  Ótimo.
 
-0335)   [+][PRODUTO]           ::  Ótimo.
+112.335.0335)   [+][PRODUTO]           ::  Ótimo.
 
-0336)   [+][PRODUTO]           ::  Ótimo.
+115.345.0336)   [+][PRODUTO]           ::  Ótimo.
 
-0337)   [+][PRODUTO]           ::  Otimo.
+124.372.0337)   [+][PRODUTO]           ::  Ótimo.
 
-0338)   [+][PRODUTO]           ::  Ótimo.
+174.526.0338)   [+][PRODUTO]           ::  Otimo.
 
-0339)   [+][PRODUTO]           ::  Ótimo.
+176.532.0339)   [+][PRODUTO]           ::  Ótimo.
 
-0340)   [+][PRODUTO]           ::  Rápido.
+196.597.0340)   [+][PRODUTO]           ::  Ótimo.
 
-0341)   [+][PRODUTO]           ::  Adorei!
+177.537.0341)   [+][PRODUTO]           ::  Rápido.
 
-0342)   [+][PRODUTO]           ::  Adorei.
+039.106.0342)   [+][PRODUTO]           ::  Adorei!
 
-0343)   [+][PRODUTO]           ::  Rápido.
+195.595.0343)   [+][PRODUTO]           ::  Adorei.
 
-0344)   [+][PRODUTO]           ::  Toooop.
+152.449.0344)   [+][PRODUTO]           ::  Rápido.
 
-0345)   [+][PRODUTO]           ::  Otimo!!!
+197.601.0345)   [+][PRODUTO]           ::  Toooop.
 
-0346)   [+][PRODUTO]           ::  APROVADO.
+009.022.0346)   [+][PRODUTO]           ::  Otimo!!!
 
-0347)   [+][PRODUTO]           ::  Funcional.
+028.071.0347)   [+][PRODUTO]           ::  APROVADO.
 
-0348)   [+][PRODUTO]           ::  Funcional.
+064.187.0348)   [+][PRODUTO]           ::  Funcional.
 
-0349)   [+][PRODUTO]           ::  Incrível!
+166.507.0349)   [+][PRODUTO]           ::  Funcional.
 
-0350)   [+][PRODUTO]           ::  Moderno.
+055.153.0350)   [+][PRODUTO]           ::  Incrível!
 
-0351)   [+][PRODUTO]           ::  S7 ÓTIMO.
+147.435.0351)   [+][PRODUTO]           ::  Moderno.
 
-0352)   [+][PRODUTO]           ::  Excelente!
+059.170.0352)   [+][PRODUTO]           ::  S7 ÓTIMO.
 
-0353)   [+][PRODUTO]           ::  Excelente!
+029.073.0353)   [+][PRODUTO]           ::  Excelente!
 
-0354)   [+][PRODUTO]           ::  Excelente!
+094.283.0354)   [+][PRODUTO]           ::  Excelente!
 
-0355)   [+][PRODUTO]           ::  Excelente.
+148.438.0355)   [+][PRODUTO]           ::  Excelente!
 
-0356)   [+][PRODUTO]           ::  Excelente.
+001.001.0356)   [+][PRODUTO]           ::  Excelente.
 
-0357)   [+][PRODUTO]           ::  Excelente.
+018.044.0357)   [+][PRODUTO]           ::  Excelente.
 
-0358)   [+][PRODUTO]           ::  Excelente.
+042.116.0358)   [+][PRODUTO]           ::  Excelente.
 
-0359)   [+][PRODUTO]           ::  Excelente.
+044.124.0359)   [+][PRODUTO]           ::  Excelente.
 
-0360)   [+][PRODUTO]           ::  Excelente.
+048.135.0360)   [+][PRODUTO]           ::  Excelente.
 
-0361)   [+][PRODUTO]           ::  Excelente.
+060.173.0361)   [+][PRODUTO]           ::  Excelente.
 
-0362)   [+][PRODUTO]           ::  Excelente.
+062.176.0362)   [+][PRODUTO]           ::  Excelente.
 
-0363)   [+][PRODUTO]           ::  Excelente.
+096.287.0363)   [+][PRODUTO]           ::  Excelente.
 
-0364)   [+][PRODUTO]           ::  Excelente.
+116.347.0364)   [+][PRODUTO]           ::  Excelente.
 
-0365)   [+][PRODUTO]           ::  Excelente.
+130.392.0365)   [+][PRODUTO]           ::  Excelente.
 
-0366)   [+][PRODUTO]           ::  EXCELENTE.
+133.402.0366)   [+][PRODUTO]           ::  Excelente.
 
-0367)   [+][PRODUTO]           ::  Excelente.
+158.477.0367)   [+][PRODUTO]           ::  EXCELENTE.
 
-0368)   [+][PRODUTO]           ::  Excelente.
+159.479.0368)   [+][PRODUTO]           ::  Excelente.
 
-0369)   [+][PRODUTO]           ::  Galaxy S7.
+206.628.0369)   [+][PRODUTO]           ::  Excelente.
 
-0370)   [+][PRODUTO]           ::  Galaxy s7.
+013.032.0370)   [+][PRODUTO]           ::  Galaxy S7.
 
-0371)   [+][PRODUTO]           ::  Galaxy S7.
+105.314.0371)   [+][PRODUTO]           ::  Galaxy s7.
 
-0372)   [+][PRODUTO]           ::  Muito boa.
+198.602.0372)   [+][PRODUTO]           ::  Galaxy S7.
 
-0373)   [+][PRODUTO]           ::  Muito bom!
+053.150.0373)   [+][PRODUTO]           ::  Muito boa.
 
-0374)   [+][PRODUTO]           ::  Muito bom!
+014.034.0374)   [+][PRODUTO]           ::  Muito bom!
 
-0375)   [+][PRODUTO]           ::  Muito bom!
+020.049.0375)   [+][PRODUTO]           ::  Muito bom!
 
-0376)   [+][PRODUTO]           ::  Muito bom!
+046.129.0376)   [+][PRODUTO]           ::  Muito bom!
 
-0377)   [+][PRODUTO]           ::  Muito BOM!
+159.480.0377)   [+][PRODUTO]           ::  Muito bom!
 
-0378)   [+][PRODUTO]           ::  Muito bom.
+172.521.0378)   [+][PRODUTO]           ::  Muito BOM!
 
-0379)   [+][PRODUTO]           ::  Muito bom.
+037.098.0379)   [+][PRODUTO]           ::  Muito bom.
 
-0380)   [+][PRODUTO]           ::  Muito bom.
+066.194.0380)   [+][PRODUTO]           ::  Muito bom.
 
-0381)   [+][PRODUTO]           ::  Muito bom.
+069.201.0381)   [+][PRODUTO]           ::  Muito bom.
 
-0382)   [+][PRODUTO]           ::  Muito bom.
+081.230.0382)   [+][PRODUTO]           ::  Muito bom.
 
-0383)   [+][PRODUTO]           ::  Muito bom.
+102.306.0383)   [+][PRODUTO]           ::  Muito bom.
 
-0384)   [+][PRODUTO]           ::  Muito bom.
+111.332.0384)   [+][PRODUTO]           ::  Muito bom.
 
-0385)   [+][PRODUTO]           ::  Muito bom.
+119.354.0385)   [+][PRODUTO]           ::  Muito bom.
 
-0386)   [+][PRODUTO]           ::  Muito bom.
+130.393.0386)   [+][PRODUTO]           ::  Muito bom.
 
-0387)   [+][PRODUTO]           ::  Muito bom.
+141.422.0387)   [+][PRODUTO]           ::  Muito bom.
 
-0388)   [+][PRODUTO]           ::  MUITO BOM.
+151.445.0388)   [+][PRODUTO]           ::  Muito bom.
 
-0389)   [+][PRODUTO]           ::  Muito bom.
+158.478.0389)   [+][PRODUTO]           ::  MUITO BOM.
 
-0390)   [+][PRODUTO]           ::  Muito bom.
+164.491.0390)   [+][PRODUTO]           ::  Muito bom.
 
-0391)   [+][PRODUTO]           ::  Muito bom.
+171.520.0391)   [+][PRODUTO]           ::  Muito bom.
 
-0392)   [+][PRODUTO]           ::  Recomendo.
+178.540.0392)   [+][PRODUTO]           ::  Muito bom.
 
-0393)   [+][PRODUTO]           ::  Recomendo.
+014.037.0393)   [+][PRODUTO]           ::  Recomendo.
 
-0394)   [+][PRODUTO]           ::  Recomendo.
+081.232.0394)   [+][PRODUTO]           ::  Recomendo.
 
-0395)   [+][PRODUTO]           ::  Recomendo.
+096.289.0395)   [+][PRODUTO]           ::  Recomendo.
 
-0396)   [+][PRODUTO]           ::  Satisfeita.
+163.490.0396)   [+][PRODUTO]           ::  Recomendo.
 
-0397)   [+][PRODUTO]           ::  Satisfeito.
+105.315.0397)   [+][PRODUTO]           ::  Satisfeita.
 
-0398)   [+][PRODUTO]           ::  Satisfeito.
+076.219.0398)   [+][PRODUTO]           ::  Satisfeito.
 
-0399)   [+][PRODUTO]           ::  Satisfeito.
+120.356.0399)   [+][PRODUTO]           ::  Satisfeito.
 
-0400)   [+][PRODUTO]           ::  Bom produto.
+184.558.0400)   [+][PRODUTO]           ::  Satisfeito.
 
-0401)   [+][PRODUTO]           ::  Bom produto.
+003.005.0401)   [+][PRODUTO]           ::  Bom produto.
 
-0402)   [+][PRODUTO]           ::  Celular bom.
+080.229.0402)   [+][PRODUTO]           ::  Bom produto.
 
-0403)   [+][PRODUTO]           ::  Celular bom.
+038.099.0403)   [+][PRODUTO]           ::  Celular bom.
 
-0404)   [+][PRODUTO]           ::  Curti dmais.
+108.322.0404)   [+][PRODUTO]           ::  Celular bom.
 
-0405)   [+][PRODUTO]           ::  Maravilhosa.
+043.121.0405)   [+][PRODUTO]           ::  Curti dmais.
 
-0406)   [+][PRODUTO]           ::  Muito bom!!!
+144.429.0406)   [+][PRODUTO]           ::  Maravilhosa.
 
-0407)   [+][PRODUTO]           ::  Produto bom.
+103.309.0407)   [+][PRODUTO]           ::  Muito bom!!!
 
-0408)   [+][PRODUTO]           ::  Produto TOP.
+171.519.0408)   [+][PRODUTO]           ::  Produto bom.
 
-0409)   [+][PRODUTO]           ::  Prudoto bom.
+172.522.0409)   [+][PRODUTO]           ::  Produto TOP.
 
-0410)   [+][PRODUTO]           ::  Sensacional.
+142.424.0410)   [+][PRODUTO]           ::  Prudoto bom.
 
-0411)   [+][PRODUTO]           ::  Tudo de bom.
+074.214.0411)   [+][PRODUTO]           ::  Sensacional.
 
-0412)   [+][PRODUTO]           ::  Vale a pena.
+125.374.0412)   [+][PRODUTO]           ::  Tudo de bom.
 
-0413)   [+][PRODUTO]           ::  Bom Aparelho.
+016.040.0413)   [+][PRODUTO]           ::  Vale a pena.
 
-0414)   [+][PRODUTO]           ::  Gostei muito.
+134.404.0414)   [+][PRODUTO]           ::  Bom Aparelho.
 
-0415)   [+][PRODUTO]           ::  Muito rápido.
+100.300.0415)   [+][PRODUTO]           ::  Gostei muito.
 
-0416)   [+][PRODUTO]           ::  Ótimo produto.
+184.562.0416)   [+][PRODUTO]           ::  Muito rápido.
 
-0417)   [+][PRODUTO]           ::  RECOMENDO ...
+176.533.0417)   [+][PRODUTO]           ::  Ótimo produto.
 
-0418)   [+][PRODUTO]           ::  RECOMENDO ...
+137.410.0418)   [+][PRODUTO]           ::  RECOMENDO ...
 
-0419)   [+][PRODUTO]           ::  Top de linha.
+140.418.0419)   [+][PRODUTO]           ::  RECOMENDO ...
 
-0420)   [+][PRODUTO]           ::  Valeu a pena!
+023.059.0420)   [+][PRODUTO]           ::  Top de linha.
 
-0421)   [+][PRODUTO]           ::  Valeu a pena.
+020.051.0421)   [+][PRODUTO]           ::  Valeu a pena!
 
-0422)   [+][PRODUTO]           ::  Celular ótimo.
+014.036.0422)   [+][PRODUTO]           ::  Valeu a pena.
 
-0423)   [+][PRODUTO]           ::  Completíssimo.
+093.279.0423)   [+][PRODUTO]           ::  Celular ótimo.
 
-0424)   [+][PRODUTO]           ::  Ótimo Aparelho.
+085.248.0424)   [+][PRODUTO]           ::  Completíssimo.
 
-0425)   [+][PRODUTO]           ::  Ótimo celular.
+063.178.0425)   [+][PRODUTO]           ::  Ótimo Aparelho.
 
-0426)   [+][PRODUTO]           ::  Otimo celular.
+047.133.0426)   [+][PRODUTO]           ::  Ótimo celular.
 
-0427)   [+][PRODUTO]           ::  Ótimo celular.
+150.443.0427)   [+][PRODUTO]           ::  Otimo celular.
 
-0428)   [+][PRODUTO]           ::  Otimo celular.
+160.481.0428)   [+][PRODUTO]           ::  Ótimo celular.
 
-0429)   [+][PRODUTO]           ::  Otimo em tudo!
+200.615.0429)   [+][PRODUTO]           ::  Otimo celular.
 
-0430)   [+][PRODUTO]           ::  Ótimo produto.
+024.061.0430)   [+][PRODUTO]           ::  Otimo em tudo!
 
-0431)   [+][PRODUTO]           ::  Ótimo produto.
+015.039.0431)   [+][PRODUTO]           ::  Ótimo produto.
 
-0432)   [+][PRODUTO]           ::  Ótimo produto.
+026.065.0432)   [+][PRODUTO]           ::  Ótimo produto.
 
-0433)   [+][PRODUTO]           ::  Otimo produto.
+104.310.0433)   [+][PRODUTO]           ::  Ótimo produto.
 
-0434)   [+][PRODUTO]           ::  Ótimo Produto.
+138.414.0434)   [+][PRODUTO]           ::  Otimo produto.
 
-0435)   [+][PRODUTO]           ::  Ótimo produto.
+139.416.0435)   [+][PRODUTO]           ::  Ótimo Produto.
 
-0436)   [+][PRODUTO]           ::  Ótimo produto.
+164.492.0436)   [+][PRODUTO]           ::  Ótimo produto.
 
-0437)   [+][PRODUTO]           ::  Ótimo produto.
+192.588.0437)   [+][PRODUTO]           ::  Ótimo produto.
 
-0438)   [+][PRODUTO]           ::  Produto otimo.
+197.599.0438)   [+][PRODUTO]           ::  Ótimo produto.
 
-0439)   [+][PRODUTO]           ::  É tudo de bom.
+032.080.0439)   [+][PRODUTO]           ::  Produto otimo.
 
-0440)   [+][PRODUTO]           ::  Òtimo Produto.
+082.241.0440)   [+][PRODUTO]           ::  É tudo de bom.
 
-0441)   [+][PRODUTO]           ::  Aparelho otimo.
+131.396.0441)   [+][PRODUTO]           ::  Òtimo Produto.
 
-0442)   [+][PRODUTO]           ::  De outro mundo!
+207.630.0442)   [+][PRODUTO]           ::  Aparelho otimo.
 
-0443)   [+][PRODUTO]           ::  Gostei de tudo.
+056.158.0443)   [+][PRODUTO]           ::  De outro mundo!
 
-0444)   [+][PRODUTO]           ::  Muitas funções.
+048.136.0444)   [+][PRODUTO]           ::  Gostei de tudo.
 
-0445)   [+][PRODUTO]           ::  Não decepciona.
+111.333.0445)   [+][PRODUTO]           ::  Muitas funções.
 
-0446)   [+][PRODUTO]           ::  Otimo aparelho!
+065.191.0446)   [+][PRODUTO]           ::  Não decepciona.
 
-0447)   [+][PRODUTO]           ::  Ótimo aparelho.
+033.082.0447)   [+][PRODUTO]           ::  Otimo aparelho!
 
-0448)   [+][PRODUTO]           ::  Ótimo celular.
+190.583.0448)   [+][PRODUTO]           ::  Ótimo aparelho.
 
-0449)   [+][PRODUTO]           ::  Quase perfeito.
+002.003.0449)   [+][PRODUTO]           ::  Ótimo celular.
 
-0450)   [+][PRODUTO]           ::  Um bom produto.
+054.151.0450)   [+][PRODUTO]           ::  Quase perfeito.
 
-0451)   [+][PRODUTO]           ::  Um bom produto.
+097.291.0451)   [+][PRODUTO]           ::  Um bom produto.
 
-0452)   [+][PRODUTO]           ::  Aparelho rápido.
+175.531.0452)   [+][PRODUTO]           ::  Um bom produto.
 
-0453)   [+][PRODUTO]           ::  Bonito e Rápido.
+086.251.0453)   [+][PRODUTO]           ::  Aparelho rápido.
 
-0454)   [+][PRODUTO]           ::  GS7, fantástico.
+131.395.0454)   [+][PRODUTO]           ::  Bonito e Rápido.
 
-0455)   [+][PRODUTO]           ::  Nada a reclamar.
+109.325.0455)   [+][PRODUTO]           ::  GS7, fantástico.
 
-0456)   [+][PRODUTO]           ::  Ótima aquisição.
+102.307.0456)   [+][PRODUTO]           ::  Nada a reclamar.
 
-0457)   [+][PRODUTO]           ::  Ótima aquisição.
+070.202.0457)   [+][PRODUTO]           ::  Ótima aquisição.
 
-0458)   [+][PRODUTO]           ::  Ótima tecnologia.
+204.624.0458)   [+][PRODUTO]           ::  Ótima aquisição.
 
-0459)   [+][PRODUTO]           ::  Aparelho premium.
+214.656.0459)   [+][PRODUTO]           ::  Ótima tecnologia.
 
-0460)   [+][PRODUTO]           ::  Excelente produto.
+042.117.0460)   [+][PRODUTO]           ::  Aparelho premium.
 
-0461)   [+][PRODUTO]           ::  O celular é ótimo.
+106.317.0461)   [+][PRODUTO]           ::  Excelente produto.
 
-0462)   [+][PRODUTO]           ::  Ótimo smartphone.
+221.678.0462)   [+][PRODUTO]           ::  O celular é ótimo.
 
-0463)   [+][PRODUTO]           ::  Produto muito bom.
+119.355.0463)   [+][PRODUTO]           ::  Ótimo smartphone.
 
-0464)   [+][PRODUTO]           ::  Adorei o aparelho.
+138.415.0464)   [+][PRODUTO]           ::  Produto muito bom.
 
-0465)   [+][PRODUTO]           ::  Aparelho muito bom.
+154.462.0465)   [+][PRODUTO]           ::  Adorei o aparelho.
 
-0466)   [+][PRODUTO]           ::  Celular excelente.
+121.359.0466)   [+][PRODUTO]           ::  Aparelho muito bom.
 
-0467)   [+][PRODUTO]           ::  Celular muito bom!
+178.539.0467)   [+][PRODUTO]           ::  Celular excelente.
 
-0468)   [+][PRODUTO]           ::  Celular muito bom.
+129.390.0468)   [+][PRODUTO]           ::  Celular muito bom!
 
-0469)   [+][PRODUTO]           ::  Excelente celular.
+094.282.0469)   [+][PRODUTO]           ::  Celular muito bom.
 
-0470)   [+][PRODUTO]           ::  Excelente celular.
+031.078.0470)   [+][PRODUTO]           ::  Excelente celular.
 
-0471)   [+][PRODUTO]           ::  Excelente celular.
+071.205.0471)   [+][PRODUTO]           ::  Excelente celular.
 
-0472)   [+][PRODUTO]           ::  Excelente celular.
+095.285.0472)   [+][PRODUTO]           ::  Excelente celular.
 
-0473)   [+][PRODUTO]           ::  Excelente produto!
+122.362.0473)   [+][PRODUTO]           ::  Excelente celular.
 
-0474)   [+][PRODUTO]           ::  Excelente produto.
+149.440.0474)   [+][PRODUTO]           ::  Excelente produto!
 
-0475)   [+][PRODUTO]           ::  Excelente produto.
+005.011.0475)   [+][PRODUTO]           ::  Excelente produto.
 
-0476)   [+][PRODUTO]           ::  Gostei muito do s7.
+161.483.0476)   [+][PRODUTO]           ::  Excelente produto.
 
-0477)   [+][PRODUTO]           ::  Muito bom produto.
+194.593.0477)   [+][PRODUTO]           ::  Gostei muito do s7.
 
-0478)   [+][PRODUTO]           ::  Muito bom produto.
+097.290.0478)   [+][PRODUTO]           ::  Muito bom produto.
 
-0479)   [+][PRODUTO]           ::  Produto excelente.
+128.388.0479)   [+][PRODUTO]           ::  Muito bom produto.
 
-0480)   [+][PRODUTO]           ::  Produto Excelente.
+073.213.0480)   [+][PRODUTO]           ::  Produto excelente.
 
-0481)   [+][PRODUTO]           ::  Produto muito bom.
+179.541.0481)   [+][PRODUTO]           ::  Produto Excelente.
 
-0482)   [+][PRODUTO]           ::  Produto muito bom.
+168.512.0482)   [+][PRODUTO]           ::  Produto muito bom.
 
-0483)   [+][PRODUTO]           ::  Qualidade Samsung.
+194.592.0483)   [+][PRODUTO]           ::  Produto muito bom.
 
-0484)   [+][PRODUTO]           ::  Super recomendado.
+061.174.0484)   [+][PRODUTO]           ::  Qualidade Samsung.
 
-0485)   [+][PRODUTO]           ::  Um ótimo aparelho!
+008.020.0485)   [+][PRODUTO]           ::  Super recomendado.
 
-0486)   [+][PRODUTO]           ::  Aparelho muito bom!
+107.319.0486)   [+][PRODUTO]           ::  Um ótimo aparelho!
 
-0487)   [+][PRODUTO]           ::  Compra recomendada.
+101.301.0487)   [+][PRODUTO]           ::  Aparelho muito bom!
 
-0488)   [+][PRODUTO]           ::  Compra recomendada.
+111.334.0488)   [+][PRODUTO]           ::  Compra recomendada.
 
-0489)   [+][PRODUTO]           ::  Excelente aparelho.
+121.361.0489)   [+][PRODUTO]           ::  Compra recomendada.
 
-0490)   [+][PRODUTO]           ::  Excelente aparelho.
+111.331.0490)   [+][PRODUTO]           ::  Excelente aparelho.
 
-0491)   [+][PRODUTO]           ::  Excelente aparelho.
+121.358.0491)   [+][PRODUTO]           ::  Excelente aparelho.
 
-0492)   [+][PRODUTO]           ::  Funciona muito bem.
+188.574.0492)   [+][PRODUTO]           ::  Excelente aparelho.
 
-0493)   [+][PRODUTO]           ::  Muito bom aparelho.
+101.302.0493)   [+][PRODUTO]           ::  Funciona muito bem.
 
-0494)   [+][PRODUTO]           ::  Muito bom aparelho.
+114.343.0494)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-0495)   [+][PRODUTO]           ::  Muito bom aparelho.
+150.444.0495)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-0496)   [+][PRODUTO]           ::  Produto maravilhoso.
+151.446.0496)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-0497)   [+][PRODUTO]           ::  Tudo show de bola..
+201.618.0497)   [+][PRODUTO]           ::  Produto maravilhoso.
 
-0498)   [+][PRODUTO]           ::  Um ótimo Smartphone.
+125.378.0498)   [+][PRODUTO]           ::  Tudo show de bola..
 
-0499)   [+][PRODUTO]           ::  Um ótimo smartphone.
+139.417.0499)   [+][PRODUTO]           ::  Um ótimo Smartphone.
 
-0500)   [+][PRODUTO]           ::  Adorei esse celular.
+153.452.0500)   [+][PRODUTO]           ::  Um ótimo smartphone.
 
-0501)   [+][PRODUTO]           ::  Aprovei e recomendo.
+197.600.0501)   [+][PRODUTO]           ::  Adorei esse celular.
 
-0502)   [+][PRODUTO]           ::  Aprovei e recomendo.
+184.563.0502)   [+][PRODUTO]           ::  Aprovei e recomendo.
 
-0503)   [+][PRODUTO]           ::  Excelente aparelho!
+200.616.0503)   [+][PRODUTO]           ::  Aprovei e recomendo.
 
-0504)   [+][PRODUTO]           ::  Excelente smartphone.
+190.584.0504)   [+][PRODUTO]           ::  Excelente aparelho!
 
-0505)   [+][PRODUTO]           ::  Muito bom e preciso.
+155.464.0505)   [+][PRODUTO]           ::  Excelente smartphone.
 
-0506)   [+][PRODUTO]           ::  É um ótimo aparelho.
+118.351.0506)   [+][PRODUTO]           ::  Muito bom e preciso.
 
-0507)   [+][PRODUTO]           ::  É um smartphone TOP.
+146.432.0507)   [+][PRODUTO]           ::  É um ótimo aparelho.
 
-0508)   [+][PRODUTO]           ::  Aparelho excelente!!!
+137.411.0508)   [+][PRODUTO]           ::  É um smartphone TOP.
 
-0509)   [+][PRODUTO]           ::  APARELHO SENSACIONAL.
+201.617.0509)   [+][PRODUTO]           ::  Aparelho excelente!!!
 
-0510)   [+][PRODUTO]           ::  Até agora ta bem bom.
+185.565.0510)   [+][PRODUTO]           ::  APARELHO SENSACIONAL.
 
-0511)   [+][PRODUTO]           ::  Boas funcionalidades.
+083.245.0511)   [+][PRODUTO]           ::  Até agora ta bem bom.
 
-0512)   [+][PRODUTO]           ::  Excelente smartphone.
+097.291.0512)   [+][PRODUTO]           ::  Boas funcionalidades.
 
-0513)   [+][PRODUTO]           ::  Excelente smartphone.
+166.505.0513)   [+][PRODUTO]           ::  Excelente smartphone.
 
-0514)   [+][PRODUTO]           ::  Excelente! Recomendo!
+173.524.0514)   [+][PRODUTO]           ::  Excelente smartphone.
 
-0515)   [+][PRODUTO]           ::  Nunca me decepcionou.
+203.622.0515)   [+][PRODUTO]           ::  Excelente! Recomendo!
 
-0516)   [+][PRODUTO]           ::  Não me arrependo não.
+133.403.0516)   [+][PRODUTO]           ::  Nunca me decepcionou.
 
-0517)   [+][PRODUTO]           ::  O celular é excelente.
+063.183.0517)   [+][PRODUTO]           ::  Não me arrependo não.
 
-0518)   [+][PRODUTO]           ::  Produto de qualidade.
+187.572.0518)   [+][PRODUTO]           ::  O celular é excelente.
 
-0519)   [+][PRODUTO]           ::  Produto de qualidade.
+117.349.0519)   [+][PRODUTO]           ::  Produto de qualidade.
 
-0520)   [+][PRODUTO]           ::  Recomendo Samsung S7.
+199.607.0520)   [+][PRODUTO]           ::  Produto de qualidade.
 
-0521)   [+][PRODUTO]           ::  Smartphone muito bom.
+058.166.0521)   [+][PRODUTO]           ::  Recomendo Samsung S7.
 
-0522)   [+][PRODUTO]           ::  Até agora é muito boa.
+152.448.0522)   [+][PRODUTO]           ::  Smartphone muito bom.
 
-0523)   [+][PRODUTO]           ::  Equipamento muito bom.
+001.002.0523)   [+][PRODUTO]           ::  Até agora é muito boa.
 
-0524)   [+][PRODUTO]           ::  Totalmente satisfeita.
+126.382.0524)   [+][PRODUTO]           ::  Equipamento muito bom.
 
-0525)   [+][PRODUTO]           ::  Um produto fantástico.
+177.536.0525)   [+][PRODUTO]           ::  Totalmente satisfeita.
 
-0526)   [+][PRODUTO]           ::  Ele é bonito e potente.
+055.154.0526)   [+][PRODUTO]           ::  Um produto fantástico.
 
-0527)   [+][PRODUTO]           ::  O aparelho é excelente.
+012.030.0527)   [+][PRODUTO]           ::  Ele é bonito e potente.
 
-0528)   [+][PRODUTO]           ::  Supera as expectativas.
+165.496.0528)   [+][PRODUTO]           ::  O aparelho é excelente.
 
-0529)   [+][PRODUTO]           ::  Fiquei muito satisfeita!
+117.350.0529)   [+][PRODUTO]           ::  Supera as expectativas.
 
-0530)   [+][PRODUTO]           ::  Produto de boa qualidade.
+112.337.0530)   [+][PRODUTO]           ::  Fiquei muito satisfeita!
 
-0531)   [+][PRODUTO]           ::  Satisfeita com a compra.
+117.350.0531)   [+][PRODUTO]           ::  Produto de boa qualidade.
 
-0532)   [+][PRODUTO]           ::  Top de linha de verdade.
+110.329.0532)   [+][PRODUTO]           ::  Satisfeita com a compra.
 
-0533)   [+][PRODUTO]           ::  É um excelente aparelho.
+006.014.0533)   [+][PRODUTO]           ::  Top de linha de verdade.
 
-0534)   [+][PRODUTO]           ::  Excelência em smartphone.
+190.585.0534)   [+][PRODUTO]           ::  É um excelente aparelho.
 
-0535)   [+][PRODUTO]           ::  O produto no geral é bom.
+045.126.0535)   [+][PRODUTO]           ::  Excelência em smartphone.
 
-0536)   [+][PRODUTO]           ::  Ate agora me surpreendeu..
+027.067.0536)   [+][PRODUTO]           ::  O produto no geral é bom.
 
-0537)   [+][PRODUTO]           ::  Foi um salto de qualidade.
+125.377.0537)   [+][PRODUTO]           ::  Ate agora me surpreendeu..
 
-0538)   [+][PRODUTO]           ::  Não deixou nada a desejar.
+038.102.0538)   [+][PRODUTO]           ::  Foi um salto de qualidade.
 
-0539)   [+][PRODUTO]           ::  O celular é bom, no geral.
+164.493.0539)   [+][PRODUTO]           ::  Não deixou nada a desejar.
 
-0540)   [+][PRODUTO]           ::  Veloz e com bons recrusos.
+036.093.0540)   [+][PRODUTO]           ::  O celular é bom, no geral.
 
-0541)   [+][PRODUTO]           ::  A princípio um celular bom.
+127.385.0541)   [+][PRODUTO]           ::  Veloz e com bons recrusos.
 
-0542)   [+][PRODUTO]           ::  Atualmente um dos melhores.
+082.234.0542)   [+][PRODUTO]           ::  A princípio um celular bom.
 
-0543)   [+][PRODUTO]           ::  Celular muito bom no geral.
+132.399.0543)   [+][PRODUTO]           ::  Atualmente um dos melhores.
 
-0544)   [+][PRODUTO]           ::  Melhor que qualquer iPhone.
+002.004.0544)   [+][PRODUTO]           ::  Celular muito bom no geral.
 
-0545)   [+][PRODUTO]           ::  Nada a reclamar do produto.
+157.475.0545)   [+][PRODUTO]           ::  Melhor que qualquer iPhone.
 
-0546)   [+][PRODUTO]           ::  O Galaxy S7 não decepciona.
+012.029.0546)   [+][PRODUTO]           ::  Nada a reclamar do produto.
 
-0547)   [+][PRODUTO]           ::  Vale a pena o investimento.
+056.160.0547)   [+][PRODUTO]           ::  O Galaxy S7 não decepciona.
 
-0548)   [+][PRODUTO]           ::  Melhor aparelho que ja usei.
+172.523.0548)   [+][PRODUTO]           ::  Vale a pena o investimento.
 
-0549)   [+][PRODUTO]           ::  O Galaxy S7 é surpreendente
+106.316.0549)   [+][PRODUTO]           ::  Melhor aparelho que ja usei.
 
-0550)   [+][PRODUTO]           ::  Ótimo smartphone, recomendo!
+065.192.0550)   [+][PRODUTO]           ::  O Galaxy S7 é surpreendente
 
-0551)   [+][PRODUTO]           ::  Aparelho muito bom recomendo.
+019.048.0551)   [+][PRODUTO]           ::  Ótimo smartphone, recomendo!
 
-0552)   [+][PRODUTO]           ::  Bom produto, apesar do custo.
+128.389.0552)   [+][PRODUTO]           ::  Aparelho muito bom recomendo.
 
-0553)   [+][PRODUTO]           ::  E muito show esse celular S7.
+051.142.0553)   [+][PRODUTO]           ::  Bom produto, apesar do custo.
 
-0554)   [+][PRODUTO]           ::  Ótima configuração do celular.
+195.596.0554)   [+][PRODUTO]           ::  E muito show esse celular S7.
 
-0555)   [+][PRODUTO]           ::  Por hora estou gostando muito.
+211.650.0555)   [+][PRODUTO]           ::  Ótima configuração do celular.
 
-0556)   [+][PRODUTO]           ::  Produto dispensa comparativos.
+198.604.0556)   [+][PRODUTO]           ::  Por hora estou gostando muito.
 
-0557)   [+][PRODUTO]           ::  Recomendo muito este produto.
+170.517.0557)   [+][PRODUTO]           ::  Produto dispensa comparativos.
 
-0558)   [+][PRODUTO]           ::  Produto atende às expectativas.
+100.297.0558)   [+][PRODUTO]           ::  Recomendo muito este produto.
 
-0559)   [+][PRODUTO]           ::  Corresponde ao que é informado.
+120.357.0559)   [+][PRODUTO]           ::  Produto atende às expectativas.
 
-0560)   [+][PRODUTO]           ::  Tem sido uma experiência ótima.
+187.571.0560)   [+][PRODUTO]           ::  Corresponde ao que é informado.
 
-0561)   [+][PRODUTO]           ::  Excelente smartphone, recomendo!
+012.031.0561)   [+][PRODUTO]           ::  Tem sido uma experiência ótima.
 
-0562)   [+][PRODUTO]           ::  Muito satisfeito com o aparelho.
+016.041.0562)   [+][PRODUTO]           ::  Excelente smartphone, recomendo!
 
-0563)   [+][PRODUTO]           ::  Um bom aparelho, caro por sinal.
+095.286.0563)   [+][PRODUTO]           ::  Muito satisfeito com o aparelho.
 
-0564)   [+][PRODUTO]           ::  Estou feliz com ele por enquanto.
+175.528.0564)   [+][PRODUTO]           ::  Um bom aparelho, caro por sinal.
 
-0565)   [+][PRODUTO]           ::  Estou gostando muito do aparelho.
+027.070.0565)   [+][PRODUTO]           ::  Estou feliz com ele por enquanto.
 
-0566)   [+][PRODUTO]           ::  Ótimo superou minha expectativas.
+184.559.0566)   [+][PRODUTO]           ::  Estou gostando muito do aparelho.
 
-0567)   [+][PRODUTO]           ::  Segurança, confiança e agilidade.
+084.246.0567)   [+][PRODUTO]           ::  Ótimo superou minha expectativas.
 
-0568)   [+][PRODUTO]           ::  Vários outros recursos positivos.
+183.556.0568)   [+][PRODUTO]           ::  Segurança, confiança e agilidade.
 
-0569)   [+][PRODUTO]           ::  Até agora, não vi pontos negativos.
+089.271.0569)   [+][PRODUTO]           ::  Vários outros recursos positivos.
 
-0570)   [+][PRODUTO]           ::  Galaxy S7 é um dos tops do mercado.
+126.384.0570)   [+][PRODUTO]           ::  Até agora, não vi pontos negativos.
 
-0571)   [+][PRODUTO]           ::  Correspondeu as minhas expectativas.
+012.028.0571)   [+][PRODUTO]           ::  Galaxy S7 é um dos tops do mercado.
 
-0572)   [+][PRODUTO]           ::  O Galaxy S7 é um excelente aparelho.
+179.542.0572)   [+][PRODUTO]           ::  Correspondeu as minhas expectativas.
 
-0573)   [+][PRODUTO]           ::  O S7 Edge é um telefone excepcional.
+008.021.0573)   [+][PRODUTO]           ::  O Galaxy S7 é um excelente aparelho.
 
-0574)   [+][PRODUTO]           ::  Por enquanto estou muito satisfeito!
+064.185.0574)   [+][PRODUTO]           ::  O S7 Edge é um telefone excepcional.
 
-0575)   [+][PRODUTO]           ::  Estou muito satisfeito com o celular.
+033.083.0575)   [+][PRODUTO]           ::  Por enquanto estou muito satisfeito!
 
-0576)   [+][PRODUTO]           ::  Gosto bastante! Celular muito rápido!
+096.288.0576)   [+][PRODUTO]           ::  Estou muito satisfeito com o celular.
 
-0577)   [+][PRODUTO]           ::  Adorei o celular, além de lindo é toop.
+047.134.0577)   [+][PRODUTO]           ::  Gosto bastante! Celular muito rápido!
 
-0578)   [+][PRODUTO]           ::  Mas o produto cumpre tudo que prometeu.
+196.598.0578)   [+][PRODUTO]           ::  Adorei o celular, além de lindo é toop.
 
-0579)   [+][PRODUTO]           ::  Produto excelente e sem arrependimento.
+058.168.0579)   [+][PRODUTO]           ::  Mas o produto cumpre tudo que prometeu.
 
-0580)   [+][PRODUTO]           ::  Um dos melhores smartphones do mercado.
+170.516.0580)   [+][PRODUTO]           ::  Produto excelente e sem arrependimento.
 
-0581)   [+][PRODUTO]           ::  Cumpre tudo o que se espera do aparelho.
+100.298.0581)   [+][PRODUTO]           ::  Um dos melhores smartphones do mercado.
 
-0582)   [+][PRODUTO]           ::  Adorei o produto, estou curtindo bastante.
+044.125.0582)   [+][PRODUTO]           ::  Cumpre tudo o que se espera do aparelho.
 
-0583)   [+][PRODUTO]           ::  Excelente produto para o uso do dia a dia.
+168.513.0583)   [+][PRODUTO]           ::  Adorei o produto, estou curtindo bastante.
 
-0584)   [+][PRODUTO]           ::  Particularmente, prefiro do que os IPhone.
+142.425.0584)   [+][PRODUTO]           ::  Excelente produto para o uso do dia a dia.
 
-0585)   [+][PRODUTO]           ::  Um celular de ponta pra durar varios anos.
+116.348.0585)   [+][PRODUTO]           ::  Particularmente, prefiro do que os IPhone.
 
-0586)   [+][PRODUTO]           ::  Aparelho excelente, cumpre com o prometido.
+040.107.0586)   [+][PRODUTO]           ::  Um celular de ponta pra durar varios anos.
 
-0587)   [+][PRODUTO]           ::  Celular de acordo com todas as espectativas.
+163.487.0587)   [+][PRODUTO]           ::  Aparelho excelente, cumpre com o prometido.
 
-0588)   [+][PRODUTO]           ::  Particularmente, eu prefiro do que o IPhone.
+077.223.0588)   [+][PRODUTO]           ::  Celular de acordo com todas as espectativas.
 
-0589)   [+][PRODUTO]           ::  A melhor experiência com smartphone flagship.
+130.394.0589)   [+][PRODUTO]           ::  Particularmente, eu prefiro do que o IPhone.
 
-0590)   [+][PRODUTO]           ::  Mesmo sendo de 2016, ainda vale muito a pena!
+045.127.0590)   [+][PRODUTO]           ::  A melhor experiência com smartphone flagship.
 
-0591)   [+][PRODUTO]           ::  Muito bom, excelente produto. Me surpreendeu.
+089.272.0591)   [+][PRODUTO]           ::  Mesmo sendo de 2016, ainda vale muito a pena!
 
-0592)   [+][PRODUTO]           ::  Realizei a troca do galaxy 5 para o galaxy s7.
+114.340.0592)   [+][PRODUTO]           ::  Muito bom, excelente produto. Me surpreendeu.
 
-0593)   [+][PRODUTO]           ::  Gostei do celular conforme minhas expectativas.
+198.603.0593)   [+][PRODUTO]           ::  Realizei a troca do galaxy 5 para o galaxy s7.
 
-0594)   [+][PRODUTO]           ::  Até agora não tive nenhum problema com o celular.
+066.195.0594)   [+][PRODUTO]           ::  Gostei do celular conforme minhas expectativas.
 
-0595)   [+][PRODUTO]           ::  Aparelho top da linha Galaxy, só isso já diz tudo.
+187.572.0595)   [+][PRODUTO]           ::  Até agora não tive nenhum problema com o celular.
 
-0596)   [+][PRODUTO]           ::  Recomendo o produto e.mbora eu não tenho mas conheço.
+166.506.0596)   [+][PRODUTO]           ::  Aparelho top da linha Galaxy, só isso já diz tudo.
 
-0597)   [+][PRODUTO]           ::  Fora a bateria e o zoom, com certeza o melhor até agora.
+136.408.0597)   [+][PRODUTO]           ::  Recomendo o produto e.mbora eu não tenho mas conheço.
 
-0598)   [+][PRODUTO]           ::  No geral, é um ótimo smartphone, realmente topo de linha.
+045.128.0598)   [+][PRODUTO]           ::  Fora a bateria e o zoom, com certeza o melhor até agora.
 
-0599)   [+][PRODUTO]           ::  Adquiri em menos de um mês, a experiência esta sendo ótima.
+153.459.0599)   [+][PRODUTO]           ::  No geral, é um ótimo smartphone, realmente topo de linha.
 
-0600)   [+][PRODUTO]           ::  Tenho o celular há pouco tempo, mas estou muito satisfeita.
+043.122.0600)   [+][PRODUTO]           ::  Adquiri em menos de um mês, a experiência esta sendo ótima.
 
-0601)   [+][PRODUTO]           ::  Aparelho bem moderno e rapido com funções de ultima geração.
+071.206.0601)   [+][PRODUTO]           ::  Tenho o celular há pouco tempo, mas estou muito satisfeita.
 
-0602)   [+][PRODUTO]           ::  Ótimo celular. com bateria de duração que chega quase 1 dia.
+169.515.0602)   [+][PRODUTO]           ::  Aparelho bem moderno e rapido com funções de ultima geração.
 
-0603)   [+][PRODUTO]           ::  Exceto pela durabilidade e desempenho, o celular é excelente.
+160.482.0603)   [+][PRODUTO]           ::  Ótimo celular. com bateria de duração que chega quase 1 dia.
 
-0604)   [+][PRODUTO]           ::  Troquei um iPhone 5S pelo Galaxy S7 e estou muito satisfeita.
+036.095.0604)   [+][PRODUTO]           ::  Exceto pela durabilidade e desempenho, o celular é excelente.
 
-0605)   [+][PRODUTO]           ::  Gostei bastante pela inovação nas características e velocidade.
+046.130.0605)   [+][PRODUTO]           ::  Troquei um iPhone 5S pelo Galaxy S7 e estou muito satisfeita.
 
-0606)   [+][PRODUTO]           ::  Tirando a bateria que para mim não melhorou, por hora estou amando.
+175.529.0606)   [+][PRODUTO]           ::  Gostei bastante pela inovação nas características e velocidade.
 
-0607)   [+][PRODUTO]           ::  O melhor da samsung, em qualidade e funcionalidade de imagem e recursos.
+199.609.0607)   [+][PRODUTO]           ::  Tirando a bateria que para mim não melhorou, por hora estou amando.
 
-0608)   [+][PRODUTO]           ::  Estou com o aparelho há menos de um mês e até agora estou gostando muito.
+205.626.0608)   [+][PRODUTO]           ::  O melhor da samsung, em qualidade e funcionalidade de imagem e recursos.
 
-0609)   [+][PRODUTO]           ::  Por enquanto não tenho do que reclamar, é lindo e cumpre todas as funções!
+038.100.0609)   [+][PRODUTO]           ::  Estou com o aparelho há menos de um mês e até agora estou gostando muito.
 
-0610)   [+][PRODUTO]           ::  SUPER RECOMENDO, POIS A BATERIA DE TODOS SÃO RUINS, NO MAIS ELE É MARAVILHOSO.
+011.027.0610)   [+][PRODUTO]           ::  Por enquanto não tenho do que reclamar, é lindo e cumpre todas as funções!
 
-0611)   [+][PRODUTO]           ::  A cada dia o celular me surpreende com funções que facilita no meu meu dia a dia.
+090.274.0611)   [+][PRODUTO]           ::  SUPER RECOMENDO, POIS A BATERIA DE TODOS SÃO RUINS, NO MAIS ELE É MARAVILHOSO.
 
-0612)   [+][PRODUTO]           ::  Estou com o aparelho há cerca de duas semanas e estou muito satisfeito até o momento.
+123.367.0612)   [+][PRODUTO]           ::  A cada dia o celular me surpreende com funções que facilita no meu meu dia a dia.
 
-0613)   [+][PRODUTO]           ::  Ainda não usei todas as funções que possui, mas já percebi que o aparelho é excelente.
+122.363.0613)   [+][PRODUTO]           ::  Estou com o aparelho há cerca de duas semanas e estou muito satisfeito até o momento.
 
-0614)   [+][PRODUTO]           ::  O aparelho corresponde as expectativas, estou muito feliz em ter comprado este produto!
+206.629.0614)   [+][PRODUTO]           ::  Ainda não usei todas as funções que possui, mas já percebi que o aparelho é excelente.
 
-0615)   [+][PRODUTO]           ::  Eu já possuia o S7 Edge e resolvi comprar o S7 como alternativa porque gostei da experiência.
+148.439.0615)   [+][PRODUTO]           ::  O aparelho corresponde as expectativas, estou muito feliz em ter comprado este produto!
 
-0616)   [+][PRODUTO]           ::  Melhor que ele só os da próxima geração que ainda não chegaram aqui (LG G6, Galaxy S8, etc.).
+146.433.0616)   [+][PRODUTO]           ::  Eu já possuia o S7 Edge e resolvi comprar o S7 como alternativa porque gostei da experiência.
 
-0617)   [+][PRODUTO]           ::  Uma experiência incrível na forma de celular! Simplesmente lindo e incrível, a linha S7 é fantástica.
+109.327.0617)   [+][PRODUTO]           ::  Melhor que ele só os da próxima geração que ainda não chegaram aqui (LG G6, Galaxy S8, etc.).
 
-0618)   [+][PRODUTO]           ::  Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
+056.159.0618)   [+][PRODUTO]           ::  Uma experiência incrível na forma de celular! Simplesmente lindo e incrível, a linha S7 é fantástica.
 
-0619)   [+][PRODUTO]           ::  Reune uma gama imensa de recursos em um único aparelho, corrigindo problemas que tinham as versões anteriores.
+114.342.0619)   [+][PRODUTO]           ::  Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
 
-0620)   [+][PRODUTO]           ::  Uma versão top dos aparelhos da samsung, que hoje está com um ótimo custo/benefício comparando com os concorrentes.
+107.321.0620)   [+][PRODUTO]           ::  Reune uma gama imensa de recursos em um único aparelho, corrigindo problemas que tinham as versões anteriores.
 
-0621)   [+][PRODUTO]           ::  Sempre adquiri celulares dessa marca, pela confiança e qualidade e dessa vez o aparelho de mostrou muito bom, com grande performance e muitos pontos positivos.
+107.320.0621)   [+][PRODUTO]           ::  Uma versão top dos aparelhos da samsung, que hoje está com um ótimo custo/benefício comparando com os concorrentes.
 
-0622)   [+][PRODUTO]           ::  TUDO O QUE EU QUERIA E ESPERAVAPODE PARECER UM POUCO CARO, MAS FAZ TODA DIFERENÇA PARA QUEM PROCURA RAPIDEZ E AGILIDADE ASSIM COMO EU, POIS GARANTO QUE NÃO VAI SE ARREPENDER.
+211.650.0622)   [+][PRODUTO]           ::  Sempre adquiri celulares dessa marca, pela confiança e qualidade e dessa vez o aparelho de mostrou muito bom, com grande performance e muitos pontos positivos.
 
-0623)   [+][PRODUTO]           ::  TINHA O GALAXY S6 E AMAVA DE PAIXÃO, ACABEI VENDENDO E TROQUEI POR UM GALAXY A7, DO QUAL ME ARREPENDO ATÉ HOJE, CELULAR MUITO INFERIOR A LINHA "S".FIQUEI APENAS 03 MESES E ENTÃO DECIDI COMPRAR O GALAXY S7 E ESTOU AMANDOOOO! QUANDO EU TROQUEI MEU S6 PELO A7, FIQUEI 03 MESES SOFRENDO!!! CELULAR TRAVAVA DEMAIS, QUALIDADE RUIM E EU FICAVA MUITO ESTRESSADA, COISA QUE NÃO PASSO HOJE EM DIA COM O GALAXS S7AMANDOOOOO
+185.566.0623)   [+][PRODUTO]           ::  TUDO O QUE EU QUERIA E ESPERAVAPODE PARECER UM POUCO CARO, MAS FAZ TODA DIFERENÇA PARA QUEM PROCURA RAPIDEZ E AGILIDADE ASSIM COMO EU, POIS GARANTO QUE NÃO VAI SE ARREPENDER.
 
-0624)  [++][PRODUTO]           ::  100%.
+185.566.0624)   [+][PRODUTO]           ::  TINHA O GALAXY S6 E AMAVA DE PAIXÃO, ACABEI VENDENDO E TROQUEI POR UM GALAXY A7, DO QUAL ME ARREPENDO ATÉ HOJE, CELULAR MUITO INFERIOR A LINHA "S".FIQUEI APENAS 03 MESES E ENTÃO DECIDI COMPRAR O GALAXY S7 E ESTOU AMANDOOOO! QUANDO EU TROQUEI MEU S6 PELO A7, FIQUEI 03 MESES SOFRENDO!!! CELULAR TRAVAVA DEMAIS, QUALIDADE RUIM E EU FICAVA MUITO ESTRESSADA, COISA QUE NÃO PASSO HOJE EM DIA COM O GALAXS S7AMANDOOOOO
 
-0625)  [++][PRODUTO]           ::  Perfeito.
+050.141.0625)  [++][PRODUTO]           ::  100%.
 
-0626)  [++][PRODUTO]           ::  Perfeito.
+155.463.0626)  [++][PRODUTO]           ::  Perfeito.
 
-0627)  [++][PRODUTO]           ::  The Best.
+169.514.0627)  [++][PRODUTO]           ::  Perfeito.
 
-0628)  [++][PRODUTO]           ::  Perfeito.
+144.428.0628)  [++][PRODUTO]           ::  The Best.
 
-0629)  [++][PRODUTO]           ::  Inigualável.
+177.537.0629)  [++][PRODUTO]           ::  Perfeito.
 
-0630)  [++][PRODUTO]           ::  Sensacional!
+084.247.0630)  [++][PRODUTO]           ::  Inigualável.
 
-0631)  [++][PRODUTO]           ::  Recomendo 100%.
+089.269.0631)  [++][PRODUTO]           ::  Sensacional!
 
-0632)  [++][PRODUTO]           ::  Sem comparações!!!
+177.538.0632)  [++][PRODUTO]           ::  Recomendo 100%.
 
-0633)  [++][PRODUTO]           ::  O melhor da Samsung.
+180.543.0633)  [++][PRODUTO]           ::  Sem comparações!!!
 
-0634)  [++][PRODUTO]           ::  Um perfeito aparelho!
+088.267.0634)  [++][PRODUTO]           ::  O melhor da Samsung.
 
-0635)  [++][PRODUTO]           ::  Não falta nada no celular.
+129.391.0635)  [++][PRODUTO]           ::  Um perfeito aparelho!
 
-0636)  [++][PRODUTO]           ::  O melhor celular do mundo.
+109.326.0636)  [++][PRODUTO]           ::  Não falta nada no celular.
 
-0637)  [++][PRODUTO]           ::  O melhor celular que tive.
+189.577.0637)  [++][PRODUTO]           ::  O melhor celular do mundo.
 
-0638)  [++][PRODUTO]           ::  O melhor de todos, sem mais.
+015.038.0638)  [++][PRODUTO]           ::  O melhor celular que tive.
 
-0639)  [++][PRODUTO]           ::  O melhor smartphone que tive.
+115.346.0639)  [++][PRODUTO]           ::  O melhor de todos, sem mais.
 
-0640)  [++][PRODUTO]           ::  O melhor smartphone que já usei.
+089.270.0640)  [++][PRODUTO]           ::  O melhor smartphone que tive.
 
-0641)  [++][PRODUTO]           ::  Não há do que reclamar! Só isso!
+054.152.0641)  [++][PRODUTO]           ::  O melhor smartphone que já usei.
 
-0642)  [++][PRODUTO]           ::  Não há aparelho melhor no mercado.
+143.427.0642)  [++][PRODUTO]           ::  Não há do que reclamar! Só isso!
 
-0643)  [++][PRODUTO]           ::  O melhore mais completo até agora!
+163.489.0643)  [++][PRODUTO]           ::  Não há aparelho melhor no mercado.
 
-0644)  [++][PRODUTO]           ::  Perfeito, sem qualquer reclamação.
+180.544.0644)  [++][PRODUTO]           ::  O melhore mais completo até agora!
 
-0645)  [++][PRODUTO]           ::  Não tem nada que falte neste celular.
+157.476.0645)  [++][PRODUTO]           ::  Perfeito, sem qualquer reclamação.
 
-0646)  [++][PRODUTO]           ::  Produto maravilhoso! Lindo! Estou amando!
+085.249.0646)  [++][PRODUTO]           ::  Não tem nada que falte neste celular.
 
-0647)  [++][PRODUTO]           ::  Estou usando o aparelho a 2 semanas, e ate agora tem sido perfeito.
+189.578.0647)  [++][PRODUTO]           ::  Produto maravilhoso! Lindo! Estou amando!
 
-0648)  [++][PRODUTO]           ::  Não tem modelo melhor no mercado brasileiro que o S7 e seu irmão maior, o Edge.
+126.383.0648)  [++][PRODUTO]           ::  Estou usando o aparelho a 2 semanas, e ate agora tem sido perfeito.
 
-0649)  [++][PRODUTO]           ::  Comprei um S7 ano passado porém perdi, comprei outro igual pois achei maravilhoso!
+085.250.0649)  [++][PRODUTO]           ::  Não tem modelo melhor no mercado brasileiro que o S7 e seu irmão maior, o Edge.
 
-0650)  [++][PRODUTO]           ::  O melhor que a Samsung já conseguiu montar, celular perfeito para todos os usuários.
+009.023.0650)  [++][PRODUTO]           ::  Comprei um S7 ano passado porém perdi, comprei outro igual pois achei maravilhoso!
 
-0651)  [++][PRODUTO]           ::  A linha Galaxy S7, é simplesmente poderosa e perfeita em sua montagem Software - Hardware.
+088.268.0651)  [++][PRODUTO]           ::  O melhor que a Samsung já conseguiu montar, celular perfeito para todos os usuários.
 
-0652)  [+.][PRODUTO]           ::  Um celular quase TOP.
+055.155.0652)  [++][PRODUTO]           ::  A linha Galaxy S7, é simplesmente poderosa e perfeita em sua montagem Software - Hardware.
 
-0653)  [+.][PRODUTO]           ::  Excluindo o valor e a bateria, estou satisfeita com o aparelho.
+082.233.0653)  [+.][PRODUTO]           ::  Um celular quase TOP.
 
-0654)  [+.][PRODUTO]           ::  No geral, exceto o preço e a duração da bateria, o celular é fantástico!!
+064.184.0654)  [+.][PRODUTO]           ::  Na promoção da Fast Shop vale a pena.
 
-0655)  [+.][PRODUTO]           ::  Celular como qualquer outro nesta faixa de preço, troquei meu Nexus por ele, demorei um pouco para acostumar, mas é bom...
+057.164.0655)  [+.][PRODUTO]           ::  Pelo que ouço, é um aparelho muito bom, vou comprar.
 
-0656)   [-][PRODUTO]           ::  Esperava mais.....
+198.606.0656)  [+.][PRODUTO]           ::  Excluindo o valor e a bateria, estou satisfeita com o aparelho.
 
-0657)   [-][PRODUTO]           ::  O celular regrediu.
+165.504.0657)  [+.][PRODUTO]           ::  No geral, exceto o preço e a duração da bateria, o celular é fantástico!!
 
-0658)   [-][PRODUTO]           ::  Produto deixa a desejar.
+079.227.0658)  [+.][PRODUTO]           ::  Celular como qualquer outro nesta faixa de preço, troquei meu Nexus por ele, demorei um pouco para acostumar, mas é bom...
 
-0659)   [-][PRODUTO]           ::  Este modelo da Samsung deixou muito a desejar comparado a outros aparelhos que tive.
+211.649.0659)   [-][PRODUTO]           ::  Esperava mais.....
 
-0660)   [-][PRODUTO]           ::  O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo.
+082.236.0660)   [-][PRODUTO]           ::  O celular regrediu.
 
-0661)  [--][PRODUTO]           ::  Acabei devolvendo o aparelho para tentar adquirir outro.
+007.018.0661)   [-][PRODUTO]           ::  Produto deixa a desejar.
 
-0662)  [-.][PRODUTO]           ::  Boas funções mas pouco resistente.
+214.661.0662)   [-][PRODUTO]           ::  Este modelo da Samsung deixou muito a desejar comparado a outros aparelhos que tive.
 
-0663)  [-.][PRODUTO]           ::  Comprei 2 s7, o meu veio perfeito, já o do meu marido veio com problema, travamento, não lê a digital, desliga..
+181.546.0663)   [-][PRODUTO]           ::  O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo.
 
-0664)   [.][PRODUTO]           ::  S7 razoavel.
+211.651.0664)  [--][PRODUTO]           ::  Acabei devolvendo o aparelho para tentar adquirir outro.
 
-0665)   [.][PRODUTO]           ::  Aguardar mais algum tempo para dar uma resposta mais concreta.
+209.640.0665)  [-.][PRODUTO]           ::  Boas funções mas pouco resistente.
 
-0666)   [X][PRODUTO]           ::  Não tenho mais.
+189.578.0666)  [-.][PRODUTO]           ::  Comprei 2 s7, o meu veio perfeito, já o do meu marido veio com problema, travamento, não lê a digital, desliga..
 
-0667)   [X][PRODUTO]           ::  Ainda não pude tê-lo.
+212.652.0667)   [.][PRODUTO]           ::  S7 razoavel.
 
-0668)   [X][PRODUTO]           ::  Migrando do S5 para o S7.
+057.164.0668)   [.][PRODUTO]           ::  Por hora, não sou capaz de opinar.
 
-0669)   [X][PRODUTO]           ::  Depois do S6, comprei o S7.
+182.555.0669)   [.][PRODUTO]           ::  Aguardar mais algum tempo para dar uma resposta mais concreta.
 
-0670)   [X][PRODUTO]           ::  Sempre quis um aparelho da linha S.
+031.078.0670)   [X][PRODUTO]           ::  Não tenho mais.
 
-0671)   [X][PRODUTO]           ::  Ainda não possui um só vi o do meu amigo.
+136.409.0671)   [X][PRODUTO]           ::  Ainda não pude tê-lo.
 
-0672)   [X][PRODUTO]           ::  Minha mãe já tinha um e resolvi comprar também.
+165.495.0672)   [X][PRODUTO]           ::  Migrando do S5 para o S7.
 
-0673)   [X][PRODUTO]           ::  Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
+143.426.0673)   [X][PRODUTO]           ::  Depois do S6, comprei o S7.
 
-0674)   [X][PRODUTO]           ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
+006.015.0674)   [X][PRODUTO]           ::  Sempre quis um aparelho da linha S.
 
-0675)   [x][PRODUTO]           ::  Uso muito o aparelho.
+118.352.0675)   [X][PRODUTO]           ::  Ainda não possui um só vi o do meu amigo.
 
-0676)   [x][PRODUTO]           ::  Estou usando a menos de 1 mês.
+048.136.0676)   [X][PRODUTO]           ::  Minha mãe já tinha um e resolvi comprar também.
 
-0677)   [x][PRODUTO]           ::  Tinha o s6 e troquei para o s7.
+027.068.0677)   [X][PRODUTO]           ::  Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
 
-0678)   [x][PRODUTO]           ::  Troquei um S4 octa core por esse S7.
+086.252.0678)   [X][PRODUTO]           ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
 
-0679)   [x][PRODUTO]           ::  Realizei a troca do galaxy s5 para o galaxy s7.
+086.258.0679)   [x][PRODUTO]           ::  Uso muito o aparelho.
 
-0680)   [x][PRODUTO]           ::  Deixei de comprar o S6 para pegar um mais atual.
+058.167.0680)   [x][PRODUTO]           ::  Estou usando a menos de 1 mês.
 
-0681)   [!][RESISTÊNCIA]       ::  Uma dica: Coloquem no seguro porque nao é barato!
+014.035.0681)   [x][PRODUTO]           ::  Tinha o s6 e troquei para o s7.
 
-0682)   [+][RESISTÊNCIA]       ::  É à prova d'água mesmo.
+114.341.0682)   [x][PRODUTO]           ::  Troquei um S4 octa core por esse S7.
 
-0683)   [+][RESISTÊNCIA]       ::  O material parece de qualidade.
+199.608.0683)   [x][PRODUTO]           ::  Realizei a troca do galaxy s5 para o galaxy s7.
 
-0684)   [+][RESISTÊNCIA]       ::  O material parece de qualidade.
+082.235.0684)   [x][PRODUTO]           ::  Deixei de comprar o S6 para pegar um mais atual.
 
-0685)   [+][RESISTÊNCIA]       ::  Produto de otima qualidade, produto feito para durar.
+125.380.0685)   [!][RESISTÊNCIA]       ::  Uma dica: Coloquem no seguro porque nao é barato!
 
-0686)  [+.][RESISTÊNCIA]       ::  A prova d´água.
+101.305.0686)   [+][RESISTÊNCIA]       ::  É à prova d'água mesmo.
 
-0687)  [+.][RESISTÊNCIA]       ::  À prova d'água.
+198.604.0687)   [+][RESISTÊNCIA]       ::  O material parece de qualidade.
 
-0688)  [+.][RESISTÊNCIA]       ::  Realmente resistente a água.
+199.610.0688)   [+][RESISTÊNCIA]       ::  O material parece de qualidade.
 
-0689)   [-][RESISTÊNCIA]       ::  Frágil.
+013.033.0689)   [+][RESISTÊNCIA]       ::  Produto de otima qualidade, produto feito para durar.
 
-0690)   [-][RESISTÊNCIA]       ::  Péssima resistência.
+166.507.0690)  [+.][RESISTÊNCIA]       ::  A prova d´água.
 
-0691)   [-][RESISTÊNCIA]       ::  Trincou fácio o display.
+085.249.0691)  [+.][RESISTÊNCIA]       ::  À prova d'água.
 
-0692)   [-][RESISTÊNCIA]       ::  Poderia ser mais resistente.
+086.257.0692)  [+.][RESISTÊNCIA]       ::  Realmente resistente a água.
 
-0693)   [-][RESISTÊNCIA]       ::  Só não deixe cair, quebra fácil.
+036.092.0693)   [-][RESISTÊNCIA]       ::  Frágil.
 
-0694)   [-][RESISTÊNCIA]       ::  DEVERIA SE CHAMAR SAMSUNG TRINCA RAPIDO.
+214.656.0694)   [-][RESISTÊNCIA]       ::  Péssima resistência.
 
-0695)   [-][RESISTÊNCIA]       ::  Na primeira semana de uso já ralou facilmente.
+205.627.0695)   [-][RESISTÊNCIA]       ::  Trincou fácio o display.
 
-0696)   [-][RESISTÊNCIA]       ::  Dislpay quebra-fácil. Trincou todo o display na 1a queda.
+038.099.0696)   [-][RESISTÊNCIA]       ::  Poderia ser mais resistente.
 
-0697)   [-][RESISTÊNCIA]       ::  Câmera na traseina apesar de mais interna, continua sujeita a danos.
+093.281.0697)   [-][RESISTÊNCIA]       ::  Só não deixe cair, quebra fácil.
 
-0698)   [-][RESISTÊNCIA]       ::  PÉSSIMA COM DOIS MESES DE USO TRINCOU O DISPLAY DE LCD DENTRO DA BOLSA.
+219.672.0698)   [-][RESISTÊNCIA]       ::  DEVERIA SE CHAMAR SAMSUNG TRINCA RAPIDO.
 
-0699)   [-][RESISTÊNCIA]       ::  Ponto de dúvida é durabilidade: Samsung é famosa por ter perda sensível de performance depois de 6 meses.
+036.094.0699)   [-][RESISTÊNCIA]       ::  Na primeira semana de uso já ralou facilmente.
 
-0700)   [-][RESISTÊNCIA]       ::  O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor. Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
+202.619.0700)   [-][RESISTÊNCIA]       ::  Dislpay quebra-fácil. Trincou todo o display na 1a queda.
 
-0701)   [-][RESISTÊNCIA]       ::  Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
+205.627.0701)   [-][RESISTÊNCIA]       ::  Câmera na traseina apesar de mais interna, continua sujeita a danos.
 
-0702)   [-][RESISTÊNCIA]       ::  Recentemente comprei um Galaxy S7, em 3 dias, numa pequena queda trincou parte do display (falo pequena queda porque os outros modelos que tive, sofreram quedas piores e permaneceram intactos). Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
+219.673.0702)   [-][RESISTÊNCIA]       ::  PÉSSIMA COM DOIS MESES DE USO TRINCOU O DISPLAY DE LCD DENTRO DA BOLSA.
 
-0703)  [-.][RESISTÊNCIA]       ::  Pra quem reclama da fragilidade recomendo que use uma pelicula de vidro nele e uma capa, pois todo aparelho é quebravel, o moto force se sobressai, mas é feio, então pelicula nele, vale a pena.
+064.189.0703)   [-][RESISTÊNCIA]       ::  Ponto de dúvida é durabilidade: Samsung é famosa por ter perda sensível de performance depois de 6 meses.
 
-0704)   [.][RESISTÊNCIA]       ::  Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
+209.641.0704)   [-][RESISTÊNCIA]       ::  O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor. Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
 
-0705)   [+][SISTEMA]           ::  Sistema muito limpo.
+208.636.0705)   [-][RESISTÊNCIA]       ::  Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
-0706)   [+][SISTEMA]           ::  Android funcional e leve.
+214.659.0706)   [-][RESISTÊNCIA]       ::  Recentemente comprei um Galaxy S7, em 3 dias, numa pequena queda trincou parte do display (falo pequena queda porque os outros modelos que tive, sofreram quedas piores e permaneceram intactos). Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
 
-0707)   [+][SISTEMA]           ::  Android super funcional e leve.
+201.618.0707)  [-.][RESISTÊNCIA]       ::  Pra quem reclama da fragilidade recomendo que use uma pelicula de vidro nele e uma capa, pois todo aparelho é quebravel, o moto force se sobressai, mas é feio, então pelicula nele, vale a pena.
 
-0708)   [+][SISTEMA]           ::  Interface mais fluida que a versão anterior.
+038.103.0708)   [.][RESISTÊNCIA]       ::  Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
 
-0709)   [+][SISTEMA]           ::  A PLATAFORMA ANDROIDE DA SAMSUNG É IMBATÍVEL!
+164.494.0709)   [+][SISTEMA]           ::  Sistema muito limpo.
 
-0710)   [+][SISTEMA]           ::  Interface diferente dos demais androids, porém é agradável.
+055.156.0710)   [+][SISTEMA]           ::  Android funcional e leve.
 
-0711)   [+][SISTEMA]           ::  Apesar do android ser basante modificado apresenta boa fluidez.
+056.160.0711)   [+][SISTEMA]           ::  Android super funcional e leve.
 
-0712)   [+][SISTEMA]           ::  Bom! A ROM da Samsung me surpreendeu... Minhas experiências anteriores com Samsung se resumiam em hardware muito bom, mas com ROM sofrível de tanto lixo que colocavam. Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
+067.197.0712)   [+][SISTEMA]           ::  Interface mais fluida que a versão anterior.
 
-0713)   [-][SISTEMA]           ::  Quanto ao software, muito poluído.
+059.171.0713)   [+][SISTEMA]           ::  A PLATAFORMA ANDROIDE DA SAMSUNG É IMBATÍVEL!
 
-0714)   [-][SISTEMA]           ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
+076.220.0714)   [+][SISTEMA]           ::  Interface diferente dos demais androids, porém é agradável.
 
-0715)   [+][TAMANHO]           ::  Fino.
+176.533.0715)   [+][SISTEMA]           ::  Apesar do android ser basante modificado apresenta boa fluidez.
 
-0716)   [+][TAMANHO]           ::  O S7 tem o tamanho perfeito para não chamar muita atenção.
+075.216.0716)   [+][SISTEMA]           ::  Bom! A ROM da Samsung me surpreendeu... Minhas experiências anteriores com Samsung se resumiam em hardware muito bom, mas com ROM sofrível de tanto lixo que colocavam. Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
 
-0717)   [+][TAMANHO]           ::  O FORMATO DO APARELHO CABE CERTINHO E CONFORTAVELMENTE NA PALMA DA MÃO.
+086.254.0717)   [-][SISTEMA]           ::  Quanto ao software, muito poluído.
 
-0718)   [+][TELA]              ::  Imagem top.
+086.256.0718)   [-][SISTEMA]           ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
 
-0719)   [+][TELA]              ::  Ótima tela.
+093.280.0719)   [+][TAMANHO]           ::  Fino.
 
-0720)   [+][TELA]              ::  Ótima tela.
+006.015.0720)   [+][TAMANHO]           ::  O S7 tem o tamanho perfeito para não chamar muita atenção.
 
-0721)   [+][TELA]              ::  Ótimo display
+185.566.0721)   [+][TAMANHO]           ::  O FORMATO DO APARELHO CABE CERTINHO E CONFORTAVELMENTE NA PALMA DA MÃO.
 
-0722)   [+][TELA]              ::  Tela espetacular.
+032.081.0722)   [+][TELA]              ::  Imagem top.
 
-0723)   [+][TELA]              ::  Tela fantástica.
+061.175.0723)   [+][TELA]              ::  Ótima tela.
 
-0724)   [+][TELA]              ::  Excelente resolução.
+131.397.0724)   [+][TELA]              ::  Ótima tela.
 
-0725)   [+][TELA]              ::  Possui uma ótima tela.
+173.525.0725)   [+][TELA]              ::  Ótimo display
 
-0726)   [+][TELA]              ::  Display de alta resolução.
+089.271.0726)   [+][TELA]              ::  Tela espetacular.
 
-0727)   [+][TELA]              ::  A tela tem muita qualidade.
+100.299.0727)   [+][TELA]              ::  Tela fantástica.
 
-0728)   [+][TELA]              ::  A resolução da tela é ótima.
+177.537.0728)   [+][TELA]              ::  Excelente resolução.
 
-0729)   [+][TELA]              ::  Graficos impressionam pela qualidade.
+074.215.0729)   [+][TELA]              ::  Possui uma ótima tela.
 
-0730)   [+][TELA]              ::  A QUALIDADE DAS IMAGENS SÃO EXCELENTES.
+126.384.0730)   [+][TELA]              ::  Display de alta resolução.
 
-0731)   [+][TELA]              ::  Tela amoled e quad hd dispensa comentários.
+046.131.0731)   [+][TELA]              ::  A tela tem muita qualidade.
 
-0732)   [+][TELA]              ::  Tela grande com melhor qualidade do mercado.
+082.240.0732)   [+][TELA]              ::  A resolução da tela é ótima.
 
-0733)   [+][TELA]              ::  Bom pra quem gosta de ler, pois a tela é grande.
+175.530.0733)   [+][TELA]              ::  Graficos impressionam pela qualidade.
 
-0734)   [+][TELA]              ::  O TOQUE DO DISPLAY É MARAVILHOSO E SUPER DELICADO.
+185.566.0734)   [+][TELA]              ::  A QUALIDADE DAS IMAGENS SÃO EXCELENTES.
 
-0735)   [+][TELA]              ::  Eu procurava um celular com uma tela grande. Encontrei.
+176.534.0735)   [+][TELA]              ::  Tela amoled e quad hd dispensa comentários.
 
-0736)  [++][TELA]              ::  A tela perfeita.
+085.249.0736)   [+][TELA]              ::  Tela grande com melhor qualidade do mercado.
 
-0737)   [-][TELA]              ::  Pecou no touchscreen que não se apresentaram tão bem no uso...
+022.057.0737)   [+][TELA]              ::  Bom pra quem gosta de ler, pois a tela é grande.
 
-0738)   [+][USABILIDADE]       ::  Amigável.
+185.566.0738)   [+][TELA]              ::  O TOQUE DO DISPLAY É MARAVILHOSO E SUPER DELICADO.
 
-0739)   [+][USABILIDADE]       ::  Fácil de usar.
+127.386.0739)   [+][TELA]              ::  Eu procurava um celular com uma tela grande. Encontrei.
 
-0740)   [+][USABILIDADE]       ::  Fácil de usar.
+104.313.0740)  [++][TELA]              ::  A tela perfeita.
 
-0741)   [+][USABILIDADE]       ::  Fácil de usar
+211.650.0741)   [-][TELA]              ::  Pecou no touchscreen que não se apresentaram tão bem no uso...
 
-0742)   [+][USABILIDADE]       ::  Fácil manuseio.
+029.074.0742)   [+][USABILIDADE]       ::  Amigável.
 
-0743)   [+][USABILIDADE]       ::  Super fácil de mexer.
+122.364.0743)   [+][USABILIDADE]       ::  Fácil de usar.
 
-0744)   [+][USABILIDADE]       ::  Bastante simplificado.
+186.568.0744)   [+][USABILIDADE]       ::  Fácil de usar.
 
-0745)   [+][USABILIDADE]       ::  O aparelho é de fácil manuseio.
+114.344.0745)   [+][USABILIDADE]       ::  Fácil de usar
 
-0746)   [+][USABILIDADE]       ::  Super indico para quem busca praticidade no uso.
+192.589.0746)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-0747)   [+][X]                 ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
+093.280.0747)   [+][USABILIDADE]       ::  Super fácil de mexer.
 
-0748)   [-][X]                 ::  Poderia ser mais simples.
+170.517.0748)   [+][USABILIDADE]       ::  Bastante simplificado.
 
-0749)   [-][X]                 ::  Surpresas desagradáveis com a compra do aparelho.
+071.208.0749)   [+][USABILIDADE]       ::  O aparelho é de fácil manuseio.
 
-0750)   [x][X]                 ::  Antes eu tinha um S4.
+186.570.0750)   [+][USABILIDADE]       ::  Super indico para quem busca praticidade no uso.
 
-0751)   [x][X]                 ::  Vamos ver nele como vai.
+018.046.0751)   [+][X]                 ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
 
-0752)   [x][X]                 ::  Mudança do S6 para o S7.
+086.255.0752)   [-][X]                 ::  Poderia ser mais simples.
 
-0753)   [x][X]                 ::  Nada de novidade neste quesito.
+181.545.0753)   [-][X]                 ::  Surpresas desagradáveis com a compra do aparelho.
 
-0754)   [x][X]                 ::  E nesse quesito o S7 não deixa a desejar.
+038.101.0754)   [x][X]                 ::  Antes eu tinha um S4.
 
-0755)   [x][X]                 ::  E agora não é mais possível usar essa função na S7)
+064.190.0755)   [x][X]                 ::  Vamos ver nele como vai.
+
+020.050.0756)   [x][X]                 ::  Mudança do S6 para o S7.
+
+153.458.0757)   [x][X]                 ::  Nada de novidade neste quesito.
+
+165.498.0758)   [x][X]                 ::  E nesse quesito o S7 não deixa a desejar.
+
+165.501.0759)   [x][X]                 ::  E agora não é mais possível usar essa função na S7)
+
+213.654.0760)   [x][_BROKEN]           ::  Boa.
+
+072.210.0761)   [x][_BROKEN]           ::  Cor.
+
+220.675.0762)   [x][_BROKEN]           ::  Geral.
+
+090.273.0763)   [x][_BROKEN]           ::  MEU S7.
+
+213.655.0764)   [x][_BROKEN]           ::  Foi boa.
+
+124.371.0765)   [x][_BROKEN]           ::  S7 Edge.
+
+07.017.0766)   [x][_BROKEN]           ::  Qualidade.
+
+037.097.0767)   [x][_BROKEN]           ::  Samsung S7.
+
+080.228.0768)   [x][_BROKEN]           ::  Samsung s7.
+
+191.586.0769)   [x][_BROKEN]           ::  Celular samsung.
+
+035.091.0770)   [x][_BROKEN]           ::  SEM FUTURO!!!!!!
+
+035.090.0771)   [x][_BROKEN]           ::  CISSA MAGAZINE...
+
+034.085.0772)   [x][_BROKEN]           ::  Tá bom, tá é bom.
+
+067.196.0773)   [x][_BROKEN]           ::  Samsung Galaxy S7.
+
+170.518.0774)   [x][_BROKEN]           ::  Mais o processador não se compara com o mesmo.
+
+208.639.0775)   [x][_BROKEN]           ::  Não há explicações para a fragilidade de um produto qu.
+
+153.456.0776)   [x][_BROKEN]           ::  O mesmo para a câmera traseira, guardadas as devidas proporções.
+
+163.488.0777)   [x][_BROKEN]           ::  Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
+
+214.657.0778)   [x][_CONTEXT]          ::  Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
+
+214.658.0779)   [x][_CONTEXT]          ::  Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
+
+068.199.0780)   [x][_DUPLICATE]        ::  Otimo.
+
+145.430.0781)   [x][_DUPLICATE]        ::  The best.
+
+030.075.0782)   [x][_DUPLICATE]        ::  Muito bom!
+
+141.423.0783)   [x][_DUPLICATE]        ::  Muito bom.
+
+004.008.0784)   [x][_DUPLICATE]        ::  Bom produto.
+
+098.292.0785)   [x][_DUPLICATE]        ::  Bom produto.
+
+145.431.0786)   [x][_DUPLICATE]        ::  Maravilhosa.
+
+104.311.0787)   [x][_DUPLICATE]        ::  Ótimo produto.
+
+162.485.0788)   [x][_DUPLICATE]        ::  Excelente produto.
+
+188.575.0789)   [x][_DUPLICATE]        ::  Aparelho excelente.
+
+087.259.0790)   [x][_DUPLICATE]        ::  Hardware muito bom.
+
+099.294.0791)   [x][_DUPLICATE]        ::  Bom custo/beneficio.
+
+087.266.0792)   [x][_DUPLICATE]        ::  Uso muito o aparelho.
+
+087.263.0793)   [x][_DUPLICATE]        ::  Poderia ser mais simples.
+
+087.262.0794)   [x][_DUPLICATE]        ::  Quanto ao software, muito poluído.
+
+030.076.0795)   [x][_DUPLICATE]        ::  Amigável, rapido, excelente acabamento.
+
+162.486.0796)   [x][_DUPLICATE]        ::  Produto de alta qualidade e performance.
+
+004.010.0797)   [x][_DUPLICATE]        ::  Na propaganda diz ter tv digital é mentira.
+
+087.261.0798)   [x][_DUPLICATE]        ::  Queria manter num top de linha e peguei o S7.
+
+098.293.0799)   [x][_DUPLICATE]        ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
+
+099.295.0800)   [x][_DUPLICATE]        ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
+
+004.009.0801)   [x][_DUPLICATE]        ::  Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
+
+087.265.0802)   [x][_DUPLICATE]        ::  Realmente resistente a água e a câmera e a duração da bateria me surpreende.
+
+087.260.0803)   [x][_DUPLICATE]        ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
+
+087.264.0804)   [x][_DUPLICATE]        ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
+
+218.670.0805)   [x][_IRRELEVANT]       ::  Nao comprei.
+
+218.671.0806)   [x][_IRRELEVANT]       ::  Nao comprei.
+
+092.278.0807)   [x][_IRRELEVANT]       ::  NÃO LEIA O TITULO.
+
+092.277.0808)   [x][_IRRELEVANT]       ::  NÃO LEIA A DESCRIÇÃO.
+
+057.162.0809)   [x][_IRRELEVANT]       ::  Porque tenho que avaliar se não tenho o produto.
+
+035.086.0810)   [x][_IRRELEVANT]       ::  Não seio o porque estou respondendo está pesquisa!!!!
+
+057.163.0811)   [x][_IRRELEVANT]       ::  Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
+
+035.087.0812)   [x][_IRRELEVANT]       ::  Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
+
+035.089.0813)   [x][_IRRELEVANT]       ::  Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
+
+035.088.0814)   [x][_IRRELEVANT]       ::  Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
+
+034.084.0815)   [x][_UNINTELLIGIBLE]   ::  Xvcxcvc.
 
