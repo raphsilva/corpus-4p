@@ -27,22 +27,22 @@
 # CÂMERA _  _  _  _  _  _  29 _  _   10 _  _  _  _  _  _  _  _  _  39
 # DESEMPENHO               36        15         1                  52
 # DESIGN _  _  _  _  _  _  23 _  _  _ 5 _  _  _  _  _  _  _  _  _  28
-# EMPRESA                   7        27         4                  38
+# EMPRESA                   7        27         2                  36
 # OUTRO _  _  _  _  _  _   18 _  _   16 _  _  _ 1 _  _  _  _  _  _ 35
 # PESO                      4                                       4
 # PREÇO _  _  _  _  _  _   68 _  _  _ 4 _  _  _  _  _  _  _  _  _  72
-# PRODUTO                 322        19         9        17       367
+# PRODUTO                 322        19        21         3       365
 # RESISTÊNCIA _  _  _  _  _ 2 _  _   10 _  _  _ 1 _  _  _  _  _  _ 13
 # SISTEMA                  10         3                            13
 # SOM _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _  _  _  _  _  _  _   2
 # TAMANHO                   2                                       2
 # TELA _  _  _  _  _  _  _  7 _  _  _ 4 _  _  _  _  _  _  _  _  _  11
 # USABILIDADE              18                                      18
-# _TOTAL__________________246________90_________4________50_______390
+# _TOTAL__________________246________90_________4________54_______394
 # _BROKEN                                                24        24
-# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
+# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 5 _  _  _ 5
 # _DUPLICATE                                             13        13
-# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 6 _  _  _ 6
+# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 7 _  _  _ 7
 # _NONE                                                   4         4
 # _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
 
@@ -483,22 +483,8 @@ EMPRESA --
 
 
 
-(225.576)
-A promessa foi que o produto seria entregue até 09/05/17.
-
-EMPRESA . 
-
-
-
 (225.583)
 O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
-
-EMPRESA . 
-
-
-
-(225.577)
-Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
 EMPRESA . 
 
@@ -907,6 +893,97 @@ PREÇO ++
 Comparado com outras marcas, atualmente achei que este celular tem o melhor custo-benefício.
 
 PREÇO ++
+
+
+
+(147.359)
+Ainda é cedo.
+
+PRODUTO # 
+
+
+
+(165.405)
+Pouco tempo de uso.
+
+PRODUTO # 
+
+
+
+(110.263)
+Ainda estou avaliando.
+
+PRODUTO # 
+
+
+
+(164.404)
+Estou experimentando....
+
+PRODUTO # 
+
+
+
+(165.406)
+Estou experimentando....
+
+PRODUTO # 
+
+
+
+(013.031)
+Como foi comprado recentemente está em avaliação.
+
+PRODUTO # 
+
+
+
+(163.402)
+Ainda estou conhecendo pois não faz 1 mês que adquiri.
+
+PRODUTO # 
+
+
+
+(169.416)
+Uso para falar e web,.
+
+PRODUTO & 
+
+
+
+(209.523)
+Ainda não testei muito.
+
+PRODUTO & 
+
+
+
+(090.214)
+Ainda pouco tempo de uso.
+
+PRODUTO & 
+
+
+
+(004.012)
+Quase nao utilizei ainda.
+
+PRODUTO & 
+
+
+
+(005.014)
+Ainda descobrindo suas funcionalidades.
+
+PRODUTO & 
+
+
+
+(192.485)
+Eu estou aprendendo ainda algumas funcionalidades do produto.
+
+PRODUTO & 
 
 
 
@@ -2303,13 +2380,6 @@ PRODUTO +
 
 
 
-(170.417)
-Aparelho Bom, porém com algumas limitações.
-
-PRODUTO + 
-
-
-
 (101.244)
 Até o momento atende as minhas expectativas.
 
@@ -2660,6 +2730,13 @@ PRODUTO +.
 
 
 
+(170.417)
+Aparelho Bom, porém com algumas limitações.
+
+PRODUTO +.
+
+
+
 (068.160)
 Facilita a vida de quem vive na tecnologia.
 
@@ -2856,115 +2933,10 @@ PRODUTO .
 
 
 
-(126.304)
-Na verdade faço comparação com a Samsung pois era o que eu tinha.
-
-PRODUTO . 
-
-
-
 (142.349)
 Foi presente.
 
 PRODUTO X 
-
-
-
-(169.416)
-Uso para falar e web,.
-
-PRODUTO X 
-
-
-
-(192.485)
-Eu estou aprendendo ainda algumas funcionalidades do produto.
-
-PRODUTO X 
-
-
-
-(147.359)
-Ainda é cedo.
-
-PRODUTO x 
-
-
-
-(165.405)
-Pouco tempo de uso.
-
-PRODUTO x 
-
-
-
-(110.263)
-Ainda estou avaliando.
-
-PRODUTO x 
-
-
-
-(209.523)
-Ainda não testei muito.
-
-PRODUTO x 
-
-
-
-(164.404)
-Estou experimentando....
-
-PRODUTO x 
-
-
-
-(165.406)
-Estou experimentando....
-
-PRODUTO x 
-
-
-
-(090.214)
-Ainda pouco tempo de uso.
-
-PRODUTO x 
-
-
-
-(004.012)
-Quase nao utilizei ainda.
-
-PRODUTO x 
-
-
-
-(005.014)
-Ainda descobrindo suas funcionalidades.
-
-PRODUTO x 
-
-
-
-(174.432)
-Meu primeiro Moto G foi o Moto G3 Turbo.
-
-PRODUTO x 
-
-
-
-(013.031)
-Como foi comprado recentemente está em avaliação.
-
-PRODUTO x 
-
-
-
-(163.402)
-Ainda estou conhecendo pois não faz 1 mês que adquiri.
-
-PRODUTO x 
 
 
 
@@ -3311,6 +3283,20 @@ _BROKEN x
 
 
 
+(225.576)
+A promessa foi que o produto seria entregue até 09/05/17.
+
+_CONTEXT x 
+
+
+
+(126.304)
+Na verdade faço comparação com a Samsung pois era o que eu tinha.
+
+_CONTEXT x 
+
+
+
 (225.580)
 Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
@@ -3320,6 +3306,13 @@ _CONTEXT x
 
 (225.581)
 Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+
+_CONTEXT x 
+
+
+
+(225.577)
+Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
 _CONTEXT x 
 
@@ -3411,6 +3404,13 @@ _DUPLICATE x
 
 (072.169)
 Já tive um moto E.
+
+_IRRELEVANT x 
+
+
+
+(174.432)
+Meu primeiro Moto G foi o Moto G3 Turbo.
 
 _IRRELEVANT x 
 

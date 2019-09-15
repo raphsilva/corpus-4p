@@ -66,14 +66,14 @@
 
 (004.011) [+][PRODUTO] :: Bom.
 
-(004.012) [x][PRODUTO] :: Quase nao utilizei ainda.
+(004.012) [&][PRODUTO] :: Quase nao utilizei ainda.
 
 
 
 
 (005.013) [+][PRODUTO] :: Bom aparelho.
 
-(005.014) [x][PRODUTO] :: Ainda descobrindo suas funcionalidades.
+(005.014) [&][PRODUTO] :: Ainda descobrindo suas funcionalidades.
 
 
 
@@ -133,7 +133,7 @@ u(012.029) [+][PRODUTO] :: ...
 
 (013.030) [+][PRODUTO] :: Satisfeita.
 
-(013.031) [x][PRODUTO] :: Como foi comprado recentemente está em avaliação.
+(013.031) [#][PRODUTO] :: Como foi comprado recentemente está em avaliação.
 
 
 
@@ -826,7 +826,7 @@ i(072.169) [][] :: Já tive um moto E.
 
 (090.213) [+][PRODUTO] :: Bom.
 
-(090.214) [x][PRODUTO] :: Ainda pouco tempo de uso.
+(090.214) [&][PRODUTO] :: Ainda pouco tempo de uso.
 
 
 
@@ -1001,7 +1001,7 @@ b(109.260) [][] :: Moto G5 Plus.
 
 (110.262) [.][PRODUTO] :: Diferente.
 
-(110.263) [x][PRODUTO] :: Ainda estou avaliando.
+(110.263) [#][PRODUTO] :: Ainda estou avaliando.
 
 
 
@@ -1143,7 +1143,7 @@ b(124.298) [][] :: Bateria.
 
 (126.303) [+.][PRODUTO] :: Bom mas pode melhorar. 
 
-(126.304) [.][PRODUTO] :: Na verdade faço comparação com a Samsung pois era o que eu tinha.
+c(126.304) [][] :: Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
 
 
@@ -1344,7 +1344,7 @@ b(136.333) [][] :: Moto G Plus.
 
 (147.358) [+][PRODUTO] :: Bom produto.
 
-(147.359) [x][PRODUTO] :: Ainda é cedo.
+(147.359) [#][PRODUTO] :: Ainda é cedo.
 
 
 
@@ -1503,21 +1503,21 @@ b(153.374) [][] :: MOTOG 5 PLUS.
 
 (163.401) [+][PRODUTO] :: Moderno.
 
-(163.402) [x][PRODUTO] :: Ainda estou conhecendo pois não faz 1 mês que adquiri.
+(163.402) [#][PRODUTO] :: Ainda estou conhecendo pois não faz 1 mês que adquiri.
 
 
 
 
 (164.403) [+][PRODUTO] :: Produto bom.
 
-(164.404) [x][PRODUTO] :: Estou experimentando....
+(164.404) [#][PRODUTO] :: Estou experimentando....
 
 
 
 
-(165.405) [x][PRODUTO] :: Pouco tempo de uso.  
+(165.405) [#][PRODUTO] :: Pouco tempo de uso.
 
-(165.406) [x][PRODUTO] :: Estou experimentando....
+(165.406) [#][PRODUTO] :: Estou experimentando....
 
 
 
@@ -1546,19 +1546,19 @@ b(153.374) [][] :: MOTOG 5 PLUS.
 
 b(168.413) [+][PRODUTO] :: Celular.
 
-d(168.414) [X][PRODUTO] :: Uso para falar e web,.
+d(168.414) [&][PRODUTO] :: Uso para falar e web,.
 
 
 
 
 (169.415) [+][PRODUTO] :: Bom.
 
-(169.416) [X][PRODUTO] :: Uso para falar e web,.
+(169.416) [&][PRODUTO] :: Uso para falar e web,.
 
 
 
 
-(170.417) [+][PRODUTO] :: Aparelho Bom, porém com algumas limitações.
+(170.417) [+.][PRODUTO] :: Aparelho Bom, porém com algumas limitações.
 
 (170.418) [+][PRODUTO] :: O Aparelho é bom.
 (170.418) [+][PREÇO] :: no tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
@@ -1609,7 +1609,7 @@ b(171.422) [][] :: MOTO G5.
 
 (174.431) [++][PREÇO] :: Sem comparação, o melhor custo benefício da história.
 
-(174.432) [x][PRODUTO] :: Meu primeiro Moto G foi o Moto G3 Turbo. 
+i(174.432) [x][PRODUTO] :: Meu primeiro Moto G foi o Moto G3 Turbo.
 
 (174.433) [+][PRODUTO] :: Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
 
@@ -1802,7 +1802,7 @@ d(186.468) [+][PRODUTO] :: O produto é muito bom.
 
 (192.484) [+][PRODUTO] :: Ótimo celular.
 
-(192.485) [X][PRODUTO] :: Eu estou aprendendo ainda algumas funcionalidades do produto.
+(192.485) [&][PRODUTO] :: Eu estou aprendendo ainda algumas funcionalidades do produto.
 
 
 (192.486) [+][PRODUTO] :: ele é muito bom nas funcionalidades que já usei.
@@ -1940,7 +1940,7 @@ d(206.517) [+][PRODUTO] :: Este é o meu terceiro aparelho da Motorola e não co
 
 
 
-(209.523) [x][PRODUTO] :: Ainda não testei muito.
+(209.523) [&][PRODUTO] :: Ainda não testei muito.
 
 (209.524) [+][BATERIA] :: Compra recente não testei muito, mas a bateria está durando bastante!
 (209.524) [-][CÂMERA] :: A câmera com zoom perde bastante qualidade.
@@ -2129,8 +2129,8 @@ i(214.535) [][] :: Se o senhor deixou um comentário deste na pesquisa de um Mot
 (225.575) [-][EMPRESA] :: Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
 
-(225.576) [.][EMPRESA] :: A promessa foi que o produto seria entregue até 09/05/17.
-(225.577) [.][EMPRESA] :: Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+c(225.576) [][] :: A promessa foi que o produto seria entregue até 09/05/17.
+c(225.577) [][] :: Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
 (225.578) [-][EMPRESA] :: Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
@@ -2138,10 +2138,10 @@ i(214.535) [][] :: Se o senhor deixou um comentário deste na pesquisa de um Mot
 (225.579) [-][EMPRESA] :: Evidentemente houve um erro no envio do produto.
 
 
-c(225.580) [x][] :: Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+c(225.580) [][] :: Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
 
-c(225.581) [x][] :: Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+c(225.581) [][] :: Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
 
 (225.582) [-][EMPRESA] :: Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.

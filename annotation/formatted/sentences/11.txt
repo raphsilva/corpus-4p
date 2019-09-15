@@ -16,35 +16,34 @@
 
 > File generation date: 2019-09-15
 
-> Total of opinions: 815
+> Total of opinions: 813
 
 > Total of sentences: 641
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                          11                            11
 # ARMAZENAMENTO _  _  _  _  9 _  _  _ 2 _  _  _ 1 _  _  _  _  _  _ 12
-# BATERIA                  21        18         1         1        41
-# CÂMERA _  _  _  _  _  _  54 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 56
+# BATERIA                  21        18         1                  40
+# CÂMERA _  _  _  _  _  _  55 _  _  _ 1 _  _  _  _  _  _  _  _  _  56
 # DESEMPENHO               60         3                            63
 # DESIGN _  _  _  _  _  _  23 _  _  _ 5 _  _  _ 1 _  _  _  _  _  _ 29
 # EMPRESA                   9        16                            25
-# OUTRO _  _  _  _  _  _   14 _  _   10 _  _  _  _  _  _  1 _  _   25
+# OUTRO _  _  _  _  _  _   14 _  _   10 _  _  _ 1 _  _  _  _  _  _ 25
 # PESO                      2         3                             5
 # PREÇO _  _  _  _  _  _   13 _  _   18 _  _  _  _  _  _  _  _  _  31
-# PRODUTO                 359         8         3        15       385
+# PRODUTO                 360         8         6                 374
 # RESISTÊNCIA _  _  _  _  _ 7 _  _   15 _  _  _ 2 _  _  _  _  _  _ 24
-# SISTEMA                   8         2                            10
+# SISTEMA                   8         3                            11
 # TAMANHO _  _  _  _  _  _  3 _  _  _  _  _  _  _  _  _  _  _  _  _ 3
 # TELA                     19         1                            20
 # USABILIDADE _  _  _  _  _ 9 _  _  _  _  _  _  _  _  _  _  _  _  _ 9
-# X                         1         2                   6         9
-# _TOTAL__________________242________89_________6________58_______395
-# _BROKEN                                                18        18
-# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
-# _DUPLICATE                                             25        25
-# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _   10 _  _   10
-# _NONE                                                  33        33
-# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
+# _TOTAL__________________243________90_________6________73_______412
+# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 18 _  _   18
+# _CONTEXT                                               18        18
+# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 25 _  _   25
+# _IRRELEVANT                                            11        11
+# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   35 _  _   35
+# _UNINTELLIGIBLE                                         1         1
 
 
 
@@ -273,6 +272,13 @@ CÂMERA +
 
 
 
+(165.497)
+O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera.
+
+CÂMERA + 
+
+
+
 (071.207)
 As fotos são perfeitas.
 
@@ -284,13 +290,6 @@ CÂMERA ++
 As fotos e vídeos possuem imagem perfeitas.
 
 CÂMERA ++
-
-
-
-(165.497)
-O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera.
-
-CÂMERA . 
 
 
 
@@ -767,6 +766,27 @@ PREÇO -.
 Tem dias que dura apenas 10 horas de uso moderado. O preço ainda é salgado, como tudo que é bom no Brasil.
 
 PREÇO -.
+
+
+
+(027.068)
+Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
+
+PRODUTO # 
+
+
+
+(086.258)
+Uso muito o aparelho.
+
+PRODUTO & 
+
+
+
+(058.167)
+Estou usando a menos de 1 mês.
+
+PRODUTO & 
 
 
 
@@ -2002,6 +2022,13 @@ PRODUTO +
 
 
 
+(038.101)
+Antes eu tinha um S4.
+
+PRODUTO + 
+
+
+
 (201.617)
 Aparelho excelente!!!
 
@@ -2151,13 +2178,6 @@ PRODUTO +
 
 (125.377)
 Ate agora me surpreendeu..
-
-PRODUTO + 
-
-
-
-(038.102)
-Foi um salto de qualidade.
 
 PRODUTO + 
 
@@ -2870,90 +2890,6 @@ PRODUTO .
 
 
 
-(136.409)
-Ainda não pude tê-lo.
-
-PRODUTO X 
-
-
-
-(165.495)
-Migrando do S5 para o S7.
-
-PRODUTO X 
-
-
-
-(143.426)
-Depois do S6, comprei o S7.
-
-PRODUTO X 
-
-
-
-(118.352)
-Ainda não possui um só vi o do meu amigo.
-
-PRODUTO X 
-
-
-
-(027.068)
-Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
-
-PRODUTO X 
-
-
-
-(086.252)
-Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
-
-PRODUTO X 
-
-
-
-(086.258)
-Uso muito o aparelho.
-
-PRODUTO x 
-
-
-
-(058.167)
-Estou usando a menos de 1 mês.
-
-PRODUTO x 
-
-
-
-(014.035)
-Tinha o s6 e troquei para o s7.
-
-PRODUTO x 
-
-
-
-(114.341)
-Troquei um S4 octa core por esse S7.
-
-PRODUTO x 
-
-
-
-(199.608)
-Realizei a troca do galaxy s5 para o galaxy s7.
-
-PRODUTO x 
-
-
-
-(082.235)
-Deixei de comprar o S6 para pegar um mais atual.
-
-PRODUTO x 
-
-
-
 (125.380)
 Comprei no sabado e recebi na terça.Uma dica .
 
@@ -3059,6 +2995,13 @@ SISTEMA +
 
 
 
+(086.255)
+Poderia ser mais simples.
+
+SISTEMA - 
+
+
+
 (086.254)
 Quanto ao software, muito poluído.
 
@@ -3098,69 +3041,6 @@ TELA +
 Bom pra quem gosta de ler, pois a tela é grande.
 
 TELA + 
-
-
-
-(018.046)
-Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
-
-X + 
-
-
-
-(086.255)
-Poderia ser mais simples.
-
-X - 
-
-
-
-(181.545)
-Duas surpresas desagradáveis com a compra do aparelho.
-
-X - 
-
-
-
-(038.101)
-Antes eu tinha um S4.
-
-X x 
-
-
-
-(020.050)
-Mudança do S6 para o S7.
-
-X x 
-
-
-
-(064.190)
-Vamos ver nele como vai.
-
-X x 
-
-
-
-(153.458)
-Nada de novidade neste quesito.
-
-X x 
-
-
-
-(165.498)
-E nesse quesito o S7 não deixa a desejar.
-
-X x 
-
-
-
-(165.501)
-E agora não é mais possível usar essa função na S7)
-
-X x 
 
 
 
@@ -3280,6 +3160,111 @@ _BROKEN x
 Não possui a mesma beleza de um iphone mais o processador não se compara com o mesmo.
 
 _BROKEN x 
+
+
+
+(136.409)
+Ainda não pude tê-lo.
+
+_CONTEXT x 
+
+
+
+(020.050)
+Mudança do S6 para o S7.
+
+_CONTEXT x 
+
+
+
+(064.190)
+Vamos ver nele como vai.
+
+_CONTEXT x 
+
+
+
+(165.495)
+Migrando do S5 para o S7.
+
+_CONTEXT x 
+
+
+
+(143.426)
+Depois do S6, comprei o S7.
+
+_CONTEXT x 
+
+
+
+(153.458)
+Nada de novidade neste quesito.
+
+_CONTEXT x 
+
+
+
+(014.035)
+Tinha o s6 e troquei para o s7.
+
+_CONTEXT x 
+
+
+
+(114.341)
+Troquei um S4 octa core por esse S7.
+
+_CONTEXT x 
+
+
+
+(118.352)
+Ainda não possui um só vi o do meu amigo.
+
+_CONTEXT x 
+
+
+
+(199.608)
+Realizei a troca do galaxy s5 para o galaxy s7.
+
+_CONTEXT x 
+
+
+
+(082.235)
+Deixei de comprar o S6 para pegar um mais atual.
+
+_CONTEXT x 
+
+
+
+(165.501)
+E agora não é mais possível usar essa função na S7)
+
+_CONTEXT x 
+
+
+
+(181.545)
+Duas surpresas desagradáveis com a compra do aparelho.
+
+_CONTEXT x 
+
+
+
+(086.252)
+Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
+
+_CONTEXT x 
+
+
+
+(018.046)
+Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
+
+_CONTEXT x 
 
 
 
@@ -3493,6 +3478,13 @@ _IRRELEVANT x
 
 
 
+(031.078)
+Excelente celular, mas não tenho mais.
+
+_IRRELEVANT x 
+
+
+
 (057.162)
 Porque tenho que avaliar se não tenho o produto.
 
@@ -3563,6 +3555,13 @@ _NONE x
 
 
 
+(038.102)
+Foi um salto de qualidade.
+
+_NONE x 
+
+
+
 (217.668)
 Como em qualquer operadora.
 
@@ -3607,6 +3606,13 @@ _NONE x
 
 (212.653)
 Pouco tempo mas caro para o que oferece.
+
+_NONE x 
+
+
+
+(165.498)
+E nesse quesito o S7 não deixa a desejar.
 
 _NONE x 
 
@@ -3850,14 +3856,6 @@ Produto muito bom, a bateria dura muito e o carregador carrega muito mais rapido
 
 PRODUTO + 
 BATERIA + 
-
-
-
-(125.378)
-Vamos ver a bateria daqui um tempo.Tudo show de bola..
-
-BATERIA x 
-PRODUTO + 
 
 
 
@@ -4125,19 +4123,11 @@ PRODUTO +
 
 
 
-(031.078)
-Excelente celular, mas não tenho mais.
-
-PRODUTO + 
-PRODUTO X 
-
-
-
 (048.136)
 Gostei de tudo, minha mãe já tinha um e resolvi comprar também.
 
 PRODUTO + 
-PRODUTO X 
+PRODUTO +.
 
 
 
@@ -4186,6 +4176,14 @@ RESISTÊNCIA -.
 
 PRODUTO + 
 SISTEMA + 
+
+
+
+(125.378)
+Vamos ver a bateria daqui um tempo.Tudo show de bola..
+
+_CONTEXT x 
+PRODUTO + 
 
 
 
@@ -4425,7 +4423,7 @@ DESIGN +
 (006.015)
 Sempre quis um aparelho da linha S e o S7 tem o tamanho perfeito para nao chamar muita atencao e desempenho fantástico.
 
-PRODUTO X 
+PRODUTO +.
 TAMANHO + 
 DESEMPENHO + 
 
@@ -4613,7 +4611,7 @@ As fotos noturnas ficam boas e as funcionalidades e opções de personalização
 OUTRO + 
 OUTRO - 
 OUTRO + 
-OUTRO X 
+OUTRO # 
 
 
 

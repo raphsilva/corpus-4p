@@ -192,7 +192,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Quase nao utilizei ainda."
@@ -212,7 +212,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Ainda descobrindo suas funcionalidades."
@@ -390,7 +390,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Como foi comprado recentemente está em avaliação."
@@ -2670,7 +2670,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Ainda pouco tempo de uso."
@@ -3231,7 +3231,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Ainda estou avaliando."
@@ -3676,8 +3676,8 @@
             "id": 304,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Na verdade faço comparação com a Samsung pois era o que eu tinha."
@@ -4327,7 +4327,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Ainda é cedo."
@@ -4854,7 +4854,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Ainda estou conhecendo pois não faz 1 mês que adquiri."
@@ -4874,7 +4874,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Estou experimentando...."
@@ -4884,7 +4884,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Pouco tempo de uso."
@@ -4894,7 +4894,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Estou experimentando...."
@@ -5018,7 +5018,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "X"
+                    "&"
                 ]
             ],
             "sentence": "Uso para falar e web,."
@@ -5028,7 +5028,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "+"
+                    "+."
                 ]
             ],
             "sentence": "Aparelho Bom, porém com algumas limitações."
@@ -5201,7 +5201,7 @@
             "id": 432,
             "opinions": [
                 [
-                    "PRODUTO",
+                    "_IRRELEVANT",
                     "x"
                 ]
             ],
@@ -5888,7 +5888,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "X"
+                    "&"
                 ]
             ],
             "sentence": "Eu estou aprendendo ainda algumas funcionalidades do produto."
@@ -6307,7 +6307,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Ainda não testei muito."
@@ -6934,8 +6934,8 @@
             "id": 576,
             "opinions": [
                 [
-                    "EMPRESA",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "A promessa foi que o produto seria entregue até 09/05/17."
@@ -6944,8 +6944,8 @@
             "id": 577,
             "opinions": [
                 [
-                    "EMPRESA",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve."
