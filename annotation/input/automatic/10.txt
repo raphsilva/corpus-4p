@@ -315,7 +315,7 @@
 (037.089) [+][PRODUTO] :: Produto bom, fácil mexer, até o momento não tenho queixas.
 
 
-(037.090) [+][EMPRESA] :: Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+(037.090) [+][_outscope] :: Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
 
 
 
@@ -706,7 +706,7 @@
 (086.205) [+][CÂMERA DESEMPENHO PREÇO] :: Sua câmera é ok para os demais do mercado e seu processador consegue rodar todos os aplicativos-jogos que eu utilizava antes e ate os atuais portanto tem um preço ótimo portanto nao me arrependi e nao tive nenhum problema por enquanto.
 
 
-(086.206) [+][EMPRESA] :: A ENTREGA FOI RÁPIDA E MUITO BOA.
+(086.206) [+][_outscope] :: A ENTREGA FOI RÁPIDA E MUITO BOA.
 
 
 
@@ -873,7 +873,7 @@
 (106.254) [+][PRODUTO] :: COMO VOU SABER, SE NÃO RECEBI.
 
 
-(106.255) [+][EMPRESA] :: COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+(106.255) [+][_outscope] :: COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
 
 
 
@@ -1579,7 +1579,7 @@
 (186.468) [+][PRODUTO EMPRESA] :: O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
 
-(186.469) [+][EMPRESA] :: Por isso cancelei a compra e adquiri em outra empresa.
+(186.469) [+][_outscope] :: Por isso cancelei a compra e adquiri em outra empresa.
 
 
 
@@ -1888,7 +1888,7 @@
 (221.558) [-][PRODUTO] :: Verificar a oferta do Shoptime.
 
 
-(221.559) [-][EMPRESA] :: Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+(221.559) [-][_outscope] :: Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
 
 
 
@@ -1959,16 +1959,16 @@
 (225.581) [-][PRODUTO] :: Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
 
-(225.582) [-][EMPRESA] :: Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+(225.582) [-][_outscope] :: Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 
 
 (225.583) [-][PRODUTO EMPRESA] :: O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
 
 
-(225.584) [-][EMPRESA] :: A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+(225.584) [-][_outscope] :: A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
 
 
-(225.585) [-][EMPRESA] :: É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+(225.585) [-][_outscope] :: É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
 
 
 (225.586) [-][PRODUTO] :: Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.

@@ -25,22 +25,22 @@
 # ÁUDIO _  _  _  _  _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _   1
 # BATERIA                             1                             1
 # DESIGN _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# EMPRESA                   2         1                             3
-# FOCO _  _  _  _  _  _  _  3 _  _  _ 1 _  _  _  _  _  _  _  _  _   4
-# FOTO                      8                                       8
-# IMAGEM _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# PESO                                1                             1
-# PREÇO _  _  _  _  _  _   11 _  _  _  _  _  _  _  _  _  _  _  _   11
-# PRODUTO                  90                   1                  91
-# RESISTÊNCIA _  _  _  _  _ 1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
-# TAMANHO                   1         1                             2
-# TELA _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# USABILIDADE               9         1         1                  11
-# _TOTAL___________________45________10_________1________10________66
-# _BROKEN                                                 3         3
-# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
-# _DUPLICATE                                              5         5
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 3 _  _  _ 3
+# FOCO                      3         1                             4
+# FOTO _  _  _  _  _  _  _  8 _  _  _  _  _  _  _  _  _  _  _  _  _ 8
+# IMAGEM                    2                                       2
+# PESO _  _  _  _  _  _  _  _  _  _   1 _  _  _  _  _  _  _  _  _   1
+# PREÇO                    11                                      11
+# PRODUTO _  _  _  _  _  _ 90 _  _  _  _  _  _  1 _  _  _  _  _  _ 91
+# RESISTÊNCIA               1                                       1
+# TAMANHO _  _  _  _  _  _  1 _  _  _ 1 _  _  _  _  _  _  _  _  _   2
+# TELA                      2                                       2
+# USABILIDADE _  _  _  _  _ 9 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 11
+# _TOTAL___________________47________11_________1________10________69
+# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
+# _CONTEXT                                                2         2
+# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
+# _NONE                                                   3         3
+# _outscope _  _  _  _  _   2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
 
 
 
@@ -70,13 +70,6 @@ ACESSÓRIO -.
 Sobre a anatomia, seu desenho é bom.
 
 DESIGN + 
-
-
-
-(047.139)
-Anuncio falso.
-
-EMPRESA - 
 
 
 
@@ -822,6 +815,13 @@ _NONE x
 
 
 
+(047.139)
+Anuncio falso.
+
+_outscope - 
+
+
+
 (003.021)
 Deveria vir com bateria extrado demais atende minhas necessidades.
 
@@ -835,14 +835,6 @@ Claro que para usufruir de todas as funções, de maneira aficais é necessário
 
 USABILIDADE -.
 ACESSÓRIO - 
-
-
-
-(040.124)
-Produto me agradou muito e a entrega foi rápida.
-
-PRODUTO + 
-EMPRESA + 
 
 
 
@@ -950,6 +942,14 @@ USABILIDADE +
 
 
 
+(040.124)
+Produto me agradou muito e a entrega foi rápida.
+
+PRODUTO + 
+_outscope + 
+
+
+
 (032.106)
 Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,só que o ruim dela é a duração da bateria,acaba rápido,mais o respo é ótimo,e ela é super fácil de mexer.Recomendo para todos.
 
@@ -989,7 +989,7 @@ ACESSÓRIO +
 DESIGN + 
 PREÇO + 
 USABILIDADE + 
-EMPRESA + 
+_outscope + 
 PRODUTO + 
 
 

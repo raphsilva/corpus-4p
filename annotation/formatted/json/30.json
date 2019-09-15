@@ -1340,7 +1340,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -1434,7 +1434,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ],
                 [
@@ -1518,7 +1518,7 @@
             "id": 139,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],

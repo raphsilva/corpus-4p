@@ -27,23 +27,23 @@
 # CÂMERA _  _  _  _  _  _  29 _  _   10 _  _  _  _  _  _  _  _  _  39
 # DESEMPENHO               36        15         1                  52
 # DESIGN _  _  _  _  _  _  23 _  _  _ 5 _  _  _  _  _  _  _  _  _  28
-# EMPRESA                   7        27         2                  36
-# OUTRO _  _  _  _  _  _   18 _  _   16 _  _  _ 1 _  _  _  _  _  _ 35
-# PESO                      4                                       4
-# PREÇO _  _  _  _  _  _   68 _  _  _ 4 _  _  _  _  _  _  _  _  _  72
-# PRODUTO                 322        19        20         3       364
-# RESISTÊNCIA _  _  _  _  _ 2 _  _   10 _  _  _ 1 _  _  _  _  _  _ 13
-# SISTEMA                  10         3                            13
-# SOM _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _  _  _  _  _  _  _   2
-# TAMANHO                   2                                       2
-# TELA _  _  _  _  _  _  _  7 _  _  _ 4 _  _  _  _  _  _  _  _  _  11
-# USABILIDADE              18                                      18
-# _TOTAL__________________246________90_________4________55_______395
-# _BROKEN                                                24        24
-# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 6 _  _  _ 6
-# _DUPLICATE                                             13        13
-# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 7 _  _  _ 7
-# _NONE                                                   4         4
+# OUTRO                    18        16         1                  35
+# PESO _  _  _  _  _  _  _  4 _  _  _  _  _  _  _  _  _  _  _  _  _ 4
+# PREÇO                    68         4                            72
+# PRODUTO _  _  _  _  _   322 _  _   19 _  _   20 _  _  _ 3 _  _  364
+# RESISTÊNCIA               2        10         1                  13
+# SISTEMA _  _  _  _  _  _ 10 _  _  _ 3 _  _  _  _  _  _  _  _  _  13
+# SOM                                 2                             2
+# TAMANHO _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
+# TELA                      7         4                            11
+# USABILIDADE _  _  _  _   18 _  _  _  _  _  _  _  _  _  _  _  _   18
+# _TOTAL__________________253_______117_________6________55_______431
+# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 24 _  _   24
+# _CONTEXT                                                6         6
+# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 13 _  _   13
+# _IRRELEVANT                                             7         7
+# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 4 _  _  _ 4
+# _outscope                 7        27         2                  36
 # _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
 
 
@@ -305,195 +305,6 @@ DESIGN +
 O aparelho é bonito.
 
 DESIGN + 
-
-
-
-(086.206)
-A ENTREGA FOI RÁPIDA E MUITO BOA.
-
-EMPRESA + 
-
-
-
-(037.090)
-Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
-
-EMPRESA + 
-
-
-
-(106.254)
-COMO VOU SABER, SE NÃO RECEBI.
-
-EMPRESA - 
-
-
-
-(221.558)
-Verificar a oferta do Shoptime.
-
-EMPRESA - 
-
-
-
-(106.253)
-NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
-
-EMPRESA - 
-
-
-
-(225.579)
-Evidentemente houve um erro no envio do produto.
-
-EMPRESA - 
-
-
-
-(224.573)
-Tentei entrar en contato com a Onofre e não consegui.
-
-EMPRESA - 
-
-
-
-(221.557)
-Valor de oferta de 250,00 não corresponde ao produto.
-
-EMPRESA - 
-
-
-
-(186.469)
-Por isso cancelei a compra e adquiri em outra empresa.
-
-EMPRESA - 
-
-
-
-(225.575)
-Em 02/05/17, comprei este smartphone pelo site do Extra.
-
-EMPRESA - 
-
-
-
-(225.589)
-Decepção! Portanto, fica a dica: não comprem pelo Extra!!
-
-EMPRESA - 
-
-
-
-(225.588)
-Porém, para a minha frustração, o produto não veio no prazo prometido.
-
-EMPRESA - 
-
-
-
-(225.574)
-Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
-
-EMPRESA - 
-
-
-
-(225.586)
-Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
-
-EMPRESA - 
-
-
-
-(227.597)
-Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
-
-EMPRESA - 
-
-
-
-(225.582)
-Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
-
-EMPRESA - 
-
-
-
-(221.559)
-Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
-
-EMPRESA - 
-
-
-
-(225.585)
-É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
-
-EMPRESA - 
-
-
-
-(215.537)
-Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
-
-EMPRESA - 
-
-
-
-(215.538)
-Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
-
-EMPRESA - 
-
-
-
-(228.606)
-Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
-
-EMPRESA - 
-
-
-
-(228.605)
-Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
-
-EMPRESA - 
-
-
-
-(225.578)
-Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
-
-EMPRESA - 
-
-
-
-(216.546)
-Motorola nunca mais!
-
-EMPRESA --
-
-
-
-(106.255)
-COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
-
-EMPRESA --
-
-
-
-(225.583)
-O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
-
-EMPRESA . 
-
-
-
-(225.584)
-A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
-
-EMPRESA . 
 
 
 
@@ -3479,6 +3290,195 @@ _NONE x
 
 
 
+(086.206)
+A ENTREGA FOI RÁPIDA E MUITO BOA.
+
+_outscope + 
+
+
+
+(037.090)
+Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+
+_outscope + 
+
+
+
+(106.254)
+COMO VOU SABER, SE NÃO RECEBI.
+
+_outscope - 
+
+
+
+(221.558)
+Verificar a oferta do Shoptime.
+
+_outscope - 
+
+
+
+(106.253)
+NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+
+_outscope - 
+
+
+
+(225.579)
+Evidentemente houve um erro no envio do produto.
+
+_outscope - 
+
+
+
+(224.573)
+Tentei entrar en contato com a Onofre e não consegui.
+
+_outscope - 
+
+
+
+(221.557)
+Valor de oferta de 250,00 não corresponde ao produto.
+
+_outscope - 
+
+
+
+(186.469)
+Por isso cancelei a compra e adquiri em outra empresa.
+
+_outscope - 
+
+
+
+(225.575)
+Em 02/05/17, comprei este smartphone pelo site do Extra.
+
+_outscope - 
+
+
+
+(225.589)
+Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+
+_outscope - 
+
+
+
+(225.588)
+Porém, para a minha frustração, o produto não veio no prazo prometido.
+
+_outscope - 
+
+
+
+(225.574)
+Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+
+_outscope - 
+
+
+
+(225.586)
+Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+
+_outscope - 
+
+
+
+(227.597)
+Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
+
+_outscope - 
+
+
+
+(225.582)
+Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+
+_outscope - 
+
+
+
+(221.559)
+Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+
+_outscope - 
+
+
+
+(225.585)
+É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+
+_outscope - 
+
+
+
+(215.537)
+Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+
+_outscope - 
+
+
+
+(215.538)
+Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
+
+_outscope - 
+
+
+
+(228.606)
+Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+
+_outscope - 
+
+
+
+(228.605)
+Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+
+_outscope - 
+
+
+
+(225.578)
+Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+
+_outscope - 
+
+
+
+(216.546)
+Motorola nunca mais!
+
+_outscope --
+
+
+
+(106.255)
+COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+
+_outscope --
+
+
+
+(225.583)
+O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+
+_outscope . 
+
+
+
+(225.584)
+A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+
+_outscope . 
+
+
+
 (012.028)
 ...
 
@@ -3754,62 +3754,6 @@ DESIGN +
 
 
 
-(138.338)
-Celular de ótimo custo-benefício e entregue antes do prazo.
-
-PREÇO + 
-EMPRESA + 
-
-
-
-(074.173)
-Entrega rápida e até então estou gostando muito do aparelho.
-
-EMPRESA + 
-PRODUTO + 
-
-
-
-(081.190)
-Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
-
-EMPRESA + 
-PRODUTO + 
-
-
-
-(126.312)
-Bem...é bem legal mas faltou um pouco de capricho pelo fabricante.
-
-PRODUTO + 
-EMPRESA - 
-
-
-
-(186.467)
-O produto é muito bom, porém não comprei na empresa efacil, empresa ruim.
-
-PRODUTO + 
-EMPRESA - 
-
-
-
-(227.599)
-Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
-
-PRODUTO - 
-EMPRESA - 
-
-
-
-(186.468)
-O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
-
-_DUPLICATE x 
-EMPRESA - 
-
-
-
 (170.421)
 Gostei do fato de ter a televisão e o rádio, pois as vezes em elas são uteis.
 
@@ -3874,6 +3818,14 @@ PREÇO -
 
 
 
+(138.338)
+Celular de ótimo custo-benefício e entregue antes do prazo.
+
+PREÇO + 
+_outscope + 
+
+
+
 (131.324)
 Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
@@ -3898,6 +3850,46 @@ USABILIDADE +
 
 
 
+(074.173)
+Entrega rápida e até então estou gostando muito do aparelho.
+
+_outscope + 
+PRODUTO + 
+
+
+
+(081.190)
+Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
+
+_outscope + 
+PRODUTO + 
+
+
+
+(126.312)
+Bem...é bem legal mas faltou um pouco de capricho pelo fabricante.
+
+PRODUTO + 
+_outscope - 
+
+
+
+(186.467)
+O produto é muito bom, porém não comprei na empresa efacil, empresa ruim.
+
+PRODUTO + 
+_outscope - 
+
+
+
+(227.599)
+Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+
+PRODUTO - 
+_outscope - 
+
+
+
 (150.367)
 Recomendo que seja compara uma capa de proteção, pois o aparelho e muito liso e facilmente escapa da mão, e com certeza uma película de proteção.
 
@@ -3911,6 +3903,14 @@ A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super 
 
 TELA - 
 TELA + 
+
+
+
+(186.468)
+O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+
+_DUPLICATE x 
+_outscope - 
 
 
 
@@ -4040,15 +4040,6 @@ CÂMERA +
 
 
 
-(184.464)
-Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
-
-PRODUTO + 
-EMPRESA + 
-DESEMPENHO - 
-
-
-
 (042.101)
 Os gestos ajudam bastante no dia a dia, e o aparelho é bem rápido, e o leitor de digitais dá uma segurança a mais.
 
@@ -4073,6 +4064,15 @@ Para jogos não se discute roda qualquer jogo e com uma tela de ótimo tamanho, 
 DESEMPENHO + 
 TELA + 
 PREÇO ++
+
+
+
+(184.464)
+Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
+
+PRODUTO + 
+_outscope + 
+DESEMPENHO - 
 
 
 
@@ -4365,7 +4365,7 @@ DESIGN +
 PRODUTO + 
 BATERIA + 
 PREÇO + 
-EMPRESA + 
+_outscope + 
 
 
 

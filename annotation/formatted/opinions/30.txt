@@ -21,22 +21,22 @@
 # ÁUDIO _  _  _  _  _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _   1
 # BATERIA                             1                             1
 # DESIGN _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# EMPRESA                   2         1                             3
-# FOCO _  _  _  _  _  _  _  3 _  _  _ 1 _  _  _  _  _  _  _  _  _   4
-# FOTO                      8                                       8
-# IMAGEM _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# PESO                                1                             1
-# PREÇO _  _  _  _  _  _   11 _  _  _  _  _  _  _  _  _  _  _  _   11
-# PRODUTO                  90                   1                  91
-# RESISTÊNCIA _  _  _  _  _ 1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
-# TAMANHO                   1         1                             2
-# TELA _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# USABILIDADE               9         1         1                  11
-# _TOTAL___________________45________10_________1________10________66
-# _BROKEN                                                 3         3
-# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
-# _DUPLICATE                                              5         5
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 3 _  _  _ 3
+# FOCO                      3         1                             4
+# FOTO _  _  _  _  _  _  _  8 _  _  _  _  _  _  _  _  _  _  _  _  _ 8
+# IMAGEM                    2                                       2
+# PESO _  _  _  _  _  _  _  _  _  _   1 _  _  _  _  _  _  _  _  _   1
+# PREÇO                    11                                      11
+# PRODUTO _  _  _  _  _  _ 90 _  _  _  _  _  _  1 _  _  _  _  _  _ 91
+# RESISTÊNCIA               1                                       1
+# TAMANHO _  _  _  _  _  _  1 _  _  _ 1 _  _  _  _  _  _  _  _  _   2
+# TELA                      2                                       2
+# USABILIDADE _  _  _  _  _ 9 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 11
+# _TOTAL___________________47________11_________1________10________69
+# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
+# _CONTEXT                                                2         2
+# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
+# _NONE                                                   3         3
+# _outscope _  _  _  _  _   2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
 
 
 
@@ -71,295 +71,295 @@
 
 043.130.0015)   [+][DESIGN]            ::  O acabamento e muito bom e da impressao de resistencia.
 
-040.124.0016)   [+][EMPRESA]           ::  A entrega foi rápida.
+041.126.0016)   [+][FOCO]              ::  E ótima tem um foco excelente.
 
-043.130.0017)   [+][EMPRESA]           ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
+002.009.0017)   [+][FOCO]              ::  O foco automático é ótimo para poses.
 
-047.139.0018)   [-][EMPRESA]           ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+020.073.0018)   [+][FOCO]              ::  Controle de foco fácil. Manual ou automático.
 
-041.126.0019)   [+][FOCO]              ::  E ótima tem um foco excelente.
+002.009.0019)   [-][FOCO]              ::  O foco automático é um pouco lento, o que não permite muitas fotos em movimento.
 
-002.009.0020)   [+][FOCO]              ::  O foco automático é ótimo para poses.
+023.084.0020)   [+][FOTO]              ::  Fotos em alta definição.
 
-020.073.0021)   [+][FOCO]              ::  Controle de foco fácil. Manual ou automático.
+002.004.0021)   [+][FOTO]              ::  A qualidade de fotografia é superior se comparado a prozoomers.
 
-002.009.0022)   [-][FOCO]              ::  O foco automático é um pouco lento, o que não permite muitas fotos em movimento.
+005.031.0022)   [+][FOTO]              ::  Consigo fotos muito bonitas sem muito trabalho de ajuste fino.
 
-023.084.0023)   [+][FOTO]              ::  Fotos em alta definição.
+005.028.0023)   [+][FOTO]              ::  Tem ISO relativamente bom, mas apresenta uma limitação em qualidade a partir do ISO 1600.
 
-002.004.0024)   [+][FOTO]              ::  A qualidade de fotografia é superior se comparado a prozoomers.
+005.027.0024)   [+][FOTO]              ::  Permite fotos com qualidade profissional, desfocadas, com planos bem distintos( adoro! rsrs) e com alta resolução.
 
-005.031.0025)   [+][FOTO]              ::  Consigo fotos muito bonitas sem muito trabalho de ajuste fino.
+021.077.0025)   [+][FOTO]              ::  Depois que comprei esta câmera minhas fotos melhoraram Muito, Agora tenho fotos a nível profissional, com ela já fiz ate alguns ensaios e adquiri uma renda extra.
 
-005.028.0026)   [+][FOTO]              ::  Tem ISO relativamente bom, mas apresenta uma limitação em qualidade a partir do ISO 1600.
+005.029.0026)  [+.][FOTO]              ::  Com ISO acima disso as fotos ficam boas, mas apresentam algumas granulações leves.
 
-005.027.0027)   [+][FOTO]              ::  Permite fotos com qualidade profissional, desfocadas, com planos bem distintos( adoro! rsrs) e com alta resolução.
+005.030.0027)  [+.][FOTO]              ::  Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda.
 
-021.077.0028)   [+][FOTO]              ::  Depois que comprei esta câmera minhas fotos melhoraram Muito, Agora tenho fotos a nível profissional, com ela já fiz ate alguns ensaios e adquiri uma renda extra.
+018.067.0028)   [+][IMAGEM]            ::  A qualidade de imagem é incrível!
 
-005.029.0029)  [+.][FOTO]              ::  Com ISO acima disso as fotos ficam boas, mas apresentam algumas granulações leves.
+020.072.0029)   [+][IMAGEM]            ::  A qualidade das imagens são muito boas.
 
-005.030.0030)  [+.][FOTO]              ::  Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda.
+002.007.0030)  [-.][PESO]              ::  O peso atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
 
-018.067.0031)   [+][IMAGEM]            ::  A qualidade de imagem é incrível!
+023.084.0031)   [+][PREÇO]             ::  Ótimo custo benefício!
 
-020.072.0032)   [+][IMAGEM]            ::  A qualidade das imagens são muito boas.
+039.122.0032)   [+][PREÇO]             ::  Ótimo custo benefício.
 
-002.007.0033)  [-.][PESO]              ::  O peso atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
+005.024.0033)   [+][PREÇO]             ::  Ótimo custo-benefício.
 
-023.084.0034)   [+][PREÇO]             ::  Ótimo custo benefício!
+014.056.0034)   [+][PREÇO]             ::  E o preço esta muito bom.
 
-039.122.0035)   [+][PREÇO]             ::  Ótimo custo benefício.
+014.057.0035)   [+][PREÇO]             ::  Custo beneficio excelente.
 
-005.024.0036)   [+][PREÇO]             ::  Ótimo custo-benefício.
+043.130.0036)   [+][PREÇO]             ::  O custo beneficio vale a pena.
 
-014.056.0037)   [+][PREÇO]             ::  E o preço esta muito bom.
+016.061.0037)   [+][PREÇO]             ::  O custo beneficio, é um dos maiores pontos positivos.
 
-014.057.0038)   [+][PREÇO]             ::  Custo beneficio excelente.
+002.014.0038)   [+][PREÇO]             ::  Só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
 
-043.130.0039)   [+][PREÇO]             ::  O custo beneficio vale a pena.
+043.130.0039)   [+][PREÇO]             ::  Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.
 
-016.061.0040)   [+][PREÇO]             ::  O custo beneficio, é um dos maiores pontos positivos.
+002.008.0040)   [+][PREÇO]             ::  Me sinto satisfeito pelo que paguei, pois pretendo melhorar as fotos com lentes novas com a 50 mm - f 1.4.
 
-002.014.0041)   [+][PREÇO]             ::  Só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
+033.108.0041)  [+.][PREÇO]             ::  Relativamente bom o investimento.
 
-043.130.0042)   [+][PREÇO]             ::  Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.
+005.034.0042)   [!][PRODUTO]           ::  Apesar de ter nome parecido, não recomendo que seja feita comparação com a T5i por serem equipamentos beeem diferentes, não só no valor ( cerca de R$1000,00 de diferença), como na destinação do produto, já que a T5 é volta para fotos( apesar de fazer vídeos curtos) e a T5i possui tecnologia para vídeos bem mais avançada, incluindo comando touch( mais rápido para correção durante uma gravação)
 
-002.008.0043)   [+][PREÇO]             ::  Me sinto satisfeito pelo que paguei, pois pretendo melhorar as fotos com lentes novas com a 50 mm - f 1.4.
+028.094.0043)   [+][PRODUTO]           ::  Bom!
 
-033.108.0044)  [+.][PREÇO]             ::  Relativamente bom o investimento.
+010.044.0044)   [+][PRODUTO]           ::  Bom.
 
-005.034.0045)   [!][PRODUTO]           ::  Apesar de ter nome parecido, não recomendo que seja feita comparação com a T5i por serem equipamentos beeem diferentes, não só no valor ( cerca de R$1000,00 de diferença), como na destinação do produto, já que a T5 é volta para fotos( apesar de fazer vídeos curtos) e a T5i possui tecnologia para vídeos bem mais avançada, incluindo comando touch( mais rápido para correção durante uma gravação)
+015.058.0045)   [+][PRODUTO]           ::  Bom.
 
-028.094.0046)   [+][PRODUTO]           ::  Bom!
+033.107.0046)   [+][PRODUTO]           ::  Bom.
 
-010.044.0047)   [+][PRODUTO]           ::  Bom.
+013.051.0047)   [+][PRODUTO]           ::  Ótima.
 
-015.058.0048)   [+][PRODUTO]           ::  Bom.
+022.080.0048)   [+][PRODUTO]           ::  Ótima.
 
-033.107.0049)   [+][PRODUTO]           ::  Bom.
+029.096.0049)   [+][PRODUTO]           ::  Ótima.
 
-013.051.0050)   [+][PRODUTO]           ::  Ótima.
+004.022.0050)   [+][PRODUTO]           ::  Gostei.
 
-022.080.0051)   [+][PRODUTO]           ::  Ótima.
+007.038.0051)   [+][PRODUTO]           ::  Positivo.
 
-029.096.0052)   [+][PRODUTO]           ::  Ótima.
+008.041.0052)   [+][PRODUTO]           ::  Excelente.
 
-004.022.0053)   [+][PRODUTO]           ::  Gostei.
+014.053.0053)   [+][PRODUTO]           ::  Excelente.
 
-007.038.0054)   [+][PRODUTO]           ::  Positivo.
+016.060.0054)   [+][PRODUTO]           ::  Muito Boa.
 
-008.041.0055)   [+][PRODUTO]           ::  Excelente.
+012.050.0055)   [+][PRODUTO]           ::  Muito bom!
 
-014.053.0056)   [+][PRODUTO]           ::  Excelente.
+024.086.0056)   [+][PRODUTO]           ::  Muito bom.
 
-016.060.0057)   [+][PRODUTO]           ::  Muito Boa.
+039.120.0057)   [+][PRODUTO]           ::  Muito bom.
 
-012.050.0058)   [+][PRODUTO]           ::  Muito bom!
+001.001.0058)   [+][PRODUTO]           ::  Boa Câmera.
 
-024.086.0059)   [+][PRODUTO]           ::  Muito bom.
+019.068.0059)   [+][PRODUTO]           ::  Fantastica.
 
-039.120.0060)   [+][PRODUTO]           ::  Muito bom.
+018.066.0060)   [+][PRODUTO]           ::  Maravilhosa.
 
-001.001.0061)   [+][PRODUTO]           ::  Boa Câmera.
+020.070.0061)   [+][PRODUTO]           ::  Maravilhoso.
 
-019.068.0062)   [+][PRODUTO]           ::  Fantastica.
+037.116.0062)   [+][PRODUTO]           ::  Maravilhoso.
 
-018.066.0063)   [+][PRODUTO]           ::  Maravilhosa.
+023.083.0063)   [+][PRODUTO]           ::  Sensacional.
 
-020.070.0064)   [+][PRODUTO]           ::  Maravilhoso.
+027.092.0064)   [+][PRODUTO]           ::  Sensacional.
 
-037.116.0065)   [+][PRODUTO]           ::  Maravilhoso.
+015.059.0065)   [+][PRODUTO]           ::  Gostei muito.
 
-023.083.0066)   [+][PRODUTO]           ::  Sensacional.
+025.088.0066)   [+][PRODUTO]           ::  Interessante.
 
-027.092.0067)   [+][PRODUTO]           ::  Sensacional.
+032.105.0067)   [+][PRODUTO]           ::  Minha paixão.
 
-015.059.0068)   [+][PRODUTO]           ::  Gostei muito.
+021.075.0068)   [+][PRODUTO]           ::  Sensacional..
 
-025.088.0069)   [+][PRODUTO]           ::  Interessante.
+044.131.0069)   [+][PRODUTO]           ::  Encatamento!!!
 
-032.105.0070)   [+][PRODUTO]           ::  Minha paixão.
+006.036.0070)   [+][PRODUTO]           ::  Ótimo Produto!
 
-021.075.0071)   [+][PRODUTO]           ::  Sensacional..
+007.039.0071)   [+][PRODUTO]           ::  Ótimo produto.
 
-044.131.0072)   [+][PRODUTO]           ::  Encatamento!!!
+035.112.0072)   [+][PRODUTO]           ::  Otimo produto.
 
-006.036.0073)   [+][PRODUTO]           ::  Ótimo Produto!
+004.023.0073)   [+][PRODUTO]           ::  Esta sendo bom.
 
-007.039.0074)   [+][PRODUTO]           ::  Ótimo produto.
+042.127.0074)   [+][PRODUTO]           ::  Uma ótima compra.
 
-035.112.0075)   [+][PRODUTO]           ::  Otimo produto.
+009.042.0075)   [+][PRODUTO]           ::  EXCELENTE PRODUTO.
 
-004.023.0076)   [+][PRODUTO]           ::  Esta sendo bom.
+045.134.0076)   [+][PRODUTO]           ::  Maquina excelente.
 
-042.127.0077)   [+][PRODUTO]           ::  Uma ótima compra.
+035.113.0077)   [+][PRODUTO]           ::  Produto de qualidade.
 
-009.042.0078)   [+][PRODUTO]           ::  EXCELENTE PRODUTO.
+002.003.0078)   [+][PRODUTO]           ::  Começo com pé direito.
 
-045.134.0079)   [+][PRODUTO]           ::  Maquina excelente.
+027.093.0079)   [+][PRODUTO]           ::  Muito bom, vale a pena!
 
-035.113.0080)   [+][PRODUTO]           ::  Produto de qualidade.
+002.012.0080)   [+][PRODUTO]           ::  A qualidade é muito boa.
 
-002.003.0081)   [+][PRODUTO]           ::  Começo com pé direito.
+026.090.0081)   [+][PRODUTO]           ::  Gostei muito do produto!
 
-027.093.0082)   [+][PRODUTO]           ::  Muito bom, vale a pena!
+040.124.0082)   [+][PRODUTO]           ::  Produto me agradou muito.
 
-002.012.0083)   [+][PRODUTO]           ::  A qualidade é muito boa.
+005.032.0083)   [+][PRODUTO]           ::  Recomendo muito a compra!
 
-026.090.0084)   [+][PRODUTO]           ::  Gostei muito do produto!
+003.021.0084)   [+][PRODUTO]           ::  Atende minhas necessidades.
 
-040.124.0085)   [+][PRODUTO]           ::  Produto me agradou muito.
+029.097.0085)   [+][PRODUTO]           ::  Recomendo, recomendo super.
 
-005.032.0086)   [+][PRODUTO]           ::  Recomendo muito a compra!
+046.136.0086)   [+][PRODUTO]           ::  Rebel T5 Canon, uma boa opça.
 
-003.021.0087)   [+][PRODUTO]           ::  Atende minhas necessidades.
+026.091.0087)   [+][PRODUTO]           ::  Excelente câmera! Vale a pena.
 
-029.097.0088)   [+][PRODUTO]           ::  Recomendo, recomendo super.
+040.123.0088)   [+][PRODUTO]           ::  Ótimo pra quem está começando.
 
-046.136.0089)   [+][PRODUTO]           ::  Rebel T5 Canon, uma boa opça.
+020.071.0089)   [+][PRODUTO]           ::  Tive uma excelente experiência.
 
-026.091.0090)   [+][PRODUTO]           ::  Excelente câmera! Vale a pena.
+025.089.0090)   [+][PRODUTO]           ::  Ótimo p/ elaborar trabalhos etc.
 
-040.123.0091)   [+][PRODUTO]           ::  Ótimo pra quem está começando.
+039.121.0091)   [+][PRODUTO]           ::  Produto muito bom, ótima qualidade.
 
-020.071.0092)   [+][PRODUTO]           ::  Tive uma excelente experiência.
+043.130.0092)   [+][PRODUTO]           ::  Confesso que me surpreendi com ela.
 
-025.089.0093)   [+][PRODUTO]           ::  Ótimo p/ elaborar trabalhos etc.
+009.043.0093)   [+][PRODUTO]           ::  ÓTIMO PRODUTO PARA SEMI PROFISSIONAIS.
 
-039.121.0094)   [+][PRODUTO]           ::  Produto muito bom, ótima qualidade.
+031.100.0094)   [+][PRODUTO]           ::  Registre seus melhores momentos em detalhes!
 
-043.130.0095)   [+][PRODUTO]           ::  Confesso que me surpreendi com ela.
+013.052.0095)   [+][PRODUTO]           ::  Ela é uma das melhores câmeras que eu já usei.
 
-009.043.0096)   [+][PRODUTO]           ::  ÓTIMO PRODUTO PARA SEMI PROFISSIONAIS.
+046.137.0096)   [+][PRODUTO]           ::  Ótimo produto, confiável e com bom rendimento.
 
-031.100.0097)   [+][PRODUTO]           ::  Registre seus melhores momentos em detalhes!
+022.081.0097)   [+][PRODUTO]           ::  Meu primo tem uma, se eu pudesse compraria uma.
 
-013.052.0098)   [+][PRODUTO]           ::  Ela é uma das melhores câmeras que eu já usei.
+038.119.0098)   [+][PRODUTO]           ::  Excelente produto para iniciantes em fotografia.
 
-046.137.0099)   [+][PRODUTO]           ::  Ótimo produto, confiável e com bom rendimento.
+037.117.0099)   [+][PRODUTO]           ::  Faço free lance e está sendo de ótimo benefício!
 
-022.081.0100)   [+][PRODUTO]           ::  Meu primo tem uma, se eu pudesse compraria uma.
+019.069.0100)   [+][PRODUTO]           ::  Me satisfaz em melhores imagens do meu dia a dia.
 
-038.119.0101)   [+][PRODUTO]           ::  Excelente produto para iniciantes em fotografia.
+045.135.0101)   [+][PRODUTO]           ::  Boa maquina para quem esta começando a fotografar.
 
-037.117.0102)   [+][PRODUTO]           ::  Faço free lance e está sendo de ótimo benefício!
+011.046.0102)   [+][PRODUTO]           ::  Quero ter uma Canon- Eos-rebel-t5- 18,0 Megapixels.
 
-019.069.0103)   [+][PRODUTO]           ::  Me satisfaz em melhores imagens do meu dia a dia.
+034.111.0103)   [+][PRODUTO]           ::  Produto de excelente qualidade ! recomendo a todos .
 
-045.135.0104)   [+][PRODUTO]           ::  Boa maquina para quem esta começando a fotografar.
+044.132.0104)   [+][PRODUTO]           ::  Adquiri há pouco tempo mas, estou adorando o produto.
 
-011.046.0105)   [+][PRODUTO]           ::  Quero ter uma Canon- Eos-rebel-t5- 18,0 Megapixels.
+044.133.0105)   [+][PRODUTO]           ::  Há tempo queria comprar, dessa forma é, uma realização.
 
-034.111.0106)   [+][PRODUTO]           ::  Produto de excelente qualidade ! recomendo a todos .
+002.018.0106)   [+][PRODUTO]           ::  Mas o essencial para ter bons resultados é possível com este produto.
 
-044.132.0107)   [+][PRODUTO]           ::  Adquiri há pouco tempo mas, estou adorando o produto.
+023.085.0107)   [+][PRODUTO]           ::  A Câmera tem ótimo desempenho e tem resultados de uma semi professional.
 
-044.133.0108)   [+][PRODUTO]           ::  Há tempo queria comprar, dessa forma é, uma realização.
+031.102.0108)   [+][PRODUTO]           ::  Registrei com detalhes os melhores momentos em família, amigos e amores.
 
-002.018.0109)   [+][PRODUTO]           ::  Mas o essencial para ter bons resultados é possível com este produto.
+043.130.0109)   [+][PRODUTO]           ::  Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 
-023.085.0110)   [+][PRODUTO]           ::  A Câmera tem ótimo desempenho e tem resultados de uma semi professional.
+035.113.0110)   [+][PRODUTO]           ::  Recomendo a todos os iniciantes que desejam dar um passo a mais no mundo da fotografia.
 
-031.102.0111)   [+][PRODUTO]           ::  Registrei com detalhes os melhores momentos em família, amigos e amores.
+014.054.0111)   [+][PRODUTO]           ::  Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
 
-043.130.0112)   [+][PRODUTO]           ::  Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
+031.104.0112)   [+][PRODUTO]           ::  Só a Conon mesmo para me proporcionar tanta coisa boa! Sou fotógrafa por paixão e Conor de coração!
 
-035.113.0113)   [+][PRODUTO]           ::  Recomendo a todos os iniciantes que desejam dar um passo a mais no mundo da fotografia.
+032.106.0113)   [+][PRODUTO]           ::  Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,
 
-014.054.0114)   [+][PRODUTO]           ::  Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
+031.101.0114)   [+][PRODUTO]           ::  Que tal unir lazer e profissionalismo? Com a Câmera Digital Canon EOS Rebel T5 18.0 Megapixels agora você pode!
 
-031.104.0115)   [+][PRODUTO]           ::  Só a Conon mesmo para me proporcionar tanta coisa boa! Sou fotógrafa por paixão e Conor de coração!
+042.128.0115)   [+][PRODUTO]           ::  Esta câmera é um ótimo produto,estou satisfeito e fazendo muitos registro importante, pode compra esta aprovado.
 
-032.106.0116)   [+][PRODUTO]           ::  Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,
+033.108.0116)   [+][PRODUTO]           ::  O produto apresenta diversas características de uso profissional amador, comprei para uso pessoal e tive bons resultados.
 
-031.101.0117)   [+][PRODUTO]           ::  Que tal unir lazer e profissionalismo? Com a Câmera Digital Canon EOS Rebel T5 18.0 Megapixels agora você pode!
+011.047.0117)   [+][PRODUTO]           ::  Tenho Uma Canon Power Shot SX 40 HS, é uma excelente Câmera, mas gostaria muito de ter uma Canon-Eos-rebel- T5 -18.0 megapixels.
 
-042.128.0118)   [+][PRODUTO]           ::  Esta câmera é um ótimo produto,estou satisfeito e fazendo muitos registro importante, pode compra esta aprovado.
+021.076.0118)   [+][PRODUTO]           ::  A três anos fiz um pesquisa aqui no site Buscape sobre câmeras digitais e fui tirando minhas duvidas, enfim escolhi a câmera Canon EOS Rebel T5.
 
-033.108.0119)   [+][PRODUTO]           ::  O produto apresenta diversas características de uso profissional amador, comprei para uso pessoal e tive bons resultados.
+031.103.0119)   [+][PRODUTO]           ::  Mas não para por ai! As fotos ficaram tão bacanas e reconhecidas que fiz desse meu talento que descobri com a Conon EOS Rebel a construção da minha vida profissional! Hoje faço fotos de todos os tipos e para todos os gostos.
 
-011.047.0120)   [+][PRODUTO]           ::  Tenho Uma Canon Power Shot SX 40 HS, é uma excelente Câmera, mas gostaria muito de ter uma Canon-Eos-rebel- T5 -18.0 megapixels.
+041.125.0120)  [++][PRODUTO]           ::  Perfect.
 
-021.076.0121)   [+][PRODUTO]           ::  A três anos fiz um pesquisa aqui no site Buscape sobre câmeras digitais e fui tirando minhas duvidas, enfim escolhi a câmera Canon EOS Rebel T5.
+017.063.0121)  [++][PRODUTO]           ::  Perfeita.
 
-031.103.0122)   [+][PRODUTO]           ::  Mas não para por ai! As fotos ficaram tão bacanas e reconhecidas que fiz desse meu talento que descobri com a Conon EOS Rebel a construção da minha vida profissional! Hoje faço fotos de todos os tipos e para todos os gostos.
+024.087.0122)  [++][PRODUTO]           ::  Produto perfeito muito bom.
 
-041.125.0123)  [++][PRODUTO]           ::  Perfect.
+021.078.0123)  [++][PRODUTO]           ::  Não tenho oque reclamar deste aparelho, simplesmente sensacional.
 
-017.063.0124)  [++][PRODUTO]           ::  Perfeita.
+017.064.0124)  [++][PRODUTO]           ::  Faço freela para fotografia, comprei essa camera faz uns 2 anos ela e perfeita.
 
-024.087.0125)  [++][PRODUTO]           ::  Produto perfeito muito bom.
+043.129.0125)  [+.][PRODUTO]           ::  Surpreendente para uma Camera Canon.
 
-021.078.0126)  [++][PRODUTO]           ::  Não tenho oque reclamar deste aparelho, simplesmente sensacional.
+006.037.0126)  [+.][PRODUTO]           ::  Uma câmera para a introdução a fotografia.
 
-017.064.0127)  [++][PRODUTO]           ::  Faço freela para fotografia, comprei essa camera faz uns 2 anos ela e perfeita.
+002.011.0127)  [+.][PRODUTO]           ::  Não posso marcar pontos negativos pelo que paguei.
 
-043.129.0128)  [+.][PRODUTO]           ::  Surpreendente para uma Camera Canon.
+036.115.0128)  [+.][PRODUTO]           ::  Não possuo,mas penso em ser fotográfa e obtê-la um dia!
 
-006.037.0129)  [+.][PRODUTO]           ::  Uma câmera para a introdução a fotografia.
+016.061.0129)  [+.][PRODUTO]           ::  Uma ótima opção para fotógrafos iniciantes e amadores que querem se profissionalizar.
 
-002.011.0130)  [+.][PRODUTO]           ::  Não posso marcar pontos negativos pelo que paguei.
+005.032.0130)  [+.][PRODUTO]           ::  Para quem quer tirar fotos pessoais com qualidade profissional, essa é uma ótima opção de produto.
 
-036.115.0131)  [+.][PRODUTO]           ::  Não possuo,mas penso em ser fotográfa e obtê-la um dia!
+002.019.0131)  [+.][PRODUTO]           ::  Para quem nunca teve experiências com câmera DSLR é um bom começo e possível início da arte da fotografia.
 
-016.061.0132)  [+.][PRODUTO]           ::  Uma ótima opção para fotógrafos iniciantes e amadores que querem se profissionalizar.
+005.025.0132)  [+.][PRODUTO]           ::  Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom. Amei o produto!
 
-005.032.0133)  [+.][PRODUTO]           ::  Para quem quer tirar fotos pessoais com qualidade profissional, essa é uma ótima opção de produto.
+002.004.0133)   [+][RESISTÊNCIA]       ::  O corpo é resistente.
 
-002.019.0134)  [+.][PRODUTO]           ::  Para quem nunca teve experiências com câmera DSLR é um bom começo e possível início da arte da fotografia.
+031.101.0134)   [+][TAMANHO]           ::  É super portátil, levo para todos os lugares comigo, viagens longas ou no parque da cidade que fica bem em frente a minha casa.
 
-005.025.0135)  [+.][PRODUTO]           ::  Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom. Amei o produto!
+002.007.0135)  [-.][TAMANHO]           ::  O tamanho atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
 
-002.004.0136)   [+][RESISTÊNCIA]       ::  O corpo é resistente.
+020.073.0136)   [+][TELA]              ::  O Display é bem fácil de acessar.
 
-031.101.0137)   [+][TAMANHO]           ::  É super portátil, levo para todos os lugares comigo, viagens longas ou no parque da cidade que fica bem em frente a minha casa.
+014.055.0137)   [+][TELA]              ::  O display giratório que possui em alguns modelos diferentes não interfere na qualidade do T5!!! Recomendo.
 
-002.007.0138)  [-.][TAMANHO]           ::  O tamanho atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
+026.091.0138)   [!][USABILIDADE]       ::  Quem não é profissional basta dar uma estudada, ler e praticar!
 
-020.073.0139)   [+][TELA]              ::  O Display é bem fácil de acessar.
+025.089.0139)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-014.055.0140)   [+][TELA]              ::  O display giratório que possui em alguns modelos diferentes não interfere na qualidade do T5!!! Recomendo.
+039.121.0140)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-026.091.0141)   [!][USABILIDADE]       ::  Quem não é profissional basta dar uma estudada, ler e praticar!
+035.113.0141)   [+][USABILIDADE]       ::  Muito intuitiva, fácil de usar.
 
-025.089.0142)   [+][USABILIDADE]       ::  Fácil manuseio.
+005.031.0142)   [+][USABILIDADE]       ::  Achei os comandos bem intuitivos.
 
-039.121.0143)   [+][USABILIDADE]       ::  Fácil manuseio.
+032.106.0143)   [+][USABILIDADE]       ::  E ela é super fácil de mexer.Recomendo para todos.
 
-035.113.0144)   [+][USABILIDADE]       ::  Muito intuitiva, fácil de usar.
+028.095.0144)   [+][USABILIDADE]       ::  Para quem procura uma câmera de entrada ela é muito boa!
 
-005.031.0145)   [+][USABILIDADE]       ::  Achei os comandos bem intuitivos.
+043.130.0145)   [+][USABILIDADE]       ::  Vantajosa no tocante ao uso de outras lentes e de facil troca.
 
-032.106.0146)   [+][USABILIDADE]       ::  E ela é super fácil de mexer.Recomendo para todos.
+005.033.0146)   [+][USABILIDADE]       ::  Uma coisa muito legal é a possibilidade de trocar as lentes, pois o produto é compatível com todas as lentes da marca.
 
-028.095.0147)   [+][USABILIDADE]       ::  Para quem procura uma câmera de entrada ela é muito boa!
+005.026.0147)  [+.][USABILIDADE]       ::  É uma câmera de entrada no mundo DSLR, com funções pré-programadas e a possibilidade de fazer configurações próprias, à medida que o usuário vai se familiarizando com esse tipo de equipamento.
 
-043.130.0148)   [+][USABILIDADE]       ::  Vantajosa no tocante ao uso de outras lentes e de facil troca.
+016.062.0148)  [-.][USABILIDADE]       ::  Claro que para usufruir de todas as funções, de maneira eficaz é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.
 
-005.033.0149)   [+][USABILIDADE]       ::  Uma coisa muito legal é a possibilidade de trocar as lentes, pois o produto é compatível com todas as lentes da marca.
+034.110.0149)   [x][_BROKEN]           ::  Canon t5.
 
-005.026.0150)  [+.][USABILIDADE]       ::  É uma câmera de entrada no mundo DSLR, com funções pré-programadas e a possibilidade de fazer configurações próprias, à medida que o usuário vai se familiarizando com esse tipo de equipamento.
+012.049.0150)   [x][_BROKEN]           ::  Câmera rebel T5.
 
-016.062.0151)  [-.][USABILIDADE]       ::  Claro que para usufruir de todas as funções, de maneira eficaz é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.
+001.002.0151)   [x][_BROKEN]           ::  Pouca, recém comprada.
 
-034.110.0152)   [x][_BROKEN]           ::  Canon t5.
+002.015.0152)   [x][_CONTEXT]          ::  Auxilia muito no transporte.
 
-012.049.0153)   [x][_BROKEN]           ::  Câmera rebel T5.
+002.013.0153)   [x][_CONTEXT]          ::  Só para caráter de comparação:
 
-001.002.0154)   [x][_BROKEN]           ::  Pouca, recém comprada.
+010.045.0154)   [x][_DUPLICATE]        ::  Bom.
 
-002.015.0155)   [x][_CONTEXT]          ::  Auxilia muito no transporte.
+030.098.0155)   [x][_DUPLICATE]        ::  Ótima.
 
-002.013.0156)   [x][_CONTEXT]          ::  Só para caráter de comparação:
+008.040.0156)   [x][_DUPLICATE]        ::  Ótimo produto.
 
-010.045.0157)   [x][_DUPLICATE]        ::  Bom.
+038.118.0157)   [x][_DUPLICATE]        ::  Excelente Produto.
 
-030.098.0158)   [x][_DUPLICATE]        ::  Ótima.
+030.099.0158)   [x][_DUPLICATE]        ::  Recomendo, recomendo super.
 
-008.040.0159)   [x][_DUPLICATE]        ::  Ótimo produto.
+040.124.0159)   [+][_outscope]         ::  A entrega foi rápida.
 
-038.118.0160)   [x][_DUPLICATE]        ::  Excelente Produto.
+043.130.0160)   [+][_outscope]         ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
 
-030.099.0161)   [x][_DUPLICATE]        ::  Recomendo, recomendo super.
+047.139.0161)   [-][_outscope]         ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 

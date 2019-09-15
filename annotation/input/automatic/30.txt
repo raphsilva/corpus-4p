@@ -184,7 +184,7 @@ d(010.045) [+][PRODUTO]  ::  Bom.
 
 (014.053) [+][PRODUTO]  ::  Excelente.
 
-(014.054) [+][EMPRESA]  ::  Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
+(014.054) [+][_outscope]  ::  Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
 
 
 (014.055) [+][TELA]  ::  O display giratório que possui em alguns modelos diferentes não interfere na qualidade do T5!!! Recomendo.

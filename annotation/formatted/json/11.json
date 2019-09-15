@@ -130,7 +130,7 @@
             "id": 12,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -140,7 +140,7 @@
             "id": 13,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -505,7 +505,7 @@
             "id": 45,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -585,7 +585,7 @@
             "id": 53,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -671,7 +671,7 @@
             "id": 60,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -3693,7 +3693,7 @@
             "id": 323,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -4333,7 +4333,7 @@
             "id": 379,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -4635,7 +4635,7 @@
             "id": 405,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -4811,7 +4811,7 @@
             "id": 421,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -5293,7 +5293,7 @@
             "id": 466,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -5780,7 +5780,7 @@
             "id": 509,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -6267,7 +6267,7 @@
             "id": 550,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6633,7 +6633,7 @@
             "id": 579,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6643,7 +6643,7 @@
             "id": 580,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6764,7 +6764,7 @@
             "id": 590,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6782,7 +6782,7 @@
                     "-"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6825,7 +6825,7 @@
             "id": 594,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7309,7 +7309,7 @@
             "id": 632,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7359,7 +7359,7 @@
             "id": 637,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7369,7 +7369,7 @@
             "id": 638,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7419,7 +7419,7 @@
             "id": 644,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7429,7 +7429,7 @@
             "id": 645,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7628,7 +7628,7 @@
             "id": 666,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7708,7 +7708,7 @@
             "id": 674,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
