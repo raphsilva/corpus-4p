@@ -2,7 +2,6 @@ import datetime
 import io
 import os
 from pprint import pprint
-from writefiles import save_to_file
 import json
 
 
@@ -11,8 +10,8 @@ date = datetime.datetime.now()
 SENTENCE_BEGIN_INDICATOR = '::'  # Symbol used to indicate beginning of sentence in the dataset.
 
 # Input directories
-DIR_ANNOTATED_MANUAL = 'revised'
-DIR_ANNOTATED_AUTO = 'automatic'
+DIR_ANNOTATED_MANUAL = 'input/revised'
+DIR_ANNOTATED_AUTO = 'input/automatic'
 
 # Output directories
 DIR_FORMATTED_SPLIT = 'formatted/opinions'  # Folder where formatted files will be saved to.
@@ -494,6 +493,8 @@ for filename in files_to_read:
         i['sentence'] = i['sentence'].replace('\"', '&dquote&')
         i['sentence'] = i['sentence'].replace('\'', '&squote&')
 
-    save_to_file(DIR_FORMATTED_NOSPLIT + '/json/' + filename_save + '.json', json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+    f = open(DIR_FORMATTED_NOSPLIT + '/json/' + filename_save + '.json', 'w')
+    f.write(json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+    f.close()
 
 
