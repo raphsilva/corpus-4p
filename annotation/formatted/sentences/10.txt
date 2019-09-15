@@ -31,16 +31,16 @@
 # OUTRO _  _  _  _  _  _   18 _  _   16 _  _  _ 1 _  _  _  _  _  _ 35
 # PESO                      4                                       4
 # PREÇO _  _  _  _  _  _   68 _  _  _ 4 _  _  _  _  _  _  _  _  _  72
-# PRODUTO                 322        19        21         3       365
+# PRODUTO                 322        19        20         3       364
 # RESISTÊNCIA _  _  _  _  _ 2 _  _   10 _  _  _ 1 _  _  _  _  _  _ 13
 # SISTEMA                  10         3                            13
 # SOM _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _  _  _  _  _  _  _   2
 # TAMANHO                   2                                       2
 # TELA _  _  _  _  _  _  _  7 _  _  _ 4 _  _  _  _  _  _  _  _  _  11
 # USABILIDADE              18                                      18
-# _TOTAL__________________246________90_________4________54_______394
+# _TOTAL__________________246________90_________4________55_______395
 # _BROKEN                                                24        24
-# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 5 _  _  _ 5
+# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 6 _  _  _ 6
 # _DUPLICATE                                             13        13
 # _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 7 _  _  _ 7
 # _NONE                                                   4         4
@@ -984,6 +984,13 @@ PRODUTO &
 Eu estou aprendendo ainda algumas funcionalidades do produto.
 
 PRODUTO & 
+
+
+
+(110.262)
+Diferente.
+
+PRODUTO * 
 
 
 
@@ -2912,22 +2919,8 @@ PRODUTO .
 
 
 
-(110.262)
-Diferente.
-
-PRODUTO . 
-
-
-
 (112.267)
 É um aparelho regular.
-
-PRODUTO . 
-
-
-
-(098.236)
-Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
 
 PRODUTO . 
 
@@ -3285,6 +3278,13 @@ _BROKEN x
 
 (225.576)
 A promessa foi que o produto seria entregue até 09/05/17.
+
+_CONTEXT x 
+
+
+
+(098.236)
+Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
 
 _CONTEXT x 
 

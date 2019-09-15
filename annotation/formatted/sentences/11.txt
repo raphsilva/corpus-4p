@@ -377,6 +377,13 @@ DESEMPENHO +
 
 
 
+(042.118)
+Design discreto, não chama tanto a atenção quanto o Edge.
+
+DESIGN * 
+
+
+
 (153.454)
 Isso, porém, traz um desconforto relacionado às impressões digitais que marcam todo o aparelho.
 
@@ -409,13 +416,6 @@ DESIGN -
 Por ser todo em vidro suja um pouco, mas nada que uma capinha não resolva.
 
 DESIGN -.
-
-
-
-(042.118)
-Design discreto, não chama tanto a atenção quanto o Edge.
-
-DESIGN . 
 
 
 
@@ -766,6 +766,13 @@ PREÇO -.
 Tem dias que dura apenas 10 horas de uso moderado. O preço ainda é salgado, como tudo que é bom no Brasil.
 
 PREÇO -.
+
+
+
+(182.555)
+Aguardar mais algum tempo para dar uma resposta mais concreta.
+
+PRODUTO # 
 
 
 
@@ -2883,17 +2890,17 @@ PRODUTO -.
 
 
 
-(182.555)
-Aguardar mais algum tempo para dar uma resposta mais concreta.
-
-PRODUTO . 
-
-
-
 (125.380)
 Comprei no sabado e recebi na terça.Uma dica .
 
 RESISTÊNCIA ! 
+
+
+
+(038.103)
+Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
+
+RESISTÊNCIA & 
 
 
 
@@ -2964,13 +2971,6 @@ RESISTÊNCIA -
 Recentemente comprei um Galaxy S7, em 3 dias, numa pequena queda trincou parte do display (falo pequena queda porque os outros modelos que tive, sofreram quedas piores e permaneceram intactos)
 
 RESISTÊNCIA - 
-
-
-
-(038.103)
-Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
-
-RESISTÊNCIA . 
 
 
 
@@ -4143,7 +4143,7 @@ PRODUTO -.
 Pelo que ouço, é um aparelho muito bom, vou comprar, mas por hora, não sou capaz de opinar.
 
 PRODUTO +.
-PRODUTO . 
+PRODUTO # 
 
 
 

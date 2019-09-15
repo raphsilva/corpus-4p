@@ -107,7 +107,7 @@ c(002.015) [x][ACESSÓRIO]  ::  Auxilia muito no transporte.
 
 (005.028) [+][FOTO]   ::  Tem ISO relativamente bom, mas apresenta uma limitação em qualidade a partir do ISO 1600.
 (005.029) [+.][FOTO]  ::  Com ISO acima disso as fotos ficam boas, mas apresentam algumas granulações leves.
-(005.030) [.][FOTO]   ::  Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda.
+(005.030) [+.][FOTO]   ::  Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda.
 
 
 (005.031) [+][USABILIDADE]  ::  Achei os comandos bem intuitivos

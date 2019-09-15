@@ -906,7 +906,7 @@ b(096.230) [][] :: Moto g  5 Plus.
 
 (098.235) [+][PREÇO] :: Bom celular pelo custo.
 
-(098.236) [.][PRODUTO] :: Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay). 
+c(098.236) [.][PRODUTO] :: Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 (098.237) [-][DESEMPENHO] :: Achei o Moto G5 um pouco mais lento e ocasionalmente trava e reinicia sozinho.
 
 
@@ -999,7 +999,7 @@ b(109.260) [][] :: Moto G5 Plus.
 
 
 
-(110.262) [.][PRODUTO] :: Diferente.
+(110.262) [*][PRODUTO] :: Diferente.
 
 (110.263) [#][PRODUTO] :: Ainda estou avaliando.
 

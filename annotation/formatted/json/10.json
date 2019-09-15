@@ -2934,8 +2934,8 @@
             "id": 236,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)"
@@ -3221,7 +3221,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "."
+                    "*"
                 ]
             ],
             "sentence": "Diferente."

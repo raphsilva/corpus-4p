@@ -23,7 +23,7 @@
 # DESIGN _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # EMPRESA                   2         1                             3
 # FOCO _  _  _  _  _  _  _  3 _  _  _ 1 _  _  _  _  _  _  _  _  _   4
-# FOTO                      7                   1                   8
+# FOTO                      8                                       8
 # IMAGEM _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # PESO                                1                             1
 # PREÇO _  _  _  _  _  _   11 _  _  _  _  _  _  _  _  _  _  _  _   11
@@ -32,7 +32,7 @@
 # TAMANHO                   1         1                             2
 # TELA _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # USABILIDADE               9         1         1                  11
-# _TOTAL___________________44________10_________2________10________66
+# _TOTAL___________________45________10_________1________10________66
 # _BROKEN                                                 3         3
 # _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
 # _DUPLICATE                                              5         5
@@ -99,7 +99,7 @@
 
 005.029.0029)  [+.][FOTO]              ::  Com ISO acima disso as fotos ficam boas, mas apresentam algumas granulações leves.
 
-005.030.0030)   [.][FOTO]              ::  Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda.
+005.030.0030)  [+.][FOTO]              ::  Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda.
 
 018.067.0031)   [+][IMAGEM]            ::  A qualidade de imagem é incrível!
 

@@ -1159,7 +1159,7 @@
             "opinions": [
                 [
                     "RESISTÊNCIA",
-                    "."
+                    "&"
                 ]
             ],
             "sentence": "Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho."
@@ -1307,7 +1307,7 @@
             "opinions": [
                 [
                     "DESIGN",
-                    "."
+                    "*"
                 ]
             ],
             "sentence": "Design discreto, não chama tanto a atenção quanto o Edge."
@@ -1829,7 +1829,7 @@
                 ],
                 [
                     "PRODUTO",
-                    "."
+                    "#"
                 ]
             ],
             "sentence": "Pelo que ouço, é um aparelho muito bom, vou comprar, mas por hora, não sou capaz de opinar."
@@ -6308,7 +6308,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "."
+                    "#"
                 ]
             ],
             "sentence": "Aguardar mais algum tempo para dar uma resposta mais concreta."

@@ -372,7 +372,7 @@ b(037.097) [+][PRODUTO] :: Samsung S7.
 (038.101) [+][PRODUTO] :: Antes eu tinha um S4. Foi um salto de qualidade.
 
 
-(038.103) [.][RESISTÊNCIA] :: Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
+(038.103) [&][RESISTÊNCIA] :: Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
 
 
 (038.104) [-][PREÇO] :: O aparelho poderia ser um pouco mais barato.
@@ -420,7 +420,7 @@ b(037.097) [+][PRODUTO] :: Samsung S7.
 (042.117) [+][CÂMERA] :: Câmera impressionante.
 
 
-(042.118) [.][DESIGN] :: Design discreto, não chama tanto a atenção quanto o Edge.
+(042.118) [*][DESIGN] :: Design discreto, não chama tanto a atenção quanto o Edge.
 
 
 (042.119) [+][DESEMPENHO] :: Mostrou-se muito rápido, em meu uso nunca travou.
@@ -580,7 +580,7 @@ i(057.163) [-][EMPRESA] :: Eu não recebi o produto da loja, porque algum motivo
 
 
 (057.164) [+.][PRODUTO] :: Pelo que ouço, é um aparelho muito bom, vou comprar
-(057.164) [.][PRODUTO] :: por hora, não sou capaz de opinar.
+(057.164) [#][PRODUTO] :: por hora, não sou capaz de opinar.
 
 
 
@@ -1879,7 +1879,7 @@ c(181.545) [-][X] :: Surpresas desagradáveis com a compra do aparelho.
 
 (182.554) [+][PRODUTO] :: Bom.
 
-(182.555) [.][PRODUTO] :: Aguardar mais algum tempo para dar uma resposta mais concreta.
+(182.555) [#][PRODUTO] :: Aguardar mais algum tempo para dar uma resposta mais concreta.
 
 
 
