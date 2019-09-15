@@ -1,0 +1,309 @@
+> ID: 31
+
+> Type: Câmera
+
+> Product: Câmera Digital Canon PowerShot SX520 HS 16.0 Megapixels
+
+> Average rating: 9/10
+
+> Number of reviews: 45
+
+> Collection date: 2018-05-28
+
+> Source: www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels
+
+> Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
+
+> File generation date: 2019-09-15
+
+#_aspect_____________positive__negative___neutral____non-op_____total
+# ACESSÓRIO                 1         1                             2
+# ARMAZENAMENTO _  _  _  _  _  _  _   1 _  _  _  _  _  _  1 _  _  _ 2
+# ÁUDIO                               1                             1
+# BATERIA _  _  _  _  _  _  1 _  _  _  _  _  _  1 _  _  _  _  _  _  2
+# FOCO                                1                             1
+# FOTO _  _  _  _  _  _  _  5 _  _  _ 2 _  _  _  _  _  _  _  _  _   7
+# IMAGEM                    7                                       7
+# PESO _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
+# PREÇO                     6                                       6
+# PRODUTO _  _  _  _  _  _ 65 _  _  _  _  _  _  _  _  _   1 _  _   66
+# RESISTÊNCIA               1                                       1
+# TAMANHO _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
+# TELA                      1                                       1
+# USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _  _  _  _  1 _  _   14
+# VÍDEO                               1                             1
+# _TOTAL___________________43_________8_________1________15________67
+# _BROKEN                                                 1         1
+# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 12 _  _   12
+# _NONE                                                   3         3
+# ZOOM _  _  _  _  _  _  _  6 _  _  _  _  _  _  _  _  _  _  _  _  _ 6
+
+
+
+
+033.081.0001)   [+][ACESSÓRIO]         ::  Manual completo.
+
+005.013.0002)   [-][ACESSÓRIO]         ::  Algumas informações não vieram no Manual.
+
+026.063.0003)  [-.][ARMAZENAMENTO]     ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
+
+026.063.0004)   [x][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
+
+009.024.0005)   [-][ÁUDIO]             ::  Porém, me incomodou o ruído presente no momento de gravação de videos. A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
+
+011.030.0006)   [+][BATERIA]           ::  A bateria é bastante resistente.
+
+014.038.0007)   [.][BATERIA]           ::  Bateria com duração razoável.
+
+029.072.0008)   [-][FOCO]              ::  Não dá para focar. o flash só acende na hora do disparo.
+
+025.061.0009)   [+][FOTO]              ::  Ótimas fotos.
+
+019.048.0010)   [+][FOTO]              ::  Uma ótima câmera para quem gosta de fotos.
+
+009.026.0011)   [+][FOTO]              ::  A qualidade de imagem para fotos é incrível.
+
+011.030.0012)   [+][FOTO]              ::  Tem tb diversas funçoes para tirar foto bem interessante.
+
+033.081.0013)  [++][FOTO]              ::  Qualidade das fotos perfeita.
+
+029.070.0014)   [-][FOTO]              ::  Foto ruim pouca luminosidade.
+
+029.071.0015)   [-][FOTO]              ::  Fotograr à noite ou locais com pouca luminosidade é difícil.
+
+020.051.0016)   [+][IMAGEM]            ::  Qualidade da imagem.
+
+009.023.0017)   [+][IMAGEM]            ::  A imagem é muito boa.
+
+021.052.0018)   [+][IMAGEM]            ::  Imagem de ótima qualidade.
+
+014.038.0019)   [+][IMAGEM]            ::  Imagem com resolução muito boa.
+
+015.041.0020)   [+][IMAGEM]            ::  Maquina de boa resolução das fotos.
+
+011.030.0021)   [+][IMAGEM]            ::  Imagem excelente da pra brincar até de ser fotógrafo!! kkkkkk.
+
+042.105.0022)   [+][IMAGEM]            ::  Se você ama registrar momentos noturno essa câmera não deixa a desejar.
+
+026.063.0023)   [+][PESO]              ::  Leve.
+
+033.081.0024)   [+][PESO]              ::  Câmera leve.
+
+009.021.0025)   [+][PREÇO]             ::  Bom custo-beneficio.
+
+014.036.0026)   [+][PREÇO]             ::  Ótimo custo-benefício.
+
+004.007.0027)   [+][PREÇO]             ::  Excelente custo-benefício.
+
+027.065.0028)   [+][PREÇO]             ::  Excelente custo benefício para um iniciante.
+
+016.043.0029)   [+][PREÇO]             ::  Adquiri o produto e avalio ótimo custo-benefício.
+
+042.105.0030)   [+][PREÇO]             ::  Está em ótimo custo beneficio garanto que quem adquirir esse produto não vai se arrepender.
+
+003.006.0031)   [+][PRODUTO]           ::  Boa.
+
+013.034.0032)   [+][PRODUTO]           ::  Bom.
+
+037.090.0033)   [+][PRODUTO]           ::  Bom.
+
+045.111.0034)   [+][PRODUTO]           ::  Bom.
+
+008.019.0035)   [+][PRODUTO]           ::  Amei.
+
+010.027.0036)   [+][PRODUTO]           ::  Amei.
+
+012.032.0037)   [+][PRODUTO]           ::  Otima.
+
+034.083.0038)   [+][PRODUTO]           ::  Ótimo!
+
+033.082.0039)   [+][PRODUTO]           ::  Adorei!
+
+043.108.0040)   [+][PRODUTO]           ::  Mt boa.
+
+024.058.0041)   [+][PRODUTO]           ::  Mto Boa.
+
+002.003.0042)   [+][PRODUTO]           ::  Excelente.
+
+018.046.0043)   [+][PRODUTO]           ::  Muito boa!
+
+030.073.0044)   [+][PRODUTO]           ::  Muito bom!
+
+041.099.0045)   [+][PRODUTO]           ::  Muito Bom!
+
+005.011.0046)   [+][PRODUTO]           ::  Muito bom.
+
+035.086.0047)   [+][PRODUTO]           ::  Muito bom.
+
+044.109.0048)   [+][PRODUTO]           ::  Recomendo.
+
+033.080.0049)   [+][PRODUTO]           ::  Maravilhosa!
+
+031.076.0050)   [+][PRODUTO]           ::  Maravilhosa.
+
+005.010.0051)   [+][PRODUTO]           ::  Maravilhoso.
+
+031.077.0052)   [+][PRODUTO]           ::  Grava Vídeos.
+
+030.075.0053)   [+][PRODUTO]           ::  Muita qualidade!
+
+028.069.0054)   [+][PRODUTO]           ::  Muitos recursos!
+
+009.026.0055)   [+][PRODUTO]           ::  É uma boa câmera.
+
+014.039.0056)   [+][PRODUTO]           ::  Adorei o produto.
+
+022.055.0057)   [+][PRODUTO]           ::  Câmera muito boa!
+
+011.030.0058)   [+][PRODUTO]           ::  Camera muito boa.
+
+026.062.0059)   [+][PRODUTO]           ::  Excelente câmera!
+
+001.001.0060)   [+][PRODUTO]           ::  Excelente produto.
+
+014.037.0061)   [+][PRODUTO]           ::  Excelente produto.
+
+017.044.0062)   [+][PRODUTO]           ::  Excelente produto.
+
+042.103.0063)   [+][PRODUTO]           ::  Produto Excelente.
+
+028.068.0064)   [+][PRODUTO]           ::  Produto muito bom.
+
+007.017.0065)   [+][PRODUTO]           ::  Gostei e recomendo!
+
+006.014.0066)   [+][PRODUTO]           ::  Ótimo, eu recomendo!
+
+011.029.0067)   [+][PRODUTO]           ::  Uma ótima aquisição!
+
+039.094.0068)   [+][PRODUTO]           ::  Produto show de bola.
+
+003.005.0069)   [+][PRODUTO]           ::  Muito bom ..estou feliz.
+
+024.059.0070)   [+][PRODUTO]           ::  Me surpreendeu o produto.
+
+030.074.0071)   [+][PRODUTO]           ::  Era tudo o que eu esperava.
+
+025.061.0072)   [+][PRODUTO]           ::  Fotos com várias alternativas...
+
+025.060.0073)   [+][PRODUTO]           ::  Maravilhosa câmera (Canon SX520)
+
+026.063.0074)   [+][PRODUTO]           ::  Me agradou muito sua funcionalidade.
+
+001.002.0075)   [+][PRODUTO]           ::  Pode comprar esse produto tem qualidade.
+
+040.096.0076)   [+][PRODUTO]           ::  A câmera atende ao que se propõe. Muito boa.
+
+026.063.0077)   [+][PRODUTO]           ::  Recomendo essa excelente câmera Canon SX520!
+
+010.028.0078)   [+][PRODUTO]           ::  Amei, super recomendo a todos camera maravilhosa.
+
+007.018.0079)   [+][PRODUTO]           ::  É tudo que eu esperava, completamente satisfeito!
+
+002.004.0080)   [+][PRODUTO]           ::  Recomendo o produto pela sua qualidade, nota 1000.
+
+006.015.0081)   [+][PRODUTO]           ::  Correspondente com todas as características citadas.
+
+023.057.0082)   [+][PRODUTO]           ::  Ótimo produto, superou minhas expectativas, recomendo.
+
+036.088.0083)   [+][PRODUTO]           ::  Produto coerente com todas as especificações técnicas.
+
+041.100.0084)   [+][PRODUTO]           ::  Experimentei com um amigo e adorei! Quero uma camera assim.
+
+040.098.0085)   [+][PRODUTO]           ::  As funções são variadas e sabendo usá-las a câmera é muito boa.
+
+025.061.0086)   [+][PRODUTO]           ::  Estou adorando a experiência com a Canon Powershot SX520! Muito boa, essa câmera!
+
+019.049.0087)   [+][PRODUTO]           ::  Ótimo produto, recomendo a todos a compra dessa câmera, para quem gosta de fotos vai suprir todas as necessidades.
+
+042.104.0088)  [++][PRODUTO]           ::  Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer.
+
+034.084.0089)  [++][PRODUTO]           ::  Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações. Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
+
+012.033.0090)  [+.][PRODUTO]           ::  Não tenho mas estou encantada.
+
+004.008.0091)  [+.][PRODUTO]           ::  Ótimo produto pra quem está iniciando no ramo de fotografia.
+
+044.110.0092)  [+.][PRODUTO]           ::  Produto muito bom para quem é amador e quer tirar fotos no lazer.
+
+009.022.0093)  [+.][PRODUTO]           ::  O produto era o que eu esperava, para uma câmera semi-profissional de entrada.
+
+021.053.0094)  [+.][PRODUTO]           ::  Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
+
+013.035.0095)  [+.][PRODUTO]           ::  Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar.
+
+039.095.0096)   [x][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
+
+011.031.0097)   [+][RESISTÊNCIA]       ::  Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
+
+041.101.0098)  [+.][TAMANHO]           ::  Não tão grande.
+
+033.081.0099)  [++][TELA]              ::  Display perfeito.
+
+033.081.0100)   [+][USABILIDADE]       ::  Fácil manuseio.
+
+041.101.0101)   [+][USABILIDADE]       ::  Fácil manuseio.
+
+014.038.0102)   [+][USABILIDADE]       ::  Fácil de manusear.
+
+015.040.0103)   [+][USABILIDADE]       ::  Facilidade no uso.
+
+020.051.0104)   [+][USABILIDADE]       ::  Facilidade no uso.
+
+026.063.0105)   [+][USABILIDADE]       ::  Agradável manuseio.
+
+009.023.0106)   [+][USABILIDADE]       ::  Muito fácil de usar.
+
+006.015.0107)   [+][USABILIDADE]       ::  Muito fácil manuseio.
+
+032.079.0108)   [+][USABILIDADE]       ::  Ótima legal de usar.
+
+020.050.0109)   [+][USABILIDADE]       ::  Maquina Boa utilização.
+
+008.020.0110)   [+][USABILIDADE]       ::  Amei super facil de usar.
+
+015.041.0111)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
+
+040.097.0112)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
+
+005.012.0113)   [X][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
+
+009.026.0114)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
+
+045.112.0115)   [x][_BROKEN]           ::  Nenhuma.
+
+038.092.0116)   [x][_DUPLICATE]        ::  Bom.
+
+043.107.0117)   [x][_DUPLICATE]        ::  MT bom.
+
+022.054.0118)   [x][_DUPLICATE]        ::  Muito boa!
+
+028.067.0119)   [x][_DUPLICATE]        ::  Muito boa.
+
+035.087.0120)   [x][_DUPLICATE]        ::  Muito bom.
+
+037.091.0121)   [x][_DUPLICATE]        ::  Muito bom.
+
+038.093.0122)   [x][_DUPLICATE]        ::  Muito bom.
+
+023.056.0123)   [x][_DUPLICATE]        ::  Ótimo produto.
+
+032.078.0124)   [x][_DUPLICATE]        ::  Bom legal de usar.
+
+016.042.0125)   [x][_DUPLICATE]        ::  Ótimo custo-benefício.
+
+027.066.0126)   [x][_DUPLICATE]        ::  Excelente custo benefício.
+
+036.089.0127)   [x][_DUPLICATE]        ::  Produto coerente com todas as especificações técnicas.
+
+017.045.0128)   [+][ZOOM]              ::  Ótimo zoom.
+
+026.063.0129)   [+][ZOOM]              ::  Com ótimo zoom.
+
+028.069.0130)   [+][ZOOM]              ::  Excelente zoom.
+
+025.061.0131)   [+][ZOOM]              ::  Excelente zoom (42).
+
+022.055.0132)   [+][ZOOM]              ::  O zoom dela é incrível!
+
+018.047.0133)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
+

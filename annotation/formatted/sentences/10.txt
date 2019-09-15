@@ -12,11 +12,11 @@
 
 > Source: www.buscape.com.br/smartphone-motorola-moto-g-5-plus-xt1683
 
-> Human revisor: Otávio (May 2018) / Raphael (July 2018)
+> Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-03-03
+> File generation date: 2019-09-15
 
-> Total of opinions: 747
+> Total of opinions: 795
 
 > Total of sentences: 596
 
@@ -30,19 +30,21 @@
 # EMPRESA                   7        27         4                  38
 # OUTRO _  _  _  _  _  _   18 _  _   16 _  _  _ 1 _  _  _  _  _  _ 35
 # PESO                      4                                       4
-# PREÇO _  _  _  _  _  _   69 _  _  _ 4 _  _  _  _  _  _  _  _  _  73
-# PRODUTO                  67         2         2         4        75
+# PREÇO _  _  _  _  _  _   68 _  _  _ 4 _  _  _  _  _  _  _  _  _  72
+# PRODUTO                 322        19         9        17       367
 # RESISTÊNCIA _  _  _  _  _ 2 _  _   10 _  _  _ 1 _  _  _  _  _  _ 13
 # SISTEMA                  10         3                            13
 # SOM _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _  _  _  _  _  _  _   2
 # TAMANHO                   2                                       2
 # TELA _  _  _  _  _  _  _  7 _  _  _ 4 _  _  _  _  _  _  _  _  _  11
 # USABILIDADE              18                                      18
-# _TOTAL__________________247________90_________4________50_______391
-# _GENERIC                254        17         7        15       293
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 13 _  _   13
-# _TRASH                                                 37        37
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 4 _  _  _ 4
+# _TOTAL__________________246________90_________4________50_______390
+# _BROKEN                                                24        24
+# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
+# _DUPLICATE                                             13        13
+# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 6 _  _  _ 6
+# _NONE                                                   4         4
+# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
 
 
 
@@ -908,6 +910,2064 @@ PREÇO ++
 
 
 
+(004.011)
+Bom.
+
+PRODUTO + 
+
+
+
+(029.067)
+Bom.
+
+PRODUTO + 
+
+
+
+(065.153)
+Bom.
+
+PRODUTO + 
+
+
+
+(090.213)
+Bom.
+
+PRODUTO + 
+
+
+
+(169.415)
+Bom.
+
+PRODUTO + 
+
+
+
+(194.489)
+Bom.
+
+PRODUTO + 
+
+
+
+(077.178)
+Show.
+
+PRODUTO + 
+
+
+
+(017.039)
+Útil.
+
+PRODUTO + 
+
+
+
+(052.124)
+Otima.
+
+PRODUTO + 
+
+
+
+(033.081)
+Ótimo!
+
+PRODUTO + 
+
+
+
+(136.334)
+Ótimo!
+
+PRODUTO + 
+
+
+
+(007.018)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(045.106)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(050.117)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(071.166)
+Otimo.
+
+PRODUTO + 
+
+
+
+(116.277)
+Otimo.
+
+PRODUTO + 
+
+
+
+(117.279)
+Otimo.
+
+PRODUTO + 
+
+
+
+(118.281)
+ÓTIMO.
+
+PRODUTO + 
+
+
+
+(144.352)
+Otimo.
+
+PRODUTO + 
+
+
+
+(177.447)
+Otimo.
+
+PRODUTO + 
+
+
+
+(182.459)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(197.495)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(151.368)
+Òtimo.
+
+PRODUTO + 
+
+
+
+(006.015)
+Adorei.
+
+PRODUTO + 
+
+
+
+(113.271)
+Adorei.
+
+PRODUTO + 
+
+
+
+(158.388)
+Bacana.
+
+PRODUTO + 
+
+
+
+(073.170)
+Barato.
+
+PRODUTO + 
+
+
+
+(015.034)
+Elogio.
+
+PRODUTO + 
+
+
+
+(070.164)
+Elogio.
+
+PRODUTO + 
+
+
+
+(132.325)
+Elogio.
+
+PRODUTO + 
+
+
+
+(054.129)
+Gostei.
+
+PRODUTO + 
+
+
+
+(124.296)
+Gostei.
+
+PRODUTO + 
+
+
+
+(139.340)
+Gostei.
+
+PRODUTO + 
+
+
+
+(163.401)
+Moderno.
+
+PRODUTO + 
+
+
+
+(135.331)
+Nota 10.
+
+PRODUTO + 
+
+
+
+(140.343)
+Aprovado!
+
+PRODUTO + 
+
+
+
+(185.465)
+Aprovado!
+
+PRODUTO + 
+
+
+
+(021.049)
+Compensa!
+
+PRODUTO + 
+
+
+
+(115.275)
+Exelente.
+
+PRODUTO + 
+
+
+
+(095.228)
+Positiva.
+
+PRODUTO + 
+
+
+
+(076.176)
+Excelente!
+
+PRODUTO + 
+
+
+
+(007.019)
+Excelente.
+
+PRODUTO + 
+
+
+
+(010.024)
+Excelente.
+
+PRODUTO + 
+
+
+
+(014.032)
+Excelente.
+
+PRODUTO + 
+
+
+
+(016.036)
+Excelente.
+
+PRODUTO + 
+
+
+
+(059.140)
+Excelente.
+
+PRODUTO + 
+
+
+
+(071.167)
+Excelente.
+
+PRODUTO + 
+
+
+
+(073.171)
+Excelente.
+
+PRODUTO + 
+
+
+
+(078.180)
+Excelente.
+
+PRODUTO + 
+
+
+
+(104.249)
+Excelente.
+
+PRODUTO + 
+
+
+
+(121.288)
+Excelente.
+
+PRODUTO + 
+
+
+
+(138.337)
+Excelente.
+
+PRODUTO + 
+
+
+
+(145.354)
+Excelente.
+
+PRODUTO + 
+
+
+
+(162.398)
+Excelente.
+
+PRODUTO + 
+
+
+
+(179.451)
+Excelente.
+
+PRODUTO + 
+
+
+
+(041.098)
+Impecável.
+
+PRODUTO + 
+
+
+
+(018.041)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(093.219)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(023.054)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(024.057)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(027.063)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(032.078)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(040.097)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(052.123)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(057.135)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(062.146)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(077.179)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(099.238)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(101.243)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(103.247)
+Muito Bom.
+
+PRODUTO + 
+
+
+
+(124.295)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(143.350)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(178.449)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(201.505)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(102.245)
+QUALIDADE.
+
+PRODUTO + 
+
+
+
+(152.373)
+Recomendo!
+
+PRODUTO + 
+
+
+
+(199.502)
+Recomendo!
+
+PRODUTO + 
+
+
+
+(001.005)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(137.335)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(138.339)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(141.345)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(159.391)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(162.400)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(024.056)
+Muito útil.
+
+PRODUTO + 
+
+
+
+(119.283)
+SATISFAÇÃO.
+
+PRODUTO + 
+
+
+
+(013.030)
+Satisfeita.
+
+PRODUTO + 
+
+
+
+(017.038)
+Satisfeita.
+
+PRODUTO + 
+
+
+
+(080.187)
+Satisfeita.
+
+PRODUTO + 
+
+
+
+(008.020)
+Satisfeito.
+
+PRODUTO + 
+
+
+
+(063.148)
+Satisfeito.
+
+PRODUTO + 
+
+
+
+(114.273)
+Satisfeito.
+
+PRODUTO + 
+
+
+
+(120.287)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(128.315)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(133.327)
+Bom Produto.
+
+PRODUTO + 
+
+
+
+(147.358)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(154.376)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(158.387)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(172.424)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(218.549)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(122.290)
+Maravilhoso!
+
+PRODUTO + 
+
+
+
+(025.058)
+Maravilhoso.
+
+PRODUTO + 
+
+
+
+(044.104)
+MAravilhoso.
+
+PRODUTO + 
+
+
+
+(199.499)
+Maravilhoso.
+
+PRODUTO + 
+
+
+
+(022.050)
+Muito bom!!!
+
+PRODUTO + 
+
+
+
+(064.150)
+Produto bom.
+
+PRODUTO + 
+
+
+
+(164.403)
+Produto bom.
+
+PRODUTO + 
+
+
+
+(203.510)
+Recomendado.
+
+PRODUTO + 
+
+
+
+(177.448)
+Amo motorola.
+
+PRODUTO + 
+
+
+
+(005.013)
+Bom aparelho.
+
+PRODUTO + 
+
+
+
+(079.185)
+Bom aparelho.
+
+PRODUTO + 
+
+
+
+(111.264)
+Bom telefone.
+
+PRODUTO + 
+
+
+
+(068.159)
+Muito bommmm.
+
+PRODUTO + 
+
+
+
+(105.251)
+Até que é bom.
+
+PRODUTO + 
+
+
+
+(123.292)
+Ótimo celular.
+
+PRODUTO + 
+
+
+
+(192.484)
+Ótimo celular.
+
+PRODUTO + 
+
+
+
+(093.222)
+Ótimo produto!
+
+PRODUTO + 
+
+
+
+(155.382)
+Ótimo produto!
+
+PRODUTO + 
+
+
+
+(038.091)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(069.161)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(149.362)
+Otimo produto.
+
+PRODUTO + 
+
+
+
+(104.250)
+Produto ótimo.
+
+PRODUTO + 
+
+
+
+(039.094)
+Òtimo Celular.
+
+PRODUTO + 
+
+
+
+(057.136)
+Estou gostando.
+
+PRODUTO + 
+
+
+
+(155.381)
+Ótima surpresa!
+
+PRODUTO + 
+
+
+
+(049.115)
+Ótimo aparelho.
+
+PRODUTO + 
+
+
+
+(156.383)
+Ótimo aparelho.
+
+PRODUTO + 
+
+
+
+(189.478)
+Ótimo aparelho.
+
+PRODUTO + 
+
+
+
+(141.346)
+Ótimo produto..
+
+PRODUTO + 
+
+
+
+(083.194)
+Um bom produto.
+
+PRODUTO + 
+
+
+
+(097.232)
+Satisfeitíssimo.
+
+PRODUTO + 
+
+
+
+(097.233)
+Sou fã da marca.
+
+PRODUTO + 
+
+
+
+(160.393)
+Exelente produto.
+
+PRODUTO + 
+
+
+
+(135.332)
+Muito satisfeito.
+
+PRODUTO + 
+
+
+
+(085.198)
+Ótimo Smartphone.
+
+PRODUTO + 
+
+
+
+(180.453)
+Ótimo smartphone.
+
+PRODUTO + 
+
+
+
+(078.184)
+Recomendo compra.
+
+PRODUTO + 
+
+
+
+(056.134)
+Celular excelente!
+
+PRODUTO + 
+
+
+
+(053.126)
+Excelente aparelo.
+
+PRODUTO + 
+
+
+
+(040.096)
+Excelente produto.
+
+PRODUTO + 
+
+
+
+(176.445)
+Excelente produto.
+
+PRODUTO + 
+
+
+
+(107.257)
+Gostei do celular.
+
+PRODUTO + 
+
+
+
+(137.336)
+Muito bom e fácil.
+
+PRODUTO + 
+
+
+
+(187.470)
+Muito bom produto.
+
+PRODUTO + 
+
+
+
+(037.088)
+Produto excelente.
+
+PRODUTO + 
+
+
+
+(142.348)
+Produto excelente.
+
+PRODUTO + 
+
+
+
+(161.396)
+Produto excelente.
+
+PRODUTO + 
+
+
+
+(019.042)
+Produto muito bom.
+
+PRODUTO + 
+
+
+
+(092.217)
+Produto muito bom.
+
+PRODUTO + 
+
+
+
+(034.082)
+Excelente aparelho.
+
+PRODUTO + 
+
+
+
+(159.389)
+Moto G5 plus ótimo.
+
+PRODUTO + 
+
+
+
+(060.142)
+Muito bom aparelho.
+
+PRODUTO + 
+
+
+
+(201.506)
+É um ótimo produto.
+
+PRODUTO + 
+
+
+
+(022.051)
+Recomendo o produto.
+
+PRODUTO + 
+
+
+
+(181.455)
+Satisfeita e feliz !
+
+PRODUTO + 
+
+
+
+(084.196)
+Cumpre o que promete.
+
+PRODUTO + 
+
+
+
+(114.274)
+Cumpre o que promete.
+
+PRODUTO + 
+
+
+
+(173.428)
+Mas não me arrependi.
+
+PRODUTO + 
+
+
+
+(117.280)
+COMPRARIA COM CERTEZA.
+
+PRODUTO + 
+
+
+
+(132.326)
+Ótimo Celular! adorei!
+
+PRODUTO + 
+
+
+
+(175.441)
+Amando meu Moto G plus.
+
+PRODUTO + 
+
+
+
+(161.397)
+Atende as expectativas.
+
+PRODUTO + 
+
+
+
+(087.207)
+Intermediário de ponta.
+
+PRODUTO + 
+
+
+
+(213.532)
+Muito bom . Recomendo .
+
+PRODUTO + 
+
+
+
+(079.186)
+Atendeu as expectativas.
+
+PRODUTO + 
+
+
+
+(203.511)
+Atendeu as expectativas.
+
+PRODUTO + 
+
+
+
+(095.229)
+Extremamente satisfeito.
+
+PRODUTO + 
+
+
+
+(129.317)
+Plenamente satisfatório.
+
+PRODUTO + 
+
+
+
+(179.452)
+Produto nota 10 em tudo.
+
+PRODUTO + 
+
+
+
+(066.154)
+Satisfeito com a compra.
+
+PRODUTO + 
+
+
+
+(100.241)
+Produto de boa qualidade.
+
+PRODUTO + 
+
+
+
+(103.248)
+Gostei bastante do produto.
+
+PRODUTO + 
+
+
+
+(022.053)
+Linha Moto G sempre bacana!
+
+PRODUTO + 
+
+
+
+(121.289)
+Satisfeito com a aquisição.
+
+PRODUTO + 
+
+
+
+(102.246)
+APARELHO DE ÓTIMA QUALIDADE.
+
+PRODUTO + 
+
+
+
+(020.045)
+Celular top, muitos recursos.
+
+PRODUTO + 
+
+
+
+(015.035)
+Gostei do produto, recomendo.
+
+PRODUTO + 
+
+
+
+(205.514)
+Mais um aparelho maravilhoso!
+
+PRODUTO + 
+
+
+
+(195.491)
+Mais um produto de qualidade!
+
+PRODUTO + 
+
+
+
+(036.086)
+Ótimo aparelho intermediário.
+
+PRODUTO + 
+
+
+
+(058.137)
+Excelente Aparelho! Recomendo!
+
+PRODUTO + 
+
+
+
+(202.508)
+Mais um aparelho de qualidade!
+
+PRODUTO + 
+
+
+
+(066.155)
+Era o eu esperava com a compra.
+
+PRODUTO + 
+
+
+
+(204.512)
+Mais um Smartphone padrão MOTO!
+
+PRODUTO + 
+
+
+
+(061.145)
+Um dos melhores intermediários.
+
+PRODUTO + 
+
+
+
+(206.516)
+Com sempre um produto sem igual!
+
+PRODUTO + 
+
+
+
+(030.069)
+Excelente aparelho e tecnologia.
+
+PRODUTO + 
+
+
+
+(146.356)
+APARELHO NA COR OURO MUITO LEGAL.
+
+PRODUTO + 
+
+
+
+(043.102)
+Ótimo atendeu minhas expectativas.
+
+PRODUTO + 
+
+
+
+(118.282)
+Adorei, atendeu minhas necessidades.
+
+PRODUTO + 
+
+
+
+(062.147)
+Atende todas as minha necessidades .
+
+PRODUTO + 
+
+
+
+(089.212)
+Estou usando ainda, mas é muito bom.
+
+PRODUTO + 
+
+
+
+(011.027)
+Show de bola, era o que eu procurava.
+
+PRODUTO + 
+
+
+
+(038.093)
+Ótima recepção e imagens Recomendo!!!!
+
+PRODUTO + 
+
+
+
+(144.353)
+Até o momento estou adorando o aparelho.
+
+PRODUTO + 
+
+
+
+(174.437)
+Já caí na armadilha dos Iphone (itunes..
+
+PRODUTO + 
+
+
+
+(091.216)
+Boas configurações por um preço razoável.
+
+PRODUTO + 
+
+
+
+(140.344)
+O produto atingiu as minhas expectativas.
+
+PRODUTO + 
+
+
+
+(092.218)
+Produto excelente para qualquer ambiente.
+
+PRODUTO + 
+
+
+
+(050.119)
+Mas estou muito satisfeito com o aparelho.
+
+PRODUTO + 
+
+
+
+(170.417)
+Aparelho Bom, porém com algumas limitações.
+
+PRODUTO + 
+
+
+
+(101.244)
+Até o momento atende as minhas expectativas.
+
+PRODUTO + 
+
+
+
+(085.199)
+Este Smartphone superou a minha expectativa.
+
+PRODUTO + 
+
+
+
+(212.530)
+Este smathphone me surpreendeu positivamente.
+
+PRODUTO + 
+
+
+
+(198.498)
+Gosto muito dele e quero muito ganhar o iPad.
+
+PRODUTO + 
+
+
+
+(031.077)
+Tirando esses detalhes, o celular é excelente!
+
+PRODUTO + 
+
+
+
+(074.172)
+Bom aparelho, atende na maioria dos requisitos!
+
+PRODUTO + 
+
+
+
+(006.017)
+Até o momento não tive problemas com o aparelho.
+
+PRODUTO + 
+
+
+
+(060.143)
+Foi presente, mas o presenteado elogiou bastante.
+
+PRODUTO + 
+
+
+
+(078.181)
+O celular atendeu plenamente minhas expectativas.
+
+PRODUTO + 
+
+
+
+(188.472)
+Um dos melhores aparelhos intermediarios de 2017.
+
+PRODUTO + 
+
+
+
+(070.165)
+Faz pouco tempo de uso mas parece um bom aparelho.
+
+PRODUTO + 
+
+
+
+(082.193)
+Vale a pena a compra no segmento de intermediários.
+
+PRODUTO + 
+
+
+
+(192.486)
+Mas ele é muito bom nas funcionalidades que já usei.
+
+PRODUTO + 
+
+
+
+(195.492)
+Meu terceiro aparelho da Motorola, não me arrependo!
+
+PRODUTO + 
+
+
+
+(078.182)
+Pesquisei muito antes de comprar e não me arrependi.
+
+PRODUTO + 
+
+
+
+(025.060)
+Vale a pena, não nos deixa apontar um item negativo.
+
+PRODUTO + 
+
+
+
+(176.446)
+Excelente produto, atende todas as minhas necessidades.
+
+PRODUTO + 
+
+
+
+(115.276)
+Gosto muito dos moto g e este supera minhas expectativas.
+
+PRODUTO + 
+
+
+
+(088.209)
+O produto atende as expectativas que eu esperava encontrar.
+
+PRODUTO + 
+
+
+
+(003.009)
+Aparelho intermediário com cara e funções de um top de linha.
+
+PRODUTO + 
+
+
+
+(207.518)
+Como sempre um produto que atende as expectativas do comprador!
+
+PRODUTO + 
+
+
+
+(202.509)
+Meu terceiro smartphone da linha e mais um produto de qualidade!
+
+PRODUTO + 
+
+
+
+(218.550)
+Produto simples e que atende as principais funções do dia a dia.
+
+PRODUTO + 
+
+
+
+(207.519)
+Este é o meu terceiro aparelho da Motorola e não compraria outro!
+
+PRODUTO + 
+
+
+
+(152.371)
+Estou com o smartphone há mais ou menos 1 mês e só tenho elogios.
+
+PRODUTO + 
+
+
+
+(173.427)
+Eu sempre comprei Samsung e fiquei apreensivo quanto a um Motorola.
+
+PRODUTO + 
+
+
+
+(034.083)
+Ótimo smartphone, reúne os melhores atributos de um aparelho premium.
+
+PRODUTO + 
+
+
+
+(204.513)
+Ja é meu terceiro aparelho da linha MOTO G!Mais uma vez um aparelho ótimo!
+
+PRODUTO + 
+
+
+
+(212.531)
+Ainda não conheço todos os recursos tecnológicos, mas estou muito satisfeito!
+
+PRODUTO + 
+
+
+
+(205.515)
+Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+
+PRODUTO + 
+
+
+
+(035.084)
+Ótimo aparelho, está entre os melhores smartphones da linha mediana da atualidad.
+
+PRODUTO + 
+
+
+
+(174.433)
+Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
+
+PRODUTO + 
+
+
+
+(188.473)
+Sem muitos rodeios, o aparelho tem me agradado bastante em praticamente todos os aspectos.
+
+PRODUTO + 
+
+
+
+(025.059)
+Todos aqui em casa temos algum modelo da Motorola,mas o G5 plus é um passo à frente de todos os outros.
+
+PRODUTO + 
+
+
+
+(188.475)
+Eu comprei esse aparelho depois de varios reviews de outros smartphone nessa faixa de preço e não me decepcionei.
+
+PRODUTO + 
+
+
+
+(048.114)
+Eu possuia um Samsung S5 mas ele parou de funcionar de repente, este motorola G5 é melhor que o S5 em diversas áreas.
+
+PRODUTO + 
+
+
+
+(086.204)
+O celular embora seja lançamento e barato consegue bater de frente com a maioria dos celulares atuais e mais utilizados (2016-2017)
+
+PRODUTO + 
+
+
+
+(058.138)
+Tenho usado o aparelho desde da 2ª geração, gosto do produto e da marca Motorola/Lenovo, por isso recomendo a todos e principalmente aos meus amigos e familiares.
+
+PRODUTO + 
+
+
+
+(051.122)
+Por esses e outros motivos recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphofe.
+
+PRODUTO + 
+
+
+
+(008.021)
+Meu 1° aparelho Foi o Motog-1 daí em tão Não quis outra marca ... Por isso dei credibilidade Ao fabricante Motorola..Agora adiquiri o ( Motog-5 plus ) Aparelho sensacional Motorola está de parabéns TKS ....
+
+PRODUTO + 
+
+
+
+(120.286)
+Perfeito.
+
+PRODUTO ++
+
+
+
+(020.044)
+Celular perfeito.
+
+PRODUTO ++
+
+
+
+(011.026)
+Melhor da categoria.
+
+PRODUTO ++
+
+
+
+(162.399)
+Smartphone muito bom perfeito.
+
+PRODUTO ++
+
+
+
+(075.175)
+O melhor aparelho que tive ate hoje.
+
+PRODUTO ++
+
+
+
+(119.284)
+O PRODUTO É MUITO BOM E FUNCIONA PERFEITAMENTE.
+
+PRODUTO ++
+
+
+
+(181.458)
+Ainda estou aprendendo a mexer nele, mas até o momento posso afirmar que é o melhor celular que tive.
+
+PRODUTO ++
+
+
+
+(126.303)
+Bom mas pode melhorar.
+
+PRODUTO +.
+
+
+
+(094.223)
+Atende o básico em um smartphone.
+
+PRODUTO +.
+
+
+
+(042.100)
+Bom, mas poderia ter versão de 3gb.
+
+PRODUTO +.
+
+
+
+(068.160)
+Facilita a vida de quem vive na tecnologia.
+
+PRODUTO +.
+
+
+
+(208.522)
+Recomendo porém se o valor estiver na faixa de 1.100.
+
+PRODUTO +.
+
+
+
+(094.226)
+Em resumo: perfeito para uso intermediário no dia a dia.
+
+PRODUTO +.
+
+
+
+(083.195)
+É um produto bom mas não contemplou as minhas expectativas.
+
+PRODUTO +.
+
+
+
+(100.242)
+Como é um produto que adquiri a pouco tempo, até o momento não me deu problermas.
+
+PRODUTO +.
+
+
+
+(222.565)
+FUJA!
+
+PRODUTO - 
+
+
+
+(228.602)
+Ruim.
+
+PRODUTO - 
+
+
+
+(216.540)
+NÃO COMPRE.
+
+PRODUTO - 
+
+
+
+(223.566)
+Produto Ruim.
+
+PRODUTO - 
+
+
+
+(228.601)
+Moto G5 Plus decepciona.
+
+PRODUTO - 
+
+
+
+(216.544)
+Há dificuldade para religa-lo.
+
+PRODUTO - 
+
+
+
+(227.600)
+Moto g 5 , não indico pra ninguém.
+
+PRODUTO - 
+
+
+
+(227.596)
+Estou insatisfeita com o produto que eu adquiri.
+
+PRODUTO - 
+
+
+
+(218.552)
+Já resetei o produto mas não resolveu o problema.
+
+PRODUTO - 
+
+
+
+(215.536)
+O produto e intermediario digamos que pobre tem que tomar no *** memo.
+
+PRODUTO - 
+
+
+
+(215.539)
+E se vcs kiserem celular bom indico que procurem um iphone da aplee mesmo versoes mais antigas pois nunca perdem valor de mercado aplee e aplee...
+
+PRODUTO - 
+
+
+
+(219.554)
+Minha experiência infelizmente não foi boa já que o aparelho corrompeu 2 cartões sd um de 64gb e outro de 128gb, na primeira semana de uso tive que enviar ele para a assistência, a motorola não se responsabiliza pelos cartões sd que o aparelho corrompeu, e até agora não consegui testar o aparelho novamente pois vou ter que arcar com a compra de outro cartão para fazer o teste, já imaginando que posso vir a perder esse também.
+
+PRODUTO - 
+
+
+
+(228.607)
+MOTO G ou MOTO Z NUNCA MAIS!
+
+PRODUTO --
+
+
+
+(222.561)
+MOTO G5: Pior opção possível.
+
+PRODUTO --
+
+
+
+(216.545)
+Foi o pior aparelho que já comprei, não recomendo para ninguem.
+
+PRODUTO --
+
+
+
+(223.570)
+Segundo o pessoal a motorola esta trazendo para o terceiro mundo o pior dos piores .
+
+PRODUTO --
+
+
+
+(112.268)
+Creio que para usuários mais exigentes não compensaria.
+
+PRODUTO -.
+
+
+
+(171.423)
+NORMAL.
+
+PRODUTO . 
+
+
+
+(150.364)
+Rasoável.
+
+PRODUTO . 
+
+
+
+(112.266)
+Razoável.
+
+PRODUTO . 
+
+
+
+(110.262)
+Diferente.
+
+PRODUTO . 
+
+
+
+(112.267)
+É um aparelho regular.
+
+PRODUTO . 
+
+
+
+(098.236)
+Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
+
+PRODUTO . 
+
+
+
+(126.304)
+Na verdade faço comparação com a Samsung pois era o que eu tinha.
+
+PRODUTO . 
+
+
+
+(142.349)
+Foi presente.
+
+PRODUTO X 
+
+
+
+(169.416)
+Uso para falar e web,.
+
+PRODUTO X 
+
+
+
+(192.485)
+Eu estou aprendendo ainda algumas funcionalidades do produto.
+
+PRODUTO X 
+
+
+
+(147.359)
+Ainda é cedo.
+
+PRODUTO x 
+
+
+
+(165.405)
+Pouco tempo de uso.
+
+PRODUTO x 
+
+
+
+(110.263)
+Ainda estou avaliando.
+
+PRODUTO x 
+
+
+
+(209.523)
+Ainda não testei muito.
+
+PRODUTO x 
+
+
+
+(164.404)
+Estou experimentando....
+
+PRODUTO x 
+
+
+
+(165.406)
+Estou experimentando....
+
+PRODUTO x 
+
+
+
+(090.214)
+Ainda pouco tempo de uso.
+
+PRODUTO x 
+
+
+
+(004.012)
+Quase nao utilizei ainda.
+
+PRODUTO x 
+
+
+
+(005.014)
+Ainda descobrindo suas funcionalidades.
+
+PRODUTO x 
+
+
+
+(174.432)
+Meu primeiro Moto G foi o Moto G3 Turbo.
+
+PRODUTO x 
+
+
+
+(013.031)
+Como foi comprado recentemente está em avaliação.
+
+PRODUTO x 
+
+
+
+(163.402)
+Ainda estou conhecendo pois não faz 1 mês que adquiri.
+
+PRODUTO x 
+
+
+
 (224.571)
 Aparelbo com problema.
 
@@ -1083,2019 +3143,185 @@ USABILIDADE +
 
 
 
-(004.011)
-Bom.
-
-_GENERIC + 
-
-
-
-(029.067)
-Bom.
-
-_GENERIC + 
-
-
-
-(065.153)
-Bom.
-
-_GENERIC + 
-
-
-
-(090.213)
-Bom.
-
-_GENERIC + 
-
-
-
-(169.415)
-Bom.
-
-_GENERIC + 
-
-
-
-(194.489)
-Bom.
-
-_GENERIC + 
-
-
-
-(077.178)
-Show.
-
-_GENERIC + 
-
-
-
-(017.039)
-Útil.
-
-_GENERIC + 
-
-
-
-(052.124)
-Otima.
-
-_GENERIC + 
-
-
-
-(033.081)
-Ótimo!
-
-_GENERIC + 
-
-
-
-(136.334)
-Ótimo!
-
-_GENERIC + 
-
-
-
-(007.018)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(045.106)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(050.117)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(071.166)
-Otimo.
-
-_GENERIC + 
-
-
-
-(116.277)
-Otimo.
-
-_GENERIC + 
-
-
-
-(117.279)
-Otimo.
-
-_GENERIC + 
-
-
-
-(118.281)
-ÓTIMO.
-
-_GENERIC + 
-
-
-
-(144.352)
-Otimo.
-
-_GENERIC + 
-
-
-
-(177.447)
-Otimo.
-
-_GENERIC + 
-
-
-
-(182.459)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(197.495)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(151.368)
-Òtimo.
-
-_GENERIC + 
-
-
-
-(006.015)
-Adorei.
-
-_GENERIC + 
-
-
-
-(113.271)
-Adorei.
-
-_GENERIC + 
-
-
-
-(158.388)
-Bacana.
-
-_GENERIC + 
-
-
-
-(073.170)
-Barato.
-
-_GENERIC + 
-
-
-
-(015.034)
-Elogio.
-
-_GENERIC + 
-
-
-
-(070.164)
-Elogio.
-
-_GENERIC + 
-
-
-
-(132.325)
-Elogio.
-
-_GENERIC + 
-
-
-
-(054.129)
-Gostei.
-
-_GENERIC + 
-
-
-
-(124.296)
-Gostei.
-
-_GENERIC + 
-
-
-
-(139.340)
-Gostei.
-
-_GENERIC + 
-
-
-
-(163.401)
-Moderno.
-
-_GENERIC + 
-
-
-
-(135.331)
-Nota 10.
-
-_GENERIC + 
-
-
-
-(140.343)
-Aprovado!
-
-_GENERIC + 
-
-
-
-(185.465)
-Aprovado!
-
-_GENERIC + 
-
-
-
-(021.049)
-Compensa!
-
-_GENERIC + 
-
-
-
-(115.275)
-Exelente.
-
-_GENERIC + 
-
-
-
-(095.228)
-Positiva.
-
-_GENERIC + 
-
-
-
-(076.176)
-Excelente!
-
-_GENERIC + 
-
-
-
-(007.019)
-Excelente.
-
-_GENERIC + 
-
-
-
-(010.024)
-Excelente.
-
-_GENERIC + 
-
-
-
-(014.032)
-Excelente.
-
-_GENERIC + 
-
-
-
-(016.036)
-Excelente.
-
-_GENERIC + 
-
-
-
-(059.140)
-Excelente.
-
-_GENERIC + 
-
-
-
-(071.167)
-Excelente.
-
-_GENERIC + 
-
-
-
-(073.171)
-Excelente.
-
-_GENERIC + 
-
-
-
-(078.180)
-Excelente.
-
-_GENERIC + 
-
-
-
-(104.249)
-Excelente.
-
-_GENERIC + 
-
-
-
-(121.288)
-Excelente.
-
-_GENERIC + 
-
-
-
-(138.337)
-Excelente.
-
-_GENERIC + 
-
-
-
-(145.354)
-Excelente.
-
-_GENERIC + 
-
-
-
-(162.398)
-Excelente.
-
-_GENERIC + 
-
-
-
-(179.451)
-Excelente.
-
-_GENERIC + 
-
-
-
-(041.098)
-Impecável.
-
-_GENERIC + 
-
-
-
-(018.041)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(093.219)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(023.054)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(024.057)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(027.063)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(032.078)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(040.097)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(052.123)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(057.135)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(062.146)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(077.179)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(099.238)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(101.243)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(103.247)
-Muito Bom.
-
-_GENERIC + 
-
-
-
-(124.295)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(143.350)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(178.449)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(201.505)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(102.245)
-QUALIDADE.
-
-_GENERIC + 
-
-
-
-(152.373)
-Recomendo!
-
-_GENERIC + 
-
-
-
-(199.502)
-Recomendo!
-
-_GENERIC + 
-
-
-
-(001.005)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(137.335)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(138.339)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(141.345)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(159.391)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(162.400)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(024.056)
-Muito útil.
-
-_GENERIC + 
-
-
-
-(119.283)
-SATISFAÇÃO.
-
-_GENERIC + 
-
-
-
-(013.030)
-Satisfeita.
-
-_GENERIC + 
-
-
-
-(017.038)
-Satisfeita.
-
-_GENERIC + 
-
-
-
-(080.187)
-Satisfeita.
-
-_GENERIC + 
-
-
-
-(008.020)
-Satisfeito.
-
-_GENERIC + 
-
-
-
-(063.148)
-Satisfeito.
-
-_GENERIC + 
-
-
-
-(114.273)
-Satisfeito.
-
-_GENERIC + 
-
-
-
-(120.287)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(128.315)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(133.327)
-Bom Produto.
-
-_GENERIC + 
-
-
-
-(147.358)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(154.376)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(158.387)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(172.424)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(218.549)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(122.290)
-Maravilhoso!
-
-_GENERIC + 
-
-
-
-(025.058)
-Maravilhoso.
-
-_GENERIC + 
-
-
-
-(044.104)
-MAravilhoso.
-
-_GENERIC + 
-
-
-
-(199.499)
-Maravilhoso.
-
-_GENERIC + 
-
-
-
-(022.050)
-Muito bom!!!
-
-_GENERIC + 
-
-
-
-(064.150)
-Produto bom.
-
-_GENERIC + 
-
-
-
-(164.403)
-Produto bom.
-
-_GENERIC + 
-
-
-
-(203.510)
-Recomendado.
-
-_GENERIC + 
-
-
-
-(177.448)
-Amo motorola.
-
-_GENERIC + 
-
-
-
-(005.013)
-Bom aparelho.
-
-_GENERIC + 
-
-
-
-(079.185)
-Bom aparelho.
-
-_GENERIC + 
-
-
-
-(111.264)
-Bom telefone.
-
-_GENERIC + 
-
-
-
-(068.159)
-Muito bommmm.
-
-_GENERIC + 
-
-
-
-(105.251)
-Até que é bom.
-
-_GENERIC + 
-
-
-
-(123.292)
-Ótimo celular.
-
-_GENERIC + 
-
-
-
-(192.484)
-Ótimo celular.
-
-_GENERIC + 
-
-
-
-(093.222)
-Ótimo produto!
-
-_GENERIC + 
-
-
-
-(155.382)
-Ótimo produto!
-
-_GENERIC + 
-
-
-
-(038.091)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(069.161)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(149.362)
-Otimo produto.
-
-_GENERIC + 
-
-
-
-(104.250)
-Produto ótimo.
-
-_GENERIC + 
-
-
-
-(039.094)
-Òtimo Celular.
-
-_GENERIC + 
-
-
-
-(057.136)
-Estou gostando.
-
-_GENERIC + 
-
-
-
-(155.381)
-Ótima surpresa!
-
-_GENERIC + 
-
-
-
-(049.115)
-Ótimo aparelho.
-
-_GENERIC + 
-
-
-
-(156.383)
-Ótimo aparelho.
-
-_GENERIC + 
-
-
-
-(189.478)
-Ótimo aparelho.
-
-_GENERIC + 
-
-
-
-(141.346)
-Ótimo produto..
-
-_GENERIC + 
-
-
-
-(083.194)
-Um bom produto.
-
-_GENERIC + 
-
-
-
-(097.232)
-Satisfeitíssimo.
-
-_GENERIC + 
-
-
-
-(097.233)
-Sou fã da marca.
-
-_GENERIC + 
-
-
-
-(160.393)
-Exelente produto.
-
-_GENERIC + 
-
-
-
-(135.332)
-Muito satisfeito.
-
-_GENERIC + 
-
-
-
-(085.198)
-Ótimo Smartphone.
-
-_GENERIC + 
-
-
-
-(180.453)
-Ótimo smartphone.
-
-_GENERIC + 
-
-
-
-(078.184)
-Recomendo compra.
-
-_GENERIC + 
-
-
-
-(056.134)
-Celular excelente!
-
-_GENERIC + 
-
-
-
-(053.126)
-Excelente aparelo.
-
-_GENERIC + 
-
-
-
-(040.096)
-Excelente produto.
-
-_GENERIC + 
-
-
-
-(176.445)
-Excelente produto.
-
-_GENERIC + 
-
-
-
-(107.257)
-Gostei do celular.
-
-_GENERIC + 
-
-
-
-(137.336)
-Muito bom e fácil.
-
-_GENERIC + 
-
-
-
-(187.470)
-Muito bom produto.
-
-_GENERIC + 
-
-
-
-(037.088)
-Produto excelente.
-
-_GENERIC + 
-
-
-
-(142.348)
-Produto excelente.
-
-_GENERIC + 
-
-
-
-(161.396)
-Produto excelente.
-
-_GENERIC + 
-
-
-
-(019.042)
-Produto muito bom.
-
-_GENERIC + 
-
-
-
-(092.217)
-Produto muito bom.
-
-_GENERIC + 
-
-
-
-(034.082)
-Excelente aparelho.
-
-_GENERIC + 
-
-
-
-(159.389)
-Moto G5 plus ótimo.
-
-_GENERIC + 
-
-
-
-(060.142)
-Muito bom aparelho.
-
-_GENERIC + 
-
-
-
-(201.506)
-É um ótimo produto.
-
-_GENERIC + 
-
-
-
-(022.051)
-Recomendo o produto.
-
-_GENERIC + 
-
-
-
-(181.455)
-Satisfeita e feliz !
-
-_GENERIC + 
-
-
-
-(084.196)
-Cumpre o que promete.
-
-_GENERIC + 
-
-
-
-(114.274)
-Cumpre o que promete.
-
-_GENERIC + 
-
-
-
-(173.428)
-Mas não me arrependi.
-
-_GENERIC + 
-
-
-
-(117.280)
-COMPRARIA COM CERTEZA.
-
-_GENERIC + 
-
-
-
-(132.326)
-Ótimo Celular! adorei!
-
-_GENERIC + 
-
-
-
-(175.441)
-Amando meu Moto G plus.
-
-_GENERIC + 
-
-
-
-(161.397)
-Atende as expectativas.
-
-_GENERIC + 
-
-
-
-(087.207)
-Intermediário de ponta.
-
-_GENERIC + 
-
-
-
-(213.532)
-Muito bom . Recomendo .
-
-_GENERIC + 
-
-
-
-(079.186)
-Atendeu as expectativas.
-
-_GENERIC + 
-
-
-
-(203.511)
-Atendeu as expectativas.
-
-_GENERIC + 
-
-
-
-(095.229)
-Extremamente satisfeito.
-
-_GENERIC + 
-
-
-
-(129.317)
-Plenamente satisfatório.
-
-_GENERIC + 
-
-
-
-(179.452)
-Produto nota 10 em tudo.
-
-_GENERIC + 
-
-
-
-(066.154)
-Satisfeito com a compra.
-
-_GENERIC + 
-
-
-
-(100.241)
-Produto de boa qualidade.
-
-_GENERIC + 
-
-
-
-(103.248)
-Gostei bastante do produto.
-
-_GENERIC + 
-
-
-
-(022.053)
-Linha Moto G sempre bacana!
-
-_GENERIC + 
-
-
-
-(121.289)
-Satisfeito com a aquisição.
-
-_GENERIC + 
-
-
-
-(102.246)
-APARELHO DE ÓTIMA QUALIDADE.
-
-_GENERIC + 
-
-
-
-(020.045)
-Celular top, muitos recursos.
-
-_GENERIC + 
-
-
-
-(015.035)
-Gostei do produto, recomendo.
-
-_GENERIC + 
-
-
-
-(205.514)
-Mais um aparelho maravilhoso!
-
-_GENERIC + 
-
-
-
-(195.491)
-Mais um produto de qualidade!
-
-_GENERIC + 
-
-
-
-(036.086)
-Ótimo aparelho intermediário.
-
-_GENERIC + 
-
-
-
-(058.137)
-Excelente Aparelho! Recomendo!
-
-_GENERIC + 
-
-
-
-(202.508)
-Mais um aparelho de qualidade!
-
-_GENERIC + 
-
-
-
-(066.155)
-Era o eu esperava com a compra.
-
-_GENERIC + 
-
-
-
-(204.512)
-Mais um Smartphone padrão MOTO!
-
-_GENERIC + 
-
-
-
-(061.145)
-Um dos melhores intermediários.
-
-_GENERIC + 
-
-
-
-(206.516)
-Com sempre um produto sem igual!
-
-_GENERIC + 
-
-
-
-(030.069)
-Excelente aparelho e tecnologia.
-
-_GENERIC + 
-
-
-
-(146.356)
-APARELHO NA COR OURO MUITO LEGAL.
-
-_GENERIC + 
-
-
-
-(043.102)
-Ótimo atendeu minhas expectativas.
-
-_GENERIC + 
-
-
-
-(118.282)
-Adorei, atendeu minhas necessidades.
-
-_GENERIC + 
-
-
-
-(062.147)
-Atende todas as minha necessidades .
-
-_GENERIC + 
-
-
-
-(089.212)
-Estou usando ainda, mas é muito bom.
-
-_GENERIC + 
-
-
-
-(011.027)
-Show de bola, era o que eu procurava.
-
-_GENERIC + 
-
-
-
-(038.093)
-Ótima recepção e imagens Recomendo!!!!
-
-_GENERIC + 
-
-
-
-(144.353)
-Até o momento estou adorando o aparelho.
-
-_GENERIC + 
-
-
-
-(091.216)
-Boas configurações por um preço razoável.
-
-_GENERIC + 
-
-
-
-(140.344)
-O produto atingiu as minhas expectativas.
-
-_GENERIC + 
-
-
-
-(092.218)
-Produto excelente para qualquer ambiente.
-
-_GENERIC + 
-
-
-
-(050.119)
-Mas estou muito satisfeito com o aparelho.
-
-_GENERIC + 
-
-
-
-(170.417)
-Aparelho Bom, porém com algumas limitações.
-
-_GENERIC + 
-
-
-
-(101.244)
-Até o momento atende as minhas expectativas.
-
-_GENERIC + 
-
-
-
-(085.199)
-Este Smartphone superou a minha expectativa.
-
-_GENERIC + 
-
-
-
-(212.530)
-Este smathphone me surpreendeu positivamente.
-
-_GENERIC + 
-
-
-
-(198.498)
-Gosto muito dele e quero muito ganhar o iPad.
-
-_GENERIC + 
-
-
-
-(031.077)
-Tirando esses detalhes, o celular é excelente!
-
-_GENERIC + 
-
-
-
-(074.172)
-Bom aparelho, atende na maioria dos requisitos!
-
-_GENERIC + 
-
-
-
-(006.017)
-Até o momento não tive problemas com o aparelho.
-
-_GENERIC + 
-
-
-
-(060.143)
-Foi presente, mas o presenteado elogiou bastante.
-
-_GENERIC + 
-
-
-
-(078.181)
-O celular atendeu plenamente minhas expectativas.
-
-_GENERIC + 
-
-
-
-(188.472)
-Um dos melhores aparelhos intermediarios de 2017.
-
-_GENERIC + 
-
-
-
-(070.165)
-Faz pouco tempo de uso mas parece um bom aparelho.
-
-_GENERIC + 
-
-
-
-(082.193)
-Vale a pena a compra no segmento de intermediários.
-
-_GENERIC + 
-
-
-
-(192.486)
-Mas ele é muito bom nas funcionalidades que já usei.
-
-_GENERIC + 
-
-
-
-(195.492)
-Meu terceiro aparelho da Motorola, não me arrependo!
-
-_GENERIC + 
-
-
-
-(078.182)
-Pesquisei muito antes de comprar e não me arrependi.
-
-_GENERIC + 
-
-
-
-(025.060)
-Vale a pena, não nos deixa apontar um item negativo.
-
-_GENERIC + 
-
-
-
-(176.446)
-Excelente produto, atende todas as minhas necessidades.
-
-_GENERIC + 
-
-
-
-(115.276)
-Gosto muito dos moto g e este supera minhas expectativas.
-
-_GENERIC + 
-
-
-
-(088.209)
-O produto atende as expectativas que eu esperava encontrar.
-
-_GENERIC + 
-
-
-
-(003.009)
-Aparelho intermediário com cara e funções de um top de linha.
-
-_GENERIC + 
-
-
-
-(207.518)
-Como sempre um produto que atende as expectativas do comprador!
-
-_GENERIC + 
-
-
-
-(202.509)
-Meu terceiro smartphone da linha e mais um produto de qualidade!
-
-_GENERIC + 
-
-
-
-(218.550)
-Produto simples e que atende as principais funções do dia a dia.
-
-_GENERIC + 
-
-
-
-(207.519)
-Este é o meu terceiro aparelho da Motorola e não compraria outro!
-
-_GENERIC + 
-
-
-
-(152.371)
-Estou com o smartphone há mais ou menos 1 mês e só tenho elogios.
-
-_GENERIC + 
-
-
-
-(173.427)
-Eu sempre comprei Samsung e fiquei apreensivo quanto a um Motorola.
-
-_GENERIC + 
-
-
-
-(034.083)
-Ótimo smartphone, reúne os melhores atributos de um aparelho premium.
-
-_GENERIC + 
-
-
-
-(204.513)
-Ja é meu terceiro aparelho da linha MOTO G!Mais uma vez um aparelho ótimo!
-
-_GENERIC + 
-
-
-
-(212.531)
-Ainda não conheço todos os recursos tecnológicos, mas estou muito satisfeito!
-
-_GENERIC + 
-
-
-
-(205.515)
-Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
-
-_GENERIC + 
-
-
-
-(035.084)
-Ótimo aparelho, está entre os melhores smartphones da linha mediana da atualidad.
-
-_GENERIC + 
-
-
-
-(174.433)
-Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
-
-_GENERIC + 
-
-
-
-(188.473)
-Sem muitos rodeios, o aparelho tem me agradado bastante em praticamente todos os aspectos.
-
-_GENERIC + 
-
-
-
-(025.059)
-Todos aqui em casa temos algum modelo da Motorola,mas o G5 plus é um passo à frente de todos os outros.
-
-_GENERIC + 
-
-
-
-(188.475)
-Eu comprei esse aparelho depois de varios reviews de outros smartphone nessa faixa de preço e não me decepcionei.
-
-_GENERIC + 
-
-
-
-(048.114)
-Eu possuia um Samsung S5 mas ele parou de funcionar de repente, este motorola G5 é melhor que o S5 em diversas áreas.
-
-_GENERIC + 
-
-
-
-(086.204)
-O celular embora seja lançamento e barato consegue bater de frente com a maioria dos celulares atuais e mais utilizados (2016-2017)
-
-_GENERIC + 
-
-
-
-(058.138)
-Tenho usado o aparelho desde da 2ª geração, gosto do produto e da marca Motorola/Lenovo, por isso recomendo a todos e principalmente aos meus amigos e familiares.
-
-_GENERIC + 
-
-
-
-(051.122)
-Por esses e outros motivos recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphofe.
-
-_GENERIC + 
-
-
-
-(008.021)
-Meu 1° aparelho Foi o Motog-1 daí em tão Não quis outra marca ... Por isso dei credibilidade Ao fabricante Motorola..Agora adiquiri o ( Motog-5 plus ) Aparelho sensacional Motorola está de parabéns TKS ....
-
-_GENERIC + 
-
-
-
-(120.286)
-Perfeito.
-
-_GENERIC ++
-
-
-
-(020.044)
-Celular perfeito.
-
-_GENERIC ++
-
-
-
-(011.026)
-Melhor da categoria.
-
-_GENERIC ++
-
-
-
-(162.399)
-Smartphone muito bom perfeito.
-
-_GENERIC ++
-
-
-
-(075.175)
-O melhor aparelho que tive ate hoje.
-
-_GENERIC ++
-
-
-
-(119.284)
-O PRODUTO É MUITO BOM E FUNCIONA PERFEITAMENTE.
-
-_GENERIC ++
-
-
-
-(181.458)
-Ainda estou aprendendo a mexer nele, mas até o momento posso afirmar que é o melhor celular que tive.
-
-_GENERIC ++
-
-
-
-(126.303)
-Bom mas pode melhorar.
-
-_GENERIC +.
-
-
-
-(094.223)
-Atende o básico em um smartphone.
-
-_GENERIC +.
-
-
-
-(042.100)
-Bom, mas poderia ter versão de 3gb.
-
-_GENERIC +.
-
-
-
-(068.160)
-Facilita a vida de quem vive na tecnologia.
-
-_GENERIC +.
-
-
-
-(208.522)
-Recomendo porém se o valor estiver na faixa de 1.100.
-
-_GENERIC +.
-
-
-
-(094.226)
-Em resumo: perfeito para uso intermediário no dia a dia.
-
-_GENERIC +.
-
-
-
-(083.195)
-É um produto bom mas não contemplou as minhas expectativas.
-
-_GENERIC +.
-
-
-
-(100.242)
-Como é um produto que adquiri a pouco tempo, até o momento não me deu problermas.
-
-_GENERIC +.
-
-
-
-(222.565)
-FUJA!
-
-_GENERIC - 
-
-
-
-(228.602)
-Ruim.
-
-_GENERIC - 
-
-
-
-(216.540)
-NÃO COMPRE.
-
-_GENERIC - 
-
-
-
-(223.566)
-Produto Ruim.
-
-_GENERIC - 
-
-
-
-(228.601)
-Moto G5 Plus decepciona.
-
-_GENERIC - 
-
-
-
-(216.544)
-Há dificuldade para religa-lo.
-
-_GENERIC - 
-
-
-
-(227.600)
-Moto g 5 , não indico pra ninguém.
-
-_GENERIC - 
-
-
-
-(227.596)
-Estou insatisfeita com o produto que eu adquiri.
-
-_GENERIC - 
-
-
-
-(218.552)
-Já resetei o produto mas não resolveu o problema.
-
-_GENERIC - 
-
-
-
-(215.536)
-O produto e intermediario digamos que pobre tem que tomar no *** memo.
-
-_GENERIC - 
-
-
-
-(215.539)
-E se vcs kiserem celular bom indico que procurem um iphone da aplee mesmo versoes mais antigas pois nunca perdem valor de mercado aplee e aplee...
-
-_GENERIC - 
-
-
-
-(219.554)
-Minha experiência infelizmente não foi boa já que o aparelho corrompeu 2 cartões sd um de 64gb e outro de 128gb, na primeira semana de uso tive que enviar ele para a assistência, a motorola não se responsabiliza pelos cartões sd que o aparelho corrompeu, e até agora não consegui testar o aparelho novamente pois vou ter que arcar com a compra de outro cartão para fazer o teste, já imaginando que posso vir a perder esse também.
-
-_GENERIC - 
-
-
-
-(228.607)
-MOTO G ou MOTO Z NUNCA MAIS!
-
-_GENERIC --
-
-
-
-(222.561)
-MOTO G5: Pior opção possível.
-
-_GENERIC --
-
-
-
-(216.545)
-Foi o pior aparelho que já comprei, não recomendo para ninguem.
-
-_GENERIC --
-
-
-
-(223.570)
-Segundo o pessoal a motorola esta trazendo para o terceiro mundo o pior dos piores .
-
-_GENERIC --
-
-
-
-(112.268)
-Creio que para usuários mais exigentes não compensaria.
-
-_GENERIC -.
-
-
-
-(171.423)
-NORMAL.
-
-_GENERIC . 
-
-
-
-(150.364)
-Rasoável.
-
-_GENERIC . 
-
-
-
-(112.266)
-Razoável.
-
-_GENERIC . 
-
-
-
-(110.262)
-Diferente.
-
-_GENERIC . 
-
-
-
-(112.267)
-É um aparelho regular.
-
-_GENERIC . 
-
-
-
-(098.236)
-Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
-
-_GENERIC . 
-
-
-
-(126.304)
-Na verdade faço comparação com a Samsung pois era o que eu tinha.
-
-_GENERIC . 
-
-
-
-(142.349)
-Foi presente.
-
-_GENERIC X 
-
-
-
-(169.416)
-Uso para falar e web,.
-
-_GENERIC X 
-
-
-
-(192.485)
-Eu estou aprendendo ainda algumas funcionalidades do produto.
-
-_GENERIC X 
-
-
-
-(012.028)
-...
-
-_TRASH x 
-
-
-
-(012.029)
-...
-
-_TRASH x 
-
-
-
-(148.360)
-Cxb.
-
-_TRASH x 
-
-
-
-(211.527)
-Xxx.
-
-_TRASH x 
-
-
-
 (108.258)
 Chato.
 
-_TRASH x 
+_BROKEN x 
 
 
 
 (108.259)
 Chato.
 
-_TRASH x 
+_BROKEN x 
 
 
 
 (134.329)
 Otima.
 
-_TRASH x 
+_BROKEN x 
+
+
+
+(046.108)
+Preço.
+
+_BROKEN x 
+
+
+
+(021.047)
+Moto G.
+
+_BROKEN x 
+
+
+
+(124.298)
+Bateria.
+
+_BROKEN x 
+
+
+
+(168.413)
+Celular.
+
+_BROKEN x 
+
+
+
+(065.152)
+Memória.
+
+_BROKEN x 
+
+
+
+(171.422)
+MOTO G5.
+
+_BROKEN x 
+
+
+
+(184.463)
+Moto G5.
+
+_BROKEN x 
+
+
+
+(198.497)
+Moto G5.
+
+_BROKEN x 
+
+
+
+(229.608)
+Speaker.
+
+_BROKEN x 
+
+
+
+(214.534)
+Curiosidade.
+
+_BROKEN x 
+
+
+
+(018.040)
+Moto g plus.
+
+_BROKEN x 
+
+
+
+(136.333)
+Moto G Plus.
+
+_BROKEN x 
+
+
+
+(033.080)
+Moto G5plus.
+
+_BROKEN x 
+
+
+
+(056.133)
+Moto G5 Plus.
+
+_BROKEN x 
+
+
+
+(109.260)
+Moto G5 Plus.
+
+_BROKEN x 
+
+
+
+(153.374)
+MOTOG 5 PLUS.
+
+_BROKEN x 
+
+
+
+(096.230)
+Moto g 5 Plus.
+
+_BROKEN x 
+
+
+
+(072.168)
+Avaliação do produto.
+
+_BROKEN x 
+
+
+
+(127.313)
+Pesquisa de opiniao - compra smartphone moto g5.
+
+_BROKEN x 
+
+
+
+(050.118)
+Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+
+_BROKEN x 
+
+
+
+(131.323)
+Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+
+_BROKEN x 
+
+
+
+(225.580)
+Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+
+_CONTEXT x 
+
+
+
+(225.581)
+Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+
+_CONTEXT x 
 
 
 
@@ -3103,69 +3329,6 @@ _TRASH x
 Ótimo.
 
 _DUPLICATE x 
-
-
-
-(046.108)
-Preço.
-
-_TRASH x 
-
-
-
-(021.047)
-Moto G.
-
-_TRASH x 
-
-
-
-(124.298)
-Bateria.
-
-_TRASH x 
-
-
-
-(168.413)
-Celular.
-
-_TRASH x 
-
-
-
-(065.152)
-Memória.
-
-_TRASH x 
-
-
-
-(171.422)
-MOTO G5.
-
-_TRASH x 
-
-
-
-(184.463)
-Moto G5.
-
-_TRASH x 
-
-
-
-(198.497)
-Moto G5.
-
-_TRASH x 
-
-
-
-(229.608)
-Speaker.
-
-_TRASH x 
 
 
 
@@ -3183,108 +3346,10 @@ _DUPLICATE x
 
 
 
-(214.534)
-Curiosidade.
-
-_TRASH x 
-
-
-
-(018.040)
-Moto g plus.
-
-_TRASH x 
-
-
-
-(136.333)
-Moto G Plus.
-
-_TRASH x 
-
-
-
-(033.080)
-Moto G5plus.
-
-_TRASH x 
-
-
-
-(147.359)
-Ainda é cedo.
-
-_GENERIC x 
-
-
-
-(056.133)
-Moto G5 Plus.
-
-_TRASH x 
-
-
-
-(109.260)
-Moto G5 Plus.
-
-_TRASH x 
-
-
-
-(153.374)
-MOTOG 5 PLUS.
-
-_TRASH x 
-
-
-
-(096.230)
-Moto g 5 Plus.
-
-_TRASH x 
-
-
-
 (149.363)
 Otimo produto.
 
 _DUPLICATE x 
-
-
-
-(174.440)
-Agora, só Moto G.
-
-_NONE x 
-
-
-
-(072.169)
-Já tive um moto E.
-
-_TRASH x 
-
-
-
-(211.528)
-Xxx xxxx xxx x xx.
-
-_TRASH x 
-
-
-
-(165.405)
-Pouco tempo de uso.
-
-_GENERIC x 
-
-
-
-(072.168)
-Avaliação do produto.
-
-_TRASH x 
 
 
 
@@ -3295,52 +3360,10 @@ _DUPLICATE x
 
 
 
-(110.263)
-Ainda estou avaliando.
-
-_GENERIC x 
-
-
-
 (168.414)
 Uso para falar e web,.
 
 _DUPLICATE x 
-
-
-
-(209.523)
-Ainda não testei muito.
-
-_GENERIC x 
-
-
-
-(164.404)
-Estou experimentando....
-
-_GENERIC x 
-
-
-
-(165.406)
-Estou experimentando....
-
-_GENERIC x 
-
-
-
-(090.214)
-Ainda pouco tempo de uso.
-
-_GENERIC x 
-
-
-
-(004.012)
-Quase nao utilizei ainda.
-
-_GENERIC x 
 
 
 
@@ -3365,80 +3388,10 @@ _DUPLICATE x
 
 
 
-(005.014)
-Ainda descobrindo suas funcionalidades.
-
-_GENERIC x 
-
-
-
-(174.432)
-Meu primeiro Moto G foi o Moto G3 Turbo.
-
-_GENERIC x 
-
-
-
-(174.438)
-Grrrr), e já me encantei com alguns Galaxy.
-
-_NONE x 
-
-
-
-(134.330)
-Não comprei não está havendo algum erro aí..
-
-_TRASH x 
-
-
-
-(127.313)
-Pesquisa de opiniao - compra smartphone moto g5.
-
-_TRASH x 
-
-
-
-(013.031)
-Como foi comprado recentemente está em avaliação.
-
-_GENERIC x 
-
-
-
 (196.494)
 Meu terceiro aparelho Motorola, não me arrependo!
 
 _DUPLICATE x 
-
-
-
-(163.402)
-Ainda estou conhecendo pois não faz 1 mês que adquiri.
-
-_GENERIC x 
-
-
-
-(225.580)
-Primeiramente, moro em um condomínio onde existe portaria 24 horas.
-
-_TRASH x 
-
-
-
-(174.439)
-Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
-
-_NONE x 
-
-
-
-(050.118)
-Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
-
-_TRASH x 
 
 
 
@@ -3449,38 +3402,73 @@ _DUPLICATE x
 
 
 
-(131.323)
-Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+(009.023)
+Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
 
-_TRASH x 
+_DUPLICATE x 
+
+
+
+(072.169)
+Já tive um moto E.
+
+_IRRELEVANT x 
+
+
+
+(134.330)
+Não comprei não está havendo algum erro aí..
+
+_IRRELEVANT x 
 
 
 
 (225.587)
 O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
-_TRASH x 
-
-
-
-(225.581)
-Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
-
-_TRASH x 
+_IRRELEVANT x 
 
 
 
 (127.314)
 Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
 
-_TRASH x 
+_IRRELEVANT x 
 
 
 
 (214.535)
 Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
 
-_TRASH x 
+_IRRELEVANT x 
+
+
+
+(046.109)
+Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+
+_IRRELEVANT x 
+
+
+
+(174.440)
+Agora, só Moto G.
+
+_NONE x 
+
+
+
+(174.438)
+Grrrr), e já me encantei com alguns Galaxy.
+
+_NONE x 
+
+
+
+(174.439)
+Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
+
+_NONE x 
 
 
 
@@ -3491,17 +3479,38 @@ _NONE x
 
 
 
-(009.023)
-Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+(012.028)
+...
 
-_DUPLICATE x 
+_UNINTELLIGIBLE x 
 
 
 
-(046.109)
-Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+(012.029)
+...
 
-_TRASH x 
+_UNINTELLIGIBLE x 
+
+
+
+(148.360)
+Cxb.
+
+_UNINTELLIGIBLE x 
+
+
+
+(211.527)
+Xxx.
+
+_UNINTELLIGIBLE x 
+
+
+
+(211.528)
+Xxx xxxx xxx x xx.
+
+_UNINTELLIGIBLE x 
 
 
 
@@ -3793,6 +3802,14 @@ EMPRESA -
 
 
 
+(186.468)
+O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+
+_DUPLICATE x 
+EMPRESA - 
+
+
+
 (170.421)
 Gostei do fato de ter a televisão e o rádio, pois as vezes em elas são uteis.
 
@@ -3894,14 +3911,6 @@ A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super 
 
 TELA - 
 TELA + 
-
-
-
-(186.468)
-O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
-
-_DUPLICATE x 
-EMPRESA - 
 
 
 
@@ -4118,15 +4127,6 @@ Aparelhjo simples, moderno e com ótimo custo-benefício.
 PRODUTO . 
 PRODUTO + 
 PREÇO + 
-
-
-
-(174.437)
-Já caí na armadilha dos Iphone (itunes..
-
-PRODUTO x 
-PREÇO + 
-PRODUTO x 
 
 
 

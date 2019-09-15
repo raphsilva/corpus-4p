@@ -1,0 +1,2231 @@
+> ID: 10
+
+> Type: Celular
+
+> Product: Smartphone Motorola Moto G 5 Plus XT1683
+
+> Average rating: 9/10 
+
+> Total of reviews: 229
+
+> Crawl date: 17/may/2018 
+
+> Source: www.buscape.com.br/smartphone-motorola-moto-g-5-plus-xt1683
+
+> Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
+
+
+
+# Comentário
+
+(001.001)[] [+][PREÇO] :: Bom custo/benefício.
+
+(001.002)[] [+][PREÇO] :: Muito bom custo/benefício.
+
+
+(001.003)[a] [+][DESEMPENHO] :: Boa velocidade na reprodução de vídeos.
+(001.003)[b] [+][ARMAZENAMENTO] :: bom de espaço de memória.
+
+
+(001.004)[] [+][CÂMERA] :: A câmera também é muito boa.
+
+
+(001.005)[] [+][PRODUTO] :: Recomendo.
+
+
+
+
+(002.006)[] [+][PREÇO] :: Bom custo benefício.
+
+(002.007)[a] [-][CÂMERA] :: A câmera não é das melhores.
+(002.007)[b] [-][DESIGN] :: o design não é dos melhores.
+
+
+(002.008)[a] [+][DESEMPENHO] :: O sistema é rápido.
+(002.008)[a] [+][SISTEMA] :: O sistema é rápido.
+(002.008)[b] [+][TELA] :: display é bastante resistente.
+(002.008)[b] [+][RESISTÊNCIA] :: display é bastante resistente.
+
+
+
+
+(003.009)[] [+][PRODUTO] :: Aparelho intermediário com cara e funções de um top de linha.
+
+(003.010)[a] [+][PRODUTO] :: As pessoas esquecem q esse aparelho é intermediário, não top de linha e como intermediário ele da SHOW, pois ele vai além da sua faixa intermediária.
+(003.010)[b] [+][ARMAZENAMENTO] :: incluindo slot pra 2 chips mais cartão de memória.
+(003.010)[c] [+][BATERIA] :: bateria q dura de 1 a 3 dias.
+(003.010)[d] [+.][OUTRO] :: leitor de digital multifunções
+(003.010)[d] [+.][OUTRO] :: NFC
+(003.010)[d] [+][DESEMPENHO] :: processador octa core 2.0 igual a alguns tops de linha.
+(003.010)[e] [+][CÂMERA] :: câmera q grava em 4k com abertura 1.7 igual a muitos top de linha.
+(003.010)[f] [+][OUTRO] :: TV digital em alta qualidade.
+(003.010)[g] [+][PRODUTO] :: Funcionalidades é melhores ou iguais a maioria dos intermediários.
+
+
+
+
+(004.011)[] [+][PRODUTO] :: Bom.
+
+(004.012)[] [x][PRODUTO] :: Quase nao utilizei ainda.
+
+
+
+
+(005.013)[] [+][PRODUTO] :: Bom aparelho.
+
+(005.014)[] [x][PRODUTO] :: Ainda descobrindo suas funcionalidades.
+
+
+
+
+(006.015)[] [+][PRODUTO] :: Adorei.
+
+(006.016)[a] [+][PRODUTO] :: Produto de muita boa qualidade.
+(006.016)[b] [+][DESEMPENHO] :: eficiente e ágil.
+
+
+(006.017)[] [+][PRODUTO] :: Até o momento não tive problemas com o aparelho.
+
+
+
+
+(007.018)[] [+][PRODUTO] :: Ótimo.
+
+(007.019)[] [+][PRODUTO] :: Excelente.
+
+
+
+
+(008.020)[] [+][PRODUTO] :: Satisfeito.
+
+(008.021)[] [+][PRODUTO] :: Meu 1° aparelho Foi o Motog-1 daí em tão Não quis outra marca ... Por isso dei credibilidade Ao fabricante Motorola..Agora adiquiri o ( Motog-5 plus ) Aparelho sensacional Motorola está de parabéns TKS ....
+
+
+
+
+d(009.022)[] [+][PRODUTO] :: Satisfeito.
+
+d(009.023)[] [+][PRODUTO] :: Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu  ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+
+
+
+
+(010.024)[] [+][PRODUTO] :: Excelente.
+
+(010.025)[] [+][CÂMERA] :: Câmera muito boa.
+
+
+
+
+(011.026)[] [++][PRODUTO] :: Melhor da categoria.
+
+(011.027)[] [+][PRODUTO] :: Show de bola, era o que eu procurava.
+
+
+
+
+u(012.028)[] [+][PRODUTO] :: ...
+
+u(012.029)[] [+][PRODUTO] :: ...
+
+
+
+
+(013.030)[] [+][PRODUTO] :: Satisfeita.
+
+(013.031)[] [x][PRODUTO] :: Como foi comprado recentemente está em avaliação.
+
+
+
+
+(014.032)[] [+][PRODUTO] :: Excelente.
+
+d(014.033)[] [+][PRODUTO] :: Excelente.
+
+
+
+
+(015.034)[] [+][PRODUTO] :: Elogio.
+
+(015.035)[] [+][PRODUTO] :: Gostei do produto, recomendo.
+
+
+
+
+(016.036)[] [+][PRODUTO] :: Excelente.
+
+(016.037)[a] [+][PREÇO] :: Ótimo custo-beneficio.
+(016.037)[b] [+][CÂMERA] :: com destaques para sua câmera, e o moto gestos!!!!
+
+
+
+
+(017.038)[] [+][PRODUTO] :: Satisfeita.
+
+(017.039)[] [+][PRODUTO] :: Útil.
+
+
+
+
+b(018.040)[] [][] :: Moto g plus.
+
+(018.041)[] [+][PRODUTO] :: Muito bom!
+
+
+
+
+(019.042)[] [+][PRODUTO] :: Produto muito bom.
+
+(019.043)[a] [+][PRODUTO] :: Gostei.
+(019.043)[b] [-.][DESEMPENHO] :: eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
+(019.043)[b] [-.][SISTEMA] :: eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
+(019.043)[c] [-][OUTRO] :: uma coisa que falta é a função nativa da transmitir arquivos via Wi-Fi direct.
+
+
+
+
+(020.044)[] [++][PRODUTO] :: Celular perfeito.
+
+(020.045)[] [+][PRODUTO] :: Celular top, muitos recursos.
+
+
+(020.046)[a] [+][BATERIA] :: Boa durabilidade da bateria.
+(020.046)[b] [++][CÂMERA] :: câmeras perfeitas.
+
+
+
+
+b(021.047)[] [][] :: Moto G.
+
+(021.048)[a] [+][PRODUTO] :: O produto é muito bom e atende ao requerido.
+(021.048)[b] [+][USABILIDADE] :: de fácil manuseio.
+(021.048)[c] [+][CÂMERA] :: a câmera é alta qualidade.
+
+
+(021.049)[] [+][PRODUTO] :: Compensa!
+
+
+
+
+(022.050)[] [+][PRODUTO] :: Muito bom!!!
+
+(022.051)[] [+][PRODUTO] :: Recomendo o produto.
+
+
+(022.052)[a] [+][DESIGN] :: Design bonito.
+(022.052)[b] [+][DESEMPENHO] :: processador bom.
+(022.052)[c] [+][BATERIA] :: bateria com ótima duração.
+(022.052)[d] [+][USABILIDADE] :: funções fáceis de usar.
+
+
+(022.053)[] [+][PRODUTO] :: Linha Moto G sempre bacana!
+
+
+
+
+(023.054)[] [+][PRODUTO] :: Muito bom.
+
+(023.055)[] [-][CÂMERA] :: Só acho que devem melhorar a qualidade da câmera tanto traseira quanto frontal.
+
+
+
+
+(024.056)[] [+][PRODUTO] :: Muito útil.
+
+(024.057)[] [+][PRODUTO] :: Muito bom.
+
+
+
+
+(025.058)[] [+][PRODUTO] :: Maravilhoso.
+
+(025.059)[] [+][PRODUTO] :: Todos aqui em casa temos algum modelo da Motorola,mas o G5 plus é um passo à frente de todos os outros.
+
+
+(025.060)[] [+][PRODUTO] :: Vale a pena, não nos deixa apontar um item negativo.
+
+
+
+
+(026.061)[] [+][PREÇO] :: Otimo custo beneficio.
+
+(026.062)[a] [+][DESEMPENHO] :: Destaque para o desempenho em jogos.
+(026.062)[b] [+][CÂMERA] :: Destaque para a câmera.
+
+
+
+
+(027.063)[] [+][PRODUTO] :: Muito bom.
+
+(027.064)[a] [+][PRODUTO] :: Òtimo aparelho.
+(027.064)[b] [+][PREÇO] :: Custo-benefício excelente.
+(027.064)[c] [+][PESO] :: Leve.
+(027.064)[d] [+][USABILIDADE] :: fácil de usar.
+(027.064)[e] [+][CÂMERA] :: Fotos maravilhosas,.
+
+
+
+
+(028.065)[] [+][PREÇO] :: Smartphone com custo-benefício muito bom.
+
+(028.066)[a] [.][PRODUTO] :: Aparelhjo simples
+(028.066)[a] [+][PRODUTO] :: moderno.
+(028.066)[b] [+][PREÇO] :: ótimo custo-benefício.
+
+
+
+
+(029.067)[] [+][PRODUTO] :: Bom.
+
+(029.068)[] [+][USABILIDADE] :: Produto muito fácil de se utilizar.
+
+
+
+
+(030.069)[] [+][PRODUTO] :: Excelente aparelho e tecnologia.
+
+(030.070)[a] [+][PRODUTO] :: Fiz uma ótima compra.
+(030.070)[b] [+][DESIGN] :: celular com um lindo design.
+(030.070)[c] [+][PRODUTO] :: muitas funções
+(030.070)[c] [+][BATERIA] :: bateria que dura bastante.
+(030.070)[d] [+][PREÇO] :: O preço estava bom.
+(030.070)[e] [+][EMPRESA] :: chegou bem rápido.
+
+
+
+
+(031.071)[] [+][PREÇO] :: Excelente custo-benefício.
+
+(031.072)[a] [+][PRODUTO] :: Um celular excelente.
+(031.072)[b] [+][DESEMPENHO] :: rápido.
+(031.072)[c] [+][CÂMERA] :: câmera boa.
+(031.072)[d] [+][PRODUTO] :: funcionalidade boa.
+
+
+(031.073)[] [-][TELA] :: A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED)
+(031.073)[] [+][TELA] :: a nitidez é imbatível (para ler textos por exemplo)
+
+
+(031.074)[] [-][OUTRO] :: O único ponto negativo por enquanto é que o android stock NÃO PERMITE USAR MIRACAST (na TV smart), mesmo o telefone tendo essa opção.
+
+
+(031.075)[] [!][OUTRO] :: Se você fizer root (usuários avançados) consegue usar o miracast, sem precisar comprar o chromecast qe custa uns 300 reais.
+
+
+(031.076)[] [-][TELA] :: Também percebi um bug que quando se carrega o celular, dependendo da capa de proteção não dá pra usar a tela touch (a voltagem interfere na detecção dos toques)
+
+
+(031.077)[] [+][PRODUTO] :: Tirando alguns detalhes, o celular é excelente!
+
+
+
+
+(032.078)[] [+][PRODUTO] :: Muito bom.
+
+(032.079)[] [-][SISTEMA] :: Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
+
+
+
+
+b(033.080)[] [][] :: Moto G5plus.
+
+(033.081)[] [+][PRODUTO] :: Ótimo!
+
+
+
+
+(034.082)[] [+][PRODUTO] :: Excelente aparelho.
+
+(034.083)[] [+][PRODUTO] :: Ótimo smartphone, reúne os melhores atributos de um aparelho premium.
+
+
+
+
+(035.084)[] [+][PRODUTO] :: Ótimo aparelho, está entre os melhores smartphones da linha mediana da atualidad.
+
+(035.085)[] [+][USABILIDADE] :: Fácil de usar e com vários recurso que são encontrados na linha premium.
+
+
+
+
+(036.086)[] [+][PRODUTO] :: Ótimo aparelho intermediário.
+
+(036.087)[a] [+][DESIGN] :: Bonito.
+(036.087)[b] [+][PRODUTO] :: bom hardware.
+(036.087)[c] [+][PREÇO] :: preço honesto.
+(036.087)[d] [+][PRODUTO] :: enfim, cumpre o que promete.
+(036.087)[e] [+][PREÇO] :: ótimo custo/benefício.
+
+
+
+
+(037.088)[] [+][PRODUTO] :: Produto excelente.
+
+(037.089)[a] [+][PRODUTO] :: Produto bom.
+(037.089)[b] [+][USABILIDADE] :: fácil mexer,  até o momento não tenho queixas.
+
+
+(037.090)[] [+][EMPRESA] :: Não tive nenhum a queixa da entrega,  obrigada Kabum pela entrega no prazo.
+
+
+
+
+(038.091)[] [+][PRODUTO] :: Ótimo produto.
+
+(038.092)[] [+][PREÇO] :: Muito superior ao esperado pelo preço.
+
+
+(038.093)[] [+][PRODUTO] :: Ótima recepção e imagens Recomendo!!!!
+
+
+
+
+(039.094)[] [+][PRODUTO] :: Òtimo Celular.
+
+(039.095)[a] [+][PRODUTO] :: Aparelho muito bom, me atende no que preciso no dia a dia.
+(039.095)[b] [+][PREÇO] :: para que pagar mais se pode ter quase o mesmo por menos.
+
+
+
+
+(040.096)[] [+][PRODUTO] :: Excelente produto.
+
+(040.097)[] [+][PRODUTO] :: Muito bom.
+
+
+
+
+(041.098)[] [+][PRODUTO] :: Impecável.
+
+(041.099)[] [+][PREÇO] :: Mto barato e de qualidade.
+
+
+
+
+(042.100)[] [+.][PRODUTO] :: Bom, mas poderia ter versão de 3gb.
+
+(042.101)[] [+][OUTRO] :: Os gestos ajudam bastante no dia a dia
+(042.101)[] [+][DESEMPENHO] :: aparelho é bem rápido
+(042.101)[] [+][OUTRO] ::  e o leitor de digitais dá uma segurança a mais.
+
+
+
+
+(043.102)[] [+][PRODUTO] :: Ótimo atendeu minhas expectativas.
+
+(043.103)[a] [+][DESEMPENHO] :: Estou muito satisfeito com o desempenho.
+(043.103)[b] [-][DESEMPENHO] :: a memória ram poderia ser 3gb.
+
+
+
+
+(044.104)[] [+][PRODUTO] :: MAravilhoso.
+
+(044.105)[a] [+][BATERIA] :: Gostei muito a bateria dura bastante,!!
+(044.105)[b] [-][CÂMERA] :: as funções da câmera podia ser melhor, não tem embeleze , como assim? é não tem, triste!!
+(044.105)[c] [-][OUTRO] :: e o sinal da tv, é enfeite ja rodei , todos os lugares que vou não pega, tenho outro aparelho da concorrência e pega normalmente!!
+
+
+
+
+(045.106)[] [+][PRODUTO] :: Ótimo.
+
+(045.107)[] [+][TAMANHO] :: Muito bom, tamanho ideal.
+
+
+
+
+b(046.108)[] [][] :: Preço.
+
+i(046.109)[] [][] :: Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+
+
+
+
+(047.110)[] [+][PREÇO] :: Ótima relação custo-benefício.
+
+d(047.111)[] [+][PREÇO] :: Ótima relação custo-benefício.
+
+
+
+
+(048.112)[a] [+][PRODUTO] :: Celular bom.
+(048.112)[b] [+][PREÇO] :: Celular barato!
+
+(048.113)[] [++][PREÇO] :: Comparado com outras marcas, atualmente achei que este celular tem o melhor custo-benefício.
+
+
+(048.114)[] [+][PRODUTO] :: Eu possuia um Samsung S5 mas ele parou de funcionar de repente, este motorola G5 é melhor que o S5 em diversas áreas.
+
+
+
+
+(049.115)[] [+][PRODUTO] :: Ótimo aparelho.
+
+(049.116)[a] [+][PRODUTO] :: Na realiza eu comprei para o meu filho, segundo ele, o aparelho é  ótimo, atende quase todas às necessidades.
+(049.116)[b] [-][ARMAZENAMENTO] :: único detalhe contra é que não aceita cartão de memória.
+(049.116)[c] [+][PRODUTO] :: então é tudo de bom, cinco estrelas.
+
+
+
+
+(050.117)[] [+][PRODUTO] :: Ótimo.
+
+b(050.118)[] [][] :: Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+
+
+(050.119)[*] [+][PRODUTO] :: Estou muito satisfeito com o aparelho.
+
+
+
+
+(051.120)[] [+][USABILIDADE] :: Praticidade e qualidade.
+
+(051.121)[a] [+][PRODUTO] :: É um produto com uma ótima qualidade.
+(051.121)[b] [+][USABILIDADE] :: oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
+
+
+(051.122)[*] [+][PRODUTO] :: recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphone.
+
+
+
+
+(052.123)[] [+][PRODUTO] :: Muito bom.
+
+(052.124)[] [+][PRODUTO] :: Otima.
+
+
+
+
+(053.125)[] [+][PREÇO] :: Otimo custo beneficio.
+
+(053.126)[*] [+][PRODUTO] :: Excelente aparelho.
+
+
+(053.127)[a] [+][DESEMPENHO] :: Otimo desempenho.
+(053.127)[b] [+][CÂMERA] :: Otima camera.
+
+
+(053.128)[] [-][SISTEMA] :: Só o software que poderia ter alguns recursos de fábrica a mais, como gravador de voz e ligações.
+
+
+
+
+(054.129)[] [+][PRODUTO] :: Gostei.
+
+(054.130)[a] [+][PRODUTO] :: Aparelho muito bom.
+(054.130)[b] [+][SISTEMA] :: android e bom despacha bem rapido.
+(054.130)[c] [-][CÂMERA] :: só a câmera não é tudo aquilo que é anunciado me decepcionou.
+
+
+
+
+d(055.131)[] [+][PRODUTO] :: Cumpre o que promete.
+
+(055.132)[a] [+][PRODUTO] :: Bom produto, funciona bem.
+(055.132)[b] [+][PREÇO] :: tem bom preço.
+(055.132)[c] [+][PRODUTO] :: cumpre o que promete.
+
+
+
+
+b(056.133)[] [][] :: Moto G5 Plus.
+
+(056.134)[] [+][PRODUTO] :: Celular excelente!
+
+
+
+
+(057.135)[] [+][PRODUTO] :: Muito bom.
+
+(057.136)[] [+][PRODUTO] :: Estou gostando.
+
+
+
+
+(058.137)[] [+][PRODUTO] :: Excelente Aparelho! Recomendo!
+
+(058.138)[] [+][PRODUTO] :: Tenho usado o aparelho desde da 2ª geração, gosto do produto e da marca Motorola/Lenovo, por isso recomendo a todos e principalmente aos meus amigos e familiares.
+
+
+(058.139)[a] [+][PRODUTO] :: Um smartphone com excelentes características.
+(058.139)[b] [+][DESIGN] :: designer moderno.
+(058.139)[c] [+][PREÇO] :: preço bom.
+(058.139)[d] [+][USABILIDADE] :: fácil de usar.
+(058.139)[e] [+][CÂMERA] :: foco, câmera nítidas.
+(058.139)[f] [+][RESISTÊNCIA] :: e a durabilidade também excelente.
+(058.139)[g] [+][PRODUTO] :: Recomendo!
+
+
+
+
+(059.140)[] [+][PRODUTO] :: Excelente.
+
+
+
+
+(060.142)[] [+][PRODUTO] :: Muito bom aparelho.
+
+(060.143)[] [+][PRODUTO] :: Foi presente, mas o presenteado elogiou bastante.
+
+
+
+
+(061.144)[] [+][PREÇO] :: Ótimo custo-beneficio.
+
+(061.145)[] [+][PRODUTO] :: Um dos melhores intermediários.
+
+
+
+
+(062.146)[] [+][PRODUTO] :: Muito bom.
+
+(062.147)[] [+][PRODUTO] :: Atende todas as minha necessidades .
+
+
+
+
+(063.148)[] [+][PRODUTO] :: Satisfeito.
+
+(063.149)[a] [+][PRODUTO] :: Foi meu primeiro Moto que tenho, até o momento estou satisfeito.
+(063.149)[a] [+][OUTRO] :: O sensor digital é muito bem vindo, pois facilita o acesso ao Celular e até alguns aplicativo de bancos.
+(063.149)[b] [-.][DESEMPENHO] :: Estava usando o Chrome que veio instalado e nao sei porque estava travando muito o Celular, instalei o Firefox acabou o problema.
+(063.149)[c] [+][CÂMERA] :: Câmera é bem rápida e de boa qualidade.
+(063.149)[d] [+][PRODUTO] :: Recomendo.
+
+
+
+
+(064.150)[] [+][PRODUTO] :: Produto bom.
+
+(064.151)[] [+][PREÇO] :: Excelente custo-benefício.
+
+
+
+
+b(065.152)[] [][] :: Memória.
+
+(065.153)[] [+][PRODUTO] :: Bom.
+
+
+
+
+(066.154)[] [+][PRODUTO] :: Satisfeito com a compra.
+
+(066.155)[] [+][PRODUTO] :: Era o eu esperava com a compra.
+
+
+
+
+
+(067.157)[] [+][PREÇO] :: Ótimo custo-benifício.
+
+(067.158)[a] [+][SISTEMA] :: Vale a pena principalmente pelo Android puro.
+(067.158)[b] [+][USABILIDADE] :: Vale a pena principalmente pelas Moto Ações que facilitam a usabilidade.
+(067.158)[c] [-][SOM] :: Ponto fraco por possuir apenas um alto-falante.
+(067.158)[d] [-][DESIGN] :: Ponto fraco para design
+(067.158)[d] [-][RESISTÊNCIA] ::  as partes em plástico o tornam frágil.
+
+
+
+
+(068.159)[] [+][PRODUTO] :: Muito bommmm.
+
+(068.160)[] [+.][PRODUTO] :: Facilita a vida de quem vive na tecnologia.
+
+
+
+
+(069.161)[] [+][PRODUTO] :: Ótimo produto.
+
+(069.162)[a] [+][PRODUTO] :: Ótimo aparelho.
+(069.162)[b] [+][PREÇO] :: com preço bom.
+(069.162)[c] [+][PRODUTO] :: e qualidade melhor ainda.
+
+
+
+
+
+(070.164)[] [+][PRODUTO] :: Elogio.
+
+(070.165)[] [+][PRODUTO] :: Faz pouco tempo de uso mas parece um bom aparelho.
+
+
+
+
+(071.166)[] [+][PRODUTO] :: Otimo.
+
+(071.167)[] [+][PRODUTO] :: Excelente.
+
+
+
+
+b(072.168)[] [][] :: Avaliação do produto.
+
+i(072.169)[] [][] :: Já tive um moto E.
+
+
+
+
+(073.170)[] [+][PRODUTO] :: Barato.
+
+(073.171)[] [+][PRODUTO] :: Excelente.
+
+
+
+
+(074.172)[] [+][PRODUTO] :: Bom aparelho, atende na maioria dos requisitos!
+
+(074.173)[a] [+][EMPRESA] :: Entrega rápida.
+(074.173)[b] [+][PRODUTO] :: e até então estou gostando muito do aparelho.
+
+
+
+
+(075.174)[] [+][DESEMPENHO] :: Muito rapido.
+
+(075.175)[] [++][PRODUTO] :: O melhor aparelho que tive ate hoje.
+
+
+
+
+(076.176)[] [+][PRODUTO] :: Excelente!
+
+(076.177)[a] [+][PRODUTO] :: Celular top de linha.
+(076.177)[b] [+][CÂMERA] :: camera muito boa.
+(076.177)[c] [+][PRODUTO] :: excelente aparelho.
+
+
+
+
+(077.178)[] [+][PRODUTO] :: Show.
+
+(077.179)[] [+][PRODUTO] :: Muito bom.
+
+
+
+
+(078.180)[] [+][PRODUTO] :: Excelente.
+
+(078.181)[] [+][PRODUTO] :: O celular atendeu plenamente minhas expectativas.
+
+
+(078.182)[] [+][PRODUTO] :: Pesquisei muito antes de comprar e não me arrependi.
+
+
+(078.183)[a] [+][USABILIDADE] :: Fácil de usar.
+(078.183)[b] [+][DESIGN] :: bonito.
+(078.183)[c] [+][DESEMPENHO] :: processamento muito rápido.
+(078.183)[d] [+][BATERIA] :: bateria que dura bastante.
+
+
+(078.184)[] [+][PRODUTO] :: Recomendo compra.
+
+
+
+
+(079.185)[] [+][PRODUTO] :: Bom aparelho.
+
+(079.186)[] [+][PRODUTO] :: Atendeu as expectativas.
+
+
+
+
+(080.187)[] [+][PRODUTO] :: Satisfeita.
+
+(080.188)[a] [+][PREÇO] :: Tendo em vista seu custo, vale muito a pena...
+(080.188)[b] [-][CÂMERA] :: apenas não gostei muito da câmera, mas quando ao restante estou satisfeita!
+
+
+
+
+(081.189)[] [+][PREÇO] :: Celular com ótimo custo-benefício.
+
+(081.190)[a] [+][EMPRESA] :: Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
+(081.190)[b] [+][PRODUTO] :: produto muito bom, atendendo as expectativas da marca Moto.
+
+
+
+
+(082.191)[] [+][PREÇO] :: Bom custo beneficio.
+
+(082.192)[] [+][PREÇO] :: É um bom custo beneficio.
+
+
+(082.193)[] [+][PRODUTO] :: Vale a pena a compra no segmento de intermediários.
+
+
+
+
+(083.194)[] [+][PRODUTO] :: Um bom produto.
+
+(083.195)[] [+.][PRODUTO] :: É um produto bom mas não contemplou as minhas expectativas.
+
+
+
+
+(084.196)[] [+][PRODUTO] :: Cumpre o que promete.
+
+(084.197)[a] [+][PREÇO] :: Cumpre o que promete com um ótimo custo-benefício.
+(084.197)[b] [+][DESIGN] :: além do desing maravilhoso e ótimo acabamento.
+
+
+
+
+(085.198)[] [+][PRODUTO] :: Ótimo Smartphone.
+
+(085.199)[] [+][PRODUTO] :: Este Smartphone superou a minha expectativa.
+
+(085.200)[] [+][PREÇO] :: Não é tão caro quanto os tops de linha, mas atende muito bem a minha necessidade.
+
+(085.201)[a] [+][ARMAZENAMENTO] :: Ótima memória.
+(085.201)[b] [+][DESEMPENHO] :: muito bom desempenho.
+
+
+(085.202)[] [+][PREÇO] :: Ótimo custo-benefício.
+
+
+
+
+(086.203)[] [+][PREÇO] :: Produto de um ALTO custo beneficio.
+
+(086.204)[] [+][PRODUTO] :: O celular embora seja lançamento e barato consegue bater de frente com a maioria dos celulares atuais e mais utilizados (2016-2017)
+
+
+(086.205)[a] [+.][CÂMERA] :: Sua câmera  é ok para os demais do mercado.
+(086.205)[b] [+][DESEMPENHO] :: seu processador consegue rodar todos os aplicativos-jogos que eu utilizava antes e ate os atuais.
+(086.205)[c] [+][PREÇO] :: tem  um preço ótimo portanto nao me arrependi
+(086.205)[c] [+.][PRODUTO] :: nao tive nenhum problema por enquanto.
+
+
+(086.206)[] [+][EMPRESA] :: A ENTREGA FOI RÁPIDA E MUITO BOA.
+
+
+
+
+(087.207)[] [+][PRODUTO] :: Intermediário de ponta.
+
+(087.208)[] [+][USABILIDADE] :: Até que é fácil de manusear e encontrar as customizações.
+
+
+
+
+(088.209)[] [+][PRODUTO] :: O produto atende as expectativas que eu esperava encontrar.
+
+(088.210)[] [+][USABILIDADE] :: Fácil manuseio.
+
+
+
+
+(089.211)[] [+][PREÇO] :: Muito bom o produto, ótimo custo beneficio.
+
+(089.212)[] [+][PRODUTO] :: Estou usando ainda, mas é muito bom.
+
+
+
+
+(090.213)[] [+][PRODUTO] :: Bom.
+
+(090.214)[] [x][PRODUTO] :: Ainda pouco tempo de uso.
+
+
+
+
+(091.215)[] [+][PREÇO] :: Ótimo custo benefício.
+
+(091.216)[] [+][PRODUTO] :: Boas configurações por um preço razoável.
+
+
+
+
+(092.217)[] [+][PRODUTO] :: Produto muito bom.
+
+(092.218)[] [+][PRODUTO] :: Produto excelente para qualquer ambiente.
+
+
+
+
+(093.219)[] [+][PRODUTO] :: Muito bom!
+
+(093.220)[*] [+][DESEMPENHO] :: Boa velocidade.
+
+
+(093.221)[a] [+][DESIGN] :: Bonito.
+(093.221)[b] [+][PESO] :: leve.
+
+
+(093.222)[] [+][PRODUTO] :: Ótimo produto!
+
+
+
+
+(094.223)[] [+.][PRODUTO] :: Atende o básico em um smartphone.
+
+(094.224)[a] [+][PRODUTO] :: É um excelente aparelho.
+(094.224)[b] [+][SISTEMA] :: já vem com Android 7.
+(094.224)[c] [+][ARMAZENAMENTO] :: com 32GB de armazenamento que é o suficiente para usar sem problemas futuros.
+
+
+(094.225)[a] [+][DESEMPENHO] :: A memória RAM de 2GB dá conta de realizar várias tarefas ao mesmo tempo sem travar.
+(094.225)[b] [+][CÂMERA] :: a câmera melhorou bastante em relação as versões anteriores do Moto G.
+
+
+(094.226)[] [+.][PRODUTO] :: Em resumo: perfeito para uso intermediário no dia a dia.
+
+
+(094.227)[a] [-][BATERIA] :: a duração da bateria que poderia ser melhor.
+(094.227)[b] [-][DESIGN] :: o design que poderia ser melhor.
+
+
+
+
+(095.228)[] [+][PRODUTO] :: Positiva.
+
+(095.229)[] [+][PRODUTO] :: Extremamente satisfeito.
+
+
+
+
+b(096.230)[] [][] :: Moto g  5 Plus.
+
+(096.231)[] [+][PRODUTO] :: Muito bom aparelho.
+(096.231)[] [..][DESEMPENHO] :: apenas começou a esquentar do nada, Resetei e nunca mais esquentou.
+
+
+
+
+(097.232)[] [+][PRODUTO] :: Satisfeitíssimo.
+
+(097.233)[] [+][PRODUTO] :: Sou fã da marca.
+
+
+(097.234)[] [+][SISTEMA] :: Sempre inovando e como sempre, Android puro.
+
+
+
+
+(098.235)[] [+][PREÇO] :: Bom celular pelo custo.
+
+(098.236)[] [.][PRODUTO] :: Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay). 
+(098.237)[] [-][DESEMPENHO] :: Achei o Moto G5 um pouco mais lento e ocasionalmente trava e reinicia sozinho.
+
+
+
+
+(099.238)[] [+][PRODUTO] :: Muito bom.
+
+(099.239)[] [+][OUTRO] :: Quando no wi fi a navegação é bem rápida, no 4G nem tanto.
+
+
+(099.240)[] [-][OUTRO] :: Não tem a opção de excluir uma unica ligação feita ou recebida.
+
+
+
+
+(100.241)[] [+][PRODUTO] :: Produto de boa qualidade.
+
+(100.242)[] [+.][PRODUTO] :: Como é um produto que adquiri a pouco tempo, até o momento não me deu problermas.
+
+
+
+
+(101.243)[] [+][PRODUTO] :: Muito bom.
+
+(101.244)[] [+][PRODUTO] :: Até o momento atende as minhas expectativas.
+
+
+
+
+(102.245)[] [+][PRODUTO] :: QUALIDADE.
+
+(102.246)[] [+][PRODUTO] :: APARELHO DE ÓTIMA QUALIDADE.
+
+
+
+
+(103.247)[] [+][PRODUTO] :: Muito Bom.
+
+(103.248)[] [+][PRODUTO] :: Gostei bastante do produto.
+
+
+
+
+(104.249)[] [+][PRODUTO] :: Excelente.
+
+(104.250)[] [+][PRODUTO] :: Produto ótimo.
+
+
+
+
+(105.251)[] [+][PRODUTO] :: Até que é bom.
+
+(105.252)[a] [+][PRODUTO] :: O celular é bom.
+(105.252)[b] [-][BATERIA] :: bateria dura pouco.
+(105.252)[c] [-][CÂMERA] :: e a camera deixa bastante a desejar.
+
+
+
+
+(106.253)[] [-][EMPRESA] :: NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+
+(106.254)[] [-][EMPRESA] :: COMO VOU SABER, SE NÃO RECEBI.
+
+
+(106.255)[] [--][EMPRESA] :: COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+
+
+
+
+(107.256)[] [+][PREÇO] :: Bom custo/beneficio.
+
+(107.257)[] [+][PRODUTO] :: Gostei do celular.
+
+
+
+
+b(108.258)[] [][] :: Chato.
+
+b(108.259)[] [][] :: Chato.
+
+
+
+
+b(109.260)[] [][] :: Moto G5 Plus.
+
+(109.261)[a] [+.][PRODUTO] :: Duas semanas de uso e tudo bem
+(109.261)[a] [-][BATERIA] :: a bateria não está durando muito.
+(109.261)[b] [-][DESEMPENHO] :: algumas vezes o aparelho esquenta muito, mesmo estando com o Display apagado.
+
+
+
+
+(110.262)[] [.][PRODUTO] :: Diferente.
+
+(110.263)[] [x][PRODUTO] :: Ainda estou avaliando.
+
+
+
+
+(111.264)[] [+][PRODUTO] :: Bom telefone.
+
+(111.265)[a] [+][PRODUTO] :: O aparelho é show.
+(111.265)[b] [+][DESEMPENHO] :: seu desempenho é excelente, principalmente pelo seu valor.
+(111.265)[c] [-][PREÇO] :: seu valor poderia ser um pouco menor.
+
+
+
+
+(112.266)[] [.][PRODUTO] :: Razoável.
+
+(112.267)[] [.][PRODUTO] :: É um aparelho regular.
+
+
+(112.268)[] [-.][PRODUTO] :: Creio que para usuários mais exigentes não compensaria.
+
+
+(112.269)[] [-][RESISTÊNCIA] :: A câmera com uma saliência grande requer cuidados para não danificar.
+
+
+
+
+
+(113.271)[] [+][PRODUTO] :: Adorei.
+
+(113.272)[] [+][USABILIDADE] :: Muito bom o manuseio, configuração ótima.
+
+
+
+
+(114.273)[] [+][PRODUTO] :: Satisfeito.
+
+(114.274)[] [+][PRODUTO] :: Cumpre o que promete.
+
+
+
+
+(115.275)[*] [+][PRODUTO] :: Excelente.
+
+(115.276)[] [+][PRODUTO] :: Gosto muito dos moto g e este supera minhas expectativas.
+
+
+
+
+(116.277)[] [+][PRODUTO] :: Otimo.
+
+(116.278)[a] [+][PRODUTO] :: Muito bom.
+(116.278)[b] [-][BATERIA] :: deixa a desejar na bateria.
+(116.278)[c] [-][DESIGN] :: deixa a desejar no designer.
+
+
+
+
+(117.279)[] [+][PRODUTO] :: Otimo.
+
+(117.280)[] [+][PRODUTO] :: COMPRARIA COM CERTEZA.
+
+
+
+
+(118.281)[] [+][PRODUTO] :: ÓTIMO.
+
+(118.282)[] [+][PRODUTO] :: Adorei, atendeu minhas necessidades.
+
+
+
+
+(119.283)[] [+][PRODUTO] :: SATISFAÇÃO.
+
+(119.284)[] [++][PRODUTO] :: O PRODUTO É MUITO BOM E FUNCIONA PERFEITAMENTE.
+
+
+
+
+
+(120.286)[] [++][PRODUTO] :: Perfeito.
+
+(120.287)[] [+][PRODUTO] :: Bom produto.
+
+
+
+
+(121.288)[] [+][PRODUTO] :: Excelente.
+
+(121.289)[] [+][PRODUTO] :: Satisfeito com a aquisição.
+
+
+
+
+(122.290)[] [+][PRODUTO] :: Maravilhoso!
+
+(122.291)[a] [+][DESIGN] :: Ele é lindo!
+(122.291)[b] [+][DESEMPENHO] :: Super rápido, não trava, processador muito bom!
+(122.291)[c] [+][BATERIA] :: A bateria dura mais de 1 dia, isso usando com frequência!
+(122.291)[d] [++][PRODUTO] :: Tô apaixonada por ele, melhor celular!
+
+
+
+
+(123.292)[] [+][PRODUTO] :: Ótimo celular.
+
+(123.293)[a] [++][CÂMERA] :: A resolução da câmera é perfeita.
+(123.293)[b] [+][OUTRO] :: o audio é muito bom.
+
+
+(123.294)[a] [+][ARMAZENAMENTO] :: A memória é muito boa.
+(123.294)[b] [+][BATERIA] :: a bateria chega a durar 48 horas.
+
+
+
+
+(124.295)[] [+][PRODUTO] :: Muito bom.
+
+(124.296)[] [+][PRODUTO] :: Gostei.
+
+
+
+b(124.298)[] [][] :: Bateria.
+
+
+(124.299)[*] [+][BATERIA] :: Dura bastante tempo.
+
+
+
+
+(125.300)[a] [+][PREÇO] :: Produto custo beneficio bom.
+(125.300)[b] [-][PREÇO] :: poderia ter um preço melhor.
+
+(125.301)[] [+][PRODUTO] :: O meu Smartphone só tem um mês, então minha avaliação ainda é superficial, por enquanto me surpreendeu eu tinha o Smartphone Motorola G4 Plus que eu gostava muito também, mas fui assaltada, e na hora de comprar um novo optei em comprar a nova versão e me surpreendi, estou gostando muito
+(125.301)[] [+][OUTRO] :: ele tem mais precisão e o reconhecimento digital e bem superior ao G4plus.
+
+
+
+
+
+(126.303)[] [+.][PRODUTO] :: Bom mas pode melhorar. 
+
+(126.304)[] [.][PRODUTO] :: Na verdade faço comparação com a Samsung pois era o que eu tinha.
+
+
+
+(126.305)[] [-][CÂMERA] :: A câmera tem menos estabilidade, sinto de alguns app's exclusivos da série Galaxy.
+
+
+(126.306)[] [-][OUTRO] :: A tv não tem boa recepção.
+
+
+(126.307)[] [-][ACESSÓRIO] :: O fone que vem com o aparelho não tem boa qualidade.
+
+
+(126.308)[] [+][DESIGN] :: O aparelho é bonito.
+
+
+(126.309)[] [+][TELA] :: A tela é bem brilhante.
+
+
+(126.310)[] [-][OUTRO] :: Os sub ícones como sinal do wi fi poderia ser mais destacados e amigáveis.
+
+
+(126.311)[a] [+][DESEMPENHO] :: Ele é rápido.
+(126.311)[b] [+][ARMAZENAMENTO] :: ele tem boa memória.
+
+
+(126.312)[a] [+][PRODUTO] :: Bem...é bem legal.
+(126.312)[b] [-][EMPRESA] :: faltou um pouco de capricho pelo fabricante.
+
+
+
+
+b(127.313)[] [][] :: Pesquisa de opiniao - compra smartphone moto g5.
+
+i(127.314)[] [][] :: Meu aparelho não é o moto g5 plus e sim o :: Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
+
+
+
+
+(128.315)[] [+][PRODUTO] :: Bom produto.
+
+(128.316)[a] [+][PRODUTO] :: Um bom produto.
+(128.316)[b] [+][ARMAZENAMENTO] :: com muita memória.
+(128.316)[c] [+][DESIGN] :: aparelho muito bonito.
+(128.316)[d] [+][OUTRO] :: recomendo por ter algo a mais que é através da digital a sua segurança, foi o que me chamou a minha atenção.
+
+
+
+
+(129.317)[] [+][PRODUTO] :: Plenamente satisfatório.
+
+(129.318)[] [+][OUTRO] :: Gostei do assistente de configuração que importou totalmente os aplicativos existentes no celular Moto E antigo.
+
+
+
+
+(130.319)[] [+][PREÇO] :: Ótimo custo benefício.
+
+(130.320)[] [++][PREÇO] :: Melhor celular na sua faixa de preço.
+
+
+(130.321)[] [+][DESEMPENHO] :: Bom desempenho.
+
+
+(130.322)[] [+][CÂMERA] :: Câmera muito boa.
+
+
+
+
+b(131.323)[] [][] :: Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+
+(131.324)[] [X][PRODUTO] :: Olha realmente tenho esse produto que comprei mas lojas americanas
+(131.324)[] [-][TELA] :: ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
+
+
+
+
+(132.325)[] [+][PRODUTO] :: Elogio.
+
+(132.326)[] [+][PRODUTO] :: Ótimo Celular! adorei!
+
+
+
+
+(133.327)[] [+][PRODUTO] :: Bom Produto.
+
+(133.328)[a] [+][PRODUTO] :: Gostei do produto.
+(133.328)[b] [-][BATERIA] :: apenas a bateria a bateria podia ser melhor.
+
+
+
+
+b(134.329)[] [+][PRODUTO] :: Otima.
+
+i(134.330)[] [+][PRODUTO] :: Não comprei não está havendo algum erro aí..
+
+
+
+
+(135.331)[] [+][PRODUTO] :: Nota 10.
+
+(135.332)[] [+][PRODUTO] :: Muito satisfeito.
+
+
+
+
+b(136.333)[] [][] :: Moto G Plus.
+
+(136.334)[] [+][PRODUTO] :: Ótimo!
+
+
+
+
+(137.335)[] [+][PRODUTO] :: Recomendo.
+
+(137.336)[] [+][PRODUTO] :: Muito bom e fácil.
+
+
+
+
+(138.337)[] [+][PRODUTO] :: Excelente.
+
+(138.338)[a] [+][PREÇO] :: Celular de ótimo custo-benefício.
+(138.338)[b] [+][EMPRESA] :: entregue antes do prazo.
+
+
+(138.339)[] [+][PRODUTO] :: Recomendo.
+
+
+
+
+(139.340)[] [+][PRODUTO] :: Gostei.
+
+(139.341)[a] [+][SISTEMA] :: Celular com Android 7.0.
+(139.341)[b] [+][PRODUTO] :: Celular com bons recursos.
+(139.341)[c] [+][BATERIA] :: Celular com boa bateria.
+(139.341)[d] [+][CÂMERA] :: Celular com boa câmera.
+(139.341)[e] [+][PREÇO] :: Celular com bom custo benefício.
+
+
+
+
+
+(140.343)[] [+][PRODUTO] :: Aprovado!
+
+(140.344)[] [+][PRODUTO] :: O produto atingiu as minhas expectativas.
+
+
+
+
+(141.345)[] [+][PRODUTO] :: Recomendo.
+
+(141.346)[] [+][PRODUTO] :: Ótimo produto..
+
+
+(141.347)[*] [+][CÂMERA] :: Câmera muito boa.
+
+
+
+
+(142.348)[] [+][PRODUTO] :: Produto excelente.
+
+(142.349)[] [X][PRODUTO] :: Foi presente.
+
+
+
+
+(143.350)[] [+][PRODUTO] :: Muito bom.
+
+(143.351)[a] [+][DESEMPENHO] :: Rápido ...
+(143.351)[b] [+][USABILIDADE] :: facil de usar ...
+
+
+
+
+(144.352)[] [+][PRODUTO] :: Otimo.
+
+(144.353)[] [+][PRODUTO] :: Até o momento estou adorando o aparelho.
+
+
+
+
+(145.354)[] [+][PRODUTO] :: Excelente.
+
+(145.355)[a] [+][DESIGN] :: Aparelho design excelente.
+(145.355)[b] [+][USABILIDADE] :: facilidade de uso.
+(145.355)[c] [+][PRODUTO] :: muito bom respondeu todas expectativas,.
+
+
+
+
+(146.356)[] [+][PRODUTO] :: APARELHO NA COR OURO MUITO LEGAL.
+
+(146.357)[a] [+][DESIGN] :: APARELHO MUITO BONITO.
+(146.357)[b] [+][PRODUTO] :: APARELHO FUNCIONAL ACERTEI NA COMPRA POIS SÓ GOSTO DA MARCA MOTOROLA (MOTO G 5).
+
+
+
+
+(147.358)[] [+][PRODUTO] :: Bom produto.
+
+(147.359)[] [x][PRODUTO] :: Ainda é cedo.
+
+
+
+
+u(148.360)[] [+][PRODUTO] :: Cxb.
+
+(148.361)[] [+][PREÇO] :: Bom.
+
+
+
+
+(149.362)[] [+][PRODUTO] :: Otimo produto.
+
+d(149.363)[] [+][PRODUTO] :: Otimo produto.
+
+
+
+
+(150.364)[*] [.][PRODUTO] :: Razoável.
+
+(150.365)[a] [.][PRODUTO] :: Aparelho Razoável.
+(150.365)[b] [-][ARMAZENAMENTO] :: pouca memória para os recursos que possui
+(150.365)[c] [-][CÂMERA] :: a câmera está abaixo da categoria.
+(150.365)[d] [-][TELA] :: a tela está abaixo da categoria.
+(150.365)[e] [-][BATERIA] :: a duração da bateria deixa a desejar, pois um dia que se tenha uma maior conversação ou se decida usar os recursos de TV que o aparelho fornece ela se esgota rapidamente.
+
+
+(150.366)[] [-.][DESEMPENHO] :: Para um uso simples, apenas internet, redes sociais, email e uma ou outro ligação o aparelho atende, mas um uso um pouco mais intenso dos recursos o aparelho não suporta.
+
+
+(150.367)[*] [!][RESISTÊNCIA] :: Recomendo que seja comprada uma capa de proteção
+(150.367)[*] [-][RESISTÊNCIA] :: o aparelho é muito liso e facilmente escapa da mão.
+
+
+
+
+(151.368)[*] [+][PRODUTO] :: Ótimo.
+
+d(151.369)[] [+][PRODUTO] :: Ótimo.
+
+
+
+
+(152.370)[] [+][PREÇO] :: Produto de excelente custo-benefício.
+
+(152.371)[] [+][PRODUTO] :: Estou com o smartphone há mais ou menos 1 mês e só tenho elogios.
+
+
+(152.372)[a] [+][BATERIA] :: Bateria muito boa que aguenta até mais de um dia sem recarregar com minha experiência de uso.
+(152.372)[b] [+][TELA] :: display excelente e com cores vívidas.
+(152.372)[c] [+][DESEMPENHO] :: um processador muito bom que otimiza demais o uso no dia-a-dia.
+
+
+(152.373)[] [+][PRODUTO] :: Recomendo!
+
+
+
+
+b(153.374)[] [][] :: MOTOG 5 PLUS.
+
+(153.375)[a] [+][DESEMPENHO] :: Processador rápido.
+(153.375)[b] [+][BATERIA] :: duração da bateria excelente!
+
+
+
+
+(154.376)[] [+][PRODUTO] :: Bom produto.
+
+(154.377)[] [+][SISTEMA] :: Gosto do Android quase puro e a Motorola atualiza o sistema operacional mais rápido que os demais fabricantes.
+
+
+(154.378)[] [+][SISTEMA] :: O Android 7.0 é muito bom.
+
+
+(154.379)[] [+][OUTRO] :: A função de dividir a tela e usar dois aplicativos simultaneamente é ótima.
+
+
+
+
+
+(155.381)[] [+][PRODUTO] :: Ótima surpresa!
+
+(155.382)[] [+][PRODUTO] :: Ótimo produto!
+
+
+
+
+(156.383)[] [+][PRODUTO] :: Ótimo aparelho.
+
+(156.384)[a] [+][DESIGN] :: Design muito bonito.
+(156.384)[b] [+][DESEMPENHO] :: rápido.
+(156.384)[c] [+][BATERIA] :: boa duração de bateria.
+
+
+
+
+(157.385)[] [+][PREÇO] :: Custo beneficio.
+
+(157.386)[a] [+][PRODUTO] :: Aparelho excelente.
+(157.386)[b] [-][BATERIA] :: a durabilidade da bateria que não dura 12 horas vc usando as redes sociais mas tirando isto estou satisfeita com o produto.
+
+
+
+
+(158.387)[] [+][PRODUTO] :: Bom produto.
+
+(158.388)[] [+][PRODUTO] :: Bacana.
+
+
+
+
+(159.389)[] [+][PRODUTO] :: Moto G5 plus ótimo.
+
+(159.390)[a] [+][PRODUTO] :: Adorei esse é o meu primeiro Motorola e estou muito satisfeita.
+(159.390)[b] [+][CÂMERA] :: boa câmera qualidade de imagem.
+(159.390)[c] [+][OUTRO] :: adoro ver TV em HD  nele.
+(159.390)[d] [+][DESEMPENHO] :: uso as redes sociais numa boa sem problemas ou travamentos.
+
+
+(159.391)[] [+][PRODUTO] :: Recomendo.
+
+
+
+
+
+(160.393)[] [+][PRODUTO] :: Exelente produto.
+
+(160.394)[a] [+][PRODUTO] :: Produto de alta qualidade.
+(160.394)[b] [+][ARMAZENAMENTO] :: com espaço interno de bom tamanho.
+(160.394)[c] [+][CÂMERA] :: câmeras frontal e traseira com qualidade muito boa.
+
+
+(160.395)[a] [+][DESEMPENHO] :: Para jogos não se discute roda qualquer jogo.
+(160.395)[b] [+][TELA] :: com uma tela de ótimo tamanho.
+(160.395)[c] [++][PREÇO] :: para mim melhor custo benefício do mercado.
+
+
+
+
+(161.396)[] [+][PRODUTO] :: Produto excelente.
+
+(161.397)[] [+][PRODUTO] :: Atende as expectativas.
+
+
+
+
+(162.398)[] [+][PRODUTO] :: Excelente.
+
+(162.399)[] [++][PRODUTO] :: Smartphone muito bom perfeito.
+
+
+(162.400)[] [+][PRODUTO] :: Recomendo.
+
+
+
+
+(163.401)[] [+][PRODUTO] :: Moderno.
+
+(163.402)[] [x][PRODUTO] :: Ainda estou conhecendo pois não faz 1 mês que adquiri.
+
+
+
+
+(164.403)[] [+][PRODUTO] :: Produto bom.
+
+(164.404)[] [x][PRODUTO] :: Estou experimentando....
+
+
+
+
+(165.405)[] [x][PRODUTO] :: Pouco tempo de uso.  
+
+(165.406)[] [x][PRODUTO] :: Estou experimentando....
+
+
+
+(166.407)[a] [+][DESIGN] :: Lindo.
+(166.407)[b] [+][PRODUTO] :: inovador.
+
+(166.408)[a] [+][PRODUTO] :: Gostei do celular em todos aspectos
+(166.408)[a] [+][OUTRO] :: Gostei em especial do toque digital.
+(166.408)[b] [+][DESEMPENHO] :: Gostei da rapidez no processamento.
+(166.408)[c] [+][CÂMERA] :: Gostei da câmera.
+
+
+
+
+(167.409)[] [+][PREÇO] :: Bom custo benefício.
+
+(167.410)[a] [+][PRODUTO] :: Celular bem completo.
+(167.410)[b] [+][CÂMERA] :: celular com ponto forte na qualidade das fotos.
+
+
+(167.411)[] [+][PREÇO] :: Vale a pena pelo custo benefício.
+
+
+
+
+
+b(168.413)[] [+][PRODUTO] :: Celular.
+
+d(168.414)[] [X][PRODUTO] :: Uso para falar e web,.
+
+
+
+
+(169.415)[] [+][PRODUTO] :: Bom.
+
+(169.416)[] [X][PRODUTO] :: Uso para falar e web,.
+
+
+
+
+(170.417)[] [+][PRODUTO] :: Aparelho Bom, porém com algumas limitações.
+
+(170.418)[a] [+][PRODUTO] :: O Aparelho é bom.
+(170.418)[b] [+][PREÇO] :: no tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
+
+
+(170.419)[] [-][ARMAZENAMENTO] :: Para mim, a memória interna deveria ser aumentada, pois o Android quase ocupa toda ela.
+
+
+(170.420)[] [.][BATERIA] :: A bateria está no razoável, pois um dia de conversação mais intensa ira acabar com a mesma.
+
+
+(170.421)[a] [+][OUTRO] :: Gostei do fato de ter a televisão, pois as vezes é útil.
+(170.421)[b] [+][OUTRO] :: Gostei do fato de ter o rádio, pois as vezes é útil.
+
+
+
+
+b(171.422)[] [][] :: MOTO G5.
+
+(171.423)[] [.][PRODUTO] :: NORMAL.
+
+
+
+
+(172.424)[] [+][PRODUTO] :: Bom produto.
+
+(172.425)[] [+][CÂMERA] :: Muito bem sua câmera.
+
+
+
+
+(173.426)[] [+][PREÇO] :: Excelente custo benefício.
+
+(173.427)[] [+][PRODUTO] :: Eu sempre comprei Samsung e fiquei apreensivo quanto a um Motorola.
+
+
+(173.428)[] [+][PRODUTO] :: Mas não me arrependi.
+
+
+(173.429)[a] [+][PRODUTO] :: Funciona com desenvoltura, tem bons recursos, não trava (diferente de alguns comentários que li, não sei o que possa ter acontecido), enfim, estou contentíssimo com o produto.
+(173.429)[b] [+][DESIGN] :: design elegante.
+
+
+(173.430)[] [+][PREÇO] :: Não há smartphone perfeito, mas pela sua faixa de preço atende muito bem.
+
+
+
+
+(174.431)[] [++][PREÇO] :: Sem comparação, o melhor custo benefício da história.
+
+(174.432)[] [x][PRODUTO] :: Meu primeiro Moto G foi o Moto G3 Turbo. 
+
+(174.433)[] [+][PRODUTO] :: Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
+
+
+(174.434)[] [+][PREÇO] :: Para ter mais do que ele oferece, você vai ter que gastar o dobro em aparelhos como Galaxy S8 ou Iphone 9999s, que custam 3k.
+
+
+(174.435)[] [+][BATERIA] ::Esse aqui não trava e a bateria dura, DE FATO, 1 dia inteiro.
+
+
+(174.436)[] [-][DESEMPENHO] :: Pena não vender no Brasil a versão americana com 4GB de RAM e 64GB de memória interna (o meu é esse)
+
+
+(174.437)[*] [+][PRODUTO] :: Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
+
+
+
+
+
+
+(175.441)[] [+][PRODUTO] :: Amando meu Moto G plus.
+
+(175.442)[] [X][PRODUTO] :: Adquiri há 1 mês
+(175.442)[] [+][DESIGN] :: Aparelho mais bonito pessoalmente (dourado).
+(175.442)[] [+][CÂMERA] :: Câmera incrível.
+(175.442)[] [++][DESIGN] :: designer perfeito.
+(175.442)[] [+][DESEMPENHO] :: super rápido.
+(175.442)[] [+][BATERIA] :: carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).
+(175.442)[] [+][OUTRO] :: O diferencial dele é a TV, foi por isso que adquiri esse modelo.
+
+
+(175.443)[] [+][OUTRO] :: Pega vários canais em imagem hd.
+(175.443)[] [+][PREÇO] :: Consegui uma promoção incrível pelo extra que de 1499 saiu por 879,00 a vista e por esse preço tenho certeza que não encontraria um celular desse nível.
+(175.443)[] [+][PRODUTO] :: Alguns comentam que o Moto g retrocedeu, tenho que discordar.
+
+
+(175.444)[] [+][TAMANHO] :: Diminuiu o seu tamanho.
+(175.444)[] [+][DESEMPENHO] :: o processador deixou o aparelho voando
+(175.444)[] [+][PRODUTO] :: Muito feliz e satisfeita. 
+(175.444)[] [+][PRODUTO] :: Super indico.
+
+
+
+
+(176.445)[] [+][PRODUTO] :: Excelente produto.
+
+(176.446)[] [+][PRODUTO] :: Excelente produto, atende todas as minhas necessidades.
+
+
+
+
+(177.447)[] [+][PRODUTO] :: Otimo.
+
+(177.448)[] [+][PRODUTO] :: Amo motorola.
+
+
+
+
+(178.449)[] [+][PRODUTO] :: Muito bom.
+
+(178.450)[] [+][PREÇO] :: Boa relação custo benefício.
+
+
+
+
+(179.451)[] [+][PRODUTO] :: Excelente.
+
+(179.452)[] [+][PRODUTO] :: Produto nota 10 em tudo.
+
+
+
+
+(180.453)[] [+][PRODUTO] :: Ótimo smartphone.
+
+(180.454)[] [+][BATERIA] :: Boa duração da bateria.
+(180.454)[] [+][TELA] :: tela com bom tamanho.
+(180.454)[] [+][DESIGN] :: fino.
+(180.454)[] [+][PESO] :: leve.
+
+
+
+
+(181.455)[] [+][PRODUTO] :: Satisfeita e feliz !
+
+(181.456)[] [+][PREÇO] :: Comprei pelo custo benefício, e levei muito mais que um bom preço.
+
+
+(181.457)[] [+][PRODUTO] :: Celular de qualidade.
+(181.457)[] [+][DESIGN] :: Celular lindo.
+(181.457)[] [+][BATERIA] :: Celular com uma bateria super durável.
+
+
+(181.458)[] [++][PRODUTO] :: Ainda estou aprendendo a mexer nele, mas até o momento posso afirmar que é o melhor celular que tive.
+
+
+
+
+(182.459)[] [+][PRODUTO] :: Ótimo.
+
+(182.460)[] [+][PREÇO] :: Um dos melhores aparelhos pelo preço
+(182.460)[] [-][DESIGN] :: deveria ter acabamento mais refinado.
+
+
+
+
+d(183.461)[] [+][PREÇO] :: Excelente Custo benefício.
+
+(183.462)[] [+][PREÇO] :: Excelente Custo benefício.
+(183.462)[] [+][PRODUTO] :: celular muito bom, não precisa mais q isso.
+
+
+
+
+b(184.463)[] [][] :: Moto G5.
+
+(184.464)[] [+][PRODUTO] :: Ótimo produto.
+(184.464)[] [+][EMPRESA] :: entrega rápida.
+(184.464)[] [-][DESEMPENHO] :: só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
+
+
+
+
+(185.465)[] [+][PRODUTO] :: Aprovado!
+
+(185.466)[] [+][PRODUTO] :: Ótimo smartphone!
+(185.466)[] [+][BATERIA] :: Bateria de longa duração.
+(185.466)[] [+][TELA] :: boa tela.
+(185.466)[] [+][CÂMERA] :: ótima câmera.
+
+
+
+
+(186.467)[] [+][PRODUTO] :: O produto é muito bom.
+(186.467)[] [-][EMPRESA] :: não comprei na empresa efacil, empresa ruim.
+
+d(186.468)[] [+][PRODUTO] :: O produto é muito bom.
+(186.468)[] [-][EMPRESA] :: não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+
+
+(186.469)[] [-][EMPRESA] :: Por isso cancelei a compra e adquiri em outra empresa.
+
+
+
+
+(187.470)[] [+][PRODUTO] :: Muito bom produto.
+
+(187.471)[] [+][PREÇO] :: Custo beneficio muito bom.
+
+
+
+
+(188.472)[] [+][PRODUTO] :: Um dos melhores aparelhos intermediarios de 2017.
+
+(188.473)[] [+][PRODUTO] :: Sem muitos rodeios, o aparelho tem me agradado bastante em praticamente todos os aspectos.
+
+
+(188.474)[] [+][CÂMERA] :: Destaque para a camera traseira que tira ótimas fotos.
+
+
+(188.475)[] [+][PRODUTO] :: Eu comprei esse aparelho depois de varios reviews de outros smartphone nessa faixa de preço e não me decepcionei.
+
+
+(188.476)[] [-][DESEMPENHO] :: Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel.
+(188.476)[] [+][PREÇO] :: na sua faixa de preço ainda está valendo a pena.
+
+
+
+
+(189.477)[] [+][PREÇO] :: Bom custo benefício.
+
+(189.478)[] [+][PRODUTO] :: Ótimo aparelho.
+
+
+(189.479)[] [-][ACESSÓRIO] :: O que falta é um bom manual de uso.
+
+
+
+
+(190.480)[] [+][USABILIDADE] :: Pratico e simples.
+
+(190.481)[] [+][USABILIDADE] :: Pratico.
+
+
+
+
+(191.482)[] [++][PREÇO] :: Melhor Custo Beneficio.
+
+
+
+
+(192.484)[] [+][PRODUTO] :: Ótimo celular.
+
+(192.485)[] [X][PRODUTO] :: Eu estou aprendendo ainda algumas funcionalidades do produto.
+
+
+(192.486)[] [+][PRODUTO] :: ele é muito bom nas funcionalidades que já usei.
+
+
+
+
+(193.487)[] [+][DESEMPENHO] :: Moto g 5 plus ótimo desempenho.
+
+(193.488)[] [+][DESEMPENHO] :: Muito rápido!
+
+
+
+
+(194.489)[] [+][PRODUTO] :: Bom.
+
+(194.490)[] [-][ACESSÓRIO] :: O celular realmente é bom mas o fone de ouvido deixa a desejar, machuca o ouvido e incomoda bastante.
+
+
+
+
+(195.491)[] [+][PRODUTO] :: Mais um produto de qualidade!
+
+(195.492)[] [+][PRODUTO] :: Meu terceiro aparelho da Motorola, não me arrependo!
+
+
+
+
+d(196.493)[] [+][PRODUTO] :: Mais um produto de alta qualidade!
+
+d(196.494)[] [+][PRODUTO] :: Meu terceiro aparelho Motorola, não me arrependo!
+
+
+
+
+(197.495)[] [+][PRODUTO] :: Ótimo.
+
+(197.496)[] [+][PREÇO] :: Eu recomendo, custo beneficio são ótimo.
+
+
+
+
+b(198.497)[] [][] :: Moto G5.
+
+(198.498)[] [+][PRODUTO] :: Gosto muito dele e quero muito ganhar o iPad.
+
+
+
+
+(199.499)[] [+][PRODUTO] :: Maravilhoso.
+
+(199.500)[] [+][PRODUTO] :: Ótimo aparelho.
+(199.500)[] [+][BATERIA] :: bateria dura até o fim do dia tranquilo.
+
+
+(199.501)[] [+][DESEMPENHO] :: Não trava e não engasga.
+
+
+(199.502)[] [+][PRODUTO] :: Recomendo!
+
+
+
+
+(200.503)[] [+][PREÇO] :: Custo Benefício Bom.
+
+(200.504)[] [+][DESEMPENHO] :: Aparelho eficiente, sem frescuras e bem performático.
+
+
+
+
+(201.505)[] [+][PRODUTO] :: Muito bom.
+
+(201.506)[] [+][PRODUTO] :: É um ótimo produto.
+
+
+(201.507)[] [+][DESEMPENHO] :: Bastante rápido e tem o desempenho comparável aos top de linha, mesmo sendo um da categoria intermediário.
+
+
+
+
+(202.508)[] [+][PRODUTO] :: Mais um aparelho de qualidade!
+
+(202.509)[] [+][PRODUTO] :: Meu terceiro smartphone da linha e mais um produto de qualidade!
+
+
+
+
+(203.510)[] [+][PRODUTO] :: Recomendado.
+
+(203.511)[] [+][PRODUTO] :: Atendeu as expectativas.
+
+
+
+
+(204.512)[] [+][PRODUTO] :: Mais um Smartphone padrão MOTO!
+
+(204.513)[] [+][PRODUTO] :: Ja é meu terceiro aparelho da linha MOTO G! Mais uma vez um aparelho ótimo!
+
+
+
+
+(205.514)[] [+][PRODUTO] :: Mais um aparelho maravilhoso!
+
+(205.515)[] [+][PRODUTO] :: Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+
+
+
+
+(206.516)[] [+][PRODUTO] :: Como sempre um produto sem igual!
+
+d(206.517)[] [+][PRODUTO] :: Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+
+
+
+
+(207.518)[] [+][PRODUTO] :: Como sempre um produto que atende as expectativas do comprador!
+
+(207.519)[] [+][PRODUTO] :: Este é o meu terceiro aparelho da Motorola e não compraria outro!
+
+
+
+
+(208.520)[] [+][PRODUTO] :: Ótimo smartphone
+(208.520)[] [-][PREÇO] :: custo benefício baixo.
+
+(208.521)[] [+][PRODUTO] :: E um ótimo smartphone.
+(208.521)[] [+][DESIGN] :: smartphone com um design que agrada, os detalhes são bem feitos.
+(208.521)[] [+][DESEMPENHO] :: smartphone rápido
+(208.521)[] [-][DESEMPENHO] :: Apesar de ser rápido a memória ram ainda é baixa.
+(208.521)[] [-][PREÇO] :: o preço é muito alto em relação aos benefícios que o aparelho entrega.
+
+
+(208.522)[] [+.][PRODUTO] :: Recomendo porém se o valor estiver na faixa de 1.100.
+
+
+
+
+(209.523)[] [x][PRODUTO] :: Ainda não testei muito.
+
+(209.524)[] [+][BATERIA] :: Compra recente não testei muito, mas a bateria está durando bastante!
+(209.524)[] [-][CÂMERA] :: A câmera com zoom perde bastante qualidade.
+
+
+
+
+(210.525)[] [+][DESIGN] :: Lindo.
+
+(210.526)[] [+][BATERIA] :: Achei que a duração da bateria é um excelente ponto.
+(210.526)[] [+][CÂMERA] :: Achei que a qualidade da câmera é um excelente ponto.
+(210.526)[] [+][DESEMPENHO] :: o principal é que os oito processadores cumprem muito bem sua função!
+
+
+
+
+u(211.527)[] [+][PRODUTO] :: Xxx.
+
+u(211.528)[] [+][PRODUTO] :: Xxx xxxx xxx x xx.
+
+
+
+
+(212.529)[] [+][PREÇO] :: Otimo custo-beneficio.
+
+(212.530)[] [+][PRODUTO] :: Este smathphone me surpreendeu positivamente.
+
+
+(212.531)[] [+][PRODUTO] :: Ainda não conheço todos os recursos tecnológicos, mas estou muito satisfeito!
+
+
+
+
+(213.532)[] [+][PRODUTO] :: Muito bom . Recomendo .
+
+(213.533)[] [+][DESIGN] :: Produto bonito.
+(213.533)[] [+][CÂMERA] :: câmera boa.
+(213.533)[] [+][SISTEMA] :: Android puro.
+(213.533)[] [++][PREÇO] :: detalhes fazem dele o melhor custo benefício da categoria.
+
+
+
+
+b(214.534)[] [][] :: Curiosidade.
+
+i(214.535)[] [][] :: Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
+
+
+
+
+(215.536)[] [-][PRODUTO] :: O produto e intermediario digamos que pobre tem que tomar no *** memo.
+
+(215.537)[] [-][EMPRESA] :: Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+
+
+(215.538)[] [-][EMPRESA] :: Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
+
+
+(215.539)[] [-][PRODUTO] :: E se vcs quiserem celular bom indico que procurem um iphone da apple  mesmo versões mais antigas pois nunca perdem valor de mercado apple e apple...
+
+
+
+
+
+
+
+
+
+
+(216.540)[] [-][PRODUTO] :: NÃO COMPRE.
+
+(216.541)[] [-][BATERIA] :: O moto G5 Plus tem um sério problema na bateria.
+
+
+(216.542)[] [-][RESISTÊNCIA] :: Comprei o aparelho e depois de três meses ele já apresentou problemas. O telefone desliga sozinho, mesmo a bateria apresentando carga. Há dificuldade para religá-lo.
+
+(216.543)[] [-][BATERIA] :: O telefone desliga sozinho, mesmo a bateria apresentando carga.
+
+(216.544)[] [-][PRODUTO] :: Há dificuldade para religá-lo.
+
+
+(216.545)[] [--][PRODUTO] :: Foi o pior aparelho que já comprei, não recomendo para ninguem.
+
+
+
+(216.546)[] [--][EMPRESA] :: Motorola nunca mais!
+
+
+
+
+(217.547)[] [-][RESISTÊNCIA] :: Desligou sozinho e parau de funcionar.
+
+(217.548)[] [-][RESISTÊNCIA] :: O aparelho é muito bom, mas com 2 semanas de uso ele apagou e não funcionou mais, nesse momento esta na assistencia tecnica,, Uma decepção total, espero que consertem e volte sem mais aborrecimentos...
+
+
+
+
+(218.549)[] [+][PRODUTO] :: Bom produto.
+
+(218.550)[] [+][PRODUTO] :: Produto simples e que atende as principais funções do dia a dia.
+
+
+(218.551)[] [-][DESEMPENHO] :: Porém em algumas situações ele trava.
+
+(218.552)[] [-][PRODUTO] :: Já resetei o produto mas não resolveu o problema.
+
+
+
+(219.553)[] [-][RESISTÊNCIA] :: Regular pois na primeira semana de uso tive que enviar ele para a assistência.
+
+(219.554)[] [-][PRODUTO] :: Minha experiência infelizmente não foi boa já que o aparelho corrompeu 2 cartões sd um de 64gb e outro de 128gb, na primeira semana de uso tive que enviar ele para a assistência, a motorola não se responsabiliza pelos cartões sd que o aparelho corrompeu, e até agora não consegui testar o aparelho novamente pois vou ter que arcar com a compra de outro cartão para fazer o teste, já imaginando que posso vir a perder esse também.
+
+
+
+
+(220.555)[] [-][DESEMPENHO] :: Um bom aparelho porém baixo desempenho.
+
+(220.556)[] [+][PRODUTO] :: Gostei muito do aparelho de início.
+(220.556)[] [+][DESIGN] :: design bonito.
+(220.556)[] [+][PESO] :: leve.
+(220.556)[] [+][SISTEMA] :: Android puro.
+(220.556)[] [-][DESEMPENHO] :: com tempo de uso começou a reiniciar sozinho, trava de vez em quando, esquentar bastante.
+(220.556)[] [-][DESEMPENHO] :: infelizmente os 2Gb de RAM não suprem a necessidade para quem usa bastante o aparelho com mais de um app ligado.
+(220.556)[] [-][CÂMERA] :: A câmera deixa a desejar, pois se você usa o zoom a qualidade de imagem da foto cai muito, mais muito mesmo.
+(220.556)[] [-][PRODUTO] :: Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
+
+
+
+
+(221.557)[] [-][EMPRESA] :: Valor de oferta de 250,00 não corresponde ao produto.
+
+(221.558)[] [-][EMPRESA] :: Verificar a oferta do Shoptime.
+
+
+(221.559)[] [-][EMPRESA] :: Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+
+
+
+
+
+(222.561)[] [--][PRODUTO] :: MOTO G5: Pior opção possível.
+
+(222.562)[] [-][OUTRO] :: O celular não tem "Galeria" para ver fotos, tem que entrar pelo Google Fotos, você acessa até fotos do orkut, do facebook, de todas as redes sociais antes de conseguir acessar as fotos armazenadas no celular. 
+(222.562)[] [-][OUTRO] :: Não tem "Media Player", tem que ver pelo Google Música, você acessa antes um tipo de "Spotify da google" antes de acessar suas próprias músicas. 
+(222.562)[] [-][OUTRO] :: Não tem botão "Reiniciar", aparentemente é algo genial demais para os desenvolvedores. Desligue e ligue.
+
+
+(222.563)[] [-][OUTRO] :: Não funciona bem conectado pelo bluetooth nos carros, tenho iPhones e Galaxys na família que funcionam bem nos carros, o Moto G5 não funciona.
+(222.563)[] [-][DESEMPENHO] :: Possui 8 núcleos e não suporta a capacidade, superaquece e desliga quando usa GPS+Bluetooth juntos, faça o teste e verá: ele esquenta até desligar.
+(222.563)[] [-][ACESSÓRIO] :: O fone que vem junto é descartável de tão ruim, não vale R$10.
+(222.563)[] [-][OUTRO] :: Não possui "área de transferência", como todo android. 
+
+
+(222.564)[] [-][OUTRO] :: Não possui nem "meus documentos" ou "biblioteca", é preciso baixar APP pra gerenciar seus arquivos, acessar seus downloads, etc.
+
+
+(222.565)[] [-][PRODUTO] :: FUJA!
+
+
+
+
+(223.566)[] [-][PRODUTO] :: Produto Ruim.
+
+(223.567)[] [-][RESISTÊNCIA] :: Recebi o produto mas o mesmo não carregava. 
+(223.568)[] [-][BATERIA] :: Bateria já estava ruim. 
+(223.569)[] [-][RESISTÊNCIA] :: Sem conserto, mesmo porque a bateria é lacrada.
+
+
+
+(223.570)[] [--][PRODUTO] :: Segundo o pessoal a motorola esta trazendo para o terceiro mundo o pior dos piores .
+
+
+
+
+(224.571)[] [-][RESISTÊNCIA] :: Aparelho com problema. 
+
+(224.572)[] [-][BATERIA] :: O produto após  duas semanas não  carrega mais.
+
+(224.573)[] [-][EMPRESA] :: Tentei entrar em contato com a Onofre e não  consegui.
+
+
+
+
+(225.574)[] [-][EMPRESA] :: Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+
+(225.575)[] [-][EMPRESA] :: Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+
+
+(225.576)[] [.][EMPRESA] :: A promessa foi que o produto seria entregue até 09/05/17.
+(225.577)[] [.][EMPRESA] :: Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+
+(225.578)[] [-][EMPRESA] :: Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+
+
+(225.579)[] [-][EMPRESA] :: Evidentemente houve um erro no envio do produto.
+
+
+c(225.580)[] [x][] :: Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+
+
+c(225.581)[] [x][] :: Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+
+
+(225.582)[] [-][EMPRESA] :: Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+
+
+(225.583)[] [.][EMPRESA] :: O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+
+
+(225.584)[] [.][EMPRESA] :: A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+
+
+(225.585)[] [-][EMPRESA] :: É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+
+
+(225.586)[] [-][EMPRESA] :: Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+
+
+i(225.587)[] [.][EMPRESA] :: O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
+
+
+(225.588)[] [-][EMPRESA] :: Porém, para a minha frustração, o produto não veio no prazo prometido.
+
+
+(225.589)[] [-][EMPRESA] :: Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+
+(226.590)[] [+][PREÇO] :: Boa relação custo-benefício.
+
+(226.591)[] [-][BATERIA] :: Peca pela pouca duração da bateria.
+
+
+(226.592)[] [-][BATERIA] :: O carregamento rápido só funciona com o aparelho desligado.
+
+
+(226.593)[] [-][OUTRO] :: O alarme-despertador não toca se o aparelho estiver desligado.
+
+
+(226.594)[] [-][OUTRO] :: Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
+
+
+
+
+(227.596)[] [-][PRODUTO] :: Estou insatisfeita com o produto que eu adquiri.
+
+(227.597)[] [-][EMPRESA] :: Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
+
+
+(227.598)[] [-][BATERIA] :: A bateria mal da pra um dia completo.
+
+
+(227.599)[] [-][PRODUTO] :: Estou muito infeliz com a compra desse produto.
+(227.599)[] [-][EMPRESA] :: dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+
+
+(227.600)[] [-][PRODUTO] :: Moto g 5 , não indico pra ninguém.
+
+
+
+
+(228.601)[] [-][PRODUTO] :: Moto G5 Plus decepciona.
+
+(228.602)[] [-][PRODUTO] :: Ruim.
+
+
+(228.603)[] [-][OUTRO] :: Bandeja de chips é fraca, de plástico, dificulta inserção do cartão micro SD.
+
+
+(228.604)[] [-][OUTRO] :: Troca de bateria só pode ser feita na assistência técnica, pois não é possível abrir a tampa do aparelho.
+
+
+(228.605)[] [-][EMPRESA] :: Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+
+
+(228.606)[] [-][EMPRESA] :: Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+
+
+(228.607)[] [--][PRODUTO] :: MOTO G ou MOTO Z NUNCA MAIS!
+
+
+
+
+b(229.608)[] [-][SOM] :: Speaker.
+
+(229.609)[*] [-][SOM] :: Alto-falante ruim.
+
+
+
+

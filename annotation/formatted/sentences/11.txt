@@ -12,11 +12,11 @@
 
 > Source: www.buscape.com.br/smartphone-samsung-galaxy-j5-prime-sm-g570m
 
-> Human reviser: Raphael (May 2018)
+> Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-03-03
+> File generation date: 2019-09-15
 
-> Total of opinions: 755
+> Total of opinions: 815
 
 > Total of sentences: 641
 
@@ -31,18 +31,20 @@
 # OUTRO _  _  _  _  _  _   14 _  _   10 _  _  _  _  _  _  1 _  _   25
 # PESO                      2         3                             5
 # PREÇO _  _  _  _  _  _   13 _  _   18 _  _  _  _  _  _  _  _  _  31
-# PRODUTO                  65         2         1         3        71
+# PRODUTO                 359         8         3        15       385
 # RESISTÊNCIA _  _  _  _  _ 7 _  _   15 _  _  _ 2 _  _  _  _  _  _ 24
 # SISTEMA                   8         2                            10
 # TAMANHO _  _  _  _  _  _  3 _  _  _  _  _  _  _  _  _  _  _  _  _ 3
 # TELA                     19         1                            20
 # USABILIDADE _  _  _  _  _ 9 _  _  _  _  _  _  _  _  _  _  _  _  _ 9
 # X                         1         2                   6         9
-# _TOTAL__________________242________89_________6________60_______397
-# _GENERIC                292         6         1        12       311
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 25 _  _   25
-# _TRASH                                                 33        33
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   33 _  _   33
+# _TOTAL__________________242________89_________6________58_______395
+# _BROKEN                                                18        18
+# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
+# _DUPLICATE                                             25        25
+# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _   10 _  _   10
+# _NONE                                                  33        33
+# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
 
 
 
@@ -768,6 +770,2190 @@ PREÇO -.
 
 
 
+(113.339)
+Boa.
+
+PRODUTO + 
+
+
+
+(191.587)
+Boa.
+
+PRODUTO + 
+
+
+
+(010.024)
+Bom.
+
+PRODUTO + 
+
+
+
+(010.025)
+Bom.
+
+PRODUTO + 
+
+
+
+(017.042)
+Bom.
+
+PRODUTO + 
+
+
+
+(017.043)
+Bom.
+
+PRODUTO + 
+
+
+
+(025.063)
+Bom.
+
+PRODUTO + 
+
+
+
+(060.172)
+Bom.
+
+PRODUTO + 
+
+
+
+(069.200)
+Bom.
+
+PRODUTO + 
+
+
+
+(078.225)
+Bom.
+
+PRODUTO + 
+
+
+
+(079.226)
+Bom.
+
+PRODUTO + 
+
+
+
+(083.244)
+Bom.
+
+PRODUTO + 
+
+
+
+(113.338)
+Bom.
+
+PRODUTO + 
+
+
+
+(167.510)
+Bom.
+
+PRODUTO + 
+
+
+
+(167.511)
+Bom.
+
+PRODUTO + 
+
+
+
+(174.527)
+Bom.
+
+PRODUTO + 
+
+
+
+(182.554)
+Bom.
+
+PRODUTO + 
+
+
+
+(052.148)
+Top.
+
+PRODUTO + 
+
+
+
+(011.026)
+AMEI!
+
+PRODUTO + 
+
+
+
+(123.366)
+AMEI.
+
+PRODUTO + 
+
+
+
+(154.461)
+Show.
+
+PRODUTO + 
+
+
+
+(028.072)
+OTIMA.
+
+PRODUTO + 
+
+
+
+(091.276)
+Otima.
+
+PRODUTO + 
+
+
+
+(207.631)
+Otima.
+
+PRODUTO + 
+
+
+
+(021.052)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(025.064)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(041.114)
+Otimo.
+
+PRODUTO + 
+
+
+
+(053.149)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(068.198)
+Otimo.
+
+PRODUTO + 
+
+
+
+(073.212)
+Otimo.
+
+PRODUTO + 
+
+
+
+(100.296)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(103.308)
+Otimo.
+
+PRODUTO + 
+
+
+
+(110.328)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(112.335)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(115.345)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(124.372)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(174.526)
+Otimo.
+
+PRODUTO + 
+
+
+
+(176.532)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(196.597)
+Ótimo.
+
+PRODUTO + 
+
+
+
+(039.106)
+Adorei!
+
+PRODUTO + 
+
+
+
+(195.595)
+Adorei.
+
+PRODUTO + 
+
+
+
+(197.601)
+Toooop.
+
+PRODUTO + 
+
+
+
+(009.022)
+Otimo!!!
+
+PRODUTO + 
+
+
+
+(028.071)
+APROVADO.
+
+PRODUTO + 
+
+
+
+(018.044)
+Exelente.
+
+PRODUTO + 
+
+
+
+(055.153)
+Incrível!
+
+PRODUTO + 
+
+
+
+(059.170)
+S7 ÓTIMO.
+
+PRODUTO + 
+
+
+
+(029.073)
+Excelente!
+
+PRODUTO + 
+
+
+
+(148.438)
+Excelente!
+
+PRODUTO + 
+
+
+
+(001.001)
+Excelente.
+
+PRODUTO + 
+
+
+
+(042.116)
+Excelente.
+
+PRODUTO + 
+
+
+
+(044.124)
+Excelente.
+
+PRODUTO + 
+
+
+
+(048.135)
+Excelente.
+
+PRODUTO + 
+
+
+
+(060.173)
+Excelente.
+
+PRODUTO + 
+
+
+
+(062.176)
+Excelente.
+
+PRODUTO + 
+
+
+
+(096.287)
+Excelente.
+
+PRODUTO + 
+
+
+
+(116.347)
+Excelente.
+
+PRODUTO + 
+
+
+
+(130.392)
+Excelente.
+
+PRODUTO + 
+
+
+
+(133.402)
+Excelente.
+
+PRODUTO + 
+
+
+
+(158.477)
+EXCELENTE.
+
+PRODUTO + 
+
+
+
+(159.479)
+Excelente.
+
+PRODUTO + 
+
+
+
+(206.628)
+Excelente.
+
+PRODUTO + 
+
+
+
+(013.032)
+Galaxy S7.
+
+PRODUTO + 
+
+
+
+(105.314)
+Galaxy s7.
+
+PRODUTO + 
+
+
+
+(198.602)
+Galaxy S7.
+
+PRODUTO + 
+
+
+
+(053.150)
+Muito boa.
+
+PRODUTO + 
+
+
+
+(014.034)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(020.049)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(046.129)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(159.480)
+Muito bom!
+
+PRODUTO + 
+
+
+
+(172.521)
+Muito BOM!
+
+PRODUTO + 
+
+
+
+(037.098)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(066.194)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(069.201)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(081.230)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(102.306)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(111.332)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(119.354)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(130.393)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(141.422)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(151.445)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(158.478)
+MUITO BOM.
+
+PRODUTO + 
+
+
+
+(164.491)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(171.520)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(178.540)
+Muito bom.
+
+PRODUTO + 
+
+
+
+(014.037)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(081.232)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(096.289)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(163.490)
+Recomendo.
+
+PRODUTO + 
+
+
+
+(105.315)
+Satisfeita.
+
+PRODUTO + 
+
+
+
+(076.219)
+Satisfeito.
+
+PRODUTO + 
+
+
+
+(120.356)
+Satisfeito.
+
+PRODUTO + 
+
+
+
+(184.558)
+Satisfeito.
+
+PRODUTO + 
+
+
+
+(003.005)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(080.229)
+Bom produto.
+
+PRODUTO + 
+
+
+
+(043.121)
+Curti dmais.
+
+PRODUTO + 
+
+
+
+(144.429)
+Maravilhosa.
+
+PRODUTO + 
+
+
+
+(103.309)
+Muito bom!!!
+
+PRODUTO + 
+
+
+
+(171.519)
+Produto bom.
+
+PRODUTO + 
+
+
+
+(172.522)
+Produto TOP.
+
+PRODUTO + 
+
+
+
+(142.424)
+Prudoto bom.
+
+PRODUTO + 
+
+
+
+(074.214)
+Sensacional.
+
+PRODUTO + 
+
+
+
+(125.374)
+Tudo de bom.
+
+PRODUTO + 
+
+
+
+(016.040)
+Vale a pena.
+
+PRODUTO + 
+
+
+
+(134.404)
+Bom Aparelho.
+
+PRODUTO + 
+
+
+
+(100.300)
+Gostei muito.
+
+PRODUTO + 
+
+
+
+(184.562)
+Muito rápido.
+
+PRODUTO + 
+
+
+
+(137.410)
+RECOMENDO ...
+
+PRODUTO + 
+
+
+
+(140.418)
+RECOMENTO ...
+
+PRODUTO + 
+
+
+
+(020.051)
+Valeu a pena!
+
+PRODUTO + 
+
+
+
+(014.036)
+Valeu a pena.
+
+PRODUTO + 
+
+
+
+(093.279)
+Celular ótimo.
+
+PRODUTO + 
+
+
+
+(085.248)
+Completíssimo.
+
+PRODUTO + 
+
+
+
+(047.133)
+Ótimo celular.
+
+PRODUTO + 
+
+
+
+(150.443)
+Otimo celular.
+
+PRODUTO + 
+
+
+
+(160.481)
+Ótimo celular.
+
+PRODUTO + 
+
+
+
+(200.615)
+Otimo celular.
+
+PRODUTO + 
+
+
+
+(024.061)
+Otimo em tudo!
+
+PRODUTO + 
+
+
+
+(026.065)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(104.310)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(138.414)
+Otimo produto.
+
+PRODUTO + 
+
+
+
+(139.416)
+Ótimo Produto.
+
+PRODUTO + 
+
+
+
+(164.492)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(192.588)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(197.599)
+Ótimo produto.
+
+PRODUTO + 
+
+
+
+(032.080)
+Produto otimo.
+
+PRODUTO + 
+
+
+
+(131.396)
+Òtimo Produto.
+
+PRODUTO + 
+
+
+
+(207.630)
+Aparelho otimo.
+
+PRODUTO + 
+
+
+
+(056.158)
+De outro mundo!
+
+PRODUTO + 
+
+
+
+(065.191)
+Não decepciona.
+
+PRODUTO + 
+
+
+
+(033.082)
+Otimo aparelho!
+
+PRODUTO + 
+
+
+
+(190.583)
+Ótimo aparelho.
+
+PRODUTO + 
+
+
+
+(054.151)
+Quase perfeito.
+
+PRODUTO + 
+
+
+
+(175.531)
+Um bom produto.
+
+PRODUTO + 
+
+
+
+(086.251)
+Aparelho rápido.
+
+PRODUTO + 
+
+
+
+(131.395)
+Bonito e Rápido.
+
+PRODUTO + 
+
+
+
+(109.325)
+GS7, fantástico.
+
+PRODUTO + 
+
+
+
+(102.307)
+Nada a reclamar.
+
+PRODUTO + 
+
+
+
+(070.202)
+Ótima aquisição.
+
+PRODUTO + 
+
+
+
+(204.624)
+Ótima aquisição.
+
+PRODUTO + 
+
+
+
+(119.355)
+Ótimo smartphone.
+
+PRODUTO + 
+
+
+
+(154.462)
+Adorei o aparelho.
+
+PRODUTO + 
+
+
+
+(178.539)
+Celular excelente.
+
+PRODUTO + 
+
+
+
+(129.390)
+Celular muito bom!
+
+PRODUTO + 
+
+
+
+(094.282)
+Celular muito bom.
+
+PRODUTO + 
+
+
+
+(071.205)
+Excelente celular.
+
+PRODUTO + 
+
+
+
+(095.285)
+Excelente celular.
+
+PRODUTO + 
+
+
+
+(122.362)
+Excelente celular.
+
+PRODUTO + 
+
+
+
+(149.440)
+Excelente produto!
+
+PRODUTO + 
+
+
+
+(005.011)
+Excelente produto.
+
+PRODUTO + 
+
+
+
+(161.483)
+Excelente produto.
+
+PRODUTO + 
+
+
+
+(097.290)
+Muito bom produto.
+
+PRODUTO + 
+
+
+
+(128.388)
+Muito bom produto.
+
+PRODUTO + 
+
+
+
+(073.213)
+Produto excelente.
+
+PRODUTO + 
+
+
+
+(179.541)
+Produto Excelente.
+
+PRODUTO + 
+
+
+
+(168.512)
+Produto muito bom.
+
+PRODUTO + 
+
+
+
+(194.592)
+Produto muito bom.
+
+PRODUTO + 
+
+
+
+(061.174)
+Qualidade Samsung.
+
+PRODUTO + 
+
+
+
+(008.020)
+Super recomendado.
+
+PRODUTO + 
+
+
+
+(107.319)
+Um ótimo aparelho!
+
+PRODUTO + 
+
+
+
+(101.301)
+Aparelho muito bom!
+
+PRODUTO + 
+
+
+
+(111.334)
+Compra recomendada.
+
+PRODUTO + 
+
+
+
+(121.361)
+Compra recomendada.
+
+PRODUTO + 
+
+
+
+(111.331)
+Excelente aparelho.
+
+PRODUTO + 
+
+
+
+(121.358)
+Excelente aparelho.
+
+PRODUTO + 
+
+
+
+(188.574)
+Excelente aparelho.
+
+PRODUTO + 
+
+
+
+(101.302)
+Funciona muito bem.
+
+PRODUTO + 
+
+
+
+(114.343)
+Muito bom aparelho.
+
+PRODUTO + 
+
+
+
+(150.444)
+Muito bom aparelho.
+
+PRODUTO + 
+
+
+
+(151.446)
+Muito bom aparelho.
+
+PRODUTO + 
+
+
+
+(197.600)
+Adorei esse celular.
+
+PRODUTO + 
+
+
+
+(184.563)
+Aprovei e recomendo.
+
+PRODUTO + 
+
+
+
+(200.616)
+Aprovei e recomendo.
+
+PRODUTO + 
+
+
+
+(118.351)
+Muito bom e preciso.
+
+PRODUTO + 
+
+
+
+(146.432)
+É um ótimo aparelho.
+
+PRODUTO + 
+
+
+
+(137.411)
+É um smartphone TOP.
+
+PRODUTO + 
+
+
+
+(201.617)
+Aparelho excelente!!!
+
+PRODUTO + 
+
+
+
+(185.565)
+APARELHO SENSACIONAL.
+
+PRODUTO + 
+
+
+
+(083.245)
+Até agora ta bem bom.
+
+PRODUTO + 
+
+
+
+(166.505)
+Excelente smartphone.
+
+PRODUTO + 
+
+
+
+(173.524)
+Excelente smartphone.
+
+PRODUTO + 
+
+
+
+(203.622)
+Excelente! Recomendo!
+
+PRODUTO + 
+
+
+
+(133.403)
+Nunca me decepcionou.
+
+PRODUTO + 
+
+
+
+(117.349)
+Produto de qualidade.
+
+PRODUTO + 
+
+
+
+(199.607)
+Produto de qualidade.
+
+PRODUTO + 
+
+
+
+(058.166)
+Recomendo Samsung S7.
+
+PRODUTO + 
+
+
+
+(152.448)
+Smartphone muito bom.
+
+PRODUTO + 
+
+
+
+(001.002)
+Até agora é muito boa.
+
+PRODUTO + 
+
+
+
+(126.382)
+Equipamento muito bom.
+
+PRODUTO + 
+
+
+
+(177.536)
+Totalmente satisfeita.
+
+PRODUTO + 
+
+
+
+(055.154)
+Um produto fantástico.
+
+PRODUTO + 
+
+
+
+(012.030)
+Ele é bonito e potente.
+
+PRODUTO + 
+
+
+
+(112.337)
+Fiquei muito satisfeita!
+
+PRODUTO + 
+
+
+
+(110.329)
+Satisfeita com a compra.
+
+PRODUTO + 
+
+
+
+(006.014)
+Top de linha de verdade.
+
+PRODUTO + 
+
+
+
+(045.126)
+Excelência em smartphone.
+
+PRODUTO + 
+
+
+
+(027.067)
+O produto no geral é bom.
+
+PRODUTO + 
+
+
+
+(125.377)
+Ate agora me surpreendeu..
+
+PRODUTO + 
+
+
+
+(038.102)
+Foi um salto de qualidade.
+
+PRODUTO + 
+
+
+
+(164.493)
+Não deixou nada a desejar.
+
+PRODUTO + 
+
+
+
+(036.093)
+O celular é bom, no geral.
+
+PRODUTO + 
+
+
+
+(127.385)
+Veloz e com bons recrusos.
+
+PRODUTO + 
+
+
+
+(082.234)
+A princípio um celular bom.
+
+PRODUTO + 
+
+
+
+(132.399)
+Atualmente um dos melhores.
+
+PRODUTO + 
+
+
+
+(157.475)
+Melhor que qualquer iPhone.
+
+PRODUTO + 
+
+
+
+(012.029)
+Nada a reclamar do produto.
+
+PRODUTO + 
+
+
+
+(172.523)
+Vale a pena o investimento.
+
+PRODUTO + 
+
+
+
+(190.585)
+Mas é um excelente aparelho.
+
+PRODUTO + 
+
+
+
+(106.316)
+Melhor aparelho que ja usei.
+
+PRODUTO + 
+
+
+
+(019.048)
+Ótimo smartphone, recomendo!
+
+PRODUTO + 
+
+
+
+(128.389)
+Aparelho muito bom recomendo.
+
+PRODUTO + 
+
+
+
+(051.142)
+Bom produto, apesar do custo.
+
+PRODUTO + 
+
+
+
+(195.596)
+E muito show esse celular S7.
+
+PRODUTO + 
+
+
+
+(100.297)
+Recomendo muito este produto.
+
+PRODUTO + 
+
+
+
+(036.095)
+O resto o celular é excelente.
+
+PRODUTO + 
+
+
+
+(187.571)
+Corresponde ao que é informado.
+
+PRODUTO + 
+
+
+
+(012.031)
+Tem sido uma experiência ótima.
+
+PRODUTO + 
+
+
+
+(016.041)
+Excelente smartphone, recomendo!
+
+PRODUTO + 
+
+
+
+(095.286)
+Muito satisfeito com o aparelho.
+
+PRODUTO + 
+
+
+
+(175.528)
+Um bom aparelho, caro por sinal.
+
+PRODUTO + 
+
+
+
+(184.559)
+Estou gostando muito do aparelho.
+
+PRODUTO + 
+
+
+
+(084.246)
+Ótimo superou minha expectativas.
+
+PRODUTO + 
+
+
+
+(183.556)
+Segurança, confiança e agilidade.
+
+PRODUTO + 
+
+
+
+(027.070)
+Mas to feliz com ele por enquanto.
+
+PRODUTO + 
+
+
+
+(012.028)
+Galaxy S7 é um dos tops do mercado.
+
+PRODUTO + 
+
+
+
+(179.542)
+Correspondeu as minhas expectativas.
+
+PRODUTO + 
+
+
+
+(033.083)
+Por enquanto estou muito satisfeito!
+
+PRODUTO + 
+
+
+
+(096.288)
+Estou muito satisfeito com o celular.
+
+PRODUTO + 
+
+
+
+(047.134)
+Gosto bastante! Celular muito rápido!
+
+PRODUTO + 
+
+
+
+(196.598)
+Adorei o celular, além de lindo é toop.
+
+PRODUTO + 
+
+
+
+(058.168)
+Mas o produto cumpre tudo que prometeu.
+
+PRODUTO + 
+
+
+
+(170.516)
+Produto excelente e sem arrependimento.
+
+PRODUTO + 
+
+
+
+(100.298)
+Um dos melhores smartphones do mercado.
+
+PRODUTO + 
+
+
+
+(044.125)
+Cumpre tudo o que se espera do aparelho.
+
+PRODUTO + 
+
+
+
+(142.425)
+Excelente produto para o uso do dia a dia.
+
+PRODUTO + 
+
+
+
+(116.348)
+Particularmente, prefiro do que os IPhone.
+
+PRODUTO + 
+
+
+
+(040.107)
+Um celular de ponta pra durar varios anos.
+
+PRODUTO + 
+
+
+
+(163.487)
+Aparelho excelente, cumpre com o prometido.
+
+PRODUTO + 
+
+
+
+(130.394)
+Particularmente, eu prefiro do que o IPhone.
+
+PRODUTO + 
+
+
+
+(045.127)
+A melhor experiência com smartphone flagship.
+
+PRODUTO + 
+
+
+
+(089.272)
+Mesmo sendo de 2016, ainda vale muito a pena!
+
+PRODUTO + 
+
+
+
+(114.340)
+Muito bom, excelente produto. Me surpreendeu.
+
+PRODUTO + 
+
+
+
+(198.603)
+Realizei a troca do galaxy 5 para o galaxy s7.
+
+PRODUTO + 
+
+
+
+(066.195)
+Gostei do celular conforme minhas expectativas.
+
+PRODUTO + 
+
+
+
+(166.506)
+Aparelho top da linha Galaxy, só isso já diz tudo.
+
+PRODUTO + 
+
+
+
+(136.408)
+Recomendo o produto e.mbora eu não tenho mas conheço.
+
+PRODUTO + 
+
+
+
+(153.459)
+No mais, é um ótimo smartphone, realmente topo de linha.
+
+PRODUTO + 
+
+
+
+(043.122)
+Adquiri em menos de um mês, a experiência esta sendo ótima.
+
+PRODUTO + 
+
+
+
+(071.206)
+Tenho o celular há pouco tempo, mas estou muito satisfeita.
+
+PRODUTO + 
+
+
+
+(169.515)
+Aparelho bem moderno e rapido com funções de ultima geração.
+
+PRODUTO + 
+
+
+
+(046.130)
+Troquei um iPhone 5S pelo Galaxy S7 e estou muito satisfeita.
+
+PRODUTO + 
+
+
+
+(175.529)
+Gostei bastante pela inovação nas características e velocidade.
+
+PRODUTO + 
+
+
+
+(199.609)
+Tirando a bateria que para mim não melhorou, por hora estou amando.
+
+PRODUTO + 
+
+
+
+(038.100)
+Estou com o aparelho a menos de um mes e até agora estou gostando muito.
+
+PRODUTO + 
+
+
+
+(205.626)
+O melhor da samsung, em qualidade e funcionalidade de imagem e recursos.
+
+PRODUTO + 
+
+
+
+(090.274)
+SUPER RECOMENDO, POIS A BATERIA DE TODOS SÃO RUINS, NO MAIS ELE É MARAVILHOSO.
+
+PRODUTO + 
+
+
+
+(123.367)
+A cada dia o celular me surpreende com funções que facilita no meu meu dia a dia.
+
+PRODUTO + 
+
+
+
+(122.363)
+Estou com o aparelho há cerca de duas semanas e estou muito satisfeito até o momento.
+
+PRODUTO + 
+
+
+
+(206.629)
+Ainda não usei todas as funções que possui, mas já percebi que o aparelho é excelente.
+
+PRODUTO + 
+
+
+
+(148.439)
+O aparelho corresponde as expectativas, estou muito feliz em ter comprado este produto!
+
+PRODUTO + 
+
+
+
+(146.433)
+Eu já possuia o S7 Edge e resolvi comprar o S7 como alternativa porque gostei da experiência.
+
+PRODUTO + 
+
+
+
+(109.327)
+Melhor que ele só os da próxima geração que ainda não chegaram aqui (LG G6, Galaxy S8, etc.).
+
+PRODUTO + 
+
+
+
+(056.159)
+Uma experiência incrível na forma de celular! Simplesmente lindo e incrível, a linha S7 é fantástica.
+
+PRODUTO + 
+
+
+
+(114.342)
+Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
+
+PRODUTO + 
+
+
+
+(107.321)
+Reune uma gama imensa de recursos em um único aparelho, corrigindo problemas que tinham as versões anteriores.
+
+PRODUTO + 
+
+
+
+(107.320)
+Uma versão top dos aparelhos da samsung, que hoje está com um ótimo custo/benefício comparando com os concorrentes.
+
+PRODUTO + 
+
+
+
+(050.141)
+100%.
+
+PRODUTO ++
+
+
+
+(155.463)
+Perfeito.
+
+PRODUTO ++
+
+
+
+(169.514)
+Perfeito.
+
+PRODUTO ++
+
+
+
+(144.428)
+The Best.
+
+PRODUTO ++
+
+
+
+(084.247)
+Inigualável.
+
+PRODUTO ++
+
+
+
+(089.269)
+Sensacional!
+
+PRODUTO ++
+
+
+
+(177.538)
+Recomendo 100%.
+
+PRODUTO ++
+
+
+
+(180.543)
+Sem comparações!!!
+
+PRODUTO ++
+
+
+
+(088.267)
+O melhor da Samsung.
+
+PRODUTO ++
+
+
+
+(189.577)
+O melhor celular do mundo.
+
+PRODUTO ++
+
+
+
+(015.038)
+O melhor celular que tive.
+
+PRODUTO ++
+
+
+
+(115.346)
+O melhor de todos, sem mais.
+
+PRODUTO ++
+
+
+
+(089.270)
+O melhor smartphone que tive.
+
+PRODUTO ++
+
+
+
+(054.152)
+O melhor smartphone que já usei.
+
+PRODUTO ++
+
+
+
+(163.489)
+Não há aparelho melhor no mercado.
+
+PRODUTO ++
+
+
+
+(180.544)
+O melhore mais completo até agora!
+
+PRODUTO ++
+
+
+
+(157.476)
+Perfeito, sem qualquer reclamação.
+
+PRODUTO ++
+
+
+
+(126.383)
+Estou usando o aparelho a 2 semanas, e ate agora tem sido perfeito.
+
+PRODUTO ++
+
+
+
+(085.250)
+Não tem modelo melhor no mercado brasileiro que o S7 e seu irmão maior, o Edge.
+
+PRODUTO ++
+
+
+
+(009.023)
+Comprei um S7 ano passado porém perdi, comprei outro igual pois achei maravilhoso!
+
+PRODUTO ++
+
+
+
+(088.268)
+O melhor que a Samsung já conseguiu montar, celular perfeito para todos os usuários.
+
+PRODUTO ++
+
+
+
+(055.155)
+A linha Galaxy S7, é simplesmente poderosa e perfeita em sua montagem Software - Hardware.
+
+PRODUTO ++
+
+
+
+(082.233)
+Um celular quase TOP.
+
+PRODUTO +.
+
+
+
+(064.184)
+Na promoção da Fast Shop vale a pena.
+
+PRODUTO +.
+
+
+
+(198.606)
+Excluindo o valor e a bateria, estou satisfeita com o aparelho.
+
+PRODUTO +.
+
+
+
+(165.504)
+No geral, exceto o preço e a duração da bateria, o celular é fantástico!!
+
+PRODUTO +.
+
+
+
+(079.227)
+Celular como qualquer outro nesta faixa de preço, troquei meu Nexus por ele, demorei um pouco para acostumar, mas é bom...
+
+PRODUTO +.
+
+
+
+(211.649)
+Esperava mais.....
+
+PRODUTO - 
+
+
+
+(082.236)
+O celular regrediu.
+
+PRODUTO - 
+
+
+
+(214.661)
+Enfim, este modelo da Samsung deixou muito a desejar comparado a outros aparelhos que tive.
+
+PRODUTO - 
+
+
+
+(181.546)
+O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo.
+
+PRODUTO - 
+
+
+
+(211.651)
+Por isso acabei devolvendo o aparelho para tentar adquirir outro.
+
+PRODUTO --
+
+
+
+(209.640)
+Boas funções mas pouco resistente.
+
+PRODUTO -.
+
+
+
+(182.555)
+Aguardar mais algum tempo para dar uma resposta mais concreta.
+
+PRODUTO . 
+
+
+
+(136.409)
+Ainda não pude tê-lo.
+
+PRODUTO X 
+
+
+
+(165.495)
+Migrando do S5 para o S7.
+
+PRODUTO X 
+
+
+
+(143.426)
+Depois do S6, comprei o S7.
+
+PRODUTO X 
+
+
+
+(118.352)
+Ainda não possui um só vi o do meu amigo.
+
+PRODUTO X 
+
+
+
+(027.068)
+Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
+
+PRODUTO X 
+
+
+
+(086.252)
+Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
+
+PRODUTO X 
+
+
+
+(086.258)
+Uso muito o aparelho.
+
+PRODUTO x 
+
+
+
+(058.167)
+Estou usando a menos de 1 mês.
+
+PRODUTO x 
+
+
+
+(014.035)
+Tinha o s6 e troquei para o s7.
+
+PRODUTO x 
+
+
+
+(114.341)
+Troquei um S4 octa core por esse S7.
+
+PRODUTO x 
+
+
+
+(199.608)
+Realizei a troca do galaxy s5 para o galaxy s7.
+
+PRODUTO x 
+
+
+
+(082.235)
+Deixei de comprar o S6 para pegar um mais atual.
+
+PRODUTO x 
+
+
+
 (125.380)
 Comprei no sabado e recebi na terça.Uma dica .
 
@@ -978,2159 +3164,136 @@ X x
 
 
 
-(113.339)
-Boa.
-
-_GENERIC + 
-
-
-
-(191.587)
-Boa.
-
-_GENERIC + 
-
-
-
-(010.024)
-Bom.
-
-_GENERIC + 
-
-
-
-(010.025)
-Bom.
-
-_GENERIC + 
-
-
-
-(017.042)
-Bom.
-
-_GENERIC + 
-
-
-
-(017.043)
-Bom.
-
-_GENERIC + 
-
-
-
-(025.063)
-Bom.
-
-_GENERIC + 
-
-
-
-(060.172)
-Bom.
-
-_GENERIC + 
-
-
-
-(069.200)
-Bom.
-
-_GENERIC + 
-
-
-
-(078.225)
-Bom.
-
-_GENERIC + 
-
-
-
-(079.226)
-Bom.
-
-_GENERIC + 
-
-
-
-(083.244)
-Bom.
-
-_GENERIC + 
-
-
-
-(113.338)
-Bom.
-
-_GENERIC + 
-
-
-
-(167.510)
-Bom.
-
-_GENERIC + 
-
-
-
-(167.511)
-Bom.
-
-_GENERIC + 
-
-
-
-(174.527)
-Bom.
-
-_GENERIC + 
-
-
-
-(182.554)
-Bom.
-
-_GENERIC + 
-
-
-
-(052.148)
-Top.
-
-_GENERIC + 
-
-
-
-(011.026)
-AMEI!
-
-_GENERIC + 
-
-
-
-(123.366)
-AMEI.
-
-_GENERIC + 
-
-
-
-(154.461)
-Show.
-
-_GENERIC + 
-
-
-
-(028.072)
-OTIMA.
-
-_GENERIC + 
-
-
-
-(091.276)
-Otima.
-
-_GENERIC + 
-
-
-
-(207.631)
-Otima.
-
-_GENERIC + 
-
-
-
-(021.052)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(025.064)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(041.114)
-Otimo.
-
-_GENERIC + 
-
-
-
-(053.149)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(068.198)
-Otimo.
-
-_GENERIC + 
-
-
-
-(073.212)
-Otimo.
-
-_GENERIC + 
-
-
-
-(100.296)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(103.308)
-Otimo.
-
-_GENERIC + 
-
-
-
-(110.328)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(112.335)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(115.345)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(124.372)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(174.526)
-Otimo.
-
-_GENERIC + 
-
-
-
-(176.532)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(196.597)
-Ótimo.
-
-_GENERIC + 
-
-
-
-(039.106)
-Adorei!
-
-_GENERIC + 
-
-
-
-(195.595)
-Adorei.
-
-_GENERIC + 
-
-
-
-(197.601)
-Toooop.
-
-_GENERIC + 
-
-
-
-(009.022)
-Otimo!!!
-
-_GENERIC + 
-
-
-
-(028.071)
-APROVADO.
-
-_GENERIC + 
-
-
-
-(018.044)
-Exelente.
-
-_GENERIC + 
-
-
-
-(055.153)
-Incrível!
-
-_GENERIC + 
-
-
-
-(059.170)
-S7 ÓTIMO.
-
-_GENERIC + 
-
-
-
-(029.073)
-Excelente!
-
-_GENERIC + 
-
-
-
-(148.438)
-Excelente!
-
-_GENERIC + 
-
-
-
-(001.001)
-Excelente.
-
-_GENERIC + 
-
-
-
-(042.116)
-Excelente.
-
-_GENERIC + 
-
-
-
-(044.124)
-Excelente.
-
-_GENERIC + 
-
-
-
-(048.135)
-Excelente.
-
-_GENERIC + 
-
-
-
-(060.173)
-Excelente.
-
-_GENERIC + 
-
-
-
-(062.176)
-Excelente.
-
-_GENERIC + 
-
-
-
-(096.287)
-Excelente.
-
-_GENERIC + 
-
-
-
-(116.347)
-Excelente.
-
-_GENERIC + 
-
-
-
-(130.392)
-Excelente.
-
-_GENERIC + 
-
-
-
-(133.402)
-Excelente.
-
-_GENERIC + 
-
-
-
-(158.477)
-EXCELENTE.
-
-_GENERIC + 
-
-
-
-(159.479)
-Excelente.
-
-_GENERIC + 
-
-
-
-(206.628)
-Excelente.
-
-_GENERIC + 
-
-
-
-(013.032)
-Galaxy S7.
-
-_GENERIC + 
-
-
-
-(105.314)
-Galaxy s7.
-
-_GENERIC + 
-
-
-
-(198.602)
-Galaxy S7.
-
-_GENERIC + 
-
-
-
-(053.150)
-Muito boa.
-
-_GENERIC + 
-
-
-
-(014.034)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(020.049)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(046.129)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(159.480)
-Muito bom!
-
-_GENERIC + 
-
-
-
-(172.521)
-Muito BOM!
-
-_GENERIC + 
-
-
-
-(037.098)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(066.194)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(069.201)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(081.230)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(102.306)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(111.332)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(119.354)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(130.393)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(141.422)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(151.445)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(158.478)
-MUITO BOM.
-
-_GENERIC + 
-
-
-
-(164.491)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(171.520)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(178.540)
-Muito bom.
-
-_GENERIC + 
-
-
-
-(014.037)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(081.232)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(096.289)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(163.490)
-Recomendo.
-
-_GENERIC + 
-
-
-
-(105.315)
-Satisfeita.
-
-_GENERIC + 
-
-
-
-(076.219)
-Satisfeito.
-
-_GENERIC + 
-
-
-
-(120.356)
-Satisfeito.
-
-_GENERIC + 
-
-
-
-(184.558)
-Satisfeito.
-
-_GENERIC + 
-
-
-
-(003.005)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(080.229)
-Bom produto.
-
-_GENERIC + 
-
-
-
-(043.121)
-Curti dmais.
-
-_GENERIC + 
-
-
-
-(144.429)
-Maravilhosa.
-
-_GENERIC + 
-
-
-
-(103.309)
-Muito bom!!!
-
-_GENERIC + 
-
-
-
-(171.519)
-Produto bom.
-
-_GENERIC + 
-
-
-
-(172.522)
-Produto TOP.
-
-_GENERIC + 
-
-
-
-(142.424)
-Prudoto bom.
-
-_GENERIC + 
-
-
-
-(074.214)
-Sensacional.
-
-_GENERIC + 
-
-
-
-(125.374)
-Tudo de bom.
-
-_GENERIC + 
-
-
-
-(016.040)
-Vale a pena.
-
-_GENERIC + 
-
-
-
-(134.404)
-Bom Aparelho.
-
-_GENERIC + 
-
-
-
-(100.300)
-Gostei muito.
-
-_GENERIC + 
-
-
-
-(184.562)
-Muito rápido.
-
-_GENERIC + 
-
-
-
-(137.410)
-RECOMENDO ...
-
-_GENERIC + 
-
-
-
-(140.418)
-RECOMENTO ...
-
-_GENERIC + 
-
-
-
-(020.051)
-Valeu a pena!
-
-_GENERIC + 
-
-
-
-(014.036)
-Valeu a pena.
-
-_GENERIC + 
-
-
-
-(093.279)
-Celular ótimo.
-
-_GENERIC + 
-
-
-
-(085.248)
-Completíssimo.
-
-_GENERIC + 
-
-
-
-(047.133)
-Ótimo celular.
-
-_GENERIC + 
-
-
-
-(150.443)
-Otimo celular.
-
-_GENERIC + 
-
-
-
-(160.481)
-Ótimo celular.
-
-_GENERIC + 
-
-
-
-(200.615)
-Otimo celular.
-
-_GENERIC + 
-
-
-
-(024.061)
-Otimo em tudo!
-
-_GENERIC + 
-
-
-
-(026.065)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(104.310)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(138.414)
-Otimo produto.
-
-_GENERIC + 
-
-
-
-(139.416)
-Ótimo Produto.
-
-_GENERIC + 
-
-
-
-(164.492)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(192.588)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(197.599)
-Ótimo produto.
-
-_GENERIC + 
-
-
-
-(032.080)
-Produto otimo.
-
-_GENERIC + 
-
-
-
-(131.396)
-Òtimo Produto.
-
-_GENERIC + 
-
-
-
-(207.630)
-Aparelho otimo.
-
-_GENERIC + 
-
-
-
-(056.158)
-De outro mundo!
-
-_GENERIC + 
-
-
-
-(065.191)
-Não decepciona.
-
-_GENERIC + 
-
-
-
-(033.082)
-Otimo aparelho!
-
-_GENERIC + 
-
-
-
-(190.583)
-Ótimo aparelho.
-
-_GENERIC + 
-
-
-
-(054.151)
-Quase perfeito.
-
-_GENERIC + 
-
-
-
-(175.531)
-Um bom produto.
-
-_GENERIC + 
-
-
-
-(086.251)
-Aparelho rápido.
-
-_GENERIC + 
-
-
-
-(131.395)
-Bonito e Rápido.
-
-_GENERIC + 
-
-
-
-(109.325)
-GS7, fantástico.
-
-_GENERIC + 
-
-
-
-(102.307)
-Nada a reclamar.
-
-_GENERIC + 
-
-
-
-(070.202)
-Ótima aquisição.
-
-_GENERIC + 
-
-
-
-(204.624)
-Ótima aquisição.
-
-_GENERIC + 
-
-
-
-(119.355)
-Ótimo smartphone.
-
-_GENERIC + 
-
-
-
-(154.462)
-Adorei o aparelho.
-
-_GENERIC + 
-
-
-
-(178.539)
-Celular excelente.
-
-_GENERIC + 
-
-
-
-(129.390)
-Celular muito bom!
-
-_GENERIC + 
-
-
-
-(094.282)
-Celular muito bom.
-
-_GENERIC + 
-
-
-
-(071.205)
-Excelente celular.
-
-_GENERIC + 
-
-
-
-(095.285)
-Excelente celular.
-
-_GENERIC + 
-
-
-
-(122.362)
-Excelente celular.
-
-_GENERIC + 
-
-
-
-(149.440)
-Excelente produto!
-
-_GENERIC + 
-
-
-
-(005.011)
-Excelente produto.
-
-_GENERIC + 
-
-
-
-(161.483)
-Excelente produto.
-
-_GENERIC + 
-
-
-
-(097.290)
-Muito bom produto.
-
-_GENERIC + 
-
-
-
-(128.388)
-Muito bom produto.
-
-_GENERIC + 
-
-
-
-(073.213)
-Produto excelente.
-
-_GENERIC + 
-
-
-
-(179.541)
-Produto Excelente.
-
-_GENERIC + 
-
-
-
-(168.512)
-Produto muito bom.
-
-_GENERIC + 
-
-
-
-(194.592)
-Produto muito bom.
-
-_GENERIC + 
-
-
-
-(061.174)
-Qualidade Samsung.
-
-_GENERIC + 
-
-
-
-(008.020)
-Super recomendado.
-
-_GENERIC + 
-
-
-
-(107.319)
-Um ótimo aparelho!
-
-_GENERIC + 
-
-
-
-(101.301)
-Aparelho muito bom!
-
-_GENERIC + 
-
-
-
-(111.334)
-Compra recomendada.
-
-_GENERIC + 
-
-
-
-(121.361)
-Compra recomendada.
-
-_GENERIC + 
-
-
-
-(111.331)
-Excelente aparelho.
-
-_GENERIC + 
-
-
-
-(121.358)
-Excelente aparelho.
-
-_GENERIC + 
-
-
-
-(188.574)
-Excelente aparelho.
-
-_GENERIC + 
-
-
-
-(101.302)
-Funciona muito bem.
-
-_GENERIC + 
-
-
-
-(114.343)
-Muito bom aparelho.
-
-_GENERIC + 
-
-
-
-(150.444)
-Muito bom aparelho.
-
-_GENERIC + 
-
-
-
-(151.446)
-Muito bom aparelho.
-
-_GENERIC + 
-
-
-
-(197.600)
-Adorei esse celular.
-
-_GENERIC + 
-
-
-
-(184.563)
-Aprovei e recomendo.
-
-_GENERIC + 
-
-
-
-(200.616)
-Aprovei e recomendo.
-
-_GENERIC + 
-
-
-
-(118.351)
-Muito bom e preciso.
-
-_GENERIC + 
-
-
-
-(146.432)
-É um ótimo aparelho.
-
-_GENERIC + 
-
-
-
-(137.411)
-É um smartphone TOP.
-
-_GENERIC + 
-
-
-
-(201.617)
-Aparelho excelente!!!
-
-_GENERIC + 
-
-
-
-(185.565)
-APARELHO SENSACIONAL.
-
-_GENERIC + 
-
-
-
-(083.245)
-Até agora ta bem bom.
-
-_GENERIC + 
-
-
-
-(166.505)
-Excelente smartphone.
-
-_GENERIC + 
-
-
-
-(173.524)
-Excelente smartphone.
-
-_GENERIC + 
-
-
-
-(203.622)
-Excelente! Recomendo!
-
-_GENERIC + 
-
-
-
-(133.403)
-Nunca me decepcionou.
-
-_GENERIC + 
-
-
-
-(117.349)
-Produto de qualidade.
-
-_GENERIC + 
-
-
-
-(199.607)
-Produto de qualidade.
-
-_GENERIC + 
-
-
-
-(058.166)
-Recomendo Samsung S7.
-
-_GENERIC + 
-
-
-
-(152.448)
-Smartphone muito bom.
-
-_GENERIC + 
-
-
-
-(001.002)
-Até agora é muito boa.
-
-_GENERIC + 
-
-
-
-(126.382)
-Equipamento muito bom.
-
-_GENERIC + 
-
-
-
-(177.536)
-Totalmente satisfeita.
-
-_GENERIC + 
-
-
-
-(055.154)
-Um produto fantástico.
-
-_GENERIC + 
-
-
-
-(012.030)
-Ele é bonito e potente.
-
-_GENERIC + 
-
-
-
-(112.337)
-Fiquei muito satisfeita!
-
-_GENERIC + 
-
-
-
-(110.329)
-Satisfeita com a compra.
-
-_GENERIC + 
-
-
-
-(006.014)
-Top de linha de verdade.
-
-_GENERIC + 
-
-
-
-(045.126)
-Excelência em smartphone.
-
-_GENERIC + 
-
-
-
-(027.067)
-O produto no geral é bom.
-
-_GENERIC + 
-
-
-
-(125.377)
-Ate agora me surpreendeu..
-
-_GENERIC + 
-
-
-
-(038.102)
-Foi um salto de qualidade.
-
-_GENERIC + 
-
-
-
-(164.493)
-Não deixou nada a desejar.
-
-_GENERIC + 
-
-
-
-(036.093)
-O celular é bom, no geral.
-
-_GENERIC + 
-
-
-
-(127.385)
-Veloz e com bons recrusos.
-
-_GENERIC + 
-
-
-
-(082.234)
-A princípio um celular bom.
-
-_GENERIC + 
-
-
-
-(132.399)
-Atualmente um dos melhores.
-
-_GENERIC + 
-
-
-
-(157.475)
-Melhor que qualquer iPhone.
-
-_GENERIC + 
-
-
-
-(012.029)
-Nada a reclamar do produto.
-
-_GENERIC + 
-
-
-
-(172.523)
-Vale a pena o investimento.
-
-_GENERIC + 
-
-
-
-(190.585)
-Mas é um excelente aparelho.
-
-_GENERIC + 
-
-
-
-(106.316)
-Melhor aparelho que ja usei.
-
-_GENERIC + 
-
-
-
-(019.048)
-Ótimo smartphone, recomendo!
-
-_GENERIC + 
-
-
-
-(128.389)
-Aparelho muito bom recomendo.
-
-_GENERIC + 
-
-
-
-(051.142)
-Bom produto, apesar do custo.
-
-_GENERIC + 
-
-
-
-(195.596)
-E muito show esse celular S7.
-
-_GENERIC + 
-
-
-
-(100.297)
-Recomendo muito este produto.
-
-_GENERIC + 
-
-
-
-(036.095)
-O resto o celular é excelente.
-
-_GENERIC + 
-
-
-
-(187.571)
-Corresponde ao que é informado.
-
-_GENERIC + 
-
-
-
-(012.031)
-Tem sido uma experiência ótima.
-
-_GENERIC + 
-
-
-
-(016.041)
-Excelente smartphone, recomendo!
-
-_GENERIC + 
-
-
-
-(095.286)
-Muito satisfeito com o aparelho.
-
-_GENERIC + 
-
-
-
-(175.528)
-Um bom aparelho, caro por sinal.
-
-_GENERIC + 
-
-
-
-(184.559)
-Estou gostando muito do aparelho.
-
-_GENERIC + 
-
-
-
-(084.246)
-Ótimo superou minha expectativas.
-
-_GENERIC + 
-
-
-
-(183.556)
-Segurança, confiança e agilidade.
-
-_GENERIC + 
-
-
-
-(027.070)
-Mas to feliz com ele por enquanto.
-
-_GENERIC + 
-
-
-
-(012.028)
-Galaxy S7 é um dos tops do mercado.
-
-_GENERIC + 
-
-
-
-(179.542)
-Correspondeu as minhas expectativas.
-
-_GENERIC + 
-
-
-
-(033.083)
-Por enquanto estou muito satisfeito!
-
-_GENERIC + 
-
-
-
-(096.288)
-Estou muito satisfeito com o celular.
-
-_GENERIC + 
-
-
-
-(047.134)
-Gosto bastante! Celular muito rápido!
-
-_GENERIC + 
-
-
-
-(196.598)
-Adorei o celular, além de lindo é toop.
-
-_GENERIC + 
-
-
-
-(058.168)
-Mas o produto cumpre tudo que prometeu.
-
-_GENERIC + 
-
-
-
-(170.516)
-Produto excelente e sem arrependimento.
-
-_GENERIC + 
-
-
-
-(100.298)
-Um dos melhores smartphones do mercado.
-
-_GENERIC + 
-
-
-
-(044.125)
-Cumpre tudo o que se espera do aparelho.
-
-_GENERIC + 
-
-
-
-(142.425)
-Excelente produto para o uso do dia a dia.
-
-_GENERIC + 
-
-
-
-(116.348)
-Particularmente, prefiro do que os IPhone.
-
-_GENERIC + 
-
-
-
-(040.107)
-Um celular de ponta pra durar varios anos.
-
-_GENERIC + 
-
-
-
-(163.487)
-Aparelho excelente, cumpre com o prometido.
-
-_GENERIC + 
-
-
-
-(130.394)
-Particularmente, eu prefiro do que o IPhone.
-
-_GENERIC + 
-
-
-
-(045.127)
-A melhor experiência com smartphone flagship.
-
-_GENERIC + 
-
-
-
-(089.272)
-Mesmo sendo de 2016, ainda vale muito a pena!
-
-_GENERIC + 
-
-
-
-(114.340)
-Muito bom, excelente produto. Me surpreendeu.
-
-_GENERIC + 
-
-
-
-(198.603)
-Realizei a troca do galaxy 5 para o galaxy s7.
-
-_GENERIC + 
-
-
-
-(066.195)
-Gostei do celular conforme minhas expectativas.
-
-_GENERIC + 
-
-
-
-(166.506)
-Aparelho top da linha Galaxy, só isso já diz tudo.
-
-_GENERIC + 
-
-
-
-(136.408)
-Recomendo o produto e.mbora eu não tenho mas conheço.
-
-_GENERIC + 
-
-
-
-(153.459)
-No mais, é um ótimo smartphone, realmente topo de linha.
-
-_GENERIC + 
-
-
-
-(043.122)
-Adquiri em menos de um mês, a experiência esta sendo ótima.
-
-_GENERIC + 
-
-
-
-(071.206)
-Tenho o celular há pouco tempo, mas estou muito satisfeita.
-
-_GENERIC + 
-
-
-
-(169.515)
-Aparelho bem moderno e rapido com funções de ultima geração.
-
-_GENERIC + 
-
-
-
-(046.130)
-Troquei um iPhone 5S pelo Galaxy S7 e estou muito satisfeita.
-
-_GENERIC + 
-
-
-
-(175.529)
-Gostei bastante pela inovação nas características e velocidade.
-
-_GENERIC + 
-
-
-
-(199.609)
-Tirando a bateria que para mim não melhorou, por hora estou amando.
-
-_GENERIC + 
-
-
-
-(038.100)
-Estou com o aparelho a menos de um mes e até agora estou gostando muito.
-
-_GENERIC + 
-
-
-
-(205.626)
-O melhor da samsung, em qualidade e funcionalidade de imagem e recursos.
-
-_GENERIC + 
-
-
-
-(090.274)
-SUPER RECOMENDO, POIS A BATERIA DE TODOS SÃO RUINS, NO MAIS ELE É MARAVILHOSO.
-
-_GENERIC + 
-
-
-
-(123.367)
-A cada dia o celular me surpreende com funções que facilita no meu meu dia a dia.
-
-_GENERIC + 
-
-
-
-(122.363)
-Estou com o aparelho há cerca de duas semanas e estou muito satisfeito até o momento.
-
-_GENERIC + 
-
-
-
-(206.629)
-Ainda não usei todas as funções que possui, mas já percebi que o aparelho é excelente.
-
-_GENERIC + 
-
-
-
-(148.439)
-O aparelho corresponde as expectativas, estou muito feliz em ter comprado este produto!
-
-_GENERIC + 
-
-
-
-(146.433)
-Eu já possuia o S7 Edge e resolvi comprar o S7 como alternativa porque gostei da experiência.
-
-_GENERIC + 
-
-
-
-(109.327)
-Melhor que ele só os da próxima geração que ainda não chegaram aqui (LG G6, Galaxy S8, etc.).
-
-_GENERIC + 
-
-
-
-(056.159)
-Uma experiência incrível na forma de celular! Simplesmente lindo e incrível, a linha S7 é fantástica.
-
-_GENERIC + 
-
-
-
-(114.342)
-Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
-
-_GENERIC + 
-
-
-
-(107.321)
-Reune uma gama imensa de recursos em um único aparelho, corrigindo problemas que tinham as versões anteriores.
-
-_GENERIC + 
-
-
-
-(107.320)
-Uma versão top dos aparelhos da samsung, que hoje está com um ótimo custo/benefício comparando com os concorrentes.
-
-_GENERIC + 
-
-
-
-(050.141)
-100%.
-
-_GENERIC ++
-
-
-
-(155.463)
-Perfeito.
-
-_GENERIC ++
-
-
-
-(169.514)
-Perfeito.
-
-_GENERIC ++
-
-
-
-(144.428)
-The Best.
-
-_GENERIC ++
-
-
-
-(084.247)
-Inigualável.
-
-_GENERIC ++
-
-
-
-(089.269)
-Sensacional!
-
-_GENERIC ++
-
-
-
-(177.538)
-Recomendo 100%.
-
-_GENERIC ++
-
-
-
-(180.543)
-Sem comparações!!!
-
-_GENERIC ++
-
-
-
-(088.267)
-O melhor da Samsung.
-
-_GENERIC ++
-
-
-
-(189.577)
-O melhor celular do mundo.
-
-_GENERIC ++
-
-
-
-(015.038)
-O melhor celular que tive.
-
-_GENERIC ++
-
-
-
-(115.346)
-O melhor de todos, sem mais.
-
-_GENERIC ++
-
-
-
-(089.270)
-O melhor smartphone que tive.
-
-_GENERIC ++
-
-
-
-(054.152)
-O melhor smartphone que já usei.
-
-_GENERIC ++
-
-
-
-(163.489)
-Não há aparelho melhor no mercado.
-
-_GENERIC ++
-
-
-
-(180.544)
-O melhore mais completo até agora!
-
-_GENERIC ++
-
-
-
-(157.476)
-Perfeito, sem qualquer reclamação.
-
-_GENERIC ++
-
-
-
-(126.383)
-Estou usando o aparelho a 2 semanas, e ate agora tem sido perfeito.
-
-_GENERIC ++
-
-
-
-(085.250)
-Não tem modelo melhor no mercado brasileiro que o S7 e seu irmão maior, o Edge.
-
-_GENERIC ++
-
-
-
-(009.023)
-Comprei um S7 ano passado porém perdi, comprei outro igual pois achei maravilhoso!
-
-_GENERIC ++
-
-
-
-(088.268)
-O melhor que a Samsung já conseguiu montar, celular perfeito para todos os usuários.
-
-_GENERIC ++
-
-
-
-(055.155)
-A linha Galaxy S7, é simplesmente poderosa e perfeita em sua montagem Software - Hardware.
-
-_GENERIC ++
-
-
-
-(082.233)
-Um celular quase TOP.
-
-_GENERIC +.
-
-
-
-(198.606)
-Excluindo o valor e a bateria, estou satisfeita com o aparelho.
-
-_GENERIC +.
-
-
-
-(165.504)
-No geral, exceto o preço e a duração da bateria, o celular é fantástico!!
-
-_GENERIC +.
-
-
-
-(079.227)
-Celular como qualquer outro nesta faixa de preço, troquei meu Nexus por ele, demorei um pouco para acostumar, mas é bom...
-
-_GENERIC +.
-
-
-
-(211.649)
-Esperava mais.....
-
-_GENERIC - 
-
-
-
-(082.236)
-O celular regrediu.
-
-_GENERIC - 
-
-
-
-(214.661)
-Enfim, este modelo da Samsung deixou muito a desejar comparado a outros aparelhos que tive.
-
-_GENERIC - 
-
-
-
-(181.546)
-O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo.
-
-_GENERIC - 
-
-
-
-(211.651)
-Por isso acabei devolvendo o aparelho para tentar adquirir outro.
-
-_GENERIC --
-
-
-
-(209.640)
-Boas funções mas pouco resistente.
-
-_GENERIC -.
-
-
-
-(182.555)
-Aguardar mais algum tempo para dar uma resposta mais concreta.
-
-_GENERIC . 
-
-
-
-(136.409)
-Ainda não pude tê-lo.
-
-_GENERIC X 
-
-
-
-(165.495)
-Migrando do S5 para o S7.
-
-_GENERIC X 
-
-
-
-(143.426)
-Depois do S6, comprei o S7.
-
-_GENERIC X 
-
-
-
-(118.352)
-Ainda não possui um só vi o do meu amigo.
-
-_GENERIC X 
-
-
-
-(027.068)
-Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
-
-_GENERIC X 
-
-
-
-(086.252)
-Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
-
-_GENERIC X 
-
-
-
 (213.654)
 Boa.
 
-_TRASH x 
+_BROKEN x 
 
 
 
 (072.210)
 Cor.
 
-_TRASH x 
+_BROKEN x 
 
 
 
 (220.675)
 Geral.
 
-_TRASH x 
+_BROKEN x 
+
+
+
+(090.273)
+MEU S7.
+
+_BROKEN x 
+
+
+
+(213.655)
+Foi boa.
+
+_BROKEN x 
+
+
+
+(124.371)
+S7 Edge.
+
+_BROKEN x 
+
+
+
+(007.017)
+Qualidade.
+
+_BROKEN x 
+
+
+
+(037.097)
+Samsung S7.
+
+_BROKEN x 
+
+
+
+(080.228)
+Samsung s7.
+
+_BROKEN x 
+
+
+
+(191.586)
+Celular samsung.
+
+_BROKEN x 
+
+
+
+(035.091)
+SEM FUTURO!!!!!!
+
+_BROKEN x 
+
+
+
+(035.090)
+CISSA MAGAZINE...
+
+_BROKEN x 
+
+
+
+(034.085)
+Tá bom, tá é bom.
+
+_BROKEN x 
+
+
+
+(067.196)
+Samsung Galaxy S7.
+
+_BROKEN x 
+
+
+
+(208.639)
+Não há explicações para a fragilidade de um produto qu.
+
+_BROKEN x 
+
+
+
+(163.488)
+Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
+
+_BROKEN x 
+
+
+
+(170.518)
+Não possui a mesma beleza de um iphone mais o processador não se compara com o mesmo.
+
+_BROKEN x 
+
+
+
+(214.657)
+Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
+
+_CONTEXT x 
+
+
+
+(214.658)
+Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
+
+_CONTEXT x 
 
 
 
@@ -3138,41 +3301,6 @@ _TRASH x
 Otimo.
 
 _DUPLICATE x 
-
-
-
-(202.621)
-Queda.
-
-_NONE x 
-
-
-
-(090.273)
-MEU S7.
-
-_TRASH x 
-
-
-
-(213.655)
-Foi boa.
-
-_TRASH x 
-
-
-
-(124.371)
-S7 Edge.
-
-_TRASH x 
-
-
-
-(034.084)
-Xvcxcvc.
-
-_TRASH x 
 
 
 
@@ -3197,27 +3325,6 @@ _DUPLICATE x
 
 
 
-(007.017)
-Qualidade.
-
-_TRASH x 
-
-
-
-(037.097)
-Samsung S7.
-
-_TRASH x 
-
-
-
-(080.228)
-Samsung s7.
-
-_TRASH x 
-
-
-
 (004.008)
 Bom produto.
 
@@ -3239,48 +3346,6 @@ _DUPLICATE x
 
 
 
-(218.670)
-Nao comprei.
-
-_TRASH x 
-
-
-
-(218.671)
-Nao comprei.
-
-_TRASH x 
-
-
-
-(191.586)
-Celular samsung.
-
-_TRASH x 
-
-
-
-(035.091)
-SEM FUTURO!!!!!!
-
-_TRASH x 
-
-
-
-(035.090)
-CISSA MAGAZINE...
-
-_TRASH x 
-
-
-
-(034.085)
-Tá bom, tá é bom.
-
-_TRASH x 
-
-
-
 (162.485)
 Excelente produto.
 
@@ -3288,31 +3353,10 @@ _DUPLICATE x
 
 
 
-(092.278)
-NÃO LEIA O TITULO.
-
-_TRASH x 
-
-
-
-(067.196)
-Samsung Galaxy S7.
-
-_TRASH x 
-
-
-
 (188.575)
 Aparelho excelente.
 
 _DUPLICATE x 
-
-
-
-(094.284)
-De mais, excelente!
-
-_NONE x 
 
 
 
@@ -3330,38 +3374,10 @@ _DUPLICATE x
 
 
 
-(189.582)
-Perdi valor sedex ??
-
-_NONE x 
-
-
-
-(092.277)
-NÃO LEIA A DESCRIÇÃO.
-
-_TRASH x 
-
-
-
-(086.258)
-Uso muito o aparelho.
-
-_GENERIC x 
-
-
-
 (087.266)
 Uso muito o aparelho.
 
 _DUPLICATE x 
-
-
-
-(156.474)
-NÃO COMPREM NA SARAIVA !
-
-_NONE x 
 
 
 
@@ -3372,34 +3388,6 @@ _DUPLICATE x
 
 
 
-(217.668)
-Como em qualquer operadora.
-
-_NONE x 
-
-
-
-(202.620)
-Trincou todo o display na 1a.
-
-_NONE x 
-
-
-
-(058.167)
-Estou usando a menos de 1 mês.
-
-_GENERIC x 
-
-
-
-(014.035)
-Tinha o s6 e troquei para o s7.
-
-_GENERIC x 
-
-
-
 (087.262)
 Quanto ao software, muito poluído.
 
@@ -3407,59 +3395,10 @@ _DUPLICATE x
 
 
 
-(114.341)
-Troquei um S4 octa core por esse S7.
-
-_GENERIC x 
-
-
-
-(064.184)
-Na promoção da Fast Shop vale a pena.
-
-_TRASH x 
-
-
-
-(108.324)
-Diz que vieram mas não apareceram não.
-
-_NONE x 
-
-
-
 (030.076)
 Amigável, rapido, excelente acabamento.
 
 _DUPLICATE x 
-
-
-
-(125.381)
-Coloquem no seguro porque nao é barato!
-
-_NONE x 
-
-
-
-(210.646)
-A loja com o melhor preço é o Carrefour.
-
-_NONE x 
-
-
-
-(208.635)
-Liguei o mesmo e funcionou corretamente.
-
-_NONE x 
-
-
-
-(212.653)
-Pouco tempo mas caro para o que oferece.
-
-_NONE x 
 
 
 
@@ -3477,73 +3416,10 @@ _DUPLICATE x
 
 
 
-(086.253)
-Queria manter num top de linha e peguei o S7.
-
-_NONE x 
-
-
-
 (087.261)
 Queria manter num top de linha e peguei o S7.
 
 _DUPLICATE x 
-
-
-
-(217.667)
-O preço só é valido para quem assina um plano.
-
-_NONE x 
-
-
-
-(199.608)
-Realizei a troca do galaxy s5 para o galaxy s7.
-
-_GENERIC x 
-
-
-
-(082.235)
-Deixei de comprar o S6 para pegar um mais atual.
-
-_GENERIC x 
-
-
-
-(057.162)
-Porque tenho que avaliar se não tenho o produto.
-
-_TRASH x 
-
-
-
-(189.581)
-Acabou demorando 15 dias e veio por transportadora.
-
-_NONE x 
-
-
-
-(035.086)
-Não seio o porque estou respondendo está pesquisa!!!!
-
-_TRASH x 
-
-
-
-(156.470)
-Por que não acreditar na palavra de um cliente idôneo.
-
-_NONE x 
-
-
-
-(208.639)
-Não há explicações para a fragilidade de um produto qu.
-
-_TRASH x 
 
 
 
@@ -3558,20 +3434,6 @@ _DUPLICATE x
 Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
 _DUPLICATE x 
-
-
-
-(075.218)
-Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
-
-_NONE x 
-
-
-
-(163.488)
-Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
-
-_TRASH x 
 
 
 
@@ -3603,24 +3465,192 @@ _DUPLICATE x
 
 
 
-(210.647)
-Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
+(218.670)
+Nao comprei.
 
-_NONE x 
+_IRRELEVANT x 
+
+
+
+(218.671)
+Nao comprei.
+
+_IRRELEVANT x 
+
+
+
+(092.278)
+NÃO LEIA O TITULO.
+
+_IRRELEVANT x 
+
+
+
+(092.277)
+NÃO LEIA A DESCRIÇÃO.
+
+_IRRELEVANT x 
+
+
+
+(057.162)
+Porque tenho que avaliar se não tenho o produto.
+
+_IRRELEVANT x 
+
+
+
+(035.086)
+Não seio o porque estou respondendo está pesquisa!!!!
+
+_IRRELEVANT x 
 
 
 
 (057.163)
 Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
 
-_TRASH x 
+_IRRELEVANT x 
 
 
 
-(170.518)
-Não possui a mesma beleza de um iphone mais o processador não se compara com o mesmo.
+(035.087)
+Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
 
-_TRASH x 
+_IRRELEVANT x 
+
+
+
+(035.089)
+Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
+
+_IRRELEVANT x 
+
+
+
+(035.088)
+Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
+
+_IRRELEVANT x 
+
+
+
+(202.621)
+Queda.
+
+_NONE x 
+
+
+
+(094.284)
+De mais, excelente!
+
+_NONE x 
+
+
+
+(189.582)
+Perdi valor sedex ??
+
+_NONE x 
+
+
+
+(156.474)
+NÃO COMPREM NA SARAIVA !
+
+_NONE x 
+
+
+
+(217.668)
+Como em qualquer operadora.
+
+_NONE x 
+
+
+
+(202.620)
+Trincou todo o display na 1a.
+
+_NONE x 
+
+
+
+(108.324)
+Diz que vieram mas não apareceram não.
+
+_NONE x 
+
+
+
+(125.381)
+Coloquem no seguro porque nao é barato!
+
+_NONE x 
+
+
+
+(210.646)
+A loja com o melhor preço é o Carrefour.
+
+_NONE x 
+
+
+
+(208.635)
+Liguei o mesmo e funcionou corretamente.
+
+_NONE x 
+
+
+
+(212.653)
+Pouco tempo mas caro para o que oferece.
+
+_NONE x 
+
+
+
+(086.253)
+Queria manter num top de linha e peguei o S7.
+
+_NONE x 
+
+
+
+(217.667)
+O preço só é valido para quem assina um plano.
+
+_NONE x 
+
+
+
+(189.581)
+Acabou demorando 15 dias e veio por transportadora.
+
+_NONE x 
+
+
+
+(156.470)
+Por que não acreditar na palavra de um cliente idôneo.
+
+_NONE x 
+
+
+
+(075.218)
+Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
+
+_NONE x 
+
+
+
+(210.647)
+Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
+
+_NONE x 
 
 
 
@@ -3642,13 +3672,6 @@ _NONE x
 Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro.
 
 _NONE x 
-
-
-
-(057.164)
-Pelo que ouço, é um aparelho muito bom, vou comprar, mas por hora, não sou capaz de opinar.
-
-_TRASH x 
 
 
 
@@ -3684,20 +3707,6 @@ _NONE x
 Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno.
 
 _NONE x 
-
-
-
-(035.087)
-Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
-
-_TRASH x 
-
-
-
-(035.089)
-Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
-
-_TRASH x 
 
 
 
@@ -3743,20 +3752,6 @@ _NONE x
 
 
 
-(214.657)
-Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
-
-_TRASH x 
-
-
-
-(214.658)
-Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
-
-_TRASH x 
-
-
-
 (214.660)
 Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
 
@@ -3764,17 +3759,17 @@ _NONE x
 
 
 
-(035.088)
-Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
-
-_TRASH x 
-
-
-
 (156.472)
 Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente.
 
 _NONE x 
+
+
+
+(034.084)
+Xvcxcvc.
+
+_UNINTELLIGIBLE x 
 
 
 
@@ -4154,6 +4149,14 @@ PRODUTO -.
 
 
 
+(057.164)
+Pelo que ouço, é um aparelho muito bom, vou comprar, mas por hora, não sou capaz de opinar.
+
+PRODUTO +.
+PRODUTO . 
+
+
+
 (036.092)
 Bom, porem frágil.
 
@@ -4281,6 +4284,15 @@ Interface mais fluida que a versão anterior, rápido e econômico na bateria!
 SISTEMA + 
 DESEMPENHO + 
 BATERIA + 
+
+
+
+(153.456)
+O mesmo para a câmera traseira, guardadas as devidas proporções. Os apps não travam nem engasgam. A duração da bateria não é tão boa quanto deveria.
+
+_BROKEN x 
+DESEMPENHO + 
+BATERIA - 
 
 
 
@@ -4455,15 +4467,6 @@ RESISTÊNCIA -
 
 
 
-(153.456)
-O mesmo para a câmera traseira, guardadas as devidas proporções. Os apps não travam nem engasgam. A duração da bateria não é tão boa quanto deveria.
-
-_TRASH x 
-DESEMPENHO + 
-BATERIA - 
-
-
-
 (094.283)
 Velocidade de processamento boa e design agradável.O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
 
@@ -4614,6 +4617,17 @@ OUTRO X
 
 
 
+(104.311)
+Ótimo produto, velocidade do processador e espaço em RAM perfeitos! Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
+
+_DUPLICATE x 
+DESEMPENHO ++
+ARMAZENAMENTO ++
+DESEMPENHO ++
+ARMAZENAMENTO - 
+
+
+
 (109.326)
 Não falta nada no celular: ótima performance, bateria, carrega rápido, câmera é top.
 
@@ -4688,17 +4702,6 @@ PRODUTO +
 DESEMPENHO + 
 RESISTÊNCIA +.
 DESEMPENHO + 
-
-
-
-(104.311)
-Ótimo produto, velocidade do processador e espaço em RAM perfeitos! Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
-
-_DUPLICATE x 
-DESEMPENHO ++
-ARMAZENAMENTO ++
-DESEMPENHO ++
-ARMAZENAMENTO - 
 
 
 

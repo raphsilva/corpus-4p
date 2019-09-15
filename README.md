@@ -6,9 +6,9 @@ Este repositório contém um córpus que foi construído para testar métodos de
 
 Este repositório contém dois diretórios que são versões diferentes do mesmo córpus: o diretório `clean` contém uma versão limpa e estendida para uso geral, e o diretório `whole` contém toda a informação extraída do site, incluindo informações inúteis para a tarefa de sumarização contrastiva (devidamente marcadas como tal). 
 
-### Clean 
+### Dataset 
 
-A versão limpa do conjunto de dados contém 16 arquivos em formato JSON. Cada arquivo contém opiniões sobre uma entidade. As entidades D1a, D1b, D2a e D2b são reais e as demais são fictícias, formadas a partir de subconjuntos das sentenças das entidades reais. O formato dos arquivos é como no exemplo abaixo. As opiniões da sentença são representadas por uma palavra identificando o aspecto e um número identificando a polaridade: 100 para positivo, -100 para negativo e 0 para neutro.
+A versão para leitura automática do conjunto de dados contém 16 arquivos em formato JSON. Cada arquivo contém opiniões sobre uma entidade. As entidades D1a, D1b, D2a e D2b são reais e as demais são fictícias, formadas a partir de subconjuntos das sentenças das entidades reais. O formato dos arquivos é como no exemplo abaixo. As opiniões da sentença são representadas por uma palavra identificando o aspecto e um número identificando a polaridade: 100 para positivo, -100 para negativo e 0 para neutro. Opiniões irrelevantes não estão presentes nesses conjuntos.
 
 ```
 {
@@ -60,27 +60,8 @@ A versão limpa do conjunto de dados contém 16 arquivos em formato JSON. Cada a
 ```
 
 
-### Whole
+### Annotation
 
-A versão integral contém todos os dados extraídos da fonte, incluindo partes irrelevantes (identificadas como tal). Ela contém arquivos para os quatro produtos cujos comentários foram coletados.
+O diretório de anotação contém todos os dados extraídos da fonte e as informações inseridas pelos anotadores. Ela contém arquivos para os quatro produtos cujos comentários foram coletados.
 
-A identificação de opiniões nesses arquivos segue o formato 
-
-``` 
-([ID do comentário].[ID da sentença])
-[SENTENÇA]
-
-[aspecto 1] [polaridade do aspecto 1]
-[aspecto 2] [polaridade do aspecto 2]
-```
-
-por exemplo:
-
-``` 
-(183.462)
-Excelente Custo benefício, celular muito bom, não precisa mais q isso.
-
-PREÇO + 
-PRODUTO + 
-```
-
+Além dos conjuntos de dados, o diretório contém o script que foi usado para transformar os dados anotados em seu formato final.

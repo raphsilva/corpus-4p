@@ -1,0 +1,641 @@
+  ID: 10
+
+  Type: Celular
+
+  Product: Smartphone Motorola Moto G 5 Plus XT1683
+
+  Average rating: 9/10 
+
+  Total of reviews: 229
+
+  Crawl date: 17/may/2018 
+
+  Source: www.buscape.com.br/smartphone-motorola-moto-g-5-plus-xt1683
+
+  Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
+
+  File generation date: 2019-09-15
+
+
+<   [001.003][]   [+][CÂMERAARMAZENAMENTO]  ::   Boa velocidade na reprodução de vídeos e bom de espaço de memória.
+>   [001.003][]   [+][DESEMPENHO]        ::   Boa velocidade na reprodução de vídeos.
+>   [001.003][]   [+][ARMAZENAMENTO]     ::   bom de espaço de memória.
+
+<   [002.007][]   [+][CÂMERADESIGN]      ::   A câmera não é das melhores, nem o design.
+>   [002.007][]   [-][CÂMERA]            ::   A câmera não é das melhores.
+>   [002.007][]   [-][DESIGN]            ::   o design não é dos melhores.
+
+<   [002.008][]   [+][TELA]              ::   Mas o sistema é rápido e display é bastante resistente.
+>   [002.008][]   [+][DESEMPENHO]        ::   O sistema é rápido.
+>   [002.008][]   [+][SISTEMA]           ::   O sistema é rápido.
+>   [002.008][]   [+][TELA]              ::   display é bastante resistente.
+>   [002.008][]   [+][RESISTÊNCIA]       ::   display é bastante resistente.
+
+<   [003.010][]   [+][PRODUTOARMAZENAMENTOBATERIADESEMPENHOCÂMERATELEVISÃO]  ::   As pessoas esquecem q esse aparelho é intermediário, não top de linha e como intermediário ele da SHOW, pois ele vai alem da sua faixa intermediara, incluindo slot pra 2 chips mais cartão de memória, bateria q dura de 1 a 3 dias, leitor de digital multifunções, NFC, processador octa core 2.0 igual a alguns tops de linha, câmera q grava em 4k com abertura 1.7 igual a muitos top de linha e TV digital em alta qualidade.O restante das funcionalidades é melhor ou igual a maioria dos intermediários.
+>   [003.010][]   [+][PRODUTO]           ::   As pessoas esquecem q esse aparelho é intermediário, não top de linha e como intermediário ele da SHOW, pois ele vai além da sua faixa intermediária.
+>   [003.010][]   [+][ARMAZENAMENTO]     ::   incluindo slot pra 2 chips mais cartão de memória.
+>   [003.010][]   [+][BATERIA]           ::   bateria q dura de 1 a 3 dias.
+>   [003.010][]  [+.][OUTRO]             ::   leitor de digital multifunções
+>   [003.010][]  [+.][OUTRO]             ::   NFC
+>   [003.010][]   [+][DESEMPENHO]        ::   processador octa core 2.0 igual a alguns tops de linha.
+>   [003.010][]   [+][CÂMERA]            ::   câmera q grava em 4k com abertura 1.7 igual a muitos top de linha.
+>   [003.010][]   [+][OUTRO]             ::   TV digital em alta qualidade.
+>   [003.010][]   [+][PRODUTO]           ::   Funcionalidades é melhores ou iguais a maioria dos intermediários.
+
+<   [006.016][]   [+][PRODUTO]           ::   Produto de muita boa qualidade, eficiente e ágil.
+>   [006.016][]   [+][PRODUTO]           ::   Produto de muita boa qualidade.
+>   [006.016][]   [+][DESEMPENHO]        ::   eficiente e ágil.
+
+<   [009.023][]   [+][PRODUTO]           ::   Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+>d  [009.023][]   [x][_DUPLICATE]        ::   Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu  ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+
+<   [016.037][]   [+][PREÇOCÂMERA]       ::   Ótimo custo-beneficio com destaque para sua câmera, e o moto gestos!!!!
+>   [016.037][]   [+][PREÇO]             ::   Ótimo custo-beneficio.
+>   [016.037][]   [+][CÂMERA]            ::   com destaques para sua câmera, e o moto gestos!!!!
+
+<   [019.043][]   [+][SOARMAZENAMENTO]   ::   Gostei, eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom, uma coisa que falta é a função nativa da transmitir arquivos via Wi-Fi direct.
+>   [019.043][]   [+][PRODUTO]           ::   Gostei.
+>   [019.043][]  [-.][DESEMPENHO]        ::   eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
+>   [019.043][]  [-.][SISTEMA]           ::   eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
+>   [019.043][]   [-][OUTRO]             ::   uma coisa que falta é a função nativa da transmitir arquivos via Wi-Fi direct.
+
+<   [020.046][]   [+][BATERIA]           ::   Boa durabilidade da bateria e câmeras perfeitas.
+>   [020.046][]   [+][BATERIA]           ::   Boa durabilidade da bateria.
+>   [020.046][]  [++][CÂMERA]            ::   câmeras perfeitas.
+
+<   [021.048][]   [+][PRODUTOCÂMERA]     ::   O produto é muito bom e atende ao requerido, de fácil manuseio e a câmera é alta qualidade.
+>   [021.048][]   [+][PRODUTO]           ::   O produto é muito bom e atende ao requerido.
+>   [021.048][]   [+][USABILIDADE]       ::   de fácil manuseio.
+>   [021.048][]   [+][CÂMERA]            ::   a câmera é alta qualidade.
+
+<   [022.052][]   [+][DESIGNDESEMPENHOBATERIAUSABILIDADE]  ::   Design bonito, processador bom, bateria com ótima duração, funções fáceis de usar.
+>   [022.052][]   [+][DESIGN]            ::   Design bonito.
+>   [022.052][]   [+][DESEMPENHO]        ::   processador bom.
+>   [022.052][]   [+][BATERIA]           ::   bateria com ótima duração.
+>   [022.052][]   [+][USABILIDADE]       ::   funções fáceis de usar.
+
+<   [026.062][]   [+][DESEMPENHO]        ::   Destaque para o desempenho em jogos e camera.
+>   [026.062][]   [+][DESEMPENHO]        ::   Destaque para o desempenho em jogos.
+>   [026.062][]   [+][CÂMERA]            ::   Destaque para a câmera.
+
+<   [027.064][]   [+][PRODUTOPREÇOPESOUSABILIDADECÂMERA]  ::   Òtimo aparelho.Custo-benefício excelente.Leve e fácil de usar.Fotos maravilhosas,.
+>   [027.064][]   [+][PRODUTO]           ::   Òtimo aparelho.
+>   [027.064][]   [+][PREÇO]             ::   Custo-benefício excelente.
+>   [027.064][]   [+][PESO]              ::   Leve.
+>   [027.064][]   [+][USABILIDADE]       ::   fácil de usar.
+>   [027.064][]   [+][CÂMERA]            ::   Fotos maravilhosas,.
+
+<   [028.066][]   [+][PREÇO]             ::   Aparelhjo simples, moderno e com ótimo custo-benefício.
+>   [028.066][]   [.][PRODUTO]           ::   Aparelhjo simples
+>   [028.066][]   [+][PRODUTO]           ::   moderno.
+>   [028.066][]   [+][PREÇO]             ::   ótimo custo-benefício.
+
+<   [030.070][]   [+][PRODUTODESIGNBATERIAPREÇO]  ::   Fiz uma ótima compra, celular com um lindo design, muitas funções e bateria que dura bastante.O preço estava bom e chegou bem rápido.
+>   [030.070][]   [+][PRODUTO]           ::   Fiz uma ótima compra.
+>   [030.070][]   [+][DESIGN]            ::   celular com um lindo design.
+>   [030.070][]   [+][PRODUTO]           ::   muitas funções
+>   [030.070][]   [+][BATERIA]           ::   bateria que dura bastante.
+>   [030.070][]   [+][PREÇO]             ::   O preço estava bom.
+>   [030.070][]   [+][EMPRESA]           ::   chegou bem rápido.
+
+<   [031.072][]   [+][PRODUTOCÂMERA]     ::   Um celular excelente, rápido, câmera boa e funcionalidade boa.
+>   [031.072][]   [+][PRODUTO]           ::   Um celular excelente.
+>   [031.072][]   [+][DESEMPENHO]        ::   rápido.
+>   [031.072][]   [+][CÂMERA]            ::   câmera boa.
+>   [031.072][]   [+][PRODUTO]           ::   funcionalidade boa.
+
+<   [031.073][]   [+][TELA]              ::   A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED), mas a nitidez é imbatível (para ler textos por exemplo)
+>   [031.073][]   [-][TELA]              ::   A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED)
+>   [031.073][]   [+][TELA]              ::   a nitidez é imbatível (para ler textos por exemplo)
+
+<   [031.077][]   [+][PRODUTO]           ::   Tirando esses detalhes, o celular é excelente!
+>   [031.077][]   [+][PRODUTO]           ::   Tirando alguns detalhes, o celular é excelente!
+
+<   [036.087][]   [+][PREÇO]             ::   Bonito, bom hardware, preço honesto, enfim, cumpre o que promete, ótimo custo/benefício.
+>   [036.087][]   [+][DESIGN]            ::   Bonito.
+>   [036.087][]   [+][PRODUTO]           ::   bom hardware.
+>   [036.087][]   [+][PREÇO]             ::   preço honesto.
+>   [036.087][]   [+][PRODUTO]           ::   enfim, cumpre o que promete.
+>   [036.087][]   [+][PREÇO]             ::   ótimo custo/benefício.
+
+<   [037.089][]   [+][PRODUTO]           ::   Produto bom, fácil mexer, até o momento não tenho queixas.
+>   [037.089][]   [+][PRODUTO]           ::   Produto bom.
+>   [037.089][]   [+][USABILIDADE]       ::   fácil mexer,  até o momento não tenho queixas.
+
+<   [037.090][]   [+][EMPRESA]           ::   Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+>   [037.090][]   [+][EMPRESA]           ::   Não tive nenhum a queixa da entrega,  obrigada Kabum pela entrega no prazo.
+
+<   [039.095][]   [+][PRODUTO]           ::   Aparelho muito bom, me atende no que preciso no dia a dia, para que pagar mais se pode ter quase o mesmo por menos.
+>   [039.095][]   [+][PRODUTO]           ::   Aparelho muito bom, me atende no que preciso no dia a dia.
+>   [039.095][]   [+][PREÇO]             ::   para que pagar mais se pode ter quase o mesmo por menos.
+
+<   [042.101][]   [+][PRODUTO]           ::   Os gestos ajudam bastante no dia a dia, e o aparelho é bem rápido, e o leitor de digitais dá uma segurança a mais.
+>   [042.101][]   [+][OUTRO]             ::   Os gestos ajudam bastante no dia a dia
+>   [042.101][]   [+][DESEMPENHO]        ::   aparelho é bem rápido
+>   [042.101][]   [+][OUTRO]             ::    e o leitor de digitais dá uma segurança a mais.
+
+<   [043.103][]   [+][DESEMPENHOARMAZENAMENTO]  ::   Estou muito satisfeito com o desempenho, contudo a memória ram poderia ser 3g.
+>   [043.103][]   [+][DESEMPENHO]        ::   Estou muito satisfeito com o desempenho.
+>   [043.103][]   [-][DESEMPENHO]        ::   a memória ram poderia ser 3gb.
+
+<   [044.105][]   [+][BATERIACÂMERATELEVISÃOPRODUTO]  ::   Gostei muito a bateria dura bastante,!! as funções da câmera podia ser melhor, não tem embeleze , como assim? é não tem, triste!! e o sinal da tv, é enfeite ja rodei , todos os lugares que vou não pega, tenho outro aparelho da concorrência e pega normalmente!!
+>   [044.105][]   [+][BATERIA]           ::   Gostei muito a bateria dura bastante,!!
+>   [044.105][]   [-][CÂMERA]            ::   as funções da câmera podia ser melhor, não tem embeleze , como assim? é não tem, triste!!
+>   [044.105][]   [-][OUTRO]             ::   e o sinal da tv, é enfeite ja rodei , todos os lugares que vou não pega, tenho outro aparelho da concorrência e pega normalmente!!
+
+<   [048.112][]   [+][PRODUTO]           ::   Celular bom e barato!
+>   [048.112][]   [+][PRODUTO]           ::   Celular bom.
+>   [048.112][]   [+][PREÇO]             ::   Celular barato!
+
+<   [049.116][]   [+][PRODUTOARMAZENAMENTO]  ::   Na realiza eu comprei para o meu filho, segundo ele, o aparelho é ótimo, atende quase todas às necessidades, único detalhe contra é que não acita cartão de memória então é tudo de bom, cinco estrelas.
+>   [049.116][]   [+][PRODUTO]           ::   Na realiza eu comprei para o meu filho, segundo ele, o aparelho é  ótimo, atende quase todas às necessidades.
+>   [049.116][]   [-][ARMAZENAMENTO]     ::   único detalhe contra é que não aceita cartão de memória.
+>   [049.116][]   [+][PRODUTO]           ::   então é tudo de bom, cinco estrelas.
+
+<   [050.119][]   [+][PRODUTO]           ::   Mas estou muito satisfeito com o aparelho.
+>   [050.119][]   [+][PRODUTO]           ::   Estou muito satisfeito com o aparelho.
+
+<   [051.121][]   [+][PRODUTO]           ::   É um produto com uma ótima qualidade, oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
+>   [051.121][]   [+][PRODUTO]           ::   É um produto com uma ótima qualidade.
+>   [051.121][]   [+][USABILIDADE]       ::   oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
+
+<   [051.122][]   [+][PRODUTO]           ::   Por esses e outros motivos recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphofe.
+>   [051.122][]   [+][PRODUTO]           ::   recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphone.
+
+<   [053.126][]   [+][PRODUTO]           ::   Excelente aparelo.
+>   [053.126][]   [+][PRODUTO]           ::   Excelente aparelho.
+
+<   [053.127][]   [+][DESEMPENHO]        ::   Otimo desempenho e camera.
+>   [053.127][]   [+][DESEMPENHO]        ::   Otimo desempenho.
+>   [053.127][]   [+][CÂMERA]            ::   Otima camera.
+
+<   [054.130][]   [+][PRODUTOCÂMERA]     ::   Aparelho muito bom androide e bom despacha bem rapido , só a câmera não é tudo aquilo que é anunciado me decepcionou.
+>   [054.130][]   [+][PRODUTO]           ::   Aparelho muito bom.
+>   [054.130][]   [+][SISTEMA]           ::   android e bom despacha bem rapido.
+>   [054.130][]   [-][CÂMERA]            ::   só a câmera não é tudo aquilo que é anunciado me decepcionou.
+
+<   [055.132][]   [+][PRODUTOPREÇO]      ::   Bom produto, funciona bem, tem bom preço e cumpre o que promete.
+>   [055.132][]   [+][PRODUTO]           ::   Bom produto, funciona bem.
+>   [055.132][]   [+][PREÇO]             ::   tem bom preço.
+>   [055.132][]   [+][PRODUTO]           ::   cumpre o que promete.
+
+<   [058.139][]   [+][PREÇOUSABILIDADECÂMERA]  ::   Um smartphone com excelentes características, designer moderno, preço bom, fácil de usar, foco, câmera nítidas e a durabilidade também excelente.Recomendo!
+>   [058.139][]   [+][PRODUTO]           ::   Um smartphone com excelentes características.
+>   [058.139][]   [+][DESIGN]            ::   designer moderno.
+>   [058.139][]   [+][PREÇO]             ::   preço bom.
+>   [058.139][]   [+][USABILIDADE]       ::   fácil de usar.
+>   [058.139][]   [+][CÂMERA]            ::   foco, câmera nítidas.
+>   [058.139][]   [+][RESISTÊNCIA]       ::   e a durabilidade também excelente.
+>   [058.139][]   [+][PRODUTO]           ::   Recomendo!
+
+<   [063.149][]   [+][PRODUTOCÂMERA]     ::   Foi meu primeiro Moto que tenho, até o momento estou satisfeito.O sensor digital é muito bem vindo,pois facilita o acesso ao Celular e até alguns aplicativo de bancos.Estava usando o Crome que veio instalado e nao sei porque estava travando muito o Celular,instalei o Firefox acabou o problema.Câmera é bem rápida e de boa qualidade.Recomendo.
+>   [063.149][]   [+][PRODUTO]           ::   Foi meu primeiro Moto que tenho, até o momento estou satisfeito.
+>   [063.149][]   [+][OUTRO]             ::   O sensor digital é muito bem vindo, pois facilita o acesso ao Celular e até alguns aplicativo de bancos.
+>   [063.149][]  [-.][DESEMPENHO]        ::   Estava usando o Chrome que veio instalado e nao sei porque estava travando muito o Celular, instalei o Firefox acabou o problema.
+>   [063.149][]   [+][CÂMERA]            ::   Câmera é bem rápida e de boa qualidade.
+>   [063.149][]   [+][PRODUTO]           ::   Recomendo.
+
+<   [067.158][]   [+][SOUSABILIDADEDESIGN]  ::   Vale a pena principalmente pelo Android puro e pelas Moto Ações que facilitam a usabilidade.Ponto fraco por possuir apenas um alto-falante e para design, as partes em plástico o tornam frágil.
+>   [067.158][]   [+][SISTEMA]           ::   Vale a pena principalmente pelo Android puro.
+>   [067.158][]   [+][USABILIDADE]       ::   Vale a pena principalmente pelas Moto Ações que facilitam a usabilidade.
+>   [067.158][]   [-][SOM]               ::   Ponto fraco por possuir apenas um alto-falante.
+>   [067.158][]   [-][DESIGN]            ::   Ponto fraco para design
+>   [067.158][]   [-][RESISTÊNCIA]       ::    as partes em plástico o tornam frágil.
+
+<   [069.162][]   [+][PRODUTOPREÇO]      ::   Ótimo aparelho, com preço bom e qualidade melhora ainda.
+>   [069.162][]   [+][PRODUTO]           ::   Ótimo aparelho.
+>   [069.162][]   [+][PREÇO]             ::   com preço bom.
+>   [069.162][]   [+][PRODUTO]           ::   e qualidade melhor ainda.
+
+<   [074.173][]   [+][EMPRESAPRODUTO]    ::   Entrega rápida e até então estou gostando muito do aparelho.
+>   [074.173][]   [+][EMPRESA]           ::   Entrega rápida.
+>   [074.173][]   [+][PRODUTO]           ::   e até então estou gostando muito do aparelho.
+
+<   [076.177][]   [+][PRODUTO]           ::   Celular top de linha, camera muito boa, excelente aparelho.
+>   [076.177][]   [+][PRODUTO]           ::   Celular top de linha.
+>   [076.177][]   [+][CÂMERA]            ::   camera muito boa.
+>   [076.177][]   [+][PRODUTO]           ::   excelente aparelho.
+
+<   [078.183][]   [+][USABILIDADEBATERIA]  ::   Fácil de usar, bonito, processamento muito rápido e bateria que dura bastante.
+>   [078.183][]   [+][USABILIDADE]       ::   Fácil de usar.
+>   [078.183][]   [+][DESIGN]            ::   bonito.
+>   [078.183][]   [+][DESEMPENHO]        ::   processamento muito rápido.
+>   [078.183][]   [+][BATERIA]           ::   bateria que dura bastante.
+
+<   [080.188][]   [+][PREÇOCÂMERA]       ::   Tendo em vista seu custo, vale muito a pena...apenas não gostei muito da câmera, mas quando ao restante estou satisfeita!
+>   [080.188][]   [+][PREÇO]             ::   Tendo em vista seu custo, vale muito a pena...
+>   [080.188][]   [-][CÂMERA]            ::   apenas não gostei muito da câmera, mas quando ao restante estou satisfeita!
+
+<   [081.190][]   [+][EMPRESAPRODUTO]    ::   Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
+>   [081.190][]   [+][EMPRESA]           ::   Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
+>   [081.190][]   [+][PRODUTO]           ::   produto muito bom, atendendo as expectativas da marca Moto.
+
+<   [084.197][]   [+][PREÇODESIGN]       ::   Cumpre o que promete com um ótimo custo-benefício, além do desing maravilhoso e ótimo acabamento.
+>   [084.197][]   [+][PREÇO]             ::   Cumpre o que promete com um ótimo custo-benefício.
+>   [084.197][]   [+][DESIGN]            ::   além do desing maravilhoso e ótimo acabamento.
+
+<   [085.201][]   [+][ARMAZENAMENTODESEMPENHO]  ::   Ótima memória, muito bom desempenho.
+>   [085.201][]   [+][ARMAZENAMENTO]     ::   Ótima memória.
+>   [085.201][]   [+][DESEMPENHO]        ::   muito bom desempenho.
+
+<   [086.205][]   [+][CÂMERADESEMPENHOPREÇO]  ::   Sua câmera é ok para os demais do mercado e seu processador consegue rodar todos os aplicativos-jogos que eu utilizava antes e ate os atuais portanto tem um preço ótimo portanto nao me arrependi e nao tive nenhum problema por enquanto.
+>   [086.205][]  [+.][CÂMERA]            ::   Sua câmera  é ok para os demais do mercado.
+>   [086.205][]   [+][DESEMPENHO]        ::   seu processador consegue rodar todos os aplicativos-jogos que eu utilizava antes e ate os atuais.
+>   [086.205][]   [+][PREÇO]             ::   tem  um preço ótimo portanto nao me arrependi
+>   [086.205][]  [+.][PRODUTO]           ::   nao tive nenhum problema por enquanto.
+
+<   [093.220][]   [+][PRODUTO]           ::   Boa velocidad.e.
+>   [093.220][]   [+][DESEMPENHO]        ::   Boa velocidade.
+
+<   [093.221][]   [+][PESO]              ::   Bonito e leve.
+>   [093.221][]   [+][DESIGN]            ::   Bonito.
+>   [093.221][]   [+][PESO]              ::   leve.
+
+<   [094.224][]   [+][PRODUTOSOARMAZENAMENTOUSABILIDADE]  ::   É um excelente aparelho, já vem com Android 7 e com 32GB de armazenamento que é o suficiente para usar sem problemas futuros.
+>   [094.224][]   [+][PRODUTO]           ::   É um excelente aparelho.
+>   [094.224][]   [+][SISTEMA]           ::   já vem com Android 7.
+>   [094.224][]   [+][ARMAZENAMENTO]     ::   com 32GB de armazenamento que é o suficiente para usar sem problemas futuros.
+
+<   [094.225][]   [+][ARMAZENAMENTOCÂMERA]  ::   A memória RAM de 2GB dá conta de realizar várias tarefas ao mesmo tempo sem travar e a câmera melhorou bastante em relação as versões anteriores do Moto G.
+>   [094.225][]   [+][DESEMPENHO]        ::   A memória RAM de 2GB dá conta de realizar várias tarefas ao mesmo tempo sem travar.
+>   [094.225][]   [+][CÂMERA]            ::   a câmera melhorou bastante em relação as versões anteriores do Moto G.
+
+<   [094.227][]   [+][BATERIADESIGN]     ::   Só a duração da bateria e o design que poderiam ser melhores.
+>   [094.227][]   [-][BATERIA]           ::   a duração da bateria que poderia ser melhor.
+>   [094.227][]   [-][DESIGN]            ::   o design que poderia ser melhor.
+
+<   [096.230][]   [+][PRODUTO]           ::   Moto g 5 Plus.
+>b  [096.230][]   [x][_BROKEN]           ::   Moto g  5 Plus.
+
+<   [096.231][]   [+][PRODUTO]           ::   Muito bom aparelho, apenas começou a esquentar do nada, Resetei e nunca mais esquentou.
+>   [096.231][]   [+][PRODUTO]           ::   Muito bom aparelho.
+>   [096.231][]  [..][DESEMPENHO]        ::   apenas começou a esquentar do nada, Resetei e nunca mais esquentou.
+
+<   [097.234][]   [+][PRODUTO]           ::   Sempre inovando e como sempre, Androide puro.
+>   [097.234][]   [+][SISTEMA]           ::   Sempre inovando e como sempre, Android puro.
+
+<   [098.236][]   [+][PRODUTO]           ::   Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
+>   [098.236][]   [.][PRODUTO]           ::   Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay). 
+
+<   [105.252][]   [+][PRODUTOBATERIA]    ::   O celular é bom, mas bateria dura pouco e a camera deixa bastante a desejar.
+>   [105.252][]   [+][PRODUTO]           ::   O celular é bom.
+>   [105.252][]   [-][BATERIA]           ::   bateria dura pouco.
+>   [105.252][]   [-][CÂMERA]            ::   e a camera deixa bastante a desejar.
+
+<   [109.261][]   [+][BATERIAPRODUTOTELA]  ::   Duas semanas de uso e tudo bem, a bateria não está durando muito e algumas vezes o aparelho esquenta muito,, mesmo estando com o Display apagado.
+>   [109.261][]  [+.][PRODUTO]           ::   Duas semanas de uso e tudo bem
+>   [109.261][]   [-][BATERIA]           ::   a bateria não está durando muito.
+>   [109.261][]   [-][DESEMPENHO]        ::   algumas vezes o aparelho esquenta muito, mesmo estando com o Display apagado.
+
+<   [111.265][]   [+][PRODUTODESEMPENHO]  ::   O aparelho é show.se desempenho é excelente, principalmente pelo seu valor, porém ele poderia ser um pouco menor.
+>   [111.265][]   [+][PRODUTO]           ::   O aparelho é show.
+>   [111.265][]   [+][DESEMPENHO]        ::   seu desempenho é excelente, principalmente pelo seu valor.
+>   [111.265][]   [-][PREÇO]             ::   seu valor poderia ser um pouco menor.
+
+<   [115.275][]   [+][PRODUTO]           ::   Exelente.
+>   [115.275][]   [+][PRODUTO]           ::   Excelente.
+
+<   [116.278][]   [+][BATERIA]           ::   Muito bom deixa a desejar só a bateria e designer.
+>   [116.278][]   [+][PRODUTO]           ::   Muito bom.
+>   [116.278][]   [-][BATERIA]           ::   deixa a desejar na bateria.
+>   [116.278][]   [-][DESIGN]            ::   deixa a desejar no designer.
+
+<   [122.291][]   [+][DESEMPENHOBATERIA]  ::   Ele é lindo! Super rápido, não trava, processador muito bom! A bateria dura mais de 1 dia, isso usando com frequência! Tô apaixonada por ele, melhor celular!
+>   [122.291][]   [+][DESIGN]            ::   Ele é lindo!
+>   [122.291][]   [+][DESEMPENHO]        ::   Super rápido, não trava, processador muito bom!
+>   [122.291][]   [+][BATERIA]           ::   A bateria dura mais de 1 dia, isso usando com frequência!
+>   [122.291][]  [++][PRODUTO]           ::   Tô apaixonada por ele, melhor celular!
+
+<   [123.293][]   [+][CÂMERAÁUDIO]       ::   A resolução da câmera é perfeita, o audio é muito bom.
+>   [123.293][]  [++][CÂMERA]            ::   A resolução da câmera é perfeita.
+>   [123.293][]   [+][OUTRO]             ::   o audio é muito bom.
+
+<   [123.294][]   [+][ARMAZENAMENTOBATERIA]  ::   A memória é muito boa e a bateria chega a durar 48 horas.
+>   [123.294][]   [+][ARMAZENAMENTO]     ::   A memória é muito boa.
+>   [123.294][]   [+][BATERIA]           ::   a bateria chega a durar 48 horas.
+
+<   [124.299][]   [+][PRODUTO]           ::   Dura bastane tempo.
+>   [124.299][]   [+][BATERIA]           ::   Dura bastante tempo.
+
+<   [125.300][]   [+][PRODUTO]           ::   Produto custo beneficio bom, poderia ter um preço melhor.
+>   [125.300][]   [+][PREÇO]             ::   Produto custo beneficio bom.
+>   [125.300][]   [-][PREÇO]             ::   poderia ter um preço melhor.
+
+<   [125.301][]   [+][PRODUTO]           ::   O meu Smartphone só tem um mês, então minha avaliação ainda é superficial, por enquanto me surpreendeu eu tinha o Smartphone Motorola G4 Plus que eu gostava muito também, mas fui assaltada, e na hora de comprar um novo optei em comprar a nova versão e me surpreendi, estou gostando muito ele tem mais precisão e o reconhecimento digital e bem superior ao G4plus.
+>   [125.301][]   [+][PRODUTO]           ::   O meu Smartphone só tem um mês, então minha avaliação ainda é superficial, por enquanto me surpreendeu eu tinha o Smartphone Motorola G4 Plus que eu gostava muito também, mas fui assaltada, e na hora de comprar um novo optei em comprar a nova versão e me surpreendi, estou gostando muito
+>   [125.301][]   [+][OUTRO]             ::   ele tem mais precisão e o reconhecimento digital e bem superior ao G4plus.
+
+<   [126.303][]   [+][PRODUTO]           ::   Bom mas pode melhorar.
+>   [126.303][]  [+.][PRODUTO]           ::   Bom mas pode melhorar. 
+
+<   [126.311][]   [+][ARMAZENAMENTO]     ::   Ele é rápido e tem boa memória.
+>   [126.311][]   [+][DESEMPENHO]        ::   Ele é rápido.
+>   [126.311][]   [+][ARMAZENAMENTO]     ::   ele tem boa memória.
+
+<   [126.312][]   [+][PRODUTO]           ::   Bem...é bem legal mas faltou um pouco de capricho pelo fabricante.
+>   [126.312][]   [+][PRODUTO]           ::   Bem...é bem legal.
+>   [126.312][]   [-][EMPRESA]           ::   faltou um pouco de capricho pelo fabricante.
+
+<   [128.316][]   [+][PRODUTOARMAZENAMENTO]  ::   Um bom produto,com muita memória,aparelho muito bonito e recomendo por ter algo a mais que é através da digital a sua segurança,foi o que me chamou a minha atenção.
+>   [128.316][]   [+][PRODUTO]           ::   Um bom produto.
+>   [128.316][]   [+][ARMAZENAMENTO]     ::   com muita memória.
+>   [128.316][]   [+][DESIGN]            ::   aparelho muito bonito.
+>   [128.316][]   [+][OUTRO]             ::   recomendo por ter algo a mais que é através da digital a sua segurança, foi o que me chamou a minha atenção.
+
+<   [131.324][]   [+][PRODUTOTELA]       ::   Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
+>   [131.324][]   [X][PRODUTO]           ::   Olha realmente tenho esse produto que comprei mas lojas americanas
+>   [131.324][]   [-][TELA]              ::   ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
+
+<   [133.328][]   [+][PRODUTOBATERIA]    ::   Gostei do produto, apenas a bateria a bateria podia ser melhor.
+>   [133.328][]   [+][PRODUTO]           ::   Gostei do produto.
+>   [133.328][]   [-][BATERIA]           ::   apenas a bateria a bateria podia ser melhor.
+
+<   [138.338][]   [+][PRODUTOPREÇOEMPRESA]  ::   Celular de ótimo custo-benefício e entregue antes do prazo.
+>   [138.338][]   [+][PREÇO]             ::   Celular de ótimo custo-benefício.
+>   [138.338][]   [+][EMPRESA]           ::   entregue antes do prazo.
+
+<   [139.341][]   [+][PRODUTOSOBATERIACÂMERAPREÇO]  ::   Celular com Android 7.0, com bons recursos, boa bateria, boa câmera e bom custo benefício.
+>   [139.341][]   [+][SISTEMA]           ::   Celular com Android 7.0.
+>   [139.341][]   [+][PRODUTO]           ::   Celular com bons recursos.
+>   [139.341][]   [+][BATERIA]           ::   Celular com boa bateria.
+>   [139.341][]   [+][CÂMERA]            ::   Celular com boa câmera.
+>   [139.341][]   [+][PREÇO]             ::   Celular com bom custo benefício.
+
+<   [141.347][]   [+][PRODUTO]           ::   Camara muito boa.
+>   [141.347][]   [+][CÂMERA]            ::   Câmera muito boa.
+
+<   [143.351][]   [+][USABILIDADE]       ::   Rápido, facil de usar, ...
+>   [143.351][]   [+][DESEMPENHO]        ::   Rápido ...
+>   [143.351][]   [+][USABILIDADE]       ::   facil de usar ...
+
+<   [145.355][]   [+][PRODUTODESIGN]     ::   Aparelho design excelente, facilidade de uso, muito bom respondeu todas expectativas,.
+>   [145.355][]   [+][DESIGN]            ::   Aparelho design excelente.
+>   [145.355][]   [+][USABILIDADE]       ::   facilidade de uso.
+>   [145.355][]   [+][PRODUTO]           ::   muito bom respondeu todas expectativas,.
+
+<   [146.357][]   [+][PRODUTO]           ::   APARELHO MUITO BONITO, FUNCIONAL ACERTEI NA COMPRA POIS SÓ GOSTO DEA MARCA MOTOROLA (MOTO G 5)
+>   [146.357][]   [+][DESIGN]            ::   APARELHO MUITO BONITO.
+>   [146.357][]   [+][PRODUTO]           ::   APARELHO FUNCIONAL ACERTEI NA COMPRA POIS SÓ GOSTO DA MARCA MOTOROLA (MOTO G 5).
+
+<   [150.364][]   [+][PRODUTO]           ::   Rasoável.
+>   [150.364][]   [.][PRODUTO]           ::   Razoável.
+
+<   [150.365][]   [+][PRODUTOARMAZENAMENTOCÂMERATELABATERIAUSABILIDADETELEVISÃO]  ::   Aparelho Razoável, porém pouca memória para os recursos que possui, a câmera e a tela estão abaixo da categoria e a duração da bateria deixa a desejar, pois um dia que se tenha uma maior conversação ou se decida usar os recursos de TV que o aparelho fornece ela se esgota rapidamente.
+>   [150.365][]   [.][PRODUTO]           ::   Aparelho Razoável.
+>   [150.365][]   [-][ARMAZENAMENTO]     ::   pouca memória para os recursos que possui
+>   [150.365][]   [-][CÂMERA]            ::   a câmera está abaixo da categoria.
+>   [150.365][]   [-][TELA]              ::   a tela está abaixo da categoria.
+>   [150.365][]   [-][BATERIA]           ::   a duração da bateria deixa a desejar, pois um dia que se tenha uma maior conversação ou se decida usar os recursos de TV que o aparelho fornece ela se esgota rapidamente.
+
+<   [150.367][]   [+][PRODUTO]           ::   Recomendo que seja compara uma capa de proteção, pois o aparelho e muito liso e facilmente escapa da mão, e com certeza uma película de proteção.
+>   [150.367][]   [!][RESISTÊNCIA]       ::   Recomendo que seja comprada uma capa de proteção
+>   [150.367][]   [-][RESISTÊNCIA]       ::   o aparelho é muito liso e facilmente escapa da mão.
+
+<   [151.368][]   [+][PRODUTO]           ::   Òtimo.
+>   [151.368][]   [+][PRODUTO]           ::   Ótimo.
+
+<   [152.372][]   [+][BATERIATELADESEMPENHO]  ::   Bateria muito boa que aguenta até mais de um dia sem recarregar com minha experiência de uso, display excelente e com cores vívidas, além de um processador muito bom que otimiza demais o uso no dia-a-dia.
+>   [152.372][]   [+][BATERIA]           ::   Bateria muito boa que aguenta até mais de um dia sem recarregar com minha experiência de uso.
+>   [152.372][]   [+][TELA]              ::   display excelente e com cores vívidas.
+>   [152.372][]   [+][DESEMPENHO]        ::   um processador muito bom que otimiza demais o uso no dia-a-dia.
+
+<   [153.375][]   [+][DESEMPENHOBATERIA]  ::   Processador rápido, duração da bateria excelente!
+>   [153.375][]   [+][DESEMPENHO]        ::   Processador rápido.
+>   [153.375][]   [+][BATERIA]           ::   duração da bateria excelente!
+
+<   [156.384][]   [+][DESIGNBATERIA]     ::   Design muito bonito, rápido e com uma boa duração de bateria.
+>   [156.384][]   [+][DESIGN]            ::   Design muito bonito.
+>   [156.384][]   [+][DESEMPENHO]        ::   rápido.
+>   [156.384][]   [+][BATERIA]           ::   boa duração de bateria.
+
+<   [157.386][]   [+][PRODUTOBATERIA]    ::   Aparelho excelente, exceto a durabilidade da bateria que não dura 12 horas vc usando as redes sociais mas tirando isto estou satisfeita com o produto.
+>   [157.386][]   [+][PRODUTO]           ::   Aparelho excelente.
+>   [157.386][]   [-][BATERIA]           ::   a durabilidade da bateria que não dura 12 horas vc usando as redes sociais mas tirando isto estou satisfeita com o produto.
+
+<   [159.390][]   [+][CÂMERATELEVISÃO]   ::   Adorei esse é o meu primeiro Motorola e estou muito satisfeita boa câmera qualidade de imagem adoro ver TV em HD nele uso as redes sociais numa boa sem problemas ou travamentos.
+>   [159.390][]   [+][PRODUTO]           ::   Adorei esse é o meu primeiro Motorola e estou muito satisfeita.
+>   [159.390][]   [+][CÂMERA]            ::   boa câmera qualidade de imagem.
+>   [159.390][]   [+][OUTRO]             ::   adoro ver TV em HD  nele.
+>   [159.390][]   [+][DESEMPENHO]        ::   uso as redes sociais numa boa sem problemas ou travamentos.
+
+<   [160.394][]   [+][PRODUTOARMAZENAMENTOTAMANHO]  ::   Produto de alta qualidade, com espaço interno de bom tamanho, câmeras frontal e traseira com qualidade muito boa.
+>   [160.394][]   [+][PRODUTO]           ::   Produto de alta qualidade.
+>   [160.394][]   [+][ARMAZENAMENTO]     ::   com espaço interno de bom tamanho.
+>   [160.394][]   [+][CÂMERA]            ::   câmeras frontal e traseira com qualidade muito boa.
+
+<   [160.395][]   [+][TELATAMANHOPREÇO]  ::   Para jogos não se discute roda qualquer jogo e com uma tela de ótimo tamanho, para mim melhor custo benefício do mercado.
+>   [160.395][]   [+][DESEMPENHO]        ::   Para jogos não se discute roda qualquer jogo.
+>   [160.395][]   [+][TELA]              ::   com uma tela de ótimo tamanho.
+>   [160.395][]  [++][PREÇO]             ::   para mim melhor custo benefício do mercado.
+
+<   [165.405][]   [+][PRODUTO]           ::   Pouco tempo de uso.
+>   [165.405][]   [x][PRODUTO]           ::   Pouco tempo de uso.  
+
+<   [166.407][]   [+][PRODUTO]           ::   Lindo e inovador.
+>   [166.407][]   [+][DESIGN]            ::   Lindo.
+>   [166.407][]   [+][PRODUTO]           ::   inovador.
+
+<   [166.408][]   [+][PRODUTOCÂMERA]     ::   Gostei do celular em todos aspectos, em especial do toque digital, da rapidez no processamento e câmera.
+>   [166.408][]   [+][PRODUTO]           ::   Gostei do celular em todos aspectos
+>   [166.408][]   [+][OUTRO]             ::   Gostei em especial do toque digital.
+>   [166.408][]   [+][DESEMPENHO]        ::   Gostei da rapidez no processamento.
+>   [166.408][]   [+][CÂMERA]            ::   Gostei da câmera.
+
+<   [167.410][]   [+][PRODUTOCÂMERA]     ::   Celular bem completo, com ponto forte na qualidade das fotos.
+>   [167.410][]   [+][PRODUTO]           ::   Celular bem completo.
+>   [167.410][]   [+][CÂMERA]            ::   celular com ponto forte na qualidade das fotos.
+
+<   [170.418][]   [+][PRODUTOPREÇO]      ::   O Aparelho é bom, e no tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
+>   [170.418][]   [+][PRODUTO]           ::   O Aparelho é bom.
+>   [170.418][]   [+][PREÇO]             ::   no tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
+
+<   [170.421][]   [+][TELEVISÃORÁDIO]    ::   Gostei do fato de ter a televisão e o rádio, pois as vezes em elas são uteis.
+>   [170.421][]   [+][OUTRO]             ::   Gostei do fato de ter a televisão, pois as vezes é útil.
+>   [170.421][]   [+][OUTRO]             ::   Gostei do fato de ter o rádio, pois as vezes é útil.
+
+<   [173.429][]   [+][DESIGNPRODUTO]     ::   Funciona com desenvoltura, tem bons recursos, não trava (diferente de alguns comentários que li, não sei o que possa ter acontecido), design elegante, enfim, estou contentíssimo com o produto.
+>   [173.429][]   [+][PRODUTO]           ::   Funciona com desenvoltura, tem bons recursos, não trava (diferente de alguns comentários que li, não sei o que possa ter acontecido), enfim, estou contentíssimo com o produto.
+>   [173.429][]   [+][DESIGN]            ::   design elegante.
+
+<   [174.432][]   [+][PRODUTO]           ::   Meu primeiro Moto G foi o Moto G3 Turbo.
+>   [174.432][]   [x][PRODUTO]           ::   Meu primeiro Moto G foi o Moto G3 Turbo. 
+
+<   [174.435][]   [+][BATERIA]           ::   A diferença é que esse aqui não trava e a bateria dura, DE FATO, 1 dia inteiro.
+>   [174.435][]   [+][BATERIA]           ::  Esse aqui não trava e a bateria dura, DE FATO, 1 dia inteiro.
+
+<   [174.437][]   [+][PRODUTO]           ::   Já caí na armadilha dos Iphone (itunes..
+>   [174.437][]   [+][PRODUTO]           ::   Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
+
+<   [174.438][]   [+][PRODUTO]           ::   Grrrr), e já me encantei com alguns Galaxy.
+
+<   [174.439][]   [+][PREÇO]             ::   Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
+
+<   [174.440][]   [+][PRODUTO]           ::   Agora, só Moto G.
+
+<   [175.442][]   [+][PRODUTOCÂMERABATERIATELEVISÃO]  ::   Adquiri há 1 mês.Aparelho mais bonito pessoalmente (dourado).Câmera incrível, designer perfeito, super rápido, carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).O diferencial dele é a TV, foi por isso que adquiri esse modelo.
+>   [175.442][]   [X][PRODUTO]           ::   Adquiri há 1 mês
+>   [175.442][]   [+][DESIGN]            ::   Aparelho mais bonito pessoalmente (dourado).
+>   [175.442][]   [+][CÂMERA]            ::   Câmera incrível.
+>   [175.442][]  [++][DESIGN]            ::   designer perfeito.
+>   [175.442][]   [+][DESEMPENHO]        ::   super rápido.
+>   [175.442][]   [+][BATERIA]           ::   carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).
+>   [175.442][]   [+][OUTRO]             ::   O diferencial dele é a TV, foi por isso que adquiri esse modelo.
+
+<   [175.443][]   [+][PREÇOPRODUTO]      ::   Pega vários canais em imagem hd.Consegui uma promoção incrível pelo extra que de 1499 saiu por 879,00 a vista e por esse preço tenho certeza que não encontraria um celular desse nível.Alguns comentam que o Moto g retrocedeu, tenho que discordar.
+>   [175.443][]   [+][OUTRO]             ::   Pega vários canais em imagem hd.
+>   [175.443][]   [+][PREÇO]             ::   Consegui uma promoção incrível pelo extra que de 1499 saiu por 879,00 a vista e por esse preço tenho certeza que não encontraria um celular desse nível.
+>   [175.443][]   [+][PRODUTO]           ::   Alguns comentam que o Moto g retrocedeu, tenho que discordar.
+
+<   [175.444][]   [+][TAMANHODESEMPENHOPRODUTO]  ::   Diminuiu o seu tamanho porém o processador deixou o aparelho voando.Muito feliz e satisfeita.Super indico.
+>   [175.444][]   [+][TAMANHO]           ::   Diminuiu o seu tamanho.
+>   [175.444][]   [+][DESEMPENHO]        ::   o processador deixou o aparelho voando
+>   [175.444][]   [+][PRODUTO]           ::   Muito feliz e satisfeita. 
+>   [175.444][]   [+][PRODUTO]           ::   Super indico.
+
+<   [180.454][]   [+][BATERIATELATAMANHOPESO]  ::   Boa duração da bateria, tela com bom tamanho, fino, leve.
+>   [180.454][]   [+][BATERIA]           ::   Boa duração da bateria.
+>   [180.454][]   [+][TELA]              ::   tela com bom tamanho.
+>   [180.454][]   [+][DESIGN]            ::   fino.
+>   [180.454][]   [+][PESO]              ::   leve.
+
+<   [181.457][]   [+][PRODUTOBATERIA]    ::   Celular de qualidade, lindo e com uma bateria super durável.
+>   [181.457][]   [+][PRODUTO]           ::   Celular de qualidade.
+>   [181.457][]   [+][DESIGN]            ::   Celular lindo.
+>   [181.457][]   [+][BATERIA]           ::   Celular com uma bateria super durável.
+
+<   [182.460][]   [+][PREÇODESIGN]       ::   Um dos melhores aparelhos pelo preço mas deveria ter acabamento mais refinado.
+>   [182.460][]   [+][PREÇO]             ::   Um dos melhores aparelhos pelo preço
+>   [182.460][]   [-][DESIGN]            ::   deveria ter acabamento mais refinado.
+
+<   [183.462][]   [+][PREÇOPRODUTO]      ::   Excelente Custo benefício, celular muito bom, não precisa mais q isso.
+>   [183.462][]   [+][PREÇO]             ::   Excelente Custo benefício.
+>   [183.462][]   [+][PRODUTO]           ::   celular muito bom, não precisa mais q isso.
+
+<   [184.464][]   [+][PRODUTOEMPRESA]    ::   Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
+>   [184.464][]   [+][PRODUTO]           ::   Ótimo produto.
+>   [184.464][]   [+][EMPRESA]           ::   entrega rápida.
+>   [184.464][]   [-][DESEMPENHO]        ::   só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
+
+<   [185.466][]   [+][BATERIATELACÂMERA]  ::   Ótimo smartphone! Bateria de longa duração, boa tela, ótima câmera.
+>   [185.466][]   [+][PRODUTO]           ::   Ótimo smartphone!
+>   [185.466][]   [+][BATERIA]           ::   Bateria de longa duração.
+>   [185.466][]   [+][TELA]              ::   boa tela.
+>   [185.466][]   [+][CÂMERA]            ::   ótima câmera.
+
+<   [186.467][]   [+][PRODUTO]           ::   O produto é muito bom, porém não comprei na empresa efacil, empresa ruim.
+>   [186.467][]   [+][PRODUTO]           ::   O produto é muito bom.
+>   [186.467][]   [-][EMPRESA]           ::   não comprei na empresa efacil, empresa ruim.
+
+<   [186.468][]   [+][PRODUTOEMPRESA]    ::   O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+>d  [186.468][]   [x][_DUPLICATE]        ::   O produto é muito bom.
+>   [186.468][]   [-][EMPRESA]           ::   não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+
+<   [188.476][]   [+][ARMAZENAMENTOPRODUTOPREÇO]  ::   Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel, mas na sua faixa de preço ainda está valendo a pena.
+>   [188.476][]   [-][DESEMPENHO]        ::   Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel.
+>   [188.476][]   [+][PREÇO]             ::   na sua faixa de preço ainda está valendo a pena.
+
+<   [192.486][]   [+][PRODUTO]           ::   Mas ele é muito bom nas funcionalidades que já usei.
+>   [192.486][]   [+][PRODUTO]           ::   ele é muito bom nas funcionalidades que já usei.
+
+<   [199.500][]   [+][PRODUTOBATERIA]    ::   Ótimo aparelho, bateria dura até o fim do dia tranquilo.
+>   [199.500][]   [+][PRODUTO]           ::   Ótimo aparelho.
+>   [199.500][]   [+][BATERIA]           ::   bateria dura até o fim do dia tranquilo.
+
+<   [204.513][]   [+][PRODUTO]           ::   Ja é meu terceiro aparelho da linha MOTO G!Mais uma vez um aparelho ótimo!
+>   [204.513][]   [+][PRODUTO]           ::   Ja é meu terceiro aparelho da linha MOTO G! Mais uma vez um aparelho ótimo!
+
+<   [206.516][]   [+][PRODUTO]           ::   Com sempre um produto sem igual!
+>   [206.516][]   [+][PRODUTO]           ::   Como sempre um produto sem igual!
+
+<   [208.520][]   [+][PRODUTO]           ::   Ótimo smartphone porém custo benefício baixo.
+>   [208.520][]   [+][PRODUTO]           ::   Ótimo smartphone
+>   [208.520][]   [-][PREÇO]             ::   custo benefício baixo.
+
+<   [208.521][]   [+][ARMAZENAMENTOPREÇOPRODUTOEMPRESA]  ::   E um ótimo smartphone, com um design? que agrada, os detalhes são bem feitos.Apesar de ser rápido a memória ram ainda é baixa e o preço é muito alto em relação aos benefícios que o aparelho entrega.
+>   [208.521][]   [+][PRODUTO]           ::   E um ótimo smartphone.
+>   [208.521][]   [+][DESIGN]            ::   smartphone com um design que agrada, os detalhes são bem feitos.
+>   [208.521][]   [+][DESEMPENHO]        ::   smartphone rápido
+>   [208.521][]   [-][DESEMPENHO]        ::   Apesar de ser rápido a memória ram ainda é baixa.
+>   [208.521][]   [-][PREÇO]             ::   o preço é muito alto em relação aos benefícios que o aparelho entrega.
+
+<   [209.524][]   [+][BATERIACÂMERA]     ::   Compra recente não testei muito, mas a bateria está durando bastante! A câmera com zoom perde bastante qualidade.
+>   [209.524][]   [+][BATERIA]           ::   Compra recente não testei muito, mas a bateria está durando bastante!
+>   [209.524][]   [-][CÂMERA]            ::   A câmera com zoom perde bastante qualidade.
+
+<   [210.526][]   [+][BATERIACÂMERA]     ::   Achei que a duração da bateria e a qualidade da câmera foram excelentes pontos, mas o principal é que os oito processadores cumprem muito bem sua função!
+>   [210.526][]   [+][BATERIA]           ::   Achei que a duração da bateria é um excelente ponto.
+>   [210.526][]   [+][CÂMERA]            ::   Achei que a qualidade da câmera é um excelente ponto.
+>   [210.526][]   [+][DESEMPENHO]        ::   o principal é que os oito processadores cumprem muito bem sua função!
+
+<   [213.533][]   [+][PRODUTOCÂMERASOPREÇO]  ::   Produto bonito, câmera boa, Android puro, fora detalhes de isso fazem dele o melhor custo benefício da categoria.
+>   [213.533][]   [+][DESIGN]            ::   Produto bonito.
+>   [213.533][]   [+][CÂMERA]            ::   câmera boa.
+>   [213.533][]   [+][SISTEMA]           ::   Android puro.
+>   [213.533][]  [++][PREÇO]             ::   detalhes fazem dele o melhor custo benefício da categoria.
+
+<   [215.539][]   [+][PRODUTO]           ::   E se vcs kiserem celular bom indico que procurem um iphone da aplee mesmo versoes mais antigas pois nunca perdem valor de mercado aplee e aplee...
+>   [215.539][]   [-][PRODUTO]           ::   E se vcs quiserem celular bom indico que procurem um iphone da apple  mesmo versões mais antigas pois nunca perdem valor de mercado apple e apple...
+
+<   [216.542][]   [-][PRODUTO]           ::   Comprei o aparelho e depois de três meses ele já apresentou problemas.
+>   [216.542][]   [-][RESISTÊNCIA]       ::   Comprei o aparelho e depois de três meses ele já apresentou problemas. O telefone desliga sozinho, mesmo a bateria apresentando carga. Há dificuldade para religá-lo.
+
+<   [216.544][]   [-][PRODUTO]           ::   Há dificuldade para religa-lo.
+>   [216.544][]   [-][PRODUTO]           ::   Há dificuldade para religá-lo.
+
+<   [220.556][]   [-][PRODUTODESIGNPESOCÂMERA]  ::   Gostei muito do aparelho de início, design bonito, leve, Android puro, porém com tempo de uso começou a reiniciar sozinho, trava de vez em quando, esquentar bastante, infelizmente os 2Gb de RAM não suprem a necessidade para quem usa bastante o aparelho com mais de um app ligado.A câmera deixa a desejar, pois se você usa o zoom a qualidade de imagem da foto cai muito, mais muito mesmo.Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
+>   [220.556][]   [+][PRODUTO]           ::   Gostei muito do aparelho de início.
+>   [220.556][]   [+][DESIGN]            ::   design bonito.
+>   [220.556][]   [+][PESO]              ::   leve.
+>   [220.556][]   [+][SISTEMA]           ::   Android puro.
+>   [220.556][]   [-][DESEMPENHO]        ::   com tempo de uso começou a reiniciar sozinho, trava de vez em quando, esquentar bastante.
+>   [220.556][]   [-][DESEMPENHO]        ::   infelizmente os 2Gb de RAM não suprem a necessidade para quem usa bastante o aparelho com mais de um app ligado.
+>   [220.556][]   [-][CÂMERA]            ::   A câmera deixa a desejar, pois se você usa o zoom a qualidade de imagem da foto cai muito, mais muito mesmo.
+>   [220.556][]   [-][PRODUTO]           ::   Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
+
+<   [222.562][]   [-][PRODUTOCÂMERAÁUDIO]  ::   O celular não tem "Galeria" para ver fotos, tem que entrar pelo Google Fotos, você acessa até fotos do orkut, do facebook, de todas as redes sociais antes de conseguir acessar as fotos armazenadas no celular;Não tem "Media Player", tem que ver pelo Google Música, você acessa antes um tipo de "Spotify da google" antes de acessar suas próprias músicas;Não tem botão "Reiniciar", aparentemente é algo genial demais para os desenvolvedores.
+>   [222.562][]   [-][OUTRO]             ::   O celular não tem "Galeria" para ver fotos, tem que entrar pelo Google Fotos, você acessa até fotos do orkut, do facebook, de todas as redes sociais antes de conseguir acessar as fotos armazenadas no celular. 
+>   [222.562][]   [-][OUTRO]             ::   Não tem "Media Player", tem que ver pelo Google Música, você acessa antes um tipo de "Spotify da google" antes de acessar suas próprias músicas. 
+>   [222.562][]   [-][OUTRO]             ::   Não tem botão "Reiniciar", aparentemente é algo genial demais para os desenvolvedores. Desligue e ligue.
+
+<   [222.563][]   [-][SO]                ::   Desligue e ligue;Não funciona bem conectado pelo bluetooth nos carros, tenho iPhones e Galaxys na família que funcionam bem nos carros, o Moto G5 não funciona;Possui 8 núcleos e não suporta a capacidade, superaquece e desliga quando usa GPS+Bluetooth juntos, faça o teste e verá: ele esquenta até desligar;O fone que vem junto é descartável de tão ruim, não vale R$10;Não possui "área de transferência", como todo android.
+>   [222.563][]   [-][OUTRO]             ::   Não funciona bem conectado pelo bluetooth nos carros, tenho iPhones e Galaxys na família que funcionam bem nos carros, o Moto G5 não funciona.
+>   [222.563][]   [-][DESEMPENHO]        ::   Possui 8 núcleos e não suporta a capacidade, superaquece e desliga quando usa GPS+Bluetooth juntos, faça o teste e verá: ele esquenta até desligar.
+>   [222.563][]   [-][ACESSÓRIO]         ::   O fone que vem junto é descartável de tão ruim, não vale R$10.
+>   [222.563][]   [-][OUTRO]             ::   Não possui "área de transferência", como todo android. 
+
+<   [222.564][]   [-][ARMAZENAMENTO]     ::   Genial demais para eles também. Não possui nem "meus documentos" ou "biblioteca", é preciso baixar APP pra gerenciar seus arquivos, acessar seus downloads, etc.
+>   [222.564][]   [-][OUTRO]             ::   Não possui nem "meus documentos" ou "biblioteca", é preciso baixar APP pra gerenciar seus arquivos, acessar seus downloads, etc.
+
+<   [223.567][]   [-][PRODUTO]           ::   Recebi o produto mas o mesmo não carregava.
+>   [223.567][]   [-][RESISTÊNCIA]       ::   Recebi o produto mas o mesmo não carregava. 
+
+<   [223.568][]   [-][BATERIA]           ::   Bateria já estava ruim.
+>   [223.568][]   [-][BATERIA]           ::   Bateria já estava ruim. 
+
+<   [224.571][]   [-][PRODUTO]           ::   Aparelbo com problema.
+>   [224.571][]   [-][RESISTÊNCIA]       ::   Aparelho com problema. 
+
+<   [224.572][]   [-][PRODUTO]           ::   O produto após duas semanas não carrega mais.
+>   [224.572][]   [-][BATERIA]           ::   O produto após  duas semanas não  carrega mais.
+
+<   [224.573][]   [-][PRODUTO]           ::   Tentei entrar en contato com a Onofre e não consegui.
+>   [224.573][]   [-][EMPRESA]           ::   Tentei entrar em contato com a Onofre e não  consegui.
+
+<   [225.575][]   [-][PRODUTO]           ::   Em 02/05/17, comprei este smartphone pelo site do Extra.
+>   [225.575][]   [-][EMPRESA]           ::   Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+
+<   [226.594][]   [-][ARMAZENAMENTO]     ::   Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória.
+>   [226.594][]   [-][OUTRO]             ::   Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
+
+<   [226.595][]   [-][PRODUTO]           ::   Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
+
+<   [227.597][]   [-][PRODUTOEMPRESABATERIA]  ::   Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
+>   [227.597][]   [-][EMPRESA]           ::   Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
+
+<   [227.599][]   [-][PRODUTOEMPRESA]    ::   Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+>   [227.599][]   [-][PRODUTO]           ::   Estou muito infeliz com a compra desse produto.
+>   [227.599][]   [-][EMPRESA]           ::   dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+
+<   [229.609][]   [-][PRODUTO]           ::   Review speaker ruim.
+>   [229.609][]   [-][SOM]               ::   Alto-falante ruim.
+
