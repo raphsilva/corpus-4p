@@ -70,14 +70,14 @@ def getInfo(filename):
 
         sentence = line.split('::')[-1]  # Get sentence from the entry
         info = line.split('::')[0]  # Get info (polarity, aspect, etc) from the sentence
-        info = info.replace('[', '').replace('(', '').replace(' ', '')  # Remove characters that won't be used (they are there for human readability)
+        info = info.replace('[', '').replace('(', '') # Remove characters that won't be used (they are there for human readability)
         line_id = info.split(')')[0]
 
         n = {}  # Will save information about this entry
         n['product_id'] = product_id
         n['review_id'] = line_id.split('.')[0]
         n['sentence_id'] = line_id.split('.')[1]
-        n['polarity'] = info.split(')')[1].split(']')[0]
+        n['polarity'] = info.split(' ')[1].split(']')[0]
         n['aspect'] = info.split(']')[1]
         n['sentence'] = sentence
         n['entry_id'] = entry_id

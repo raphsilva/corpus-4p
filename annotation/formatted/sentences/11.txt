@@ -27,24 +27,25 @@
 # CÂMERA _  _  _  _  _  _  54 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 56
 # DESEMPENHO               60         3                            63
 # DESIGN _  _  _  _  _  _  23 _  _  _ 5 _  _  _ 1 _  _  _  _  _  _ 29
-# EMPRESA                   9        16                            25
-# OUTRO _  _  _  _  _  _   14 _  _   10 _  _  _  _  _  _  1 _  _   25
-# PESO                      2         3                             5
-# PREÇO _  _  _  _  _  _   13 _  _   18 _  _  _  _  _  _  _  _  _  31
-# PRODUTO                 359         8         3        15       385
-# RESISTÊNCIA _  _  _  _  _ 7 _  _   15 _  _  _ 2 _  _  _  _  _  _ 24
-# SISTEMA                   8         2                            10
-# TAMANHO _  _  _  _  _  _  3 _  _  _  _  _  _  _  _  _  _  _  _  _ 3
-# TELA                     19         1                            20
-# USABILIDADE _  _  _  _  _ 9 _  _  _  _  _  _  _  _  _  _  _  _  _ 9
-# X                         1         2                   6         9
-# _TOTAL__________________242________89_________6________58_______395
-# _BROKEN                                                18        18
-# _CONTEXT _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 2 _  _  _ 2
-# _DUPLICATE                                             25        25
-# _IRRELEVANT _  _  _  _  _  _  _  _  _  _  _  _  _  _   10 _  _   10
-# _NONE                                                  33        33
-# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
+# EMPRESA                   9        15                            24
+# EMPRESA _  _  _  _  _  _  _  _  _   1 _  _  _  _  _  _  _  _  _   1
+# OUTRO                    14        10                   1        25
+# PESO _  _  _  _  _  _  _  2 _  _  _ 3 _  _  _  _  _  _  _  _  _   5
+# PREÇO                    13        18                            31
+# PRODUTO _  _  _  _  _   359 _  _  _ 8 _  _  _ 3 _  _   15 _  _  385
+# RESISTÊNCIA               7        15         2                  24
+# SISTEMA _  _  _  _  _  _  8 _  _  _ 2 _  _  _  _  _  _  _  _  _  10
+# TAMANHO                   3                                       3
+# TELA _  _  _  _  _  _  _ 19 _  _  _ 1 _  _  _  _  _  _  _  _  _  20
+# USABILIDADE               9                                       9
+# X _  _  _  _  _  _  _  _  1 _  _  _ 2 _  _  _  _  _  _  6 _  _  _ 9
+# _TOTAL__________________242________90_________6________58_______396
+# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 18 _  _   18
+# _CONTEXT                                                2         2
+# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 25 _  _   25
+# _IRRELEVANT                                            10        10
+# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   33 _  _   33
+# _UNINTELLIGIBLE                                         1         1
 
 
 
@@ -420,6 +421,13 @@ DESIGN .
 
 
 
+(003.007)
+Na propaganda diz ter tv digital é mentira.
+
+EMPRESA  - 
+
+
+
 (005.013)
 Parabéns Shopfacil.com.
 
@@ -506,13 +514,6 @@ EMPRESA -
 
 (193.590)
 Critica por não ter recebido o blinde.
-
-EMPRESA - 
-
-
-
-(003.007)
-Na propaganda diz ter tv digital é mentira.
 
 EMPRESA - 
 
