@@ -1214,7 +1214,7 @@ i(127.314) [][] :: Meu aparelho não é o moto g5 plus e sim o :: Smartphone Mot
 
 b(131.323) [][] :: Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-(131.324) [X][PRODUTO] :: Olha realmente tenho esse produto que comprei mas lojas americanas
+c(131.324) [X][PRODUTO] :: Olha realmente tenho esse produto que comprei mas lojas americanas
 (131.324) [-][TELA] :: ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
 
@@ -1305,7 +1305,7 @@ b(136.333) [][] :: Moto G Plus.
 
 (142.348) [+][PRODUTO] :: Produto excelente.
 
-(142.349) [X][PRODUTO] :: Foi presente.
+c(142.349) [X][PRODUTO] :: Foi presente.
 
 
 
@@ -1632,7 +1632,7 @@ i(174.432) [x][PRODUTO] :: Meu primeiro Moto G foi o Moto G3 Turbo.
 
 (175.441) [+][PRODUTO] :: Amando meu Moto G plus.
 
-(175.442) [X][PRODUTO] :: Adquiri há 1 mês
+c(175.442) [X][PRODUTO] :: Adquiri há 1 mês
 (175.442) [+][DESIGN] :: Aparelho mais bonito pessoalmente (dourado).
 (175.442) [+][CÂMERA] :: Câmera incrível.
 (175.442) [++][DESIGN] :: designer perfeito.

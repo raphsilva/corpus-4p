@@ -3914,8 +3914,8 @@
             "id": 324,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ],
                 [
                     "TELA",
@@ -4197,8 +4197,8 @@
             "id": 349,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Foi presente."
@@ -5310,8 +5310,8 @@
             "id": 442,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ],
                 [
                     "DESIGN",

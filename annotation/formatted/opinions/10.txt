@@ -26,16 +26,16 @@
 # OUTRO                    18        16         1                  35
 # PESO _  _  _  _  _  _  _  4 _  _  _  _  _  _  _  _  _  _  _  _  _ 4
 # PREÇO                    68         4                            72
-# PRODUTO _  _  _  _  _   322 _  _   19 _  _   20 _  _  _ 3 _  _  364
+# PRODUTO _  _  _  _  _   322 _  _   19 _  _   20 _  _  _  _  _   361
 # RESISTÊNCIA               2        10         1                  13
 # SISTEMA _  _  _  _  _  _ 10 _  _  _ 3 _  _  _  _  _  _  _  _  _  13
 # SOM                                 2                             2
 # TAMANHO _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # TELA                      7         4                            11
 # USABILIDADE _  _  _  _   18 _  _  _  _  _  _  _  _  _  _  _  _   18
-# _TOTAL__________________253_______117_________6________55_______431
+# _TOTAL__________________253_______117_________6________58_______434
 # _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 24 _  _   24
-# _CONTEXT                                                6         6
+# _CONTEXT                                                9         9
 # _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 13 _  _   13
 # _IRRELEVANT                                             7         7
 # _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 4 _  _  _ 4
@@ -1329,183 +1329,183 @@
 
 112.267.0642)   [.][PRODUTO]           ::  É um aparelho regular.
 
-142.349.0643)   [X][PRODUTO]           ::  Foi presente.
+150.367.0643)   [!][RESISTÊNCIA]       ::  Recomendo que seja comprada uma capa de proteção.
 
-175.442.0644)   [X][PRODUTO]           ::  Adquiri há 1 mês.
+002.008.0644)   [+][RESISTÊNCIA]       ::  Display é bastante resistente.
 
-131.324.0645)   [X][PRODUTO]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
+058.139.0645)   [+][RESISTÊNCIA]       ::  E a durabilidade também excelente.
 
-150.367.0646)   [!][RESISTÊNCIA]       ::  Recomendo que seja comprada uma capa de proteção.
+224.571.0646)   [-][RESISTÊNCIA]       ::  Aparelho com problema.
 
-002.008.0647)   [+][RESISTÊNCIA]       ::  Display é bastante resistente.
+067.158.0647)   [-][RESISTÊNCIA]       ::  As partes em plástico o tornam frágil.
 
-058.139.0648)   [+][RESISTÊNCIA]       ::  E a durabilidade também excelente.
+217.547.0648)   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
 
-224.571.0649)   [-][RESISTÊNCIA]       ::  Aparelho com problema.
+223.567.0649)   [-][RESISTÊNCIA]       ::  Recebi o produto mas o mesmo não carregava.
 
-067.158.0650)   [-][RESISTÊNCIA]       ::  As partes em plástico o tornam frágil.
+223.569.0650)   [-][RESISTÊNCIA]       ::  Sem conserto, mesmo porque a bateria é lacrada.
 
-217.547.0651)   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
+150.367.0651)   [-][RESISTÊNCIA]       ::  O aparelho é muito liso e facilmente escapa da mão.
 
-223.567.0652)   [-][RESISTÊNCIA]       ::  Recebi o produto mas o mesmo não carregava.
+112.269.0652)   [-][RESISTÊNCIA]       ::  A câmera com uma saliência grande requer cuidados para não danificar.
 
-223.569.0653)   [-][RESISTÊNCIA]       ::  Sem conserto, mesmo porque a bateria é lacrada.
+219.553.0653)   [-][RESISTÊNCIA]       ::  Regular pois na primeira semana de uso tive que enviar ele para a assistência.
 
-150.367.0654)   [-][RESISTÊNCIA]       ::  O aparelho é muito liso e facilmente escapa da mão.
+216.542.0654)   [-][RESISTÊNCIA]       ::  Comprei o aparelho e depois de três meses ele já apresentou problemas. O telefone desliga sozinho, mesmo a bateria apresentando carga. Há dificuldade para religá-lo.
 
-112.269.0655)   [-][RESISTÊNCIA]       ::  A câmera com uma saliência grande requer cuidados para não danificar.
+217.548.0655)   [-][RESISTÊNCIA]       ::  O aparelho é muito bom, mas com 2 semanas de uso ele apagou e não funcionou mais, nesse momento esta na assistencia tecnica,, Uma decepção total, espero que consertem e volte sem mais aborrecimentos...
 
-219.553.0656)   [-][RESISTÊNCIA]       ::  Regular pois na primeira semana de uso tive que enviar ele para a assistência.
+213.533.0656)   [+][SISTEMA]           ::  Android puro.
 
-216.542.0657)   [-][RESISTÊNCIA]       ::  Comprei o aparelho e depois de três meses ele já apresentou problemas. O telefone desliga sozinho, mesmo a bateria apresentando carga. Há dificuldade para religá-lo.
+220.556.0657)   [+][SISTEMA]           ::  Android puro.
 
-217.548.0658)   [-][RESISTÊNCIA]       ::  O aparelho é muito bom, mas com 2 semanas de uso ele apagou e não funcionou mais, nesse momento esta na assistencia tecnica,, Uma decepção total, espero que consertem e volte sem mais aborrecimentos...
+002.008.0658)   [+][SISTEMA]           ::  O sistema é rápido.
 
-213.533.0659)   [+][SISTEMA]           ::  Android puro.
+094.224.0659)   [+][SISTEMA]           ::  Já vem com Android 7.
 
-220.556.0660)   [+][SISTEMA]           ::  Android puro.
+139.341.0660)   [+][SISTEMA]           ::  Celular com Android 7.0.
 
-002.008.0661)   [+][SISTEMA]           ::  O sistema é rápido.
+154.378.0661)   [+][SISTEMA]           ::  O Android 7.0 é muito bom.
 
-094.224.0662)   [+][SISTEMA]           ::  Já vem com Android 7.
+054.130.0662)   [+][SISTEMA]           ::  Android e bom despacha bem rapido.
 
-139.341.0663)   [+][SISTEMA]           ::  Celular com Android 7.0.
+097.234.0663)   [+][SISTEMA]           ::  Sempre inovando e como sempre, Android puro.
 
-154.378.0664)   [+][SISTEMA]           ::  O Android 7.0 é muito bom.
+067.158.0664)   [+][SISTEMA]           ::  Vale a pena principalmente pelo Android puro.
 
-054.130.0665)   [+][SISTEMA]           ::  Android e bom despacha bem rapido.
+154.377.0665)   [+][SISTEMA]           ::  Gosto do Android quase puro e a Motorola atualiza o sistema operacional mais rápido que os demais fabricantes.
 
-097.234.0666)   [+][SISTEMA]           ::  Sempre inovando e como sempre, Android puro.
+053.128.0666)   [-][SISTEMA]           ::  Só o software que poderia ter alguns recursos de fábrica a mais, como gravador de voz e ligações.
 
-067.158.0667)   [+][SISTEMA]           ::  Vale a pena principalmente pelo Android puro.
+032.079.0667)   [-][SISTEMA]           ::  Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
 
-154.377.0668)   [+][SISTEMA]           ::  Gosto do Android quase puro e a Motorola atualiza o sistema operacional mais rápido que os demais fabricantes.
+019.043.0668)  [-.][SISTEMA]           ::  Eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
 
-053.128.0669)   [-][SISTEMA]           ::  Só o software que poderia ter alguns recursos de fábrica a mais, como gravador de voz e ligações.
+229.609.0669)   [-][SOM]               ::  Alto-falante ruim.
 
-032.079.0670)   [-][SISTEMA]           ::  Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
+067.158.0670)   [-][SOM]               ::  Ponto fraco por possuir apenas um alto-falante.
 
-019.043.0671)  [-.][SISTEMA]           ::  Eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
+175.444.0671)   [+][TAMANHO]           ::  Diminuiu o seu tamanho.
 
-229.609.0672)   [-][SOM]               ::  Alto-falante ruim.
+045.107.0672)   [+][TAMANHO]           ::  Muito bom, tamanho ideal.
 
-067.158.0673)   [-][SOM]               ::  Ponto fraco por possuir apenas um alto-falante.
+185.466.0673)   [+][TELA]              ::  Boa tela.
 
-175.444.0674)   [+][TAMANHO]           ::  Diminuiu o seu tamanho.
+180.454.0674)   [+][TELA]              ::  Tela com bom tamanho.
 
-045.107.0675)   [+][TAMANHO]           ::  Muito bom, tamanho ideal.
+126.309.0675)   [+][TELA]              ::  A tela é bem brilhante.
 
-185.466.0676)   [+][TELA]              ::  Boa tela.
+160.395.0676)   [+][TELA]              ::  Com uma tela de ótimo tamanho.
 
-180.454.0677)   [+][TELA]              ::  Tela com bom tamanho.
+002.008.0677)   [+][TELA]              ::  Display é bastante resistente.
 
-126.309.0678)   [+][TELA]              ::  A tela é bem brilhante.
+152.372.0678)   [+][TELA]              ::  Display excelente e com cores vívidas.
 
-160.395.0679)   [+][TELA]              ::  Com uma tela de ótimo tamanho.
+031.073.0679)   [+][TELA]              ::  A nitidez é imbatível (para ler textos por exemplo)
 
-002.008.0680)   [+][TELA]              ::  Display é bastante resistente.
+150.365.0680)   [-][TELA]              ::  A tela está abaixo da categoria.
 
-152.372.0681)   [+][TELA]              ::  Display excelente e com cores vívidas.
+031.073.0681)   [-][TELA]              ::  A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED)
 
-031.073.0682)   [+][TELA]              ::  A nitidez é imbatível (para ler textos por exemplo)
+131.324.0682)   [-][TELA]              ::  Ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
-150.365.0683)   [-][TELA]              ::  A tela está abaixo da categoria.
+031.076.0683)   [-][TELA]              ::  Também percebi um bug que quando se carrega o celular, dependendo da capa de proteção não dá pra usar a tela touch (a voltagem interfere na detecção dos toques)
 
-031.073.0684)   [-][TELA]              ::  A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED)
+190.481.0684)   [+][USABILIDADE]       ::  Pratico.
 
-131.324.0685)   [-][TELA]              ::  Ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
+027.064.0685)   [+][USABILIDADE]       ::  Fácil de usar.
 
-031.076.0686)   [-][TELA]              ::  Também percebi um bug que quando se carrega o celular, dependendo da capa de proteção não dá pra usar a tela touch (a voltagem interfere na detecção dos toques)
+058.139.0686)   [+][USABILIDADE]       ::  Fácil de usar.
 
-190.481.0687)   [+][USABILIDADE]       ::  Pratico.
+078.183.0687)   [+][USABILIDADE]       ::  Fácil de usar.
 
-027.064.0688)   [+][USABILIDADE]       ::  Fácil de usar.
+088.210.0688)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-058.139.0689)   [+][USABILIDADE]       ::  Fácil de usar.
+143.351.0689)   [+][USABILIDADE]       ::  Facil de usar ...
 
-078.183.0690)   [+][USABILIDADE]       ::  Fácil de usar.
+021.048.0690)   [+][USABILIDADE]       ::  De fácil manuseio.
 
-088.210.0691)   [+][USABILIDADE]       ::  Fácil manuseio.
+145.355.0691)   [+][USABILIDADE]       ::  Facilidade de uso.
 
-143.351.0692)   [+][USABILIDADE]       ::  Facil de usar ...
+190.480.0692)   [+][USABILIDADE]       ::  Pratico e simples.
 
-021.048.0693)   [+][USABILIDADE]       ::  De fácil manuseio.
+022.052.0693)   [+][USABILIDADE]       ::  Funções fáceis de usar.
 
-145.355.0694)   [+][USABILIDADE]       ::  Facilidade de uso.
+051.120.0694)   [+][USABILIDADE]       ::  Praticidade e qualidade.
 
-190.480.0695)   [+][USABILIDADE]       ::  Pratico e simples.
+029.068.0695)   [+][USABILIDADE]       ::  Produto muito fácil de se utilizar.
 
-022.052.0696)   [+][USABILIDADE]       ::  Funções fáceis de usar.
+113.272.0696)   [+][USABILIDADE]       ::  Muito bom o manuseio, configuração ótima.
 
-051.120.0697)   [+][USABILIDADE]       ::  Praticidade e qualidade.
+037.089.0697)   [+][USABILIDADE]       ::  Fácil mexer, até o momento não tenho queixas.
 
-029.068.0698)   [+][USABILIDADE]       ::  Produto muito fácil de se utilizar.
+087.208.0698)   [+][USABILIDADE]       ::  Até que é fácil de manusear e encontrar as customizações.
 
-113.272.0699)   [+][USABILIDADE]       ::  Muito bom o manuseio, configuração ótima.
+035.085.0699)   [+][USABILIDADE]       ::  Fácil de usar e com vários recurso que são encontrados na linha premium.
 
-037.089.0700)   [+][USABILIDADE]       ::  Fácil mexer, até o momento não tenho queixas.
+067.158.0700)   [+][USABILIDADE]       ::  Vale a pena principalmente pelas Moto Ações que facilitam a usabilidade.
 
-087.208.0701)   [+][USABILIDADE]       ::  Até que é fácil de manusear e encontrar as customizações.
+051.121.0701)   [+][USABILIDADE]       ::  Oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
 
-035.085.0702)   [+][USABILIDADE]       ::  Fácil de usar e com vários recurso que são encontrados na linha premium.
+108.258.0702)   [x][_BROKEN]           ::  Chato.
 
-067.158.0703)   [+][USABILIDADE]       ::  Vale a pena principalmente pelas Moto Ações que facilitam a usabilidade.
+108.259.0703)   [x][_BROKEN]           ::  Chato.
 
-051.121.0704)   [+][USABILIDADE]       ::  Oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
+134.329.0704)   [x][_BROKEN]           ::  Otima.
 
-108.258.0705)   [x][_BROKEN]           ::  Chato.
+046.108.0705)   [x][_BROKEN]           ::  Preço.
 
-108.259.0706)   [x][_BROKEN]           ::  Chato.
+021.047.0706)   [x][_BROKEN]           ::  Moto G.
 
-134.329.0707)   [x][_BROKEN]           ::  Otima.
+124.298.0707)   [x][_BROKEN]           ::  Bateria.
 
-046.108.0708)   [x][_BROKEN]           ::  Preço.
+168.413.0708)   [x][_BROKEN]           ::  Celular.
 
-021.047.0709)   [x][_BROKEN]           ::  Moto G.
+065.152.0709)   [x][_BROKEN]           ::  Memória.
 
-124.298.0710)   [x][_BROKEN]           ::  Bateria.
+171.422.0710)   [x][_BROKEN]           ::  MOTO G5.
 
-168.413.0711)   [x][_BROKEN]           ::  Celular.
+184.463.0711)   [x][_BROKEN]           ::  Moto G5.
 
-065.152.0712)   [x][_BROKEN]           ::  Memória.
+198.497.0712)   [x][_BROKEN]           ::  Moto G5.
 
-171.422.0713)   [x][_BROKEN]           ::  MOTO G5.
+229.608.0713)   [x][_BROKEN]           ::  Speaker.
 
-184.463.0714)   [x][_BROKEN]           ::  Moto G5.
+214.534.0714)   [x][_BROKEN]           ::  Curiosidade.
 
-198.497.0715)   [x][_BROKEN]           ::  Moto G5.
+018.040.0715)   [x][_BROKEN]           ::  Moto g plus.
 
-229.608.0716)   [x][_BROKEN]           ::  Speaker.
+136.333.0716)   [x][_BROKEN]           ::  Moto G Plus.
 
-214.534.0717)   [x][_BROKEN]           ::  Curiosidade.
+033.080.0717)   [x][_BROKEN]           ::  Moto G5plus.
 
-018.040.0718)   [x][_BROKEN]           ::  Moto g plus.
+056.133.0718)   [x][_BROKEN]           ::  Moto G5 Plus.
 
-136.333.0719)   [x][_BROKEN]           ::  Moto G Plus.
+109.260.0719)   [x][_BROKEN]           ::  Moto G5 Plus.
 
-033.080.0720)   [x][_BROKEN]           ::  Moto G5plus.
+153.374.0720)   [x][_BROKEN]           ::  MOTOG 5 PLUS.
 
-056.133.0721)   [x][_BROKEN]           ::  Moto G5 Plus.
+096.230.0721)   [x][_BROKEN]           ::  Moto g 5 Plus.
 
-109.260.0722)   [x][_BROKEN]           ::  Moto G5 Plus.
+072.168.0722)   [x][_BROKEN]           ::  Avaliação do produto.
 
-153.374.0723)   [x][_BROKEN]           ::  MOTOG 5 PLUS.
+127.313.0723)   [x][_BROKEN]           ::  Pesquisa de opiniao - compra smartphone moto g5.
 
-096.230.0724)   [x][_BROKEN]           ::  Moto g 5 Plus.
+050.118.0724)   [x][_BROKEN]           ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
 
-072.168.0725)   [x][_BROKEN]           ::  Avaliação do produto.
+131.323.0725)   [x][_BROKEN]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-127.313.0726)   [x][_BROKEN]           ::  Pesquisa de opiniao - compra smartphone moto g5.
+142.349.0726)   [x][_CONTEXT]          ::  Foi presente.
 
-050.118.0727)   [x][_BROKEN]           ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+175.442.0727)   [x][_CONTEXT]          ::  Adquiri há 1 mês.
 
-131.323.0728)   [x][_BROKEN]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+225.576.0728)   [x][_CONTEXT]          ::  A promessa foi que o produto seria entregue até 09/05/17.
 
-225.576.0729)   [x][_CONTEXT]          ::  A promessa foi que o produto seria entregue até 09/05/17.
+098.236.0729)   [x][_CONTEXT]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
-098.236.0730)   [x][_CONTEXT]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+126.304.0730)   [x][_CONTEXT]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
-126.304.0731)   [x][_CONTEXT]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
+131.324.0731)   [x][_CONTEXT]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
 
 225.580.0732)   [x][_CONTEXT]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 

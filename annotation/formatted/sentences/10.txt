@@ -30,16 +30,16 @@
 # OUTRO                    18        16         1                  35
 # PESO _  _  _  _  _  _  _  4 _  _  _  _  _  _  _  _  _  _  _  _  _ 4
 # PREÇO                    68         4                            72
-# PRODUTO _  _  _  _  _   322 _  _   19 _  _   20 _  _  _ 3 _  _  364
+# PRODUTO _  _  _  _  _   322 _  _   19 _  _   20 _  _  _  _  _   361
 # RESISTÊNCIA               2        10         1                  13
 # SISTEMA _  _  _  _  _  _ 10 _  _  _ 3 _  _  _  _  _  _  _  _  _  13
 # SOM                                 2                             2
 # TAMANHO _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # TELA                      7         4                            11
 # USABILIDADE _  _  _  _   18 _  _  _  _  _  _  _  _  _  _  _  _   18
-# _TOTAL__________________253_______117_________6________55_______431
+# _TOTAL__________________253_______117_________6________58_______434
 # _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 24 _  _   24
-# _CONTEXT                                                6         6
+# _CONTEXT                                                9         9
 # _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 13 _  _   13
 # _IRRELEVANT                                             7         7
 # _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 4 _  _  _ 4
@@ -2737,13 +2737,6 @@ PRODUTO .
 
 
 
-(142.349)
-Foi presente.
-
-PRODUTO X 
-
-
-
 (224.571)
 Aparelbo com problema.
 
@@ -3084,6 +3077,13 @@ _BROKEN x
 Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
 _BROKEN x 
+
+
+
+(142.349)
+Foi presente.
+
+_CONTEXT x 
 
 
 
@@ -3826,14 +3826,6 @@ _outscope +
 
 
 
-(131.324)
-Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
-
-PRODUTO X 
-TELA - 
-
-
-
 (037.089)
 Produto bom, fácil mexer, até o momento não tenho queixas.
 
@@ -3903,6 +3895,14 @@ A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super 
 
 TELA - 
 TELA + 
+
+
+
+(131.324)
+Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
+
+_CONTEXT x 
+TELA - 
 
 
 
@@ -4372,7 +4372,7 @@ _outscope +
 (175.442)
 Adquiri há 1 mês.Aparelho mais bonito pessoalmente (dourado).Câmera incrível, designer perfeito, super rápido, carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).O diferencial dele é a TV, foi por isso que adquiri esse modelo.
 
-PRODUTO X 
+_CONTEXT x 
 DESIGN + 
 CÂMERA + 
 DESIGN ++
