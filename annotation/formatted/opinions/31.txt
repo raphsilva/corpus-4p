@@ -45,7 +45,7 @@
 
 005.013.0002)   [-][ACESSÓRIO]         ::  Algumas informações não vieram no Manual.
 
-026.063.0003)   [&][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
+026.063.0003)   [!][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
 
 026.063.0004)  [-.][ARMAZENAMENTO]     ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
 
