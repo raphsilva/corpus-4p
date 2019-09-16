@@ -103,9 +103,9 @@
 
 
 
-d(009.022) [+][PRODUTO] :: Satisfeito.
+d(009.022) [][] :: Satisfeito.
 
-d(009.023) [+][PRODUTO] :: Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu  ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+d(009.023) [][] :: Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu  ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
 
 
 
@@ -124,9 +124,9 @@ d(009.023) [+][PRODUTO] :: Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso sat
 
 
 
-u(012.028) [+][PRODUTO] :: ...
+u(012.028) [][] :: ...
 
-u(012.029) [+][PRODUTO] :: ...
+u(012.029) [][] :: ...
 
 
 
@@ -140,7 +140,7 @@ u(012.029) [+][PRODUTO] :: ...
 
 (014.032) [+][PRODUTO] :: Excelente.
 
-d(014.033) [+][PRODUTO] :: Excelente.
+d(014.033) [][] :: Excelente.
 
 
 
@@ -444,7 +444,7 @@ i(046.109) [][] :: Há algum erro no histórico de preço, pois um celular com u
 
 (047.110) [+][PREÇO] :: Ótima relação custo-benefício.
 
-d(047.111) [+][PREÇO] :: Ótima relação custo-benefício.
+d(047.111) [][] :: Ótima relação custo-benefício.
 
 
 
@@ -520,7 +520,7 @@ b(050.118) [][] :: Na verdade, por enquanto é pequena, pois tenho o celular há
 
 
 
-d(055.131) [+][PRODUTO] :: Cumpre o que promete.
+d(055.131) [][] :: Cumpre o que promete.
 
 (055.132) [+][PRODUTO] :: Bom produto, funciona bem.
 (055.132) [+][PREÇO] :: tem bom preço.
@@ -906,7 +906,7 @@ b(096.230) [][] :: Moto g  5 Plus.
 
 (098.235) [+][PREÇO] :: Bom celular pelo custo.
 
-c(098.236) [.][PRODUTO] :: Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+c(098.236) [][] :: Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 (098.237) [-][DESEMPENHO] :: Achei o Moto G5 um pouco mais lento e ocasionalmente trava e reinicia sozinho.
 
 
@@ -1214,7 +1214,7 @@ i(127.314) [][] :: Meu aparelho não é o moto g5 plus e sim o :: Smartphone Mot
 
 b(131.323) [][] :: Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-c(131.324) [X][PRODUTO] :: Olha realmente tenho esse produto que comprei mas lojas americanas
+c(131.324) [][] :: Olha realmente tenho esse produto que comprei mas lojas americanas
 (131.324) [-][TELA] :: ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
 
@@ -1235,9 +1235,9 @@ c(131.324) [X][PRODUTO] :: Olha realmente tenho esse produto que comprei mas loj
 
 
 
-b(134.329) [+][PRODUTO] :: Otima.
+b(134.329) [][] :: Otima.
 
-i(134.330) [+][PRODUTO] :: Não comprei não está havendo algum erro aí..
+i(134.330) [][] :: Não comprei não está havendo algum erro aí..
 
 
 
@@ -1305,7 +1305,7 @@ b(136.333) [][] :: Moto G Plus.
 
 (142.348) [+][PRODUTO] :: Produto excelente.
 
-c(142.349) [X][PRODUTO] :: Foi presente.
+c(142.349) [][] :: Foi presente.
 
 
 
@@ -1349,7 +1349,7 @@ c(142.349) [X][PRODUTO] :: Foi presente.
 
 
 
-u(148.360) [+][PRODUTO] :: Cxb.
+u(148.360) [][] :: Cxb.
 
 (148.361) [+][PREÇO] :: Bom.
 
@@ -1358,7 +1358,7 @@ u(148.360) [+][PRODUTO] :: Cxb.
 
 (149.362) [+][PRODUTO] :: Otimo produto.
 
-d(149.363) [+][PRODUTO] :: Otimo produto.
+d(149.363) [][] :: Otimo produto.
 
 
 
@@ -1383,7 +1383,7 @@ d(149.363) [+][PRODUTO] :: Otimo produto.
 
 (151.368) [+][PRODUTO] :: Ótimo.
 
-d(151.369) [+][PRODUTO] :: Ótimo.
+d(151.369) [][] :: Ótimo.
 
 
 
@@ -1544,9 +1544,9 @@ b(153.374) [][] :: MOTOG 5 PLUS.
 
 
 
-b(168.413) [+][PRODUTO] :: Celular.
+b(168.413) [][] :: Celular.
 
-d(168.414) [&][PRODUTO] :: Uso para falar e web,.
+d(168.414) [][] :: Uso para falar e web,.
 
 
 
@@ -1609,7 +1609,7 @@ b(171.422) [][] :: MOTO G5.
 
 (174.431) [++][PREÇO] :: Sem comparação, o melhor custo benefício da história.
 
-i(174.432) [x][PRODUTO] :: Meu primeiro Moto G foi o Moto G3 Turbo.
+i(174.432) [][] :: Meu primeiro Moto G foi o Moto G3 Turbo.
 
 (174.433) [+][PRODUTO] :: Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
 
@@ -1632,7 +1632,7 @@ i(174.432) [x][PRODUTO] :: Meu primeiro Moto G foi o Moto G3 Turbo.
 
 (175.441) [+][PRODUTO] :: Amando meu Moto G plus.
 
-c(175.442) [X][PRODUTO] :: Adquiri há 1 mês
+c(175.442) [][] :: Adquiri há 1 mês
 (175.442) [+][DESIGN] :: Aparelho mais bonito pessoalmente (dourado).
 (175.442) [+][CÂMERA] :: Câmera incrível.
 (175.442) [++][DESIGN] :: designer perfeito.
@@ -1715,7 +1715,7 @@ c(175.442) [X][PRODUTO] :: Adquiri há 1 mês
 
 
 
-d(183.461) [+][PREÇO] :: Excelente Custo benefício.
+d(183.461) [][] :: Excelente Custo benefício.
 
 (183.462) [+][PREÇO] :: Excelente Custo benefício.
 (183.462) [+][PRODUTO] :: celular muito bom, não precisa mais q isso.
@@ -1745,7 +1745,7 @@ b(184.463) [][] :: Moto G5.
 (186.467) [+][PRODUTO] :: O produto é muito bom.
 (186.467) [-][_outscope] :: não comprei na empresa efacil, empresa ruim.
 
-d(186.468) [+][PRODUTO] :: O produto é muito bom.
+d(186.468) [][] :: O produto é muito bom.
 (186.468) [-][_outscope] :: não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
 
@@ -1831,9 +1831,9 @@ d(186.468) [+][PRODUTO] :: O produto é muito bom.
 
 
 
-d(196.493) [+][PRODUTO] :: Mais um produto de alta qualidade!
+d(196.493) [][] :: Mais um produto de alta qualidade!
 
-d(196.494) [+][PRODUTO] :: Meu terceiro aparelho Motorola, não me arrependo!
+d(196.494) [][] :: Meu terceiro aparelho Motorola, não me arrependo!
 
 
 
@@ -1913,7 +1913,7 @@ b(198.497) [][] :: Moto G5.
 
 (206.516) [+][PRODUTO] :: Como sempre um produto sem igual!
 
-d(206.517) [+][PRODUTO] :: Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+d(206.517) [][] :: Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
 
 
 
@@ -1957,9 +1957,9 @@ d(206.517) [+][PRODUTO] :: Este é o meu terceiro aparelho da Motorola e não co
 
 
 
-u(211.527) [+][PRODUTO] :: Xxx.
+u(211.527) [][] :: Xxx.
 
-u(211.528) [+][PRODUTO] :: Xxx xxxx xxx x xx.
+u(211.528) [][] :: Xxx xxxx xxx x xx.
 
 
 
@@ -2159,7 +2159,7 @@ c(225.581) [][] :: Realizo com frequência compras pela Internet e sempre recebo
 (225.586) [-][_outscope] :: Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
 
 
-i(225.587) [.][_outscope] :: O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
+i(225.587) [][] :: O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
 
 (225.588) [-][_outscope] :: Porém, para a minha frustração, o produto não veio no prazo prometido.
@@ -2222,7 +2222,7 @@ i(225.587) [.][_outscope] :: O aparelho era um presente para a minha esposa, em 
 
 
 
-b(229.608) [-][SOM] :: Speaker.
+b(229.608) [][] :: Speaker.
 
 (229.609) [-][SOM] :: Alto-falante ruim.
 

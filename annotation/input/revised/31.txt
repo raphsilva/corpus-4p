@@ -160,7 +160,7 @@
 
 
 
-d(016.042) [+][PREÇO]  ::  Ótimo custo-benefício.
+d(016.042) [][]  ::  Ótimo custo-benefício.
 
 (016.043) [+][PREÇO]  ::  Adquiri o produto e avalio ótimo custo-benefício.
 
@@ -203,7 +203,7 @@ d(016.042) [+][PREÇO]  ::  Ótimo custo-benefício.
 
 
 
-d(022.054) [+][PRODUTO]  ::  Muito boa!
+d(022.054) [][]  ::  Muito boa!
 
 (022.055) [+][PRODUTO]  ::  Câmera muito boa!
 (022.055) [+][ZOOM]  ::  O zoom dela é incrível!
@@ -211,7 +211,7 @@ d(022.054) [+][PRODUTO]  ::  Muito boa!
 
 
 
-d(023.056) [+][PRODUTO]  ::  Ótimo produto.
+d(023.056) [][]  ::  Ótimo produto.
 
 (023.057) [+][PRODUTO]  ::  Ótimo produto, superou minhas expectativas, recomendo.
 
@@ -250,12 +250,12 @@ d(023.056) [+][PRODUTO]  ::  Ótimo produto.
 
 (027.065) [+][PREÇO]  ::  Excelente custo benefício para um iniciante.
 
-d(027.066) [+][PREÇO]  ::  Excelente custo benefício.
+d(027.066) [][]  ::  Excelente custo benefício.
 
 
 
 
-d(028.067) [+][PRODUTO]  ::  Muito boa.
+d(028.067) [][]  ::  Muito boa.
 
 (028.068) [+][PRODUTO]  ::  Produto muito bom.
 
@@ -293,7 +293,7 @@ d(028.067) [+][PRODUTO]  ::  Muito boa.
 
 
 
-d(032.078) [+][USABILIDADE]  ::  Bom legal de usar.
+d(032.078) [][]  ::  Bom legal de usar.
 
 (032.079) [+][USABILIDADE]  ::  Ótima legal de usar.
 
@@ -323,28 +323,28 @@ d(032.078) [+][USABILIDADE]  ::  Bom legal de usar.
 
 (035.086) [+][PRODUTO]  ::  Muito bom.
 
-d(035.087) [+][PRODUTO]  ::  Muito bom.
+d(035.087) [][]  ::  Muito bom.
 
 
 
 
 (036.088) [+][PRODUTO]  ::  Produto coerente com todas as especificações técnicas.
 
-d(036.089) [+][PRODUTO]  ::  Produto coerente com todas as especificações técnicas.
+d(036.089) [][]  ::  Produto coerente com todas as especificações técnicas.
 
 
 
 
 (037.090) [+][PRODUTO]  ::  Bom.
 
-d(037.091) [+][PRODUTO]  ::  Muito bom.
+d(037.091) [][]  ::  Muito bom.
 
 
 
 
-d(038.092) [+][PRODUTO]  ::  Bom.
+d(038.092) [][]  ::  Bom.
 
-d(038.093) [+][PRODUTO]  ::  Muito bom.
+d(038.093) [][]  ::  Muito bom.
 
 
 
@@ -388,7 +388,7 @@ d(038.093) [+][PRODUTO]  ::  Muito bom.
 
 
 
-d(043.107) [+][PRODUTO]  ::  MT bom.
+d(043.107) [][]  ::  MT bom.
 
 (043.108) [+][PRODUTO]  ::  Mt boa.
 
@@ -404,7 +404,7 @@ d(043.107) [+][PRODUTO]  ::  MT bom.
 
 (045.111) [+][PRODUTO]  ::  Bom.
 
-b(045.112) [.][PRODUTO]  ::  Nenhuma.
+b(045.112) [][]  ::  Nenhuma.
 
 
 
