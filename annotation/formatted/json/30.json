@@ -168,7 +168,7 @@
             "id": 13,
             "opinions": [
                 [
-                    "x",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -192,11 +192,7 @@
             "id": 15,
             "opinions": [
                 [
-                    "ACESSÓRIO",
-                    "-"
-                ],
-                [
-                    "ACESSÓRIO",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -345,7 +341,7 @@
             "opinions": [
                 [
                     "FOTO",
-                    "."
+                    "+."
                 ]
             ],
             "sentence": "Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda."
@@ -783,8 +779,7 @@
         {
             "excerpts": [
                 "O Display é bem fácil de acessar",
-                "controle de foco fácil.",
-                "Manual ou automático."
+                "controle de foco fácil. Manual ou automático."
             ],
             "id": 73,
             "opinions": [
@@ -795,10 +790,6 @@
                 [
                     "FOCO",
                     "+"
-                ],
-                [
-                    "X",
-                    "x"
                 ]
             ],
             "sentence": "O Display é bem fácil de acessar, controle de foco fácil."
@@ -1349,7 +1340,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -1443,7 +1434,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ],
                 [
@@ -1527,7 +1518,7 @@
             "id": 139,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -1553,7 +1544,7 @@
         "Number of reviews": "47",
         "Product": "Câmera Digital Canon EOS Rebel T5 18.0 Megapixels",
         "Source": "www.buscape.com.br/avaliacoes/canon-eos-rebel-t5-18-0-megapixels",
-        "Total of opinions": "162",
+        "Total of opinions": "161",
         "Total of sentences": "131",
         "Type": "Câmera"
     }

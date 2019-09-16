@@ -16,32 +16,31 @@
 
 > File generation date: 2019-09-15
 
-> Total of opinions: 162
+> Total of opinions: 161
 
 > Total of sentences: 131
 
 #_aspect_____________positive__negative___neutral____non-op_____total
-# ACESSÓRIO                 6         5                   1        12
+# ACESSÓRIO                 6         4                            10
 # ÁUDIO _  _  _  _  _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _   1
 # BATERIA                             1                             1
 # DESIGN _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# EMPRESA                   2         1                             3
-# FOCO _  _  _  _  _  _  _  3 _  _  _ 1 _  _  _  _  _  _  _  _  _   4
-# FOTO                      7                   1                   8
-# IMAGEM _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# PESO                                1                             1
-# PREÇO _  _  _  _  _  _   11 _  _  _  _  _  _  _  _  _  _  _  _   11
-# PRODUTO                  90                   1                  91
-# RESISTÊNCIA _  _  _  _  _ 1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
-# TAMANHO                   1         1                             2
-# TELA _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
-# USABILIDADE               9         1         1                  11
-# x _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  1 _  _  _ 1
-# X                                                       1         1
-# _TOTAL___________________44________11_________2_________9________66
-# _BROKEN                                                 3         3
+# FOCO                      3         1                             4
+# FOTO _  _  _  _  _  _  _  8 _  _  _  _  _  _  _  _  _  _  _  _  _ 8
+# IMAGEM                    2                                       2
+# PESO _  _  _  _  _  _  _  _  _  _   1 _  _  _  _  _  _  _  _  _   1
+# PREÇO                    11                                      11
+# PRODUTO _  _  _  _  _  _ 90 _  _  _  _  _  _  1 _  _  _  _  _  _ 91
+# RESISTÊNCIA               1                                       1
+# TAMANHO _  _  _  _  _  _  1 _  _  _ 1 _  _  _  _  _  _  _  _  _   2
+# TELA                      2                                       2
+# USABILIDADE _  _  _  _  _ 9 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 11
+# _TOTAL___________________47________11_________1________10________69
+# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
+# _CONTEXT                                                2         2
 # _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
 # _NONE                                                   3         3
+# _outscope _  _  _  _  _   2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
 
 
 
@@ -71,13 +70,6 @@ ACESSÓRIO -.
 Sobre a anatomia, seu desenho é bom.
 
 DESIGN + 
-
-
-
-(047.139)
-Anuncio falso.
-
-EMPRESA - 
 
 
 
@@ -119,7 +111,7 @@ FOTO +.
 (005.030)
 Até o momento, o ISO 1200 foi o máximo que senti necessidade de usar, então, na prática, esse fator não me incomoda.
 
-FOTO . 
+FOTO +.
 
 
 
@@ -732,13 +724,6 @@ USABILIDADE +.
 
 
 
-(002.013)
-Só para caráter de comparação.
-
-x x 
-
-
-
 (034.110)
 Canon t5.
 
@@ -757,6 +742,20 @@ _BROKEN x
 Pouca, recém comprada.
 
 _BROKEN x 
+
+
+
+(002.013)
+Só para caráter de comparação.
+
+_CONTEXT x 
+
+
+
+(002.015)
+Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
+
+_CONTEXT x 
 
 
 
@@ -816,11 +815,10 @@ _NONE x
 
 
 
-(002.015)
-Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
+(047.139)
+Anuncio falso.
 
-ACESSÓRIO - 
-ACESSÓRIO x 
+_outscope - 
 
 
 
@@ -840,18 +838,18 @@ ACESSÓRIO -
 
 
 
-(040.124)
-Produto me agradou muito e a entrega foi rápida.
-
-PRODUTO + 
-EMPRESA + 
-
-
-
 (002.009)
 O foco automático é um pouco lento, o que não permite muitas fotos em movimento, mas é ótimo para poses.
 
 FOCO - 
+FOCO + 
+
+
+
+(020.073)
+O Display é bem fácil de acessar, controle de foco fácil.
+
+TELA + 
 FOCO + 
 
 
@@ -944,21 +942,20 @@ USABILIDADE +
 
 
 
+(040.124)
+Produto me agradou muito e a entrega foi rápida.
+
+PRODUTO + 
+_outscope + 
+
+
+
 (032.106)
 Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,só que o ruim dela é a duração da bateria,acaba rápido,mais o respo é ótimo,e ela é super fácil de mexer.Recomendo para todos.
 
 PRODUTO + 
 BATERIA - 
 USABILIDADE + 
-
-
-
-(020.073)
-O Display é bem fácil de acessar, controle de foco fácil.
-
-TELA + 
-FOCO + 
-X x 
 
 
 
@@ -992,7 +989,7 @@ ACESSÓRIO +
 DESIGN + 
 PREÇO + 
 USABILIDADE + 
-EMPRESA + 
+_outscope + 
 PRODUTO + 
 
 

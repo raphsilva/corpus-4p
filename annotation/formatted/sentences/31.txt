@@ -22,7 +22,7 @@
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 1         1                             2
-# ARMAZENAMENTO _  _  _  _  _  _  _   1 _  _  _  _  _  _  1 _  _  _ 2
+# ARMAZENAMENTO _  _  _  _  _  _  _   1 _  _  _ 1 _  _  _  _  _  _  2
 # ÁUDIO                               1                             1
 # BATERIA _  _  _  _  _  _  1 _  _  _  _  _  _  1 _  _  _  _  _  _  2
 # FOCO                                1                             1
@@ -30,13 +30,13 @@
 # IMAGEM                    7                                       7
 # PESO _  _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # PREÇO                     6                                       6
-# PRODUTO _  _  _  _  _  _ 65 _  _  _  _  _  _  _  _  _   1 _  _   66
+# PRODUTO _  _  _  _  _  _ 66 _  _  _  _  _  _  _  _  _  _  _  _   66
 # RESISTÊNCIA               1                                       1
 # TAMANHO _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _  _  _  _  _ 1
 # TELA                      1                                       1
-# USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _  _  _  _  1 _  _   14
+# USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 14
 # VÍDEO                               1                             1
-# _TOTAL___________________43_________8_________1________15________67
+# _TOTAL___________________43_________8_________3________13________67
 # _BROKEN                                                 1         1
 # _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 12 _  _   12
 # _NONE                                                   3         3
@@ -524,7 +524,7 @@ PRODUTO +.
 (039.095)
 Ganhei de presente e não usei ainda.Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
 
-PRODUTO x 
+PRODUTO +.
 
 
 
@@ -532,6 +532,13 @@ PRODUTO x
 Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
 
 RESISTÊNCIA + 
+
+
+
+(005.012)
+Estou ainda aprendendo a manusear.
+
+USABILIDADE & 
 
 
 
@@ -567,13 +574,6 @@ USABILIDADE +
 É necessário aprender a usar as funções.
 
 USABILIDADE - 
-
-
-
-(005.012)
-Estou ainda aprendendo a manusear.
-
-USABILIDADE X 
 
 
 
@@ -825,7 +825,7 @@ ZOOM +
 PESO + 
 USABILIDADE + 
 ARMAZENAMENTO -.
-ARMAZENAMENTO x 
+ARMAZENAMENTO ! 
 
 
 

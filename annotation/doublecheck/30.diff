@@ -110,7 +110,7 @@
 
 <   [040.124][]   [+][PRODUTO EMPRESA DESEMPENHO]  ::  Produto me agradou muito e a entrega foi rápida.
 >   [040.124][]   [+][PRODUTO]           ::  Produto me agradou muito
->   [040.124][]   [+][EMPRESA]           ::  a entrega foi rápida.
+>   [040.124][]   [+][_outscope]           ::  a entrega foi rápida.
 
 <   [043.130][]   [+][TAMANHO LENTE DESIGN PREÇO USABILIDADE]  ::  Confesso que me surpreendi com ela.Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.Em que pese a lente do kit basico ser de abertura maxima 3,5 nao muito apropriada para ambientes de pouca iluminacao e internos, por ter um sensor grande o ISO pode ir ate 1600 com um minimo de ruido.O acabamento e muito bom e da impressao de resistencia.O custo beneficio vale a pena.Vantajosa no tocante ao uso de outras lentes e de facil troca.Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 >   [043.130][]   [+][PRODUTO]           ::  Confesso que me surpreendi com ela.
@@ -119,11 +119,11 @@
 >   [043.130][]   [+][DESIGN]            ::  O acabamento e muito bom e da impressao de resistencia.
 >   [043.130][]   [+][PREÇO]             ::  O custo beneficio vale a pena.
 >   [043.130][]   [+][USABILIDADE]       ::  Vantajosa no tocante ao uso de outras lentes e de facil troca.
->   [043.130][]   [+][EMPRESA]           ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
+>   [043.130][]   [+][_outscope]           ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
 >   [043.130][]   [+][PRODUTO]           ::  Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 
 <   [047.139][]   [-][PRODUTO]           ::  Anuncio falso.
->   [047.139][]   [-][EMPRESA]           ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+>   [047.139][]   [-][_outscope]           ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 
 <   [047.140][]   [-][PRODUTO]           ::  Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 

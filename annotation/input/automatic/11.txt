@@ -54,7 +54,7 @@
 
 (005.011) [+][PRODUTO] :: Excelente produto.
 
-(005.012) [+][EMPRESA] :: A melhor oferta encontrada e entrega rápida.
+(005.012) [+][_outscope] :: A melhor oferta encontrada e entrega rápida.
 
 
 (005.013) [+][PRODUTO] :: Parabéns Shopfacil.com.
@@ -1233,7 +1233,7 @@
 (125.378) [+][BATERIA] :: Vamos ver a bateria daqui um tempo.Tudo show de bola..
 
 
-(125.379) [+][EMPRESA] :: A entrega foi a JATO pela fast shop.
+(125.379) [+][_outscope] :: A entrega foi a JATO pela fast shop.
 
 
 (125.380) [+][PRODUTO] :: Comprei no sabado e recebi na terça.Uma dica .
@@ -1792,7 +1792,7 @@
 (181.551) [+][EMPRESA  PRODUTO] :: O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
 
 
-(181.552) [+][EMPRESA] :: Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+(181.552) [+][_outscope] :: Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
 
 
@@ -1877,7 +1877,7 @@
 (189.578) [+][PRODUTO] :: Produto maravilhoso! Lindo! Estou amando! Comprei 2 s7, o meu veio perfeito, já o do meu marido veio com problema, travamento, não lê a digital, desliga..
 
 
-(189.579) [+][EMPRESA] :: Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
+(189.579) [+][_outscope] :: Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
 
 
 (189.580) [+][PRODUTO] :: Paguei sedex  pra chegar em 3 dias..
@@ -2167,7 +2167,7 @@
 (217.667) [-][PREÇO] :: O preço só é valido para quem assina um plano.
 
 
-(217.668) [-][EMPRESA] :: Como em qualquer operadora.
+(217.668) [-][_outscope] :: Como em qualquer operadora.
 
 
 (217.669) [-][PRODUTO  PREÇO] :: Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!

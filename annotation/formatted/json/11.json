@@ -130,7 +130,7 @@
             "id": 12,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -140,7 +140,7 @@
             "id": 13,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -166,7 +166,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "X"
+                    "+."
                 ],
                 [
                     "TAMANHO",
@@ -392,7 +392,7 @@
             "id": 35,
             "opinions": [
                 [
-                    "PRODUTO",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -505,7 +505,7 @@
             "id": 45,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -515,8 +515,8 @@
             "id": 46,
             "opinions": [
                 [
-                    "X",
-                    "+"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam."
@@ -555,7 +555,7 @@
             "id": 50,
             "opinions": [
                 [
-                    "X",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -585,7 +585,7 @@
             "id": 53,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -671,7 +671,7 @@
             "id": 60,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -760,7 +760,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "X"
+                    "#"
                 ]
             ],
             "sentence": "Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada."
@@ -884,12 +884,8 @@
             "id": 78,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "+"
-                ],
-                [
-                    "PRODUTO",
-                    "X"
+                    "_IRRELEVANT",
+                    "x"
                 ]
             ],
             "sentence": "Excelente celular, mas não tenho mais."
@@ -1142,8 +1138,8 @@
             "id": 101,
             "opinions": [
                 [
-                    "X",
-                    "x"
+                    "PRODUTO",
+                    "+"
                 ]
             ],
             "sentence": "Antes eu tinha um S4."
@@ -1152,8 +1148,8 @@
             "id": 102,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "+"
+                    "_NONE",
+                    "x"
                 ]
             ],
             "sentence": "Foi um salto de qualidade."
@@ -1163,7 +1159,7 @@
             "opinions": [
                 [
                     "RESISTÊNCIA",
-                    "."
+                    "&"
                 ]
             ],
             "sentence": "Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho."
@@ -1311,7 +1307,7 @@
             "opinions": [
                 [
                     "DESIGN",
-                    "."
+                    "*"
                 ]
             ],
             "sentence": "Design discreto, não chama tanto a atenção quanto o Edge."
@@ -1543,7 +1539,7 @@
                 ],
                 [
                     "PRODUTO",
-                    "X"
+                    "+."
                 ]
             ],
             "sentence": "Gostei de tudo, minha mãe já tinha um e resolvi comprar também."
@@ -1833,7 +1829,7 @@
                 ],
                 [
                     "PRODUTO",
-                    "."
+                    "#"
                 ]
             ],
             "sentence": "Pelo que ouço, é um aparelho muito bom, vou comprar, mas por hora, não sou capaz de opinar."
@@ -1853,7 +1849,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Estou usando a menos de 1 mês."
@@ -2132,7 +2128,7 @@
             "id": 190,
             "opinions": [
                 [
-                    "X",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -2628,7 +2624,7 @@
             "id": 235,
             "opinions": [
                 [
-                    "PRODUTO",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -2829,8 +2825,8 @@
             "id": 252,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução."
@@ -2859,7 +2855,7 @@
             "id": 255,
             "opinions": [
                 [
-                    "X",
+                    "SISTEMA",
                     "-"
                 ]
             ],
@@ -2903,7 +2899,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Uso muito o aparelho."
@@ -3697,7 +3693,7 @@
             "id": 323,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -3913,7 +3909,7 @@
             "id": 341,
             "opinions": [
                 [
-                    "PRODUTO",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -4039,8 +4035,8 @@
             "id": 352,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Ainda não possui um só vi o do meu amigo."
@@ -4323,7 +4319,7 @@
             "id": 378,
             "opinions": [
                 [
-                    "BATERIA",
+                    "_CONTEXT",
                     "x"
                 ],
                 [
@@ -4337,7 +4333,7 @@
             "id": 379,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -4639,7 +4635,7 @@
             "id": 405,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -4679,8 +4675,8 @@
             "id": 409,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Ainda não pude tê-lo."
@@ -4815,7 +4811,7 @@
             "id": 421,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -4865,8 +4861,8 @@
             "id": 426,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Depois do S6, comprei o S7."
@@ -5229,7 +5225,7 @@
             "id": 458,
             "opinions": [
                 [
-                    "X",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -5297,7 +5293,7 @@
             "id": 466,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -5613,8 +5609,8 @@
             "id": 495,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Migrando do S5 para o S7."
@@ -5642,7 +5638,7 @@
             "opinions": [
                 [
                     "CÂMERA",
-                    "."
+                    "+"
                 ]
             ],
             "sentence": "O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera."
@@ -5651,7 +5647,7 @@
             "id": 498,
             "opinions": [
                 [
-                    "X",
+                    "_NONE",
                     "x"
                 ]
             ],
@@ -5681,7 +5677,7 @@
             "id": 501,
             "opinions": [
                 [
-                    "X",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -5784,7 +5780,7 @@
             "id": 509,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -6221,8 +6217,8 @@
             "id": 545,
             "opinions": [
                 [
-                    "X",
-                    "-"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Duas surpresas desagradáveis com a compra do aparelho."
@@ -6271,7 +6267,7 @@
             "id": 550,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6312,7 +6308,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "."
+                    "#"
                 ]
             ],
             "sentence": "Aguardar mais algum tempo para dar uma resposta mais concreta."
@@ -6637,7 +6633,7 @@
             "id": 579,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6647,7 +6643,7 @@
             "id": 580,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6768,7 +6764,7 @@
             "id": 590,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6786,7 +6782,7 @@
                     "-"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6829,7 +6825,7 @@
             "id": 594,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6991,7 +6987,7 @@
                 ],
                 [
                     "OUTRO",
-                    "X"
+                    "#"
                 ]
             ],
             "sentence": "As fotos noturnas ficam boas e as funcionalidades e opções de personalização são muito úteis para o dia a dia.O always on é uma inovação no aparelho, mas poderia exibir os ícones de outros apps como facebook, whatsapp, instagram...O leitor de digital é outro fator positivo, pois ele é rápido e prático.A certificação de resistência à agua eu não testei, pois no S5 essa resistência, seguindo todas as recomendações e verificações, não funcionou."
@@ -7020,7 +7016,7 @@
             "id": 608,
             "opinions": [
                 [
-                    "PRODUTO",
+                    "_CONTEXT",
                     "x"
                 ]
             ],
@@ -7313,7 +7309,7 @@
             "id": 632,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7363,7 +7359,7 @@
             "id": 637,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7373,7 +7369,7 @@
             "id": 638,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7423,7 +7419,7 @@
             "id": 644,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7433,7 +7429,7 @@
             "id": 645,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7632,7 +7628,7 @@
             "id": 666,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7712,7 +7708,7 @@
             "id": 674,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7780,7 +7776,7 @@
         "ID": "11",
         "Product": "Smartphone Samsung Galaxy S7 SM-G930 32GB",
         "Source": "www.buscape.com.br/smartphone-samsung-galaxy-j5-prime-sm-g570m",
-        "Total of opinions": "815",
+        "Total of opinions": "813",
         "Total of reviews": "221",
         "Total of sentences": "641",
         "Type": "Celular"

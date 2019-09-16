@@ -192,7 +192,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Quase nao utilizei ainda."
@@ -212,7 +212,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Ainda descobrindo suas funcionalidades."
@@ -390,7 +390,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Como foi comprado recentemente está em avaliação."
@@ -916,7 +916,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -1173,7 +1173,7 @@
             "id": 90,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -2174,7 +2174,7 @@
             "id": 173,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ],
                 [
@@ -2391,7 +2391,7 @@
             "id": 190,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ],
                 [
@@ -2589,7 +2589,7 @@
             "id": 206,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -2670,7 +2670,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Ainda pouco tempo de uso."
@@ -2934,8 +2934,8 @@
             "id": 236,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)"
@@ -3117,7 +3117,7 @@
             "id": 253,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -3127,7 +3127,7 @@
             "id": 254,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -3137,7 +3137,7 @@
             "id": 255,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "--"
                 ]
             ],
@@ -3221,7 +3221,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "."
+                    "*"
                 ]
             ],
             "sentence": "Diferente."
@@ -3231,7 +3231,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Ainda estou avaliando."
@@ -3676,8 +3676,8 @@
             "id": 304,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Na verdade faço comparação com a Samsung pois era o que eu tinha."
@@ -3772,7 +3772,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -3914,8 +3914,8 @@
             "id": 324,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ],
                 [
                     "TELA",
@@ -4074,7 +4074,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ]
             ],
@@ -4197,8 +4197,8 @@
             "id": 349,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Foi presente."
@@ -4327,7 +4327,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Ainda é cedo."
@@ -4854,7 +4854,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Ainda estou conhecendo pois não faz 1 mês que adquiri."
@@ -4874,7 +4874,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Estou experimentando...."
@@ -4884,7 +4884,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Pouco tempo de uso."
@@ -4894,7 +4894,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "#"
                 ]
             ],
             "sentence": "Estou experimentando...."
@@ -5018,7 +5018,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "X"
+                    "&"
                 ]
             ],
             "sentence": "Uso para falar e web,."
@@ -5028,7 +5028,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "+"
+                    "+."
                 ]
             ],
             "sentence": "Aparelho Bom, porém com algumas limitações."
@@ -5201,7 +5201,7 @@
             "id": 432,
             "opinions": [
                 [
-                    "PRODUTO",
+                    "_IRRELEVANT",
                     "x"
                 ]
             ],
@@ -5310,8 +5310,8 @@
             "id": 442,
             "opinions": [
                 [
-                    "PRODUTO",
-                    "X"
+                    "_CONTEXT",
+                    "x"
                 ],
                 [
                     "DESIGN",
@@ -5641,7 +5641,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "+"
                 ],
                 [
@@ -5701,7 +5701,7 @@
                     "+"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -5719,7 +5719,7 @@
                     "x"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -5729,7 +5729,7 @@
             "id": 469,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -5888,7 +5888,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "X"
+                    "&"
                 ]
             ],
             "sentence": "Eu estou aprendendo ainda algumas funcionalidades do produto."
@@ -6307,7 +6307,7 @@
             "opinions": [
                 [
                     "PRODUTO",
-                    "x"
+                    "&"
                 ]
             ],
             "sentence": "Ainda não testei muito."
@@ -6485,7 +6485,7 @@
             "id": 537,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6495,7 +6495,7 @@
             "id": 538,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6575,7 +6575,7 @@
             "id": 546,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "--"
                 ]
             ],
@@ -6723,7 +6723,7 @@
             "id": 557,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6733,7 +6733,7 @@
             "id": 558,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6743,7 +6743,7 @@
             "id": 559,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6904,7 +6904,7 @@
             "id": 573,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6914,7 +6914,7 @@
             "id": 574,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6924,7 +6924,7 @@
             "id": 575,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6934,8 +6934,8 @@
             "id": 576,
             "opinions": [
                 [
-                    "EMPRESA",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "A promessa foi que o produto seria entregue até 09/05/17."
@@ -6944,8 +6944,8 @@
             "id": 577,
             "opinions": [
                 [
-                    "EMPRESA",
-                    "."
+                    "_CONTEXT",
+                    "x"
                 ]
             ],
             "sentence": "Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve."
@@ -6954,7 +6954,7 @@
             "id": 578,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6964,7 +6964,7 @@
             "id": 579,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -6994,7 +6994,7 @@
             "id": 582,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7004,7 +7004,7 @@
             "id": 583,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "."
                 ]
             ],
@@ -7014,7 +7014,7 @@
             "id": 584,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "."
                 ]
             ],
@@ -7024,7 +7024,7 @@
             "id": 585,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7034,7 +7034,7 @@
             "id": 586,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7054,7 +7054,7 @@
             "id": 588,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7064,7 +7064,7 @@
             "id": 589,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7144,7 +7144,7 @@
             "id": 597,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7172,7 +7172,7 @@
                     "-"
                 ],
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7232,7 +7232,7 @@
             "id": 605,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],
@@ -7242,7 +7242,7 @@
             "id": 606,
             "opinions": [
                 [
-                    "EMPRESA",
+                    "_outscope",
                     "-"
                 ]
             ],

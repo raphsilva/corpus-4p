@@ -297,7 +297,7 @@ d  [038.118][]   [x][_DUPLICATE]        ::  Excelente Produto.
 
    [040.124][]   [+][PRODUTO]           ::  Produto me agradou muito
 
-   [040.124][]   [+][EMPRESA]           ::  a entrega foi rápida.
+   [040.124][]   [+][_outscope]           ::  a entrega foi rápida.
 
    [041.125][]  [++][PRODUTO]           ::  Perfect.
 
@@ -321,7 +321,7 @@ d  [038.118][]   [x][_DUPLICATE]        ::  Excelente Produto.
 
    [043.130][]   [+][USABILIDADE]       ::  Vantajosa no tocante ao uso de outras lentes e de facil troca.
 
-   [043.130][]   [+][EMPRESA]           ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
+   [043.130][]   [+][_outscope]           ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
 
    [043.130][]   [+][PRODUTO]           ::  Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 
@@ -339,5 +339,5 @@ d  [038.118][]   [x][_DUPLICATE]        ::  Excelente Produto.
 
    [046.137][]   [+][PRODUTO]           ::  Ótimo produto, confiável e com bom rendimento.
 
-   [047.139][]   [-][EMPRESA]           ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+   [047.139][]   [-][_outscope]           ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 
