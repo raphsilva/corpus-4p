@@ -108,7 +108,6 @@ def opinionToStringPlain(opinion):
         s += ' '
     s += '[' + str(opinion['review_id']) + '.'
     s += str(opinion['sentence_id']) + ']'
-    s += '[' + str(opinion['id_complement']) + ']'
     for a in range(2 - len(opinion['id_complement'])):
         s += ' '
     for a in range(2 - len(opinion['polarity'])):
