@@ -17,18 +17,19 @@ DIR_ANNOTATED_AUTO = 'input/automatic'
 DIR_FORMATTED_SPLIT = 'formatted/opinions'  # Folder where formatted files will be saved to.
 DIR_FORMATTED_NOSPLIT = 'formatted/sentences'  # Folder where formatted files will be saved to.
 DIR_OUTPUT_JSON= 'formatted/json'  # Folder where formatted files will be saved to.
-DIR_EXTRA_INFO = 'doublecheck'  # Folder where formatted files will be saved to.
-DIR_COMPARISON = DIR_EXTRA_INFO + '/diff'  # Folder containing differences between revised and automatically annotaded files.
+DIR_DOUBLECHECK = 'doublecheck'  # Folder that will contain files to help review the annotation.
 
 # Create directories 
-output_directories = [DIR_FORMATTED_SPLIT, DIR_FORMATTED_NOSPLIT, DIR_EXTRA_INFO, DIR_COMPARISON]
+output_directories = [DIR_FORMATTED_SPLIT, DIR_FORMATTED_NOSPLIT, DIR_DOUBLECHECK]
 for i in output_directories:
     if not os.path.exists(i):
         os.makedirs(i)
 
+from collections import defaultdict
+count_polarities = defaultdict(int)
 
 # Read file (revised or automatically annotaded)
-def getInfo(filename):
+def getInfo(filename, count_pol=False):
     # Get product ID from filename 
     product_id = filename.split('/')[-1].split('.')[0]
 
@@ -87,6 +88,14 @@ def getInfo(filename):
         entry_id += 1
 
         r['data'].append(n)
+
+        if count_pol:
+            if n['aspect'] != '' and n['aspect'][0] == '_':
+                count_polarities[n['aspect']] += 1
+            elif flags == '':
+                count_polarities[n['polarity']] += 1
+            else:
+                count_polarities[flags] += 1
 
     return r
 
@@ -280,7 +289,7 @@ for filename in files_to_read:
 
     i_filename = filename.split('.')[0]
 
-    info_revised = getInfo(DIR_ANNOTATED_MANUAL + '/' + filename)
+    info_revised = getInfo(DIR_ANNOTATED_MANUAL + '/' + filename, True)
     info_raw = getInfo(DIR_ANNOTATED_AUTO + '/' + filename)
 
     data_revised = info_revised['data']
@@ -396,7 +405,7 @@ for filename in files_to_read:
 
     info_revised['meta'].append("> File generation date: " + str(date.strftime("%Y-%m-%d")))
 
-    f = open(DIR_COMPARISON + '/' + filename_save, 'w')
+    f = open(DIR_DOUBLECHECK + '/' + filename_save + '.txt', 'w')
     for i in info_revised['meta']:
         f.write(i + '\n\n')
     f.write('\n')
@@ -405,7 +414,7 @@ for filename in files_to_read:
         f.write('\n\n')
     f.close()
 
-    f = open(DIR_COMPARISON + '/' + filename_save + '.diff', 'w')
+    f = open(DIR_DOUBLECHECK + '/' + filename_save + '.diff', 'w')
     for i in info_revised['meta']:
         f.write(i.replace('>', ' ') + '\n\n')
     f.write('\n')
@@ -502,3 +511,4 @@ for filename in files_to_read:
     f.close()
 
 
+pprint(count_polarities)

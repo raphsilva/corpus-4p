@@ -22,7 +22,7 @@ A versão para leitura automática do conjunto de dados contém 16 arquivos em f
                 ],
                 [
                     "CÂMERA",
-                    100
+                    100/home/raphusp/Dropbox/Mestrado/Implementations/contrastive-summarization/Kim
                 ]
             ],
             "sentence": "Ótimo celular. Câmera excelente."

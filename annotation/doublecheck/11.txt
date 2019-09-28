@@ -14,7 +14,7 @@
 
 > Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-09-15
+> File generation date: 2019-09-28
 
 
    [001.001][]   [+][PRODUTO]           ::  Excelente.
@@ -33,7 +33,7 @@
 
    [003.006][]   [+][BATERIA]           ::  Igual aos outros, a única coisa que é melhor é que a bateria carrega muito rápido.
 
-   [003.007][]   [-][_outscope]           ::  Na propaganda diz ter tv digital é mentira.
+   [003.007][]   [-][EMPRESA]           ::  Na propaganda diz ter tv digital é mentira.
 
 d  [004.008][]   [x][_DUPLICATE]        ::  Bom produto.
 
@@ -43,13 +43,13 @@ d  [004.010][]   [x][_DUPLICATE]        ::  Na propaganda diz ter tv digital é 
 
    [005.011][]   [+][PRODUTO]           ::  Excelente produto.
 
-   [005.012][]   [+][_outscope]           ::  A melhor oferta encontrada e entrega rápida.
+   [005.012][]   [+][_outscope]         ::  A melhor oferta encontrada e entrega rápida.
 
-   [005.013][]   [+][_outscope]           ::  Parabéns Shopfacil.com.
+   [005.013][]   [+][_outscope]         ::  Parabéns Shopfacil.com.
 
    [006.014][]   [+][PRODUTO]           ::  Top de linha de verdade.
 
-   [006.015][]   [X][PRODUTO]           ::  Sempre quis um aparelho da linha S.
+   [006.015][]  [+.][PRODUTO]           ::  Sempre quis um aparelho da linha S.
 
    [006.015][]   [+][TAMANHO]           ::  O S7 tem o tamanho perfeito para não chamar muita atenção.
 
@@ -99,7 +99,7 @@ b  [07.017][]   [x][_BROKEN]           ::  Qualidade.
 
    [014.034][]   [+][PRODUTO]           ::  Muito bom!
 
-   [014.035][]   [x][PRODUTO]           ::  Tinha o s6 e troquei para o s7.
+c  [014.035][]   [x][_CONTEXT]          ::  Tinha o s6 e troquei para o s7.
 
    [014.036][]   [+][PRODUTO]           ::  Valeu a pena.
 
@@ -123,9 +123,9 @@ b  [07.017][]   [x][_BROKEN]           ::  Qualidade.
 
    [018.044][]   [+][PRODUTO]           ::  Excelente.
 
-   [018.045][]   [+][_outscope]           ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
+   [018.045][]   [+][_outscope]         ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
 
-   [018.046][]   [+][X]                 ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
+c  [018.046][]   [x][_CONTEXT]          ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
 
    [019.047][]   [+][PREÇO]             ::  Vale o que custa.
 
@@ -133,13 +133,13 @@ b  [07.017][]   [x][_BROKEN]           ::  Qualidade.
 
    [020.049][]   [+][PRODUTO]           ::  Muito bom!
 
-   [020.050][]   [x][X]                 ::  Mudança do S6 para o S7.
+c  [020.050][]   [x][_CONTEXT]          ::  Mudança do S6 para o S7.
 
    [020.051][]   [+][PRODUTO]           ::  Valeu a pena!
 
    [021.052][]   [+][PRODUTO]           ::  Ótimo.
 
-   [021.053][]   [+][_outscope]           ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
+   [021.053][]   [+][_outscope]         ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
 
    [022.054][]   [+][BATERIA]           ::  Excelente bateria.
 
@@ -157,7 +157,7 @@ b  [07.017][]   [x][_BROKEN]           ::  Qualidade.
 
    [023.059][]   [+][PREÇO]             ::  Excelente custo beneficio.
 
-   [023.060][]   [+][_outscope]           ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
+   [023.060][]   [+][_outscope]         ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
 
    [024.061][]   [+][PRODUTO]           ::  Otimo em tudo!
 
@@ -175,7 +175,7 @@ b  [07.017][]   [x][_BROKEN]           ::  Qualidade.
 
    [027.067][]   [+][PRODUTO]           ::  O produto no geral é bom.
 
-   [027.068][]   [X][PRODUTO]           ::  Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
+   [027.068][]   [#][PRODUTO]           ::  Tenho o produto a pouco tempo pra fazer uma avaliação mais detalhada.
 
    [027.069][]   [-][BATERIA]           ::  No momento posso dizer q a bateria não dura como especificado no produto.
 
@@ -203,7 +203,7 @@ d  [030.076][]   [x][_DUPLICATE]        ::  Amigável, rapido, excelente acabame
 
    [031.078][]   [+][PRODUTO]           ::  Excelente celular.
 
-   [031.078][]   [X][PRODUTO]           ::  Não tenho mais.
+i  [031.078][]   [x][_IRRELEVANT]       ::  Não tenho mais.
 
    [031.079][]   [-][PREÇO]             ::  Poderia custar mais barato.
 
@@ -257,11 +257,9 @@ b  [037.097][]   [x][_BROKEN]           ::  Samsung S7.
 
    [038.100][]   [+][PRODUTO]           ::  Estou com o aparelho há menos de um mês e até agora estou gostando muito.
 
-   [038.101][]   [x][X]                 ::  Antes eu tinha um S4.
+   [038.101][]   [+][PRODUTO]           ::  Antes eu tinha um S4. Foi um salto de qualidade.
 
-   [038.102][]   [+][PRODUTO]           ::  Foi um salto de qualidade.
-
-   [038.103][]   [.][RESISTÊNCIA]       ::  Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
+   [038.103][]   [&][RESISTÊNCIA]       ::  Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
 
    [038.104][]   [-][PREÇO]             ::  O aparelho poderia ser um pouco mais barato.
 
@@ -291,7 +289,7 @@ b  [037.097][]   [x][_BROKEN]           ::  Samsung S7.
 
    [042.117][]   [+][CÂMERA]            ::  Câmera impressionante.
 
-   [042.118][]   [.][DESIGN]            ::  Design discreto, não chama tanto a atenção quanto o Edge.
+   [042.118][]   [*][DESIGN]            ::  Design discreto, não chama tanto a atenção quanto o Edge.
 
    [042.119][]   [+][DESEMPENHO]        ::  Mostrou-se muito rápido, em meu uso nunca travou.
 
@@ -343,7 +341,7 @@ b  [037.097][]   [x][_BROKEN]           ::  Samsung S7.
 
    [048.136][]   [+][PRODUTO]           ::  Gostei de tudo.
 
-   [048.136][]   [X][PRODUTO]           ::  Minha mãe já tinha um e resolvi comprar também.
+   [048.136][]  [+.][PRODUTO]           ::  Minha mãe já tinha um e resolvi comprar também.
 
    [050.139][]   [+][DESEMPENHO]        ::  Rápido ótima velocidade de processamento.
 
@@ -409,11 +407,11 @@ i  [057.163][]   [x][_IRRELEVANT]       ::  Eu não recebi o produto da loja, po
 
    [057.164][]  [+.][PRODUTO]           ::  Pelo que ouço, é um aparelho muito bom, vou comprar
 
-   [057.164][]   [.][PRODUTO]           ::  por hora, não sou capaz de opinar.
+   [057.164][]   [#][PRODUTO]           ::  por hora, não sou capaz de opinar.
 
    [058.166][]   [+][PRODUTO]           ::  Recomendo Samsung S7.
 
-   [058.167][]   [x][PRODUTO]           ::  Estou usando a menos de 1 mês.
+   [058.167][]   [&][PRODUTO]           ::  Estou usando a menos de 1 mês.
 
    [058.168][]   [+][PRODUTO]           ::  Mas o produto cumpre tudo que prometeu.
 
@@ -475,7 +473,7 @@ i  [057.163][]   [x][_IRRELEVANT]       ::  Eu não recebi o produto da loja, po
 
    [064.189][]   [-][RESISTÊNCIA]       ::  Ponto de dúvida é durabilidade: Samsung é famosa por ter perda sensível de performance depois de 6 meses.
 
-   [064.190][]   [x][X]                 ::  Vamos ver nele como vai.
+c  [064.190][]   [x][_CONTEXT]          ::  Vamos ver nele como vai.
 
    [065.191][]   [+][PRODUTO]           ::  Não decepciona.
 
@@ -577,7 +575,7 @@ b  [080.228][]   [x][_BROKEN]           ::  Samsung s7.
 
    [082.234][]   [+][PRODUTO]           ::  A princípio um celular bom.
 
-   [082.235][]   [x][PRODUTO]           ::  Deixei de comprar o S6 para pegar um mais atual.
+c  [082.235][]   [x][_CONTEXT]          ::  Deixei de comprar o S6 para pegar um mais atual.
 
    [082.236][]   [-][PRODUTO]           ::  O celular regrediu.
 
@@ -623,11 +621,11 @@ b  [080.228][]   [x][_BROKEN]           ::  Samsung s7.
 
    [086.251][]   [+][PRODUTO]           ::  Aparelho rápido.
 
-   [086.252][]   [X][PRODUTO]           ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
+c  [086.252][]   [x][_CONTEXT]          ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
 
    [086.254][]   [-][SISTEMA]           ::  Quanto ao software, muito poluído.
 
-   [086.255][]   [-][X]                 ::  Poderia ser mais simples.
+   [086.255][]   [-][SISTEMA]           ::  Poderia ser mais simples.
 
    [086.256][]   [-][SISTEMA]           ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
 
@@ -637,7 +635,7 @@ b  [080.228][]   [x][_BROKEN]           ::  Samsung s7.
 
    [086.257][]   [+][BATERIA]           ::  duração da bateria me surpreende.
 
-   [086.258][]   [x][PRODUTO]           ::  Uso muito o aparelho.
+   [086.258][]   [&][PRODUTO]           ::  Uso muito o aparelho.
 
 d  [087.259][]   [x][_DUPLICATE]        ::  Hardware muito bom.
 
@@ -815,7 +813,7 @@ d  [104.311][]   [x][_DUPLICATE]        ::  Ótimo produto
 
    [108.322][]   [-][PREÇO]             ::  caro.
 
-   [108.323][]   [-][_outscope]           ::  Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
+   [108.323][]   [-][_outscope]         ::  Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
 
    [109.325][]   [+][PRODUTO]           ::  GS7, fantástico.
 
@@ -861,7 +859,7 @@ d  [104.311][]   [x][_DUPLICATE]        ::  Ótimo produto
 
    [114.340][]   [+][PRODUTO]           ::  Muito bom, excelente produto. Me surpreendeu.
 
-   [114.341][]   [x][PRODUTO]           ::  Troquei um S4 octa core por esse S7.
+c  [114.341][]   [x][_CONTEXT]          ::  Troquei um S4 octa core por esse S7.
 
    [114.342][]   [+][PRODUTO]           ::  Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
 
@@ -887,7 +885,7 @@ d  [104.311][]   [x][_DUPLICATE]        ::  Ótimo produto
 
    [118.351][]   [+][PRODUTO]           ::  Muito bom e preciso.
 
-   [118.352][]   [X][PRODUTO]           ::  Ainda não possui um só vi o do meu amigo.
+c  [118.352][]   [x][_CONTEXT]          ::  Ainda não possui um só vi o do meu amigo.
 
    [119.354][]   [+][PRODUTO]           ::  Muito bom.
 
@@ -949,11 +947,11 @@ b  [124.371][]   [x][_BROKEN]           ::  S7 Edge.
 
    [125.377][]   [+][PRODUTO]           ::  Ate agora me surpreendeu..
 
-   [125.378][]   [x][BATERIA]           ::  Vamos ver a bateria daqui um tempo.
+c  [125.378][]   [x][_CONTEXT]          ::  Vamos ver a bateria daqui um tempo.
 
    [125.378][]   [+][PRODUTO]           ::  Tudo show de bola..
 
-   [125.379][]   [+][_outscope]           ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
+   [125.379][]   [+][_outscope]         ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
 
    [125.380][]   [!][RESISTÊNCIA]       ::  Uma dica: Coloquem no seguro porque nao é barato!
 
@@ -1017,7 +1015,7 @@ b  [124.371][]   [x][_BROKEN]           ::  S7 Edge.
 
    [134.404][]   [+][PRODUTO]           ::  Bom Aparelho.
 
-   [134.405][]   [+][_outscope]           ::  Já sou cliente dos celulares Galaxy eu não troco.
+   [134.405][]   [+][_outscope]         ::  Já sou cliente dos celulares Galaxy eu não troco.
 
    [135.406][]   [+][PREÇO]             ::  Melhor custo beneficio.
 
@@ -1025,7 +1023,7 @@ b  [124.371][]   [x][_BROKEN]           ::  S7 Edge.
 
    [136.408][]   [+][PRODUTO]           ::  Recomendo o produto e.mbora eu não tenho mas conheço.
 
-   [136.409][]   [X][PRODUTO]           ::  Ainda não pude tê-lo.
+c  [136.409][]   [x][_CONTEXT]          ::  Ainda não pude tê-lo.
 
    [137.410][]   [+][PRODUTO]           ::  RECOMENDO ...
 
@@ -1053,7 +1051,7 @@ b  [124.371][]   [x][_BROKEN]           ::  S7 Edge.
 
    [140.419][]   [-][ACESSÓRIO]         ::  Só não dei 5 estrelas porque devido o mesmo ser curvo, desnecessário, não é possível encontrar no mercado nenhuma película que fica perfeita nele. Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
 
-   [140.421][]   [+][_outscope]           ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
+   [140.421][]   [+][_outscope]         ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
 
    [141.422][]   [+][PRODUTO]           ::  Muito bom.
 
@@ -1063,7 +1061,7 @@ d  [141.423][]   [x][_DUPLICATE]        ::  Muito bom.
 
    [142.425][]   [+][PRODUTO]           ::  Excelente produto para o uso do dia a dia.
 
-   [143.426][]   [X][PRODUTO]           ::  Depois do S6, comprei o S7.
+c  [143.426][]   [x][_CONTEXT]          ::  Depois do S6, comprei o S7.
 
    [143.427][]  [++][PRODUTO]           ::  Não há do que reclamar! Só isso!
 
@@ -1143,7 +1141,7 @@ b  [153.456][]   [x][_BROKEN]           ::  O mesmo para a câmera traseira, gua
 
    [153.457][]  [-.][PREÇO]             ::  O preço ainda é salgado, como tudo que é bom no Brasil.
 
-   [153.458][]   [x][X]                 ::  Nada de novidade neste quesito.
+c  [153.458][]   [x][_CONTEXT]          ::  Nada de novidade neste quesito.
 
    [153.459][]   [+][PRODUTO]           ::  No geral, é um ótimo smartphone, realmente topo de linha.
 
@@ -1157,7 +1155,7 @@ b  [153.456][]   [x][_BROKEN]           ::  O mesmo para a câmera traseira, gua
 
    [155.464][]   [+][PREÇO]             ::  um pouco mais caro que a maioria porém vale cada centavo.
 
-   [156.466][]   [-][_outscope]           ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
+   [156.466][]   [-][_outscope]         ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
 
    [157.475][]   [+][PRODUTO]           ::  Melhor que qualquer iPhone.
 
@@ -1207,21 +1205,19 @@ b  [163.488][]   [x][_BROKEN]           ::  Todos os aspectos marcados acima ret
 
    [164.494][]   [+][OUTRO]             ::  oferece atualizações frequentes.
 
-   [165.495][]   [X][PRODUTO]           ::  Migrando do S5 para o S7.
+c  [165.495][]   [x][_CONTEXT]          ::  Migrando do S5 para o S7.
 
    [165.496][]   [+][PRODUTO]           ::  O aparelho é excelente.
 
    [165.496][]   [+][DESEMPENHO]        ::  o desempenho me surpreendeu muito.
 
-   [165.497][]   [.][CÂMERA]            ::  O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera.
-
-   [165.498][]   [x][X]                 ::  E nesse quesito o S7 não deixa a desejar.
+   [165.497][]   [+][CÂMERA]            ::  O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera. E nesse quesito o S7 não deixa a desejar.
 
    [165.499][]   [+][CÂMERA]            ::  Já tive o S5 e a Samsung mantem o padrão alto na qualidade da câmera.
 
    [165.500][]   [-][OUTRO]             ::  O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc.
 
-   [165.501][]   [x][X]                 ::  e agora não é mais possível usar essa função na S7)
+c  [165.501][]   [x][_CONTEXT]          ::  e agora não é mais possível usar essa função na S7)
 
    [165.502][]   [-][DESIGN]            ::  O prata suja bastante na parte de trás do aparelho.
 
@@ -1245,7 +1241,7 @@ b  [163.488][]   [x][_BROKEN]           ::  Todos os aspectos marcados acima ret
 
    [166.508][]   [-][OUTRO]             ::  Único ponto negativo é a impossibilidade de trocar a bateria (ou seja, tem vida útil contada, de 2-3 anos, fora isso, só alegria.
 
-   [166.509][]   [+][_outscope]           ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
+   [166.509][]   [+][_outscope]         ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
 
    [167.510][]   [+][PRODUTO]           ::  Bom.
 
@@ -1341,7 +1337,7 @@ b  [170.518][]   [x][_BROKEN]           ::  mais o processador não se compara c
 
    [180.544][]  [++][PRODUTO]           ::  O melhore mais completo até agora!
 
-   [181.545][]   [-][X]                 ::  Surpresas desagradáveis com a compra do aparelho.
+c  [181.545][]   [x][_CONTEXT]          ::  Surpresas desagradáveis com a compra do aparelho.
 
    [181.546][]   [-][PRODUTO]           ::  O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo.
 
@@ -1351,11 +1347,11 @@ b  [170.518][]   [x][_BROKEN]           ::  mais o processador não se compara c
 
    [181.549][]   [-][ACESSÓRIO]         ::  Os modelos de película disponíveis tem uma margem de uns 4mm, o que torna uma luta a experiência de manipular o menu e selecionar um aplicativo e jogar para o canto da tela para ele ir para a página do lado.
 
-   [181.550][]   [-][_outscope]           ::  Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+   [181.550][]   [-][_outscope]         ::  Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
    [182.554][]   [+][PRODUTO]           ::  Bom.
 
-   [182.555][]   [.][PRODUTO]           ::  Aguardar mais algum tempo para dar uma resposta mais concreta.
+   [182.555][]   [#][PRODUTO]           ::  Aguardar mais algum tempo para dar uma resposta mais concreta.
 
    [183.556][]   [+][PRODUTO]           ::  Segurança, confiança e agilidade.
 
@@ -1431,9 +1427,9 @@ d  [188.575][]   [x][_DUPLICATE]        ::  Aparelho excelente.
 
    [189.578][]  [-.][PRODUTO]           ::  Comprei 2 s7, o meu veio perfeito, já o do meu marido veio com problema, travamento, não lê a digital, desliga..
 
-   [189.579][]   [-][_outscope]           ::  Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
+   [189.579][]   [-][_outscope]         ::  Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
 
-   [189.580][]   [-][_outscope]           ::  Paguei sedex pra chegar em 3 dias.. Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
+   [189.580][]   [-][_outscope]         ::  Paguei sedex pra chegar em 3 dias.. Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
 
    [190.583][]   [+][PRODUTO]           ::  Ótimo aparelho.
 
@@ -1455,11 +1451,11 @@ b  [191.586][]   [x][_BROKEN]           ::  Celular samsung.
 
    [192.589][]   [+][USABILIDADE]       ::  fácil manuseio.
 
-   [193.590][]   [-][_outscope]           ::  Critica por não ter recebido o blinde.
+   [193.590][]   [-][_outscope]         ::  Critica por não ter recebido o blinde.
 
    [193.591][]   [-][OUTRO]             ::  As bordas arredondadas ativa, dificulta o manuseio, pois faz com que ações não conceitual se realize.
 
-   [193.591][]   [-][_outscope]           ::  O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
+   [193.591][]   [-][_outscope]         ::  O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
 
    [194.592][]   [+][PRODUTO]           ::  Produto muito bom.
 
@@ -1469,7 +1465,7 @@ b  [191.586][]   [x][_BROKEN]           ::  Celular samsung.
 
    [194.593][]   [-][BATERIA]           ::  bateria ruim.
 
-   [194.594][]   [-][_outscope]           ::  O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
+   [194.594][]   [-][_outscope]         ::  O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
 
    [195.595][]   [+][PRODUTO]           ::  Adorei.
 
@@ -1509,13 +1505,13 @@ b  [191.586][]   [x][_BROKEN]           ::  Celular samsung.
 
    [198.605][]   [+][OUTRO]             ::  O leitor de digital é outro fator positivo, pois ele é rápido e prático.
 
-   [198.605][]   [X][OUTRO]             ::  A certificação de resistência à agua eu não testei, pois no S5 essa resistência, seguindo todas as recomendações e verificações, não funcionou.
+   [198.605][]   [#][OUTRO]             ::  A certificação de resistência à agua eu não testei, pois no S5 essa resistência, seguindo todas as recomendações e verificações, não funcionou.
 
    [198.606][]  [+.][PRODUTO]           ::  Excluindo o valor e a bateria, estou satisfeita com o aparelho.
 
    [199.607][]   [+][PRODUTO]           ::  Produto de qualidade.
 
-   [199.608][]   [x][PRODUTO]           ::  Realizei a troca do galaxy s5 para o galaxy s7.
+c  [199.608][]   [x][_CONTEXT]          ::  Realizei a troca do galaxy s5 para o galaxy s7.
 
    [199.609][]   [+][PRODUTO]           ::  Tirando a bateria que para mim não melhorou, por hora estou amando.
 
@@ -1571,13 +1567,13 @@ b  [191.586][]   [x][_BROKEN]           ::  Celular samsung.
 
    [207.631][]   [+][PRODUTO]           ::  Otima.
 
-   [208.632][]   [-][_outscope]           ::  Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
+   [208.632][]   [-][_outscope]         ::  Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
 
    [208.636][]   [-][RESISTÊNCIA]       ::  Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
-   [208.637][]   [-][_outscope]           ::  Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
+   [208.637][]   [-][_outscope]         ::  Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
 
-   [208.638][]   [-][_outscope]           ::  Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
+   [208.638][]   [-][_outscope]         ::  Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
 
 b  [208.639][]   [x][_BROKEN]           ::  Não há explicações para a fragilidade de um produto qu.
 
@@ -1585,9 +1581,9 @@ b  [208.639][]   [x][_BROKEN]           ::  Não há explicações para a fragil
 
    [209.641][]   [-][RESISTÊNCIA]       ::  O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor. Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
 
-   [210.644][]   [-][_outscope]           ::  Falso anúncio.
+   [210.644][]   [-][_outscope]         ::  Falso anúncio.
 
-   [210.645][]   [-][_outscope]           ::  O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
+   [210.645][]   [-][_outscope]         ::  O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
    [211.649][]   [-][PRODUTO]           ::  Esperava mais.....
 
@@ -1623,7 +1619,7 @@ c  [214.658][]   [x][_CONTEXT]          ::  Depois disso, os modelos que tive fo
 
    [214.661][]   [-][PRODUTO]           ::  este modelo da Samsung deixou muito a desejar comparado a outros aparelhos que tive.
 
-   [217.666][]   [-][_outscope]           ::  O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
+   [217.666][]   [-][_outscope]         ::  O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
 i  [218.670][]   [x][_IRRELEVANT]       ::  Nao comprei.
 
@@ -1633,7 +1629,7 @@ i  [218.671][]   [x][_IRRELEVANT]       ::  Nao comprei.
 
    [219.673][]   [-][RESISTÊNCIA]       ::  PÉSSIMA COM DOIS MESES DE USO TRINCOU O DISPLAY DE LCD DENTRO DA BOLSA.
 
-   [219.674][]   [-][_outscope]           ::  E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
+   [219.674][]   [-][_outscope]         ::  E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
 
 b  [220.675][]   [x][_BROKEN]           ::  Geral.
 

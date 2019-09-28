@@ -14,7 +14,7 @@
 
 > Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-09-15
+> File generation date: 2019-09-28
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 6         4                            10

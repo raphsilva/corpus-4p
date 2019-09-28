@@ -14,7 +14,7 @@
 
   Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-  File generation date: 2019-09-15
+  File generation date: 2019-09-28
 
 
 <   [001.003][]   [+][CÂMERA ARMAZENAMENTO]  ::  Boa velocidade na reprodução de vídeos e bom de espaço de memória.
@@ -93,7 +93,7 @@
 >   [030.070][]   [+][PRODUTO]           ::  muitas funções
 >   [030.070][]   [+][BATERIA]           ::  bateria que dura bastante.
 >   [030.070][]   [+][PREÇO]             ::  O preço estava bom.
->   [030.070][]   [+][_outscope]           ::  chegou bem rápido.
+>   [030.070][]   [+][_outscope]         ::  chegou bem rápido.
 
 <   [031.072][]   [+][PRODUTO CÂMERA]    ::  Um celular excelente, rápido, câmera boa e funcionalidade boa.
 >   [031.072][]   [+][PRODUTO]           ::  Um celular excelente.
@@ -202,7 +202,7 @@
 >   [069.162][]   [+][PRODUTO]           ::  e qualidade melhor ainda.
 
 <   [074.173][]   [+][EMPRESA PRODUTO]   ::  Entrega rápida e até então estou gostando muito do aparelho.
->   [074.173][]   [+][_outscope]           ::  Entrega rápida.
+>   [074.173][]   [+][_outscope]         ::  Entrega rápida.
 >   [074.173][]   [+][PRODUTO]           ::  e até então estou gostando muito do aparelho.
 
 <   [076.177][]   [+][PRODUTO]           ::  Celular top de linha, camera muito boa, excelente aparelho.
@@ -221,7 +221,7 @@
 >   [080.188][]   [-][CÂMERA]            ::  apenas não gostei muito da câmera, mas quando ao restante estou satisfeita!
 
 <   [081.190][]   [+][EMPRESA PRODUTO]   ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
->   [081.190][]   [+][_outscope]           ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
+>   [081.190][]   [+][_outscope]         ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
 >   [081.190][]   [+][PRODUTO]           ::  produto muito bom, atendendo as expectativas da marca Moto.
 
 <   [084.197][]   [+][PREÇO DESIGN]      ::  Cumpre o que promete com um ótimo custo-benefício, além do desing maravilhoso e ótimo acabamento.
@@ -266,7 +266,7 @@
 >   [097.234][]   [+][SISTEMA]           ::  Sempre inovando e como sempre, Android puro.
 
 <   [098.236][]   [+][PRODUTO]           ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
->   [098.236][]   [.][PRODUTO]           ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+>c  [098.236][]   [x][_CONTEXT]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
 <   [105.252][]   [+][PRODUTO BATERIA]   ::  O celular é bom, mas bateria dura pouco e a camera deixa bastante a desejar.
 >   [105.252][]   [+][PRODUTO]           ::  O celular é bom.
@@ -322,7 +322,7 @@
 
 <   [126.312][]   [+][PRODUTO]           ::  Bem...é bem legal mas faltou um pouco de capricho pelo fabricante.
 >   [126.312][]   [+][PRODUTO]           ::  Bem...é bem legal.
->   [126.312][]   [-][_outscope]           ::  faltou um pouco de capricho pelo fabricante.
+>   [126.312][]   [-][_outscope]         ::  faltou um pouco de capricho pelo fabricante.
 
 <   [128.316][]   [+][PRODUTO ARMAZENAMENTO]  ::  Um bom produto,com muita memória,aparelho muito bonito e recomendo por ter algo a mais que é através da digital a sua segurança,foi o que me chamou a minha atenção.
 >   [128.316][]   [+][PRODUTO]           ::  Um bom produto.
@@ -331,7 +331,7 @@
 >   [128.316][]   [+][OUTRO]             ::  recomendo por ter algo a mais que é através da digital a sua segurança, foi o que me chamou a minha atenção.
 
 <   [131.324][]   [+][PRODUTO TELA]      ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
->   [131.324][]   [X][PRODUTO]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas
+>c  [131.324][]   [x][_CONTEXT]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas
 >   [131.324][]   [-][TELA]              ::  ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
 <   [133.328][]   [+][PRODUTO BATERIA]   ::  Gostei do produto, apenas a bateria a bateria podia ser melhor.
@@ -340,7 +340,7 @@
 
 <   [138.338][]   [+][PRODUTO PREÇO EMPRESA]  ::  Celular de ótimo custo-benefício e entregue antes do prazo.
 >   [138.338][]   [+][PREÇO]             ::  Celular de ótimo custo-benefício.
->   [138.338][]   [+][_outscope]           ::  entregue antes do prazo.
+>   [138.338][]   [+][_outscope]         ::  entregue antes do prazo.
 
 <   [139.341][]   [+][PRODUTO SO BATERIA CÂMERA PREÇO]  ::  Celular com Android 7.0, com bons recursos, boa bateria, boa câmera e bom custo benefício.
 >   [139.341][]   [+][SISTEMA]           ::  Celular com Android 7.0.
@@ -455,7 +455,7 @@
 <   [174.440][]   [+][PRODUTO]           ::  Agora, só Moto G.
 
 <   [175.442][]   [+][PRODUTO CÂMERA BATERIA TELEVISÃO]  ::  Adquiri há 1 mês.Aparelho mais bonito pessoalmente (dourado).Câmera incrível, designer perfeito, super rápido, carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).O diferencial dele é a TV, foi por isso que adquiri esse modelo.
->   [175.442][]   [X][PRODUTO]           ::  Adquiri há 1 mês
+>c  [175.442][]   [x][_CONTEXT]          ::  Adquiri há 1 mês
 >   [175.442][]   [+][DESIGN]            ::  Aparelho mais bonito pessoalmente (dourado).
 >   [175.442][]   [+][CÂMERA]            ::  Câmera incrível.
 >   [175.442][]  [++][DESIGN]            ::  designer perfeito.
@@ -495,7 +495,7 @@
 
 <   [184.464][]   [+][PRODUTO EMPRESA]   ::  Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 >   [184.464][]   [+][PRODUTO]           ::  Ótimo produto.
->   [184.464][]   [+][_outscope]           ::  entrega rápida.
+>   [184.464][]   [+][_outscope]         ::  entrega rápida.
 >   [184.464][]   [-][DESEMPENHO]        ::  só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 
 <   [185.466][]   [+][BATERIA TELA CÂMERA]  ::  Ótimo smartphone! Bateria de longa duração, boa tela, ótima câmera.
@@ -506,11 +506,11 @@
 
 <   [186.467][]   [+][PRODUTO]           ::  O produto é muito bom, porém não comprei na empresa efacil, empresa ruim.
 >   [186.467][]   [+][PRODUTO]           ::  O produto é muito bom.
->   [186.467][]   [-][_outscope]           ::  não comprei na empresa efacil, empresa ruim.
+>   [186.467][]   [-][_outscope]         ::  não comprei na empresa efacil, empresa ruim.
 
 <   [186.468][]   [+][PRODUTO EMPRESA]   ::  O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 >d  [186.468][]   [x][_DUPLICATE]        ::  O produto é muito bom.
->   [186.468][]   [-][_outscope]           ::  não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+>   [186.468][]   [-][_outscope]         ::  não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
 <   [188.476][]   [+][ARMAZENAMENTO PRODUTO PREÇO]  ::  Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel, mas na sua faixa de preço ainda está valendo a pena.
 >   [188.476][]   [-][DESEMPENHO]        ::  Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel.
@@ -592,10 +592,10 @@
 >   [224.571][]   [-][RESISTÊNCIA]       ::  Aparelho com problema.
 
 <   [224.573][]   [-][PRODUTO]           ::  Tentei entrar en contato com a Onofre e não consegui.
->   [224.573][]   [-][_outscope]           ::  Tentei entrar em contato com a Onofre e não consegui.
+>   [224.573][]   [-][_outscope]         ::  Tentei entrar em contato com a Onofre e não consegui.
 
 <   [225.575][]   [-][PRODUTO]           ::  Em 02/05/17, comprei este smartphone pelo site do Extra.
->   [225.575][]   [-][_outscope]           ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+>   [225.575][]   [-][_outscope]         ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
 <   [226.594][]   [-][ARMAZENAMENTO]     ::  Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória.
 >   [226.594][]   [-][OUTRO]             ::  Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
@@ -603,11 +603,11 @@
 <   [226.595][]   [-][PRODUTO]           ::  Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
 <   [227.597][]   [-][PRODUTO EMPRESA BATERIA]  ::  Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
->   [227.597][]   [-][_outscope]           ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
+>   [227.597][]   [-][_outscope]         ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
 
 <   [227.599][]   [-][PRODUTO EMPRESA]   ::  Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 >   [227.599][]   [-][PRODUTO]           ::  Estou muito infeliz com a compra desse produto.
->   [227.599][]   [-][_outscope]           ::  dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+>   [227.599][]   [-][_outscope]         ::  dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
 <   [229.609][]   [-][PRODUTO]           ::  Review speaker ruim.
 >   [229.609][]   [-][SOM]               ::  Alto-falante ruim.

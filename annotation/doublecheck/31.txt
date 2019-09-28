@@ -14,7 +14,7 @@
 
 > Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-09-15
+> File generation date: 2019-09-28
 
 
    [001.001][]   [+][PRODUTO]           ::  Excelente produto.
@@ -37,7 +37,7 @@
 
    [005.011][]   [+][PRODUTO]           ::  Muito bom.
 
-   [005.012][]   [X][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
+   [005.012][]   [&][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
 
    [005.013][]   [-][ACESSÓRIO]         ::  Algumas informações não vieram no Manual.
 
@@ -177,7 +177,7 @@ d  [023.056][]   [x][_DUPLICATE]        ::  Ótimo produto.
 
    [026.063][]  [-.][ARMAZENAMENTO]     ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
 
-   [026.063][]   [x][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
+   [026.063][]   [!][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
 
    [027.065][]   [+][PREÇO]             ::  Excelente custo benefício para um iniciante.
 
@@ -247,7 +247,7 @@ d  [038.093][]   [x][_DUPLICATE]        ::  Muito bom.
 
    [039.094][]   [+][PRODUTO]           ::  Produto show de bola.
 
-   [039.095][]   [x][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
+   [039.095][]  [+.][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
 
    [040.096][]   [+][PRODUTO]           ::  A câmera atende ao que se propõe. Muito boa.
 
