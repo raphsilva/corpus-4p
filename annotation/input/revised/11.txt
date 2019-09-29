@@ -1907,7 +1907,7 @@ c(181.545) [][] :: Surpresas desagradáveis com a compra do aparelho.
 J(181.551) [+][EMPRESA  PRODUTO] :: O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
 
 
-J(181.552) [+][_outscope] :: Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+J(181.552) [+][outscope] :: Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
 
 
@@ -2302,7 +2302,7 @@ J(214.660) [-][PRODUTO  TELA  PREÇO] :: Um dos chamativos desse modelo da Samsu
 
 J(217.667) [-][PREÇO] :: O preço só é valido para quem assina um plano.
 
-J(217.668) [-][_outscope] :: Como em qualquer operadora.
+J(217.668) [-][outscope] :: Como em qualquer operadora.
 
 
 J(217.669) [-][PRODUTO  PREÇO] :: Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
