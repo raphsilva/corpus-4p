@@ -26,10 +26,9 @@ for i in output_directories:
         os.makedirs(i)
 
 from collections import defaultdict
-count_polarities = defaultdict(int)
 
 # Read file (revised or automatically annotaded)
-def getInfo(filename, count_pol=False):
+def getInfo(filename):
     # Get product ID from filename 
     product_id = filename.split('/')[-1].split('.')[0]
 
@@ -85,14 +84,6 @@ def getInfo(filename, count_pol=False):
         entry_id += 1
 
         r['data'].append(n)
-
-        if count_pol:
-            if n['aspect'] != '' and isExceptionAspect(n['aspect']):
-                count_polarities[n['aspect']] += 1
-            elif flag == '':
-                count_polarities[n['polarity']] += 1
-            else:
-                count_polarities[flag] += 1
 
     return r
 
@@ -278,7 +269,7 @@ for filename in files_to_read:
 
     i_filename = filename.split('.')[0]
 
-    info_revised = getInfo(DIR_ANNOTATED_MANUAL + '/' + filename, True)
+    info_revised = getInfo(DIR_ANNOTATED_MANUAL + '/' + filename)
     info_raw = getInfo(DIR_ANNOTATED_AUTO + '/' + filename)
 
     data_revised = info_revised['data']
@@ -462,12 +453,6 @@ for filename in files_to_read:
     s['meta']['Human editor'] = None
     del s['meta']['Human editor']
 
-    # aa = [int(i['sentence_id']) for i in data_merged]
-    # for i in range(max(aa)):
-    # if i not in aa:
-    # print(i, filename)
-    # input()
-
     for i in s['data']:
         i['sentence'] = i['sentence'].replace('\"', '&dquote&')
         i['sentence'] = i['sentence'].replace('\'', '&squote&')
@@ -475,6 +460,3 @@ for filename in files_to_read:
     f = open(DIR_OUTPUT_JSON + '/' + filename_save + '.json', 'w')
     f.write(json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
     f.close()
-
-
-pprint(count_polarities)
