@@ -370,6 +370,7 @@ b(037.097) [][] :: Samsung S7.
 
 
 (038.101) [+][PRODUTO] :: Antes eu tinha um S4. Foi um salto de qualidade.
+J (038.102) [+][PRODUTO] :: Foi um salto de qualidade.
 
 
 (038.103) [&][RESISTÊNCIA] :: Comprei uma capa reforçada p/ protege-lo contra impactos e evitar danos pois falam da fragilidade do Aparelho.
@@ -765,6 +766,10 @@ b(072.210) [][] :: Cor.
 
 (075.216) [+][SISTEMA] :: Bom! A ROM da Samsung me surpreendeu... Minhas experiências anteriores com Samsung se resumiam em hardware muito bom, mas com ROM sofrível de tanto lixo que colocavam. Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
 
+J(075.217) [+][PRODUTO] :: Minhas experiências anteriores com Samsung se resumiam em hardware muito bom, mas com ROM sofrível de tanto lixo que colocavam.
+
+
+J(075.218) [+][PRODUTO] :: Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
 
 
 
@@ -877,6 +882,8 @@ c(082.235) [][] :: Deixei de comprar o S6 para pegar um mais atual.
 
 c(086.252) [][] :: Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
 
+J(086.253) [+][PRODUTO] :: Queria manter num top de linha e peguei o S7.
+
 
 (086.254) [-][SISTEMA] :: Quanto ao software, muito poluído.
 (086.255) [-][SISTEMA] :: Poderia ser mais simples.
@@ -979,9 +986,7 @@ i(092.278) [][] :: NÃO LEIA O TITULO.
 (094.283) [+][DESEMPENHO] :: Velocidade de processamento boa.
 (094.283) [+][DESIGN] :: Design agradável.
 (094.283) [-][ACESSÓRIO] :: O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
-(094.283) [+][PRODUTO] :: excelente!
-
-
+(094.284) [+][PRODUTO] :: excelente!
 
 
 
@@ -1125,6 +1130,7 @@ d(104.311) [][] :: Ótimo produto
 
 (108.323) [-][outscope] :: Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
 
+J(108.324) [+][PRODUTO] :: Diz que vieram mas não apareceram não.
 
 
 
@@ -1321,6 +1327,7 @@ c(125.378) [][] :: Vamos ver a bateria daqui um tempo.
 
 (125.380) [!][RESISTÊNCIA] :: Uma dica: Coloquem no seguro porque nao é barato!
 
+J(125.381) [+][PRODUTO] :: Coloquem no seguro porque nao é barato!
 
 
 
@@ -1458,6 +1465,7 @@ c(136.409) [][] :: Ainda não pude tê-lo.
 
 (140.419) [-][ACESSÓRIO] :: Só não dei 5 estrelas porque devido o mesmo ser curvo, desnecessário, não é possível encontrar no mercado nenhuma película que fica perfeita nele. Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
 
+J(140.420) [+][PRODUTO] :: Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
 
 (140.421) [+][outscope] :: Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
 
@@ -1608,11 +1616,30 @@ c(153.458) [][] :: Nada de novidade neste quesito.
 
 
 
+d(156.466) [+][PRODUTO] :: Vai um conselho: NÃO COMPREM NA SARAIVA !!!!
 
 
-(156.466) [-][outscope] :: Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
+(156.467) [-][outscope] :: Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
 
 
+J(156.468) [+][PRODUTO] :: SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip.
+
+
+J(156.469) [+][PRODUTO] :: Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno.
+
+
+J(156.470) [+][PRODUTO] :: Por que não acreditar na palavra de um cliente idôneo.
+
+
+J(156.471) [+][PRODUTO] :: Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro.
+
+
+J(156.472) [+][PRODUTO  EMPRESA] :: Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente.
+
+
+J(156.473) [+][PRODUTO] :: Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA.
+
+J(156.474) [+][PRODUTO] :: Então Vai um conselho :: NÃO COMPREM NA SARAIVA !
 
 
 (157.475) [+][PRODUTO] :: Melhor que qualquer iPhone.
@@ -1694,7 +1721,9 @@ c(165.495) [][] :: Migrando do S5 para o S7.
 
 
 (165.497) [+][CÂMERA] :: O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera. E nesse quesito o S7 não deixa a desejar.
-#j (165.498) [][] ::
+
+J(165.498) [+][PRODUTO] :: E nesse quesito o S7 não deixa a desejar.
+
 (165.499) [+][CÂMERA] :: Já tive o S5 e a Samsung mantem o padrão alto na qualidade da câmera.
 
 
@@ -1875,6 +1904,14 @@ c(181.545) [][] :: Surpresas desagradáveis com a compra do aparelho.
 
 
 
+J(181.551) [+][EMPRESA  PRODUTO] :: O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
+
+
+J(181.552) [+][_outscope] :: Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+
+
+
+
 
 
 (182.554) [+][PRODUTO] :: Bom.
@@ -1978,6 +2015,8 @@ d(188.575) [][] :: Aparelho excelente.
 
 (189.580) [-][outscope] :: Paguei sedex pra chegar em 3 dias..  Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
 
+J(189.581) [+][PRODUTO] :: Acabou demorando 15 dias e veio por transportadora.
+J(189.582) [+][PRODUTO] :: Perdi valor sedex ??
 
 
 
@@ -2097,6 +2136,7 @@ c(199.608) [][] :: Realizei a troca do galaxy s5 para o galaxy s7.
 (199.613) [-][OUTRO] :: Uma sugestão para o Always On seria exibir o ícone de outros apps, como o whatsapp, facebook e instagram.
 
 
+J(199.614) [+][PRODUTO] :: Uma sugestão para o Always On seria exibir o ícone de outros apps, como o whatsapp, facebook e instagram.
 
 
 (200.615) [+][PRODUTO] :: Otimo celular.
@@ -2117,7 +2157,9 @@ c(199.608) [][] :: Realizei a troca do galaxy s5 para o galaxy s7.
 (202.619) [-][RESISTÊNCIA] :: Dislpay quebra-fácil. Trincou todo o display na 1a queda.
 
 
+J(202.620) [+][TELA] :: Trincou todo o display na 1a.
 
+b(202.621) [+][PRODUTO] :: Queda.
 
 (203.622) [+][PRODUTO] :: Excelente! Recomendo!
 
@@ -2163,6 +2205,14 @@ c(199.608) [][] :: Realizei a troca do galaxy s5 para o galaxy s7.
 
 (208.632) [-][outscope] :: Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
 
+J(208.633) [-][PRODUTO  EMPRESA] :: Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online)
+
+
+J(208.634) [-][PRODUTO] :: Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema.
+
+
+J(208.635) [-][PRODUTO] :: Liguei o mesmo e funcionou corretamente.
+
 
 (208.636) [-][RESISTÊNCIA] :: Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
@@ -2182,7 +2232,7 @@ b(208.639) [][] :: Não há explicações para a fragilidade de um produto qu.
 
 (209.641) [-][RESISTÊNCIA] :: O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor. Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
 
-
+J(209.642) [-][PRODUTO] :: Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
 
 
 
@@ -2190,7 +2240,10 @@ b(208.639) [][] :: Não há explicações para a fragilidade de um produto qu.
 
 (210.645) [-][outscope] :: O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
+J(210.646) [-][EMPRESA  PREÇO] :: A loja com o melhor preço é o Carrefour.
 
+
+J(210.647) [-][EMPRESA  PREÇO] :: Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
 
 
@@ -2209,8 +2262,7 @@ b(208.639) [][] :: Não há explicações para a fragilidade de um produto qu.
 
 
 (212.652) [.][PRODUTO] :: S7 razoavel.
-(212.652) [-][PREÇO] :: Pouco tempo mas caro para o que oferece.
-
+(212.653) [-][PREÇO] :: Pouco tempo mas caro para o que oferece.
 
 
 
@@ -2232,6 +2284,8 @@ c(214.658) [][] :: Depois disso, os modelos que tive foram super resistentes (Mo
 
 (214.659) [-][RESISTÊNCIA] :: Recentemente comprei um Galaxy S7, em 3 dias, numa pequena queda trincou parte do display (falo pequena queda porque os outros modelos que tive, sofreram quedas piores e permaneceram intactos). Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
 
+J(214.660) [-][PRODUTO  TELA  PREÇO] :: Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
+
 
 (214.661) [-][PRODUTO] :: este modelo da Samsung deixou muito a desejar comparado a outros aparelhos que tive.
 
@@ -2246,7 +2300,12 @@ c(214.658) [][] :: Depois disso, os modelos que tive foram super resistentes (Mo
 
 (217.666) [-][outscope] :: O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
+J(217.667) [-][PREÇO] :: O preço só é valido para quem assina um plano.
 
+J(217.668) [-][_outscope] :: Como em qualquer operadora.
+
+
+J(217.669) [-][PRODUTO  PREÇO] :: Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
 
 i(218.670) [][] :: Nao comprei.

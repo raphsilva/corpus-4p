@@ -185,15 +185,11 @@
             "sentence": "Só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon."
         },
         {
-            "excerpts": [
-                "Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.",
-                "Auxilia muito no transporte."
-            ],
             "id": 15,
             "opinions": [
                 [
-                    "context",
-                    "x"
+                    "ACESSÓRIO",
+                    "-"
                 ]
             ],
             "sentence": "Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo."
@@ -202,7 +198,7 @@
             "id": 16,
             "opinions": [
                 [
-                    "none",
+                    "context",
                     "x"
                 ]
             ],
@@ -793,16 +789,6 @@
                 ]
             ],
             "sentence": "O Display é bem fácil de acessar, controle de foco fácil."
-        },
-        {
-            "id": 74,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Manual ou automático."
         },
         {
             "id": 75,
@@ -1523,16 +1509,6 @@
                 ]
             ],
             "sentence": "Anuncio falso."
-        },
-        {
-            "id": 140,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso."
         }
     ],
     "meta": {
@@ -1544,8 +1520,8 @@
         "Number of reviews": "47",
         "Product": "Câmera Digital Canon EOS Rebel T5 18.0 Megapixels",
         "Source": "www.buscape.com.br/avaliacoes/canon-eos-rebel-t5-18-0-megapixels",
-        "Total of opinions": "161",
-        "Total of sentences": "131",
+        "Total of opinions": "163",
+        "Total of sentences": "129",
         "Type": "Câmera"
     }
 }

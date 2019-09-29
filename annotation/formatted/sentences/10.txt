@@ -16,9 +16,9 @@
 
 > File generation date: 2019-09-29
 
-> Total of opinions: 795
+> Total of opinions: 799
 
-> Total of sentences: 596
+> Total of sentences: 592
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                           4                             4
@@ -42,9 +42,8 @@
 # context                                                 9         9
 # duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  13 _  _   13
 # irrelevant                                              7         7
-# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  4 _  _  _ 4
-# outscope                  7        27         2                  36
-# unintelligible _  _  _  _  _  _  _  _  _  _  _  _  _  _ 5 _  _  _ 5
+# outscope _  _  _  _  _  _ 7 _  _   27 _  _  _ 2 _  _  _  _  _  _ 36
+# unintelligible                                          5         5
 
 
 
@@ -3259,34 +3258,6 @@ irrelevant x
 Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
 
 irrelevant x 
-
-
-
-(174.440)
-Agora, só Moto G.
-
-none x 
-
-
-
-(174.438)
-Grrrr), e já me encantei com alguns Galaxy.
-
-none x 
-
-
-
-(174.439)
-Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
-
-none x 
-
-
-
-(226.595)
-Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
-
-none x 
 
 
 

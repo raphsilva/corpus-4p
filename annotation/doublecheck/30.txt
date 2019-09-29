@@ -61,7 +61,7 @@ c  [002.013]         [_context][x]    Só para caráter de comparação:
 
    [002.015]        [ACESSÓRIO][-]    Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
 
-c  [002.015]         [_context][x]    Auxilia muito no transporte.
+c  [002.016]         [_context][x]    Auxilia muito no transporte.
 
    [002.017]        [ACESSÓRIO][-]    Poderia vir um software pelo menos trial para poder editar fotos.
 
@@ -182,6 +182,8 @@ b  [012.049]           [broken][x]    Câmera rebel T5.
    [020.073]             [TELA][+]    O Display é bem fácil de acessar
 
    [020.073]             [FOCO][+]    controle de foco fácil. Manual ou automático.
+
+J  [020.074]                  [][]    Manual ou automático.
 
    [021.075]          [PRODUTO][+]    Sensacional..
 
@@ -338,4 +340,6 @@ d  [038.118]        [duplicate][x]    Excelente Produto.
    [046.137]          [PRODUTO][+]    Ótimo produto, confiável e com bom rendimento.
 
    [047.139]         [outscope][-]    Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+
+J  [047.140]          [PRODUTO][-]    Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 

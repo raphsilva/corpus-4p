@@ -1145,16 +1145,6 @@
             "sentence": "Antes eu tinha um S4."
         },
         {
-            "id": 102,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Foi um salto de qualidade."
-        },
-        {
             "id": 103,
             "opinions": [
                 [
@@ -2445,26 +2435,6 @@
             "sentence": "Bom! A ROM da Samsung me surpreendeu..."
         },
         {
-            "id": 217,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Minhas experiências anteriores com Samsung se resumiam em hardware muito bom, mas com ROM sofrível de tanto lixo que colocavam."
-        },
-        {
-            "id": 218,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!"
-        },
-        {
             "id": 219,
             "opinions": [
                 [
@@ -2832,16 +2802,6 @@
             "sentence": "Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução."
         },
         {
-            "id": 253,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Queria manter num top de linha e peguei o S7."
-        },
-        {
             "id": 254,
             "opinions": [
                 [
@@ -3179,8 +3139,7 @@
             "excerpts": [
                 "Velocidade de processamento boa.",
                 "Design agradável.",
-                "O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.",
-                "excelente!"
+                "O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo."
             ],
             "id": 283,
             "opinions": [
@@ -3195,10 +3154,6 @@
                 [
                     "ACESSÓRIO",
                     "-"
-                ],
-                [
-                    "PRODUTO",
-                    "+"
                 ]
             ],
             "sentence": "Velocidade de processamento boa e design agradável.O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo."
@@ -3207,8 +3162,8 @@
             "id": 284,
             "opinions": [
                 [
-                    "none",
-                    "x"
+                    "PRODUTO",
+                    "+"
                 ]
             ],
             "sentence": "De mais, excelente!"
@@ -3698,16 +3653,6 @@
                 ]
             ],
             "sentence": "Ainda não recebi a distribuidora não apareceu com celular ainda."
-        },
-        {
-            "id": 324,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Diz que vieram mas não apareceram não."
         },
         {
             "id": 325,
@@ -4350,16 +4295,6 @@
             "sentence": "Comprei no sabado e recebi na terça.Uma dica ."
         },
         {
-            "id": 381,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Coloquem no seguro porque nao é barato!"
-        },
-        {
             "id": 382,
             "opinions": [
                 [
@@ -4796,16 +4731,6 @@
                 ]
             ],
             "sentence": "Só não dei 5 estrelas porque devido o mesmo ser curvo, desnecessário, não é possível encontrar no mercado nenhuma película que fica perfeita nele."
-        },
-        {
-            "id": 420,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção."
         },
         {
             "id": 421,
@@ -5293,8 +5218,8 @@
             "id": 466,
             "opinions": [
                 [
-                    "outscope",
-                    "-"
+                    "duplicate",
+                    "x"
                 ]
             ],
             "sentence": "Vai um conselho: NÃO COMPREM NA SARAIVA !!!!"
@@ -5303,81 +5228,11 @@
             "id": 467,
             "opinions": [
                 [
-                    "none",
-                    "x"
+                    "outscope",
+                    "-"
                 ]
             ],
             "sentence": "Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca."
-        },
-        {
-            "id": 468,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip."
-        },
-        {
-            "id": 469,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno."
-        },
-        {
-            "id": 470,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Por que não acreditar na palavra de um cliente idôneo."
-        },
-        {
-            "id": 471,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro."
-        },
-        {
-            "id": 472,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente."
-        },
-        {
-            "id": 473,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA."
-        },
-        {
-            "id": 474,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "NÃO COMPREM NA SARAIVA !"
         },
         {
             "id": 475,
@@ -5642,16 +5497,6 @@
                 ]
             ],
             "sentence": "O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera."
-        },
-        {
-            "id": 498,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "E nesse quesito o S7 não deixa a desejar."
         },
         {
             "id": 499,
@@ -6274,26 +6119,6 @@
             "sentence": "Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo."
         },
         {
-            "id": 551,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos."
-        },
-        {
-            "id": 552,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás."
-        },
-        {
             "id": 554,
             "opinions": [
                 [
@@ -6648,26 +6473,6 @@
                 ]
             ],
             "sentence": "Paguei sedex pra chegar em 3 dias.."
-        },
-        {
-            "id": 581,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Acabou demorando 15 dias e veio por transportadora."
-        },
-        {
-            "id": 582,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Perdi valor sedex ??"
         },
         {
             "id": 583,
@@ -7089,16 +6894,6 @@
             "sentence": "Always On é uma função inovadora e muito útil, uma vez que não precisamos mais acender a tela do dispositivo para ver as horas."
         },
         {
-            "id": 614,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Uma sugestão para o Always On seria exibir o ícone de outros apps, como o whatsapp, facebook e instagram."
-        },
-        {
             "id": 615,
             "opinions": [
                 [
@@ -7157,20 +6952,10 @@
             "sentence": "Dislpay quebra-fácil."
         },
         {
-            "id": 620,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Trincou todo o display na 1a."
-        },
-        {
             "id": 621,
             "opinions": [
                 [
-                    "none",
+                    "broken",
                     "x"
                 ]
             ],
@@ -7316,36 +7101,6 @@
             "sentence": "Prática abusiva de preços de manutenção e celular que quebra na primeira queda."
         },
         {
-            "id": 633,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online)"
-        },
-        {
-            "id": 634,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema."
-        },
-        {
-            "id": 635,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Liguei o mesmo e funcionou corretamente."
-        },
-        {
             "id": 636,
             "opinions": [
                 [
@@ -7406,16 +7161,6 @@
             "sentence": "O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor."
         },
         {
-            "id": 642,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT."
-        },
-        {
             "id": 644,
             "opinions": [
                 [
@@ -7434,26 +7179,6 @@
                 ]
             ],
             "sentence": "O Bondfaro me alertou que o preço do produto havia caído para 948,00."
-        },
-        {
-            "id": 646,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "A loja com o melhor preço é o Carrefour."
-        },
-        {
-            "id": 647,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00."
         },
         {
             "id": 649,
@@ -7509,19 +7234,11 @@
             "sentence": "Por isso acabei devolvendo o aparelho para tentar adquirir outro."
         },
         {
-            "excerpts": [
-                "S7 razoavel.",
-                "Pouco tempo mas caro para o que oferece."
-            ],
             "id": 652,
             "opinions": [
                 [
                     "PRODUTO",
                     "."
-                ],
-                [
-                    "PREÇO",
-                    "-"
                 ]
             ],
             "sentence": "S7 razoavel."
@@ -7530,8 +7247,8 @@
             "id": 653,
             "opinions": [
                 [
-                    "none",
-                    "x"
+                    "PREÇO",
+                    "-"
                 ]
             ],
             "sentence": "Pouco tempo mas caro para o que oferece."
@@ -7605,16 +7322,6 @@
             "sentence": "Recentemente comprei um Galaxy S7, em 3 dias, numa pequena queda trincou parte do display (falo pequena queda porque os outros modelos que tive, sofreram quedas piores e permaneceram intactos)"
         },
         {
-            "id": 660,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo."
-        },
-        {
             "id": 661,
             "opinions": [
                 [
@@ -7633,36 +7340,6 @@
                 ]
             ],
             "sentence": "O anuncio da TIM é uma enganação!"
-        },
-        {
-            "id": 667,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "O preço só é valido para quem assina um plano."
-        },
-        {
-            "id": 668,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Como em qualquer operadora."
-        },
-        {
-            "id": 669,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!"
         },
         {
             "id": 670,
@@ -7776,9 +7453,9 @@
         "ID": "11",
         "Product": "Smartphone Samsung Galaxy S7 SM-G930 32GB",
         "Source": "www.buscape.com.br/smartphone-samsung-galaxy-j5-prime-sm-g570m",
-        "Total of opinions": "813",
+        "Total of opinions": "846",
         "Total of reviews": "221",
-        "Total of sentences": "641",
+        "Total of sentences": "610",
         "Type": "Celular"
     }
 }

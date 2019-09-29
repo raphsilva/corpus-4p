@@ -38,9 +38,8 @@
 # context                                                 9         9
 # duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  13 _  _   13
 # irrelevant                                              7         7
-# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  4 _  _  _ 4
-# outscope                  7        27         2                  36
-# unintelligible _  _  _  _  _  _  _  _  _  _  _  _  _  _ 5 _  _  _ 5
+# outscope _  _  _  _  _  _ 7 _  _   27 _  _  _ 2 _  _  _  _  _  _ 36
+# unintelligible                                          5         5
 
 
 
@@ -579,1059 +578,1067 @@
 
 173.430.0267)   [+][PREÇO]             ::  Não há smartphone perfeito, mas pela sua faixa de preço atende muito bem.
 
-085.200.0268)   [+][PREÇO]             ::  Não é tão caro quanto os tops de linha, mas atende muito bem a minha necessidade.
+174.439.0268)   [+][PREÇO]             ::  Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
 
-170.418.0269)   [+][PREÇO]             ::  No tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
+085.200.0269)   [+][PREÇO]             ::  Não é tão caro quanto os tops de linha, mas atende muito bem a minha necessidade.
 
-174.434.0270)   [+][PREÇO]             ::  Para ter mais do que ele oferece, você vai ter que gastar o dobro em aparelhos como Galaxy S8 ou Iphone 9999s, que custam 3k.
+170.418.0270)   [+][PREÇO]             ::  No tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
 
-175.443.0271)   [+][PREÇO]             ::  Consegui uma promoção incrível pelo extra que de 1499 saiu por 879,00 a vista e por esse preço tenho certeza que não encontraria um celular desse nível.
+174.434.0271)   [+][PREÇO]             ::  Para ter mais do que ele oferece, você vai ter que gastar o dobro em aparelhos como Galaxy S8 ou Iphone 9999s, que custam 3k.
 
-191.482.0272)  [++][PREÇO]             ::  Melhor Custo Beneficio.
+175.443.0272)   [+][PREÇO]             ::  Consegui uma promoção incrível pelo extra que de 1499 saiu por 879,00 a vista e por esse preço tenho certeza que não encontraria um celular desse nível.
 
-130.320.0273)  [++][PREÇO]             ::  Melhor celular na sua faixa de preço.
+191.482.0273)  [++][PREÇO]             ::  Melhor Custo Beneficio.
 
-160.395.0274)  [++][PREÇO]             ::  Para mim melhor custo benefício do mercado.
+130.320.0274)  [++][PREÇO]             ::  Melhor celular na sua faixa de preço.
 
-174.431.0275)  [++][PREÇO]             ::  Sem comparação, o melhor custo benefício da história.
+160.395.0275)  [++][PREÇO]             ::  Para mim melhor custo benefício do mercado.
 
-213.533.0276)  [++][PREÇO]             ::  Detalhes fazem dele o melhor custo benefício da categoria.
+174.431.0276)  [++][PREÇO]             ::  Sem comparação, o melhor custo benefício da história.
 
-048.113.0277)  [++][PREÇO]             ::  Comparado com outras marcas, atualmente achei que este celular tem o melhor custo-benefício.
+213.533.0277)  [++][PREÇO]             ::  Detalhes fazem dele o melhor custo benefício da categoria.
 
-208.520.0278)   [-][PREÇO]             ::  Custo benefício baixo.
+048.113.0278)  [++][PREÇO]             ::  Comparado com outras marcas, atualmente achei que este celular tem o melhor custo-benefício.
 
-125.300.0279)   [-][PREÇO]             ::  Poderia ter um preço melhor.
+208.520.0279)   [-][PREÇO]             ::  Custo benefício baixo.
 
-111.265.0280)   [-][PREÇO]             ::  Seu valor poderia ser um pouco menor.
+125.300.0280)   [-][PREÇO]             ::  Poderia ter um preço melhor.
 
-208.521.0281)   [-][PREÇO]             ::  O preço é muito alto em relação aos benefícios que o aparelho entrega.
+111.265.0281)   [-][PREÇO]             ::  Seu valor poderia ser um pouco menor.
 
-147.359.0282)   [#][PRODUTO]           ::  Ainda é cedo.
+208.521.0282)   [-][PREÇO]             ::  O preço é muito alto em relação aos benefícios que o aparelho entrega.
 
-165.405.0283)   [#][PRODUTO]           ::  Pouco tempo de uso.
+147.359.0283)   [#][PRODUTO]           ::  Ainda é cedo.
 
-110.263.0284)   [#][PRODUTO]           ::  Ainda estou avaliando.
+165.405.0284)   [#][PRODUTO]           ::  Pouco tempo de uso.
 
-164.404.0285)   [#][PRODUTO]           ::  Estou experimentando....
+110.263.0285)   [#][PRODUTO]           ::  Ainda estou avaliando.
 
-165.406.0286)   [#][PRODUTO]           ::  Estou experimentando....
+164.404.0286)   [#][PRODUTO]           ::  Estou experimentando....
 
-013.031.0287)   [#][PRODUTO]           ::  Como foi comprado recentemente está em avaliação.
+165.406.0287)   [#][PRODUTO]           ::  Estou experimentando....
 
-163.402.0288)   [#][PRODUTO]           ::  Ainda estou conhecendo pois não faz 1 mês que adquiri.
+013.031.0288)   [#][PRODUTO]           ::  Como foi comprado recentemente está em avaliação.
 
-169.416.0289)   [&][PRODUTO]           ::  Uso para falar e web,.
+163.402.0289)   [#][PRODUTO]           ::  Ainda estou conhecendo pois não faz 1 mês que adquiri.
 
-209.523.0290)   [&][PRODUTO]           ::  Ainda não testei muito.
+169.416.0290)   [&][PRODUTO]           ::  Uso para falar e web,.
 
-090.214.0291)   [&][PRODUTO]           ::  Ainda pouco tempo de uso.
+209.523.0291)   [&][PRODUTO]           ::  Ainda não testei muito.
 
-004.012.0292)   [&][PRODUTO]           ::  Quase nao utilizei ainda.
+090.214.0292)   [&][PRODUTO]           ::  Ainda pouco tempo de uso.
 
-005.014.0293)   [&][PRODUTO]           ::  Ainda descobrindo suas funcionalidades.
+004.012.0293)   [&][PRODUTO]           ::  Quase nao utilizei ainda.
 
-192.485.0294)   [&][PRODUTO]           ::  Eu estou aprendendo ainda algumas funcionalidades do produto.
+005.014.0294)   [&][PRODUTO]           ::  Ainda descobrindo suas funcionalidades.
 
-110.262.0295)   [*][PRODUTO]           ::  Diferente.
+192.485.0295)   [&][PRODUTO]           ::  Eu estou aprendendo ainda algumas funcionalidades do produto.
 
-004.011.0296)   [+][PRODUTO]           ::  Bom.
+110.262.0296)   [*][PRODUTO]           ::  Diferente.
 
-029.067.0297)   [+][PRODUTO]           ::  Bom.
+004.011.0297)   [+][PRODUTO]           ::  Bom.
 
-065.153.0298)   [+][PRODUTO]           ::  Bom.
+029.067.0298)   [+][PRODUTO]           ::  Bom.
 
-090.213.0299)   [+][PRODUTO]           ::  Bom.
+065.153.0299)   [+][PRODUTO]           ::  Bom.
 
-169.415.0300)   [+][PRODUTO]           ::  Bom.
+090.213.0300)   [+][PRODUTO]           ::  Bom.
 
-194.489.0301)   [+][PRODUTO]           ::  Bom.
+169.415.0301)   [+][PRODUTO]           ::  Bom.
 
-077.178.0302)   [+][PRODUTO]           ::  Show.
+194.489.0302)   [+][PRODUTO]           ::  Bom.
 
-017.039.0303)   [+][PRODUTO]           ::  Útil.
+077.178.0303)   [+][PRODUTO]           ::  Show.
 
-118.281.0304)   [+][PRODUTO]           ::  ÓTIMO.
+017.039.0304)   [+][PRODUTO]           ::  Útil.
 
-052.124.0305)   [+][PRODUTO]           ::  Otima.
+118.281.0305)   [+][PRODUTO]           ::  ÓTIMO.
 
-033.081.0306)   [+][PRODUTO]           ::  Ótimo!
+052.124.0306)   [+][PRODUTO]           ::  Otima.
 
-136.334.0307)   [+][PRODUTO]           ::  Ótimo!
+033.081.0307)   [+][PRODUTO]           ::  Ótimo!
 
-007.018.0308)   [+][PRODUTO]           ::  Ótimo.
+136.334.0308)   [+][PRODUTO]           ::  Ótimo!
 
-045.106.0309)   [+][PRODUTO]           ::  Ótimo.
+007.018.0309)   [+][PRODUTO]           ::  Ótimo.
 
-050.117.0310)   [+][PRODUTO]           ::  Ótimo.
+045.106.0310)   [+][PRODUTO]           ::  Ótimo.
 
-071.166.0311)   [+][PRODUTO]           ::  Otimo.
+050.117.0311)   [+][PRODUTO]           ::  Ótimo.
 
-116.277.0312)   [+][PRODUTO]           ::  Otimo.
+071.166.0312)   [+][PRODUTO]           ::  Otimo.
 
-117.279.0313)   [+][PRODUTO]           ::  Otimo.
+116.277.0313)   [+][PRODUTO]           ::  Otimo.
 
-144.352.0314)   [+][PRODUTO]           ::  Otimo.
+117.279.0314)   [+][PRODUTO]           ::  Otimo.
 
-151.368.0315)   [+][PRODUTO]           ::  Ótimo.
+144.352.0315)   [+][PRODUTO]           ::  Otimo.
 
-177.447.0316)   [+][PRODUTO]           ::  Otimo.
+151.368.0316)   [+][PRODUTO]           ::  Ótimo.
 
-182.459.0317)   [+][PRODUTO]           ::  Ótimo.
+177.447.0317)   [+][PRODUTO]           ::  Otimo.
 
-197.495.0318)   [+][PRODUTO]           ::  Ótimo.
+182.459.0318)   [+][PRODUTO]           ::  Ótimo.
 
-006.015.0319)   [+][PRODUTO]           ::  Adorei.
+197.495.0319)   [+][PRODUTO]           ::  Ótimo.
 
-113.271.0320)   [+][PRODUTO]           ::  Adorei.
+006.015.0320)   [+][PRODUTO]           ::  Adorei.
 
-158.388.0321)   [+][PRODUTO]           ::  Bacana.
+113.271.0321)   [+][PRODUTO]           ::  Adorei.
 
-073.170.0322)   [+][PRODUTO]           ::  Barato.
+158.388.0322)   [+][PRODUTO]           ::  Bacana.
 
-015.034.0323)   [+][PRODUTO]           ::  Elogio.
+073.170.0323)   [+][PRODUTO]           ::  Barato.
 
-070.164.0324)   [+][PRODUTO]           ::  Elogio.
+015.034.0324)   [+][PRODUTO]           ::  Elogio.
 
-132.325.0325)   [+][PRODUTO]           ::  Elogio.
+070.164.0325)   [+][PRODUTO]           ::  Elogio.
 
-019.043.0326)   [+][PRODUTO]           ::  Gostei.
+132.325.0326)   [+][PRODUTO]           ::  Elogio.
 
-054.129.0327)   [+][PRODUTO]           ::  Gostei.
+019.043.0327)   [+][PRODUTO]           ::  Gostei.
 
-124.296.0328)   [+][PRODUTO]           ::  Gostei.
+054.129.0328)   [+][PRODUTO]           ::  Gostei.
 
-139.340.0329)   [+][PRODUTO]           ::  Gostei.
+124.296.0329)   [+][PRODUTO]           ::  Gostei.
 
-028.066.0330)   [+][PRODUTO]           ::  Moderno.
+139.340.0330)   [+][PRODUTO]           ::  Gostei.
 
-163.401.0331)   [+][PRODUTO]           ::  Moderno.
+028.066.0331)   [+][PRODUTO]           ::  Moderno.
 
-135.331.0332)   [+][PRODUTO]           ::  Nota 10.
+163.401.0332)   [+][PRODUTO]           ::  Moderno.
 
-140.343.0333)   [+][PRODUTO]           ::  Aprovado!
+135.331.0333)   [+][PRODUTO]           ::  Nota 10.
 
-185.465.0334)   [+][PRODUTO]           ::  Aprovado!
+140.343.0334)   [+][PRODUTO]           ::  Aprovado!
 
-021.049.0335)   [+][PRODUTO]           ::  Compensa!
+185.465.0335)   [+][PRODUTO]           ::  Aprovado!
 
-166.407.0336)   [+][PRODUTO]           ::  Inovador.
+021.049.0336)   [+][PRODUTO]           ::  Compensa!
 
-095.228.0337)   [+][PRODUTO]           ::  Positiva.
+166.407.0337)   [+][PRODUTO]           ::  Inovador.
 
-076.176.0338)   [+][PRODUTO]           ::  Excelente!
+095.228.0338)   [+][PRODUTO]           ::  Positiva.
 
-007.019.0339)   [+][PRODUTO]           ::  Excelente.
+076.176.0339)   [+][PRODUTO]           ::  Excelente!
 
-010.024.0340)   [+][PRODUTO]           ::  Excelente.
+007.019.0340)   [+][PRODUTO]           ::  Excelente.
 
-014.032.0341)   [+][PRODUTO]           ::  Excelente.
+010.024.0341)   [+][PRODUTO]           ::  Excelente.
 
-016.036.0342)   [+][PRODUTO]           ::  Excelente.
+014.032.0342)   [+][PRODUTO]           ::  Excelente.
 
-059.140.0343)   [+][PRODUTO]           ::  Excelente.
+016.036.0343)   [+][PRODUTO]           ::  Excelente.
 
-071.167.0344)   [+][PRODUTO]           ::  Excelente.
+059.140.0344)   [+][PRODUTO]           ::  Excelente.
 
-073.171.0345)   [+][PRODUTO]           ::  Excelente.
+071.167.0345)   [+][PRODUTO]           ::  Excelente.
 
-078.180.0346)   [+][PRODUTO]           ::  Excelente.
+073.171.0346)   [+][PRODUTO]           ::  Excelente.
 
-104.249.0347)   [+][PRODUTO]           ::  Excelente.
+078.180.0347)   [+][PRODUTO]           ::  Excelente.
 
-115.275.0348)   [+][PRODUTO]           ::  Excelente.
+104.249.0348)   [+][PRODUTO]           ::  Excelente.
 
-121.288.0349)   [+][PRODUTO]           ::  Excelente.
+115.275.0349)   [+][PRODUTO]           ::  Excelente.
 
-138.337.0350)   [+][PRODUTO]           ::  Excelente.
+121.288.0350)   [+][PRODUTO]           ::  Excelente.
 
-145.354.0351)   [+][PRODUTO]           ::  Excelente.
+138.337.0351)   [+][PRODUTO]           ::  Excelente.
 
-162.398.0352)   [+][PRODUTO]           ::  Excelente.
+145.354.0352)   [+][PRODUTO]           ::  Excelente.
 
-179.451.0353)   [+][PRODUTO]           ::  Excelente.
+162.398.0353)   [+][PRODUTO]           ::  Excelente.
 
-041.098.0354)   [+][PRODUTO]           ::  Impecável.
+179.451.0354)   [+][PRODUTO]           ::  Excelente.
 
-103.247.0355)   [+][PRODUTO]           ::  Muito Bom.
+041.098.0355)   [+][PRODUTO]           ::  Impecável.
 
-018.041.0356)   [+][PRODUTO]           ::  Muito bom!
+103.247.0356)   [+][PRODUTO]           ::  Muito Bom.
 
-093.219.0357)   [+][PRODUTO]           ::  Muito bom!
+018.041.0357)   [+][PRODUTO]           ::  Muito bom!
 
-023.054.0358)   [+][PRODUTO]           ::  Muito bom.
+093.219.0358)   [+][PRODUTO]           ::  Muito bom!
 
-024.057.0359)   [+][PRODUTO]           ::  Muito bom.
+023.054.0359)   [+][PRODUTO]           ::  Muito bom.
 
-027.063.0360)   [+][PRODUTO]           ::  Muito bom.
+024.057.0360)   [+][PRODUTO]           ::  Muito bom.
 
-032.078.0361)   [+][PRODUTO]           ::  Muito bom.
+027.063.0361)   [+][PRODUTO]           ::  Muito bom.
 
-040.097.0362)   [+][PRODUTO]           ::  Muito bom.
+032.078.0362)   [+][PRODUTO]           ::  Muito bom.
 
-052.123.0363)   [+][PRODUTO]           ::  Muito bom.
+040.097.0363)   [+][PRODUTO]           ::  Muito bom.
 
-057.135.0364)   [+][PRODUTO]           ::  Muito bom.
+052.123.0364)   [+][PRODUTO]           ::  Muito bom.
 
-062.146.0365)   [+][PRODUTO]           ::  Muito bom.
+057.135.0365)   [+][PRODUTO]           ::  Muito bom.
 
-077.179.0366)   [+][PRODUTO]           ::  Muito bom.
+062.146.0366)   [+][PRODUTO]           ::  Muito bom.
 
-099.238.0367)   [+][PRODUTO]           ::  Muito bom.
+077.179.0367)   [+][PRODUTO]           ::  Muito bom.
 
-101.243.0368)   [+][PRODUTO]           ::  Muito bom.
+099.238.0368)   [+][PRODUTO]           ::  Muito bom.
 
-116.278.0369)   [+][PRODUTO]           ::  Muito bom.
+101.243.0369)   [+][PRODUTO]           ::  Muito bom.
 
-124.295.0370)   [+][PRODUTO]           ::  Muito bom.
+116.278.0370)   [+][PRODUTO]           ::  Muito bom.
 
-143.350.0371)   [+][PRODUTO]           ::  Muito bom.
+124.295.0371)   [+][PRODUTO]           ::  Muito bom.
 
-178.449.0372)   [+][PRODUTO]           ::  Muito bom.
+143.350.0372)   [+][PRODUTO]           ::  Muito bom.
 
-201.505.0373)   [+][PRODUTO]           ::  Muito bom.
+178.449.0373)   [+][PRODUTO]           ::  Muito bom.
 
-102.245.0374)   [+][PRODUTO]           ::  QUALIDADE.
+201.505.0374)   [+][PRODUTO]           ::  Muito bom.
 
-058.139.0375)   [+][PRODUTO]           ::  Recomendo!
+102.245.0375)   [+][PRODUTO]           ::  QUALIDADE.
 
-152.373.0376)   [+][PRODUTO]           ::  Recomendo!
+058.139.0376)   [+][PRODUTO]           ::  Recomendo!
 
-199.502.0377)   [+][PRODUTO]           ::  Recomendo!
+152.373.0377)   [+][PRODUTO]           ::  Recomendo!
 
-001.005.0378)   [+][PRODUTO]           ::  Recomendo.
+199.502.0378)   [+][PRODUTO]           ::  Recomendo!
 
-063.149.0379)   [+][PRODUTO]           ::  Recomendo.
+001.005.0379)   [+][PRODUTO]           ::  Recomendo.
 
-137.335.0380)   [+][PRODUTO]           ::  Recomendo.
+063.149.0380)   [+][PRODUTO]           ::  Recomendo.
 
-138.339.0381)   [+][PRODUTO]           ::  Recomendo.
+137.335.0381)   [+][PRODUTO]           ::  Recomendo.
 
-141.345.0382)   [+][PRODUTO]           ::  Recomendo.
+138.339.0382)   [+][PRODUTO]           ::  Recomendo.
 
-159.391.0383)   [+][PRODUTO]           ::  Recomendo.
+141.345.0383)   [+][PRODUTO]           ::  Recomendo.
 
-162.400.0384)   [+][PRODUTO]           ::  Recomendo.
+159.391.0384)   [+][PRODUTO]           ::  Recomendo.
 
-024.056.0385)   [+][PRODUTO]           ::  Muito útil.
+162.400.0385)   [+][PRODUTO]           ::  Recomendo.
 
-119.283.0386)   [+][PRODUTO]           ::  SATISFAÇÃO.
+024.056.0386)   [+][PRODUTO]           ::  Muito útil.
 
-013.030.0387)   [+][PRODUTO]           ::  Satisfeita.
+119.283.0387)   [+][PRODUTO]           ::  SATISFAÇÃO.
 
-017.038.0388)   [+][PRODUTO]           ::  Satisfeita.
+013.030.0388)   [+][PRODUTO]           ::  Satisfeita.
 
-080.187.0389)   [+][PRODUTO]           ::  Satisfeita.
+017.038.0389)   [+][PRODUTO]           ::  Satisfeita.
 
-008.020.0390)   [+][PRODUTO]           ::  Satisfeito.
+080.187.0390)   [+][PRODUTO]           ::  Satisfeita.
 
-063.148.0391)   [+][PRODUTO]           ::  Satisfeito.
+008.020.0391)   [+][PRODUTO]           ::  Satisfeito.
 
-114.273.0392)   [+][PRODUTO]           ::  Satisfeito.
+063.148.0392)   [+][PRODUTO]           ::  Satisfeito.
 
-133.327.0393)   [+][PRODUTO]           ::  Bom Produto.
+114.273.0393)   [+][PRODUTO]           ::  Satisfeito.
 
-120.287.0394)   [+][PRODUTO]           ::  Bom produto.
+133.327.0394)   [+][PRODUTO]           ::  Bom Produto.
 
-128.315.0395)   [+][PRODUTO]           ::  Bom produto.
+120.287.0395)   [+][PRODUTO]           ::  Bom produto.
 
-147.358.0396)   [+][PRODUTO]           ::  Bom produto.
+128.315.0396)   [+][PRODUTO]           ::  Bom produto.
 
-154.376.0397)   [+][PRODUTO]           ::  Bom produto.
+147.358.0397)   [+][PRODUTO]           ::  Bom produto.
 
-158.387.0398)   [+][PRODUTO]           ::  Bom produto.
+154.376.0398)   [+][PRODUTO]           ::  Bom produto.
 
-172.424.0399)   [+][PRODUTO]           ::  Bom produto.
+158.387.0399)   [+][PRODUTO]           ::  Bom produto.
 
-218.549.0400)   [+][PRODUTO]           ::  Bom produto.
+172.424.0400)   [+][PRODUTO]           ::  Bom produto.
 
-048.112.0401)   [+][PRODUTO]           ::  Celular bom.
+218.549.0401)   [+][PRODUTO]           ::  Bom produto.
 
-044.104.0402)   [+][PRODUTO]           ::  MAravilhoso.
+048.112.0402)   [+][PRODUTO]           ::  Celular bom.
 
-122.290.0403)   [+][PRODUTO]           ::  Maravilhoso!
+044.104.0403)   [+][PRODUTO]           ::  MAravilhoso.
 
-025.058.0404)   [+][PRODUTO]           ::  Maravilhoso.
+122.290.0404)   [+][PRODUTO]           ::  Maravilhoso!
 
-199.499.0405)   [+][PRODUTO]           ::  Maravilhoso.
+025.058.0405)   [+][PRODUTO]           ::  Maravilhoso.
 
-022.050.0406)   [+][PRODUTO]           ::  Muito bom!!!
+199.499.0406)   [+][PRODUTO]           ::  Maravilhoso.
 
-037.089.0407)   [+][PRODUTO]           ::  Produto bom.
+022.050.0407)   [+][PRODUTO]           ::  Muito bom!!!
 
-064.150.0408)   [+][PRODUTO]           ::  Produto bom.
+037.089.0408)   [+][PRODUTO]           ::  Produto bom.
 
-164.403.0409)   [+][PRODUTO]           ::  Produto bom.
+064.150.0409)   [+][PRODUTO]           ::  Produto bom.
 
-203.510.0410)   [+][PRODUTO]           ::  Recomendado.
+164.403.0410)   [+][PRODUTO]           ::  Produto bom.
 
-177.448.0411)   [+][PRODUTO]           ::  Amo motorola.
+203.510.0411)   [+][PRODUTO]           ::  Recomendado.
 
-005.013.0412)   [+][PRODUTO]           ::  Bom aparelho.
+177.448.0412)   [+][PRODUTO]           ::  Amo motorola.
 
-079.185.0413)   [+][PRODUTO]           ::  Bom aparelho.
+005.013.0413)   [+][PRODUTO]           ::  Bom aparelho.
 
-036.087.0414)   [+][PRODUTO]           ::  Bom hardware.
+079.185.0414)   [+][PRODUTO]           ::  Bom aparelho.
 
-111.264.0415)   [+][PRODUTO]           ::  Bom telefone.
+036.087.0415)   [+][PRODUTO]           ::  Bom hardware.
 
-068.159.0416)   [+][PRODUTO]           ::  Muito bommmm.
+111.264.0416)   [+][PRODUTO]           ::  Bom telefone.
 
-175.444.0417)   [+][PRODUTO]           ::  Super indico.
+068.159.0417)   [+][PRODUTO]           ::  Muito bommmm.
 
-105.251.0418)   [+][PRODUTO]           ::  Até que é bom.
+175.444.0418)   [+][PRODUTO]           ::  Super indico.
 
-030.070.0419)   [+][PRODUTO]           ::  Muitas funções.
+105.251.0419)   [+][PRODUTO]           ::  Até que é bom.
 
-123.292.0420)   [+][PRODUTO]           ::  Ótimo celular.
+030.070.0420)   [+][PRODUTO]           ::  Muitas funções.
 
-192.484.0421)   [+][PRODUTO]           ::  Ótimo celular.
+123.292.0421)   [+][PRODUTO]           ::  Ótimo celular.
 
-093.222.0422)   [+][PRODUTO]           ::  Ótimo produto!
+192.484.0422)   [+][PRODUTO]           ::  Ótimo celular.
 
-155.382.0423)   [+][PRODUTO]           ::  Ótimo produto!
+093.222.0423)   [+][PRODUTO]           ::  Ótimo produto!
 
-038.091.0424)   [+][PRODUTO]           ::  Ótimo produto.
+155.382.0424)   [+][PRODUTO]           ::  Ótimo produto!
 
-069.161.0425)   [+][PRODUTO]           ::  Ótimo produto.
+038.091.0425)   [+][PRODUTO]           ::  Ótimo produto.
 
-149.362.0426)   [+][PRODUTO]           ::  Otimo produto.
+069.161.0426)   [+][PRODUTO]           ::  Ótimo produto.
 
-184.464.0427)   [+][PRODUTO]           ::  Ótimo produto.
+149.362.0427)   [+][PRODUTO]           ::  Otimo produto.
 
-104.250.0428)   [+][PRODUTO]           ::  Produto ótimo.
+184.464.0428)   [+][PRODUTO]           ::  Ótimo produto.
 
-039.094.0429)   [+][PRODUTO]           ::  Òtimo Celular.
+104.250.0429)   [+][PRODUTO]           ::  Produto ótimo.
 
-057.136.0430)   [+][PRODUTO]           ::  Estou gostando.
+039.094.0430)   [+][PRODUTO]           ::  Òtimo Celular.
 
-155.381.0431)   [+][PRODUTO]           ::  Ótima surpresa!
+057.136.0431)   [+][PRODUTO]           ::  Estou gostando.
 
-049.115.0432)   [+][PRODUTO]           ::  Ótimo aparelho.
+155.381.0432)   [+][PRODUTO]           ::  Ótima surpresa!
 
-069.162.0433)   [+][PRODUTO]           ::  Ótimo aparelho.
+049.115.0433)   [+][PRODUTO]           ::  Ótimo aparelho.
 
-156.383.0434)   [+][PRODUTO]           ::  Ótimo aparelho.
+069.162.0434)   [+][PRODUTO]           ::  Ótimo aparelho.
 
-189.478.0435)   [+][PRODUTO]           ::  Ótimo aparelho.
+156.383.0435)   [+][PRODUTO]           ::  Ótimo aparelho.
 
-199.500.0436)   [+][PRODUTO]           ::  Ótimo aparelho.
+189.478.0436)   [+][PRODUTO]           ::  Ótimo aparelho.
 
-141.346.0437)   [+][PRODUTO]           ::  Ótimo produto..
+199.500.0437)   [+][PRODUTO]           ::  Ótimo aparelho.
 
-083.194.0438)   [+][PRODUTO]           ::  Um bom produto.
+141.346.0438)   [+][PRODUTO]           ::  Ótimo produto..
 
-128.316.0439)   [+][PRODUTO]           ::  Um bom produto.
+083.194.0439)   [+][PRODUTO]           ::  Um bom produto.
 
-027.064.0440)   [+][PRODUTO]           ::  Òtimo aparelho.
+128.316.0440)   [+][PRODUTO]           ::  Um bom produto.
 
-105.252.0441)   [+][PRODUTO]           ::  O celular é bom.
+027.064.0441)   [+][PRODUTO]           ::  Òtimo aparelho.
 
-208.520.0442)   [+][PRODUTO]           ::  Ótimo smartphone.
+105.252.0442)   [+][PRODUTO]           ::  O celular é bom.
 
-097.232.0443)   [+][PRODUTO]           ::  Satisfeitíssimo.
+208.520.0443)   [+][PRODUTO]           ::  Ótimo smartphone.
 
-097.233.0444)   [+][PRODUTO]           ::  Sou fã da marca.
+097.232.0444)   [+][PRODUTO]           ::  Satisfeitíssimo.
 
-160.393.0445)   [+][PRODUTO]           ::  Exelente produto.
+097.233.0445)   [+][PRODUTO]           ::  Sou fã da marca.
 
-135.332.0446)   [+][PRODUTO]           ::  Muito satisfeito.
+174.440.0446)   [+][PRODUTO]           ::  Agora, só Moto G.
 
-170.418.0447)   [+][PRODUTO]           ::  O Aparelho é bom.
+160.393.0447)   [+][PRODUTO]           ::  Exelente produto.
 
-085.198.0448)   [+][PRODUTO]           ::  Ótimo Smartphone.
+135.332.0448)   [+][PRODUTO]           ::  Muito satisfeito.
 
-185.466.0449)   [+][PRODUTO]           ::  Ótimo smartphone!
+170.418.0449)   [+][PRODUTO]           ::  O Aparelho é bom.
 
-180.453.0450)   [+][PRODUTO]           ::  Ótimo smartphone.
+085.198.0450)   [+][PRODUTO]           ::  Ótimo Smartphone.
 
-078.184.0451)   [+][PRODUTO]           ::  Recomendo compra.
+185.466.0451)   [+][PRODUTO]           ::  Ótimo smartphone!
 
-126.312.0452)   [+][PRODUTO]           ::  Bem...é bem legal.
+180.453.0452)   [+][PRODUTO]           ::  Ótimo smartphone.
 
-056.134.0453)   [+][PRODUTO]           ::  Celular excelente!
+078.184.0453)   [+][PRODUTO]           ::  Recomendo compra.
 
-040.096.0454)   [+][PRODUTO]           ::  Excelente produto.
+126.312.0454)   [+][PRODUTO]           ::  Bem...é bem legal.
 
-176.445.0455)   [+][PRODUTO]           ::  Excelente produto.
+056.134.0455)   [+][PRODUTO]           ::  Celular excelente!
 
-107.257.0456)   [+][PRODUTO]           ::  Gostei do celular.
+040.096.0456)   [+][PRODUTO]           ::  Excelente produto.
 
-133.328.0457)   [+][PRODUTO]           ::  Gostei do produto.
+176.445.0457)   [+][PRODUTO]           ::  Excelente produto.
 
-137.336.0458)   [+][PRODUTO]           ::  Muito bom e fácil.
+107.257.0458)   [+][PRODUTO]           ::  Gostei do celular.
 
-187.470.0459)   [+][PRODUTO]           ::  Muito bom produto.
+133.328.0459)   [+][PRODUTO]           ::  Gostei do produto.
 
-111.265.0460)   [+][PRODUTO]           ::  O aparelho é show.
+137.336.0460)   [+][PRODUTO]           ::  Muito bom e fácil.
 
-037.088.0461)   [+][PRODUTO]           ::  Produto excelente.
+187.470.0461)   [+][PRODUTO]           ::  Muito bom produto.
 
-142.348.0462)   [+][PRODUTO]           ::  Produto excelente.
+111.265.0462)   [+][PRODUTO]           ::  O aparelho é show.
 
-161.396.0463)   [+][PRODUTO]           ::  Produto excelente.
+037.088.0463)   [+][PRODUTO]           ::  Produto excelente.
 
-019.042.0464)   [+][PRODUTO]           ::  Produto muito bom.
+142.348.0464)   [+][PRODUTO]           ::  Produto excelente.
 
-092.217.0465)   [+][PRODUTO]           ::  Produto muito bom.
+161.396.0465)   [+][PRODUTO]           ::  Produto excelente.
 
-157.386.0466)   [+][PRODUTO]           ::  Aparelho excelente.
+019.042.0466)   [+][PRODUTO]           ::  Produto muito bom.
 
-054.130.0467)   [+][PRODUTO]           ::  Aparelho muito bom.
+092.217.0467)   [+][PRODUTO]           ::  Produto muito bom.
 
-034.082.0468)   [+][PRODUTO]           ::  Excelente aparelho.
+157.386.0468)   [+][PRODUTO]           ::  Aparelho excelente.
 
-053.126.0469)   [+][PRODUTO]           ::  Excelente aparelho.
+054.130.0469)   [+][PRODUTO]           ::  Aparelho muito bom.
 
-076.177.0470)   [+][PRODUTO]           ::  Excelente aparelho.
+034.082.0470)   [+][PRODUTO]           ::  Excelente aparelho.
 
-031.072.0471)   [+][PRODUTO]           ::  Funcionalidade boa.
+053.126.0471)   [+][PRODUTO]           ::  Excelente aparelho.
 
-159.389.0472)   [+][PRODUTO]           ::  Moto G5 plus ótimo.
+076.177.0472)   [+][PRODUTO]           ::  Excelente aparelho.
 
-060.142.0473)   [+][PRODUTO]           ::  Muito bom aparelho.
+031.072.0473)   [+][PRODUTO]           ::  Funcionalidade boa.
 
-096.231.0474)   [+][PRODUTO]           ::  Muito bom aparelho.
+159.389.0474)   [+][PRODUTO]           ::  Moto G5 plus ótimo.
 
-201.506.0475)   [+][PRODUTO]           ::  É um ótimo produto.
+060.142.0475)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-022.051.0476)   [+][PRODUTO]           ::  Recomendo o produto.
+096.231.0476)   [+][PRODUTO]           ::  Muito bom aparelho.
 
-181.455.0477)   [+][PRODUTO]           ::  Satisfeita e feliz !
+201.506.0477)   [+][PRODUTO]           ::  É um ótimo produto.
 
-167.410.0478)   [+][PRODUTO]           ::  Celular bem completo.
+022.051.0478)   [+][PRODUTO]           ::  Recomendo o produto.
 
-181.457.0479)   [+][PRODUTO]           ::  Celular de qualidade.
+181.455.0479)   [+][PRODUTO]           ::  Satisfeita e feliz !
 
-076.177.0480)   [+][PRODUTO]           ::  Celular top de linha.
+167.410.0480)   [+][PRODUTO]           ::  Celular bem completo.
 
-055.132.0481)   [+][PRODUTO]           ::  Cumpre o que promete.
+181.457.0481)   [+][PRODUTO]           ::  Celular de qualidade.
 
-084.196.0482)   [+][PRODUTO]           ::  Cumpre o que promete.
+076.177.0482)   [+][PRODUTO]           ::  Celular top de linha.
 
-114.274.0483)   [+][PRODUTO]           ::  Cumpre o que promete.
+055.132.0483)   [+][PRODUTO]           ::  Cumpre o que promete.
 
-030.070.0484)   [+][PRODUTO]           ::  Fiz uma ótima compra.
+084.196.0484)   [+][PRODUTO]           ::  Cumpre o que promete.
 
-173.428.0485)   [+][PRODUTO]           ::  Mas não me arrependi.
+114.274.0485)   [+][PRODUTO]           ::  Cumpre o que promete.
 
-031.072.0486)   [+][PRODUTO]           ::  Um celular excelente.
+030.070.0486)   [+][PRODUTO]           ::  Fiz uma ótima compra.
 
-117.280.0487)   [+][PRODUTO]           ::  COMPRARIA COM CERTEZA.
+173.428.0487)   [+][PRODUTO]           ::  Mas não me arrependi.
 
-208.521.0488)   [+][PRODUTO]           ::  E um ótimo smartphone.
+031.072.0488)   [+][PRODUTO]           ::  Um celular excelente.
 
-186.467.0489)   [+][PRODUTO]           ::  O produto é muito bom.
+117.280.0489)   [+][PRODUTO]           ::  COMPRARIA COM CERTEZA.
 
-132.326.0490)   [+][PRODUTO]           ::  Ótimo Celular! adorei!
+208.521.0490)   [+][PRODUTO]           ::  E um ótimo smartphone.
 
-175.441.0491)   [+][PRODUTO]           ::  Amando meu Moto G plus.
+186.467.0491)   [+][PRODUTO]           ::  O produto é muito bom.
 
-161.397.0492)   [+][PRODUTO]           ::  Atende as expectativas.
+132.326.0492)   [+][PRODUTO]           ::  Ótimo Celular! adorei!
 
-087.207.0493)   [+][PRODUTO]           ::  Intermediário de ponta.
+175.441.0493)   [+][PRODUTO]           ::  Amando meu Moto G plus.
 
-213.532.0494)   [+][PRODUTO]           ::  Muito bom . Recomendo .
+161.397.0494)   [+][PRODUTO]           ::  Atende as expectativas.
 
-079.186.0495)   [+][PRODUTO]           ::  Atendeu as expectativas.
+087.207.0495)   [+][PRODUTO]           ::  Intermediário de ponta.
 
-203.511.0496)   [+][PRODUTO]           ::  Atendeu as expectativas.
+213.532.0496)   [+][PRODUTO]           ::  Muito bom . Recomendo .
 
-095.229.0497)   [+][PRODUTO]           ::  Extremamente satisfeito.
+079.186.0497)   [+][PRODUTO]           ::  Atendeu as expectativas.
 
-129.317.0498)   [+][PRODUTO]           ::  Plenamente satisfatório.
+203.511.0498)   [+][PRODUTO]           ::  Atendeu as expectativas.
 
-179.452.0499)   [+][PRODUTO]           ::  Produto nota 10 em tudo.
+095.229.0499)   [+][PRODUTO]           ::  Extremamente satisfeito.
 
-066.154.0500)   [+][PRODUTO]           ::  Satisfeito com a compra.
+129.317.0500)   [+][PRODUTO]           ::  Plenamente satisfatório.
 
-094.224.0501)   [+][PRODUTO]           ::  É um excelente aparelho.
+179.452.0501)   [+][PRODUTO]           ::  Produto nota 10 em tudo.
 
-069.162.0502)   [+][PRODUTO]           ::  E qualidade melhor ainda.
+066.154.0502)   [+][PRODUTO]           ::  Satisfeito com a compra.
 
-175.444.0503)   [+][PRODUTO]           ::  Muito feliz e satisfeita.
+094.224.0503)   [+][PRODUTO]           ::  É um excelente aparelho.
 
-100.241.0504)   [+][PRODUTO]           ::  Produto de boa qualidade.
+069.162.0504)   [+][PRODUTO]           ::  E qualidade melhor ainda.
 
-055.132.0505)   [+][PRODUTO]           ::  Bom produto, funciona bem.
+175.444.0505)   [+][PRODUTO]           ::  Muito feliz e satisfeita.
 
-139.341.0506)   [+][PRODUTO]           ::  Celular com bons recursos.
+100.241.0506)   [+][PRODUTO]           ::  Produto de boa qualidade.
 
-160.394.0507)   [+][PRODUTO]           ::  Produto de alta qualidade.
+055.132.0507)   [+][PRODUTO]           ::  Bom produto, funciona bem.
 
-103.248.0508)   [+][PRODUTO]           ::  Gostei bastante do produto.
+139.341.0508)   [+][PRODUTO]           ::  Celular com bons recursos.
 
-022.053.0509)   [+][PRODUTO]           ::  Linha Moto G sempre bacana!
+160.394.0509)   [+][PRODUTO]           ::  Produto de alta qualidade.
 
-121.289.0510)   [+][PRODUTO]           ::  Satisfeito com a aquisição.
+103.248.0510)   [+][PRODUTO]           ::  Gostei bastante do produto.
 
-102.246.0511)   [+][PRODUTO]           ::  APARELHO DE ÓTIMA QUALIDADE.
+022.053.0511)   [+][PRODUTO]           ::  Linha Moto G sempre bacana!
 
-036.087.0512)   [+][PRODUTO]           ::  Enfim, cumpre o que promete.
+121.289.0512)   [+][PRODUTO]           ::  Satisfeito com a aquisição.
 
-020.045.0513)   [+][PRODUTO]           ::  Celular top, muitos recursos.
+102.246.0513)   [+][PRODUTO]           ::  APARELHO DE ÓTIMA QUALIDADE.
 
-015.035.0514)   [+][PRODUTO]           ::  Gostei do produto, recomendo.
+036.087.0514)   [+][PRODUTO]           ::  Enfim, cumpre o que promete.
 
-205.514.0515)   [+][PRODUTO]           ::  Mais um aparelho maravilhoso!
+020.045.0515)   [+][PRODUTO]           ::  Celular top, muitos recursos.
 
-195.491.0516)   [+][PRODUTO]           ::  Mais um produto de qualidade!
+015.035.0516)   [+][PRODUTO]           ::  Gostei do produto, recomendo.
 
-036.086.0517)   [+][PRODUTO]           ::  Ótimo aparelho intermediário.
+205.514.0517)   [+][PRODUTO]           ::  Mais um aparelho maravilhoso!
 
-058.137.0518)   [+][PRODUTO]           ::  Excelente Aparelho! Recomendo!
+195.491.0518)   [+][PRODUTO]           ::  Mais um produto de qualidade!
 
-202.508.0519)   [+][PRODUTO]           ::  Mais um aparelho de qualidade!
+036.086.0519)   [+][PRODUTO]           ::  Ótimo aparelho intermediário.
 
-066.155.0520)   [+][PRODUTO]           ::  Era o eu esperava com a compra.
+058.137.0520)   [+][PRODUTO]           ::  Excelente Aparelho! Recomendo!
 
-204.512.0521)   [+][PRODUTO]           ::  Mais um Smartphone padrão MOTO!
+202.508.0521)   [+][PRODUTO]           ::  Mais um aparelho de qualidade!
 
-006.016.0522)   [+][PRODUTO]           ::  Produto de muita boa qualidade.
+066.155.0522)   [+][PRODUTO]           ::  Era o eu esperava com a compra.
 
-061.145.0523)   [+][PRODUTO]           ::  Um dos melhores intermediários.
+204.512.0523)   [+][PRODUTO]           ::  Mais um Smartphone padrão MOTO!
 
-030.069.0524)   [+][PRODUTO]           ::  Excelente aparelho e tecnologia.
+006.016.0524)   [+][PRODUTO]           ::  Produto de muita boa qualidade.
 
-146.356.0525)   [+][PRODUTO]           ::  APARELHO NA COR OURO MUITO LEGAL.
+061.145.0525)   [+][PRODUTO]           ::  Um dos melhores intermediários.
 
-206.516.0526)   [+][PRODUTO]           ::  Como sempre um produto sem igual!
+030.069.0526)   [+][PRODUTO]           ::  Excelente aparelho e tecnologia.
 
-043.102.0527)   [+][PRODUTO]           ::  Ótimo atendeu minhas expectativas.
+146.356.0527)   [+][PRODUTO]           ::  APARELHO NA COR OURO MUITO LEGAL.
 
-166.408.0528)   [+][PRODUTO]           ::  Gostei do celular em todos aspectos.
+206.516.0528)   [+][PRODUTO]           ::  Como sempre um produto sem igual!
 
-220.556.0529)   [+][PRODUTO]           ::  Gostei muito do aparelho de início.
+043.102.0529)   [+][PRODUTO]           ::  Ótimo atendeu minhas expectativas.
 
-118.282.0530)   [+][PRODUTO]           ::  Adorei, atendeu minhas necessidades.
+166.408.0530)   [+][PRODUTO]           ::  Gostei do celular em todos aspectos.
 
-062.147.0531)   [+][PRODUTO]           ::  Atende todas as minha necessidades .
+220.556.0531)   [+][PRODUTO]           ::  Gostei muito do aparelho de início.
 
-049.116.0532)   [+][PRODUTO]           ::  Então é tudo de bom, cinco estrelas.
+118.282.0532)   [+][PRODUTO]           ::  Adorei, atendeu minhas necessidades.
 
-089.212.0533)   [+][PRODUTO]           ::  Estou usando ainda, mas é muito bom.
+062.147.0533)   [+][PRODUTO]           ::  Atende todas as minha necessidades .
 
-011.027.0534)   [+][PRODUTO]           ::  Show de bola, era o que eu procurava.
+049.116.0534)   [+][PRODUTO]           ::  Então é tudo de bom, cinco estrelas.
 
-051.121.0535)   [+][PRODUTO]           ::  É um produto com uma ótima qualidade.
+089.212.0535)   [+][PRODUTO]           ::  Estou usando ainda, mas é muito bom.
 
-050.119.0536)   [+][PRODUTO]           ::  Estou muito satisfeito com o aparelho.
+011.027.0536)   [+][PRODUTO]           ::  Show de bola, era o que eu procurava.
 
-038.093.0537)   [+][PRODUTO]           ::  Ótima recepção e imagens Recomendo!!!!
+051.121.0537)   [+][PRODUTO]           ::  É um produto com uma ótima qualidade.
 
-144.353.0538)   [+][PRODUTO]           ::  Até o momento estou adorando o aparelho.
+050.119.0538)   [+][PRODUTO]           ::  Estou muito satisfeito com o aparelho.
 
-145.355.0539)   [+][PRODUTO]           ::  Muito bom respondeu todas expectativas,.
+038.093.0539)   [+][PRODUTO]           ::  Ótima recepção e imagens Recomendo!!!!
 
-091.216.0540)   [+][PRODUTO]           ::  Boas configurações por um preço razoável.
+144.353.0540)   [+][PRODUTO]           ::  Até o momento estou adorando o aparelho.
 
-140.344.0541)   [+][PRODUTO]           ::  O produto atingiu as minhas expectativas.
+145.355.0541)   [+][PRODUTO]           ::  Muito bom respondeu todas expectativas,.
 
-092.218.0542)   [+][PRODUTO]           ::  Produto excelente para qualquer ambiente.
+091.216.0542)   [+][PRODUTO]           ::  Boas configurações por um preço razoável.
 
-183.462.0543)   [+][PRODUTO]           ::  Celular muito bom, não precisa mais q isso.
+140.344.0543)   [+][PRODUTO]           ::  O produto atingiu as minhas expectativas.
 
-101.244.0544)   [+][PRODUTO]           ::  Até o momento atende as minhas expectativas.
+092.218.0544)   [+][PRODUTO]           ::  Produto excelente para qualquer ambiente.
 
-085.199.0545)   [+][PRODUTO]           ::  Este Smartphone superou a minha expectativa.
+183.462.0545)   [+][PRODUTO]           ::  Celular muito bom, não precisa mais q isso.
 
-021.048.0546)   [+][PRODUTO]           ::  O produto é muito bom e atende ao requerido.
+174.438.0546)   [+][PRODUTO]           ::  Grrrr), e já me encantei com alguns Galaxy.
 
-074.173.0547)   [+][PRODUTO]           ::  E até então estou gostando muito do aparelho.
+101.244.0547)   [+][PRODUTO]           ::  Até o momento atende as minhas expectativas.
 
-212.530.0548)   [+][PRODUTO]           ::  Este smathphone me surpreendeu positivamente.
+085.199.0548)   [+][PRODUTO]           ::  Este Smartphone superou a minha expectativa.
 
-198.498.0549)   [+][PRODUTO]           ::  Gosto muito dele e quero muito ganhar o iPad.
+021.048.0549)   [+][PRODUTO]           ::  O produto é muito bom e atende ao requerido.
 
-058.139.0550)   [+][PRODUTO]           ::  Um smartphone com excelentes características.
+074.173.0550)   [+][PRODUTO]           ::  E até então estou gostando muito do aparelho.
 
-074.172.0551)   [+][PRODUTO]           ::  Bom aparelho, atende na maioria dos requisitos!
+212.530.0551)   [+][PRODUTO]           ::  Este smathphone me surpreendeu positivamente.
 
-031.077.0552)   [+][PRODUTO]           ::  Tirando alguns detalhes, o celular é excelente!
+198.498.0552)   [+][PRODUTO]           ::  Gosto muito dele e quero muito ganhar o iPad.
 
-006.017.0553)   [+][PRODUTO]           ::  Até o momento não tive problemas com o aparelho.
+058.139.0553)   [+][PRODUTO]           ::  Um smartphone com excelentes características.
 
-192.486.0554)   [+][PRODUTO]           ::  Ele é muito bom nas funcionalidades que já usei.
+074.172.0554)   [+][PRODUTO]           ::  Bom aparelho, atende na maioria dos requisitos!
 
-060.143.0555)   [+][PRODUTO]           ::  Foi presente, mas o presenteado elogiou bastante.
+031.077.0555)   [+][PRODUTO]           ::  Tirando alguns detalhes, o celular é excelente!
 
-078.181.0556)   [+][PRODUTO]           ::  O celular atendeu plenamente minhas expectativas.
+006.017.0556)   [+][PRODUTO]           ::  Até o momento não tive problemas com o aparelho.
 
-188.472.0557)   [+][PRODUTO]           ::  Um dos melhores aparelhos intermediarios de 2017.
+192.486.0557)   [+][PRODUTO]           ::  Ele é muito bom nas funcionalidades que já usei.
 
-070.165.0558)   [+][PRODUTO]           ::  Faz pouco tempo de uso mas parece um bom aparelho.
+060.143.0558)   [+][PRODUTO]           ::  Foi presente, mas o presenteado elogiou bastante.
 
-082.193.0559)   [+][PRODUTO]           ::  Vale a pena a compra no segmento de intermediários.
+078.181.0559)   [+][PRODUTO]           ::  O celular atendeu plenamente minhas expectativas.
 
-195.492.0560)   [+][PRODUTO]           ::  Meu terceiro aparelho da Motorola, não me arrependo!
+188.472.0560)   [+][PRODUTO]           ::  Um dos melhores aparelhos intermediarios de 2017.
 
-078.182.0561)   [+][PRODUTO]           ::  Pesquisei muito antes de comprar e não me arrependi.
+070.165.0561)   [+][PRODUTO]           ::  Faz pouco tempo de uso mas parece um bom aparelho.
 
-025.060.0562)   [+][PRODUTO]           ::  Vale a pena, não nos deixa apontar um item negativo.
+082.193.0562)   [+][PRODUTO]           ::  Vale a pena a compra no segmento de intermediários.
 
-176.446.0563)   [+][PRODUTO]           ::  Excelente produto, atende todas as minhas necessidades.
+195.492.0563)   [+][PRODUTO]           ::  Meu terceiro aparelho da Motorola, não me arrependo!
 
-115.276.0564)   [+][PRODUTO]           ::  Gosto muito dos moto g e este supera minhas expectativas.
+078.182.0564)   [+][PRODUTO]           ::  Pesquisei muito antes de comprar e não me arrependi.
 
-039.095.0565)   [+][PRODUTO]           ::  Aparelho muito bom, me atende no que preciso no dia a dia.
+025.060.0565)   [+][PRODUTO]           ::  Vale a pena, não nos deixa apontar um item negativo.
 
-088.209.0566)   [+][PRODUTO]           ::  O produto atende as expectativas que eu esperava encontrar.
+176.446.0566)   [+][PRODUTO]           ::  Excelente produto, atende todas as minhas necessidades.
 
-081.190.0567)   [+][PRODUTO]           ::  Produto muito bom, atendendo as expectativas da marca Moto.
+115.276.0567)   [+][PRODUTO]           ::  Gosto muito dos moto g e este supera minhas expectativas.
 
-175.443.0568)   [+][PRODUTO]           ::  Alguns comentam que o Moto g retrocedeu, tenho que discordar.
+039.095.0568)   [+][PRODUTO]           ::  Aparelho muito bom, me atende no que preciso no dia a dia.
 
-003.009.0569)   [+][PRODUTO]           ::  Aparelho intermediário com cara e funções de um top de linha.
+088.209.0569)   [+][PRODUTO]           ::  O produto atende as expectativas que eu esperava encontrar.
 
-159.390.0570)   [+][PRODUTO]           ::  Adorei esse é o meu primeiro Motorola e estou muito satisfeita.
+081.190.0570)   [+][PRODUTO]           ::  Produto muito bom, atendendo as expectativas da marca Moto.
 
-207.518.0571)   [+][PRODUTO]           ::  Como sempre um produto que atende as expectativas do comprador!
+175.443.0571)   [+][PRODUTO]           ::  Alguns comentam que o Moto g retrocedeu, tenho que discordar.
 
-063.149.0572)   [+][PRODUTO]           ::  Foi meu primeiro Moto que tenho, até o momento estou satisfeito.
+003.009.0572)   [+][PRODUTO]           ::  Aparelho intermediário com cara e funções de um top de linha.
 
-202.509.0573)   [+][PRODUTO]           ::  Meu terceiro smartphone da linha e mais um produto de qualidade!
+159.390.0573)   [+][PRODUTO]           ::  Adorei esse é o meu primeiro Motorola e estou muito satisfeita.
 
-218.550.0574)   [+][PRODUTO]           ::  Produto simples e que atende as principais funções do dia a dia.
+207.518.0574)   [+][PRODUTO]           ::  Como sempre um produto que atende as expectativas do comprador!
 
-207.519.0575)   [+][PRODUTO]           ::  Este é o meu terceiro aparelho da Motorola e não compraria outro!
+063.149.0575)   [+][PRODUTO]           ::  Foi meu primeiro Moto que tenho, até o momento estou satisfeito.
 
-152.371.0576)   [+][PRODUTO]           ::  Estou com o smartphone há mais ou menos 1 mês e só tenho elogios.
+202.509.0576)   [+][PRODUTO]           ::  Meu terceiro smartphone da linha e mais um produto de qualidade!
 
-003.010.0577)   [+][PRODUTO]           ::  Funcionalidades é melhores ou iguais a maioria dos intermediários.
+218.550.0577)   [+][PRODUTO]           ::  Produto simples e que atende as principais funções do dia a dia.
 
-173.427.0578)   [+][PRODUTO]           ::  Eu sempre comprei Samsung e fiquei apreensivo quanto a um Motorola.
+207.519.0578)   [+][PRODUTO]           ::  Este é o meu terceiro aparelho da Motorola e não compraria outro!
 
-034.083.0579)   [+][PRODUTO]           ::  Ótimo smartphone, reúne os melhores atributos de um aparelho premium.
+152.371.0579)   [+][PRODUTO]           ::  Estou com o smartphone há mais ou menos 1 mês e só tenho elogios.
 
-204.513.0580)   [+][PRODUTO]           ::  Ja é meu terceiro aparelho da linha MOTO G! Mais uma vez um aparelho ótimo!
+003.010.0580)   [+][PRODUTO]           ::  Funcionalidades é melhores ou iguais a maioria dos intermediários.
 
-212.531.0581)   [+][PRODUTO]           ::  Ainda não conheço todos os recursos tecnológicos, mas estou muito satisfeito!
+173.427.0581)   [+][PRODUTO]           ::  Eu sempre comprei Samsung e fiquei apreensivo quanto a um Motorola.
 
-205.515.0582)   [+][PRODUTO]           ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+034.083.0582)   [+][PRODUTO]           ::  Ótimo smartphone, reúne os melhores atributos de um aparelho premium.
 
-146.357.0583)   [+][PRODUTO]           ::  APARELHO FUNCIONAL ACERTEI NA COMPRA POIS SÓ GOSTO DA MARCA MOTOROLA (MOTO G 5).
+204.513.0583)   [+][PRODUTO]           ::  Ja é meu terceiro aparelho da linha MOTO G! Mais uma vez um aparelho ótimo!
 
-035.084.0584)   [+][PRODUTO]           ::  Ótimo aparelho, está entre os melhores smartphones da linha mediana da atualidad.
+212.531.0584)   [+][PRODUTO]           ::  Ainda não conheço todos os recursos tecnológicos, mas estou muito satisfeito!
 
-174.433.0585)   [+][PRODUTO]           ::  Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
+205.515.0585)   [+][PRODUTO]           ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
 
-188.473.0586)   [+][PRODUTO]           ::  Sem muitos rodeios, o aparelho tem me agradado bastante em praticamente todos os aspectos.
+146.357.0586)   [+][PRODUTO]           ::  APARELHO FUNCIONAL ACERTEI NA COMPRA POIS SÓ GOSTO DA MARCA MOTOROLA (MOTO G 5).
 
-025.059.0587)   [+][PRODUTO]           ::  Todos aqui em casa temos algum modelo da Motorola,mas o G5 plus é um passo à frente de todos os outros.
+035.084.0587)   [+][PRODUTO]           ::  Ótimo aparelho, está entre os melhores smartphones da linha mediana da atualidad.
 
-049.116.0588)   [+][PRODUTO]           ::  Na realiza eu comprei para o meu filho, segundo ele, o aparelho é ótimo, atende quase todas às necessidades.
+174.433.0588)   [+][PRODUTO]           ::  Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
 
-188.475.0589)   [+][PRODUTO]           ::  Eu comprei esse aparelho depois de varios reviews de outros smartphone nessa faixa de preço e não me decepcionei.
+188.473.0589)   [+][PRODUTO]           ::  Sem muitos rodeios, o aparelho tem me agradado bastante em praticamente todos os aspectos.
 
-048.114.0590)   [+][PRODUTO]           ::  Eu possuia um Samsung S5 mas ele parou de funcionar de repente, este motorola G5 é melhor que o S5 em diversas áreas.
+025.059.0590)   [+][PRODUTO]           ::  Todos aqui em casa temos algum modelo da Motorola,mas o G5 plus é um passo à frente de todos os outros.
 
-086.204.0591)   [+][PRODUTO]           ::  O celular embora seja lançamento e barato consegue bater de frente com a maioria dos celulares atuais e mais utilizados (2016-2017)
+049.116.0591)   [+][PRODUTO]           ::  Na realiza eu comprei para o meu filho, segundo ele, o aparelho é ótimo, atende quase todas às necessidades.
 
-051.122.0592)   [+][PRODUTO]           ::  Recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphone.
+188.475.0592)   [+][PRODUTO]           ::  Eu comprei esse aparelho depois de varios reviews de outros smartphone nessa faixa de preço e não me decepcionei.
 
-003.010.0593)   [+][PRODUTO]           ::  As pessoas esquecem q esse aparelho é intermediário, não top de linha e como intermediário ele da SHOW, pois ele vai além da sua faixa intermediária.
+048.114.0593)   [+][PRODUTO]           ::  Eu possuia um Samsung S5 mas ele parou de funcionar de repente, este motorola G5 é melhor que o S5 em diversas áreas.
 
-058.138.0594)   [+][PRODUTO]           ::  Tenho usado o aparelho desde da 2ª geração, gosto do produto e da marca Motorola/Lenovo, por isso recomendo a todos e principalmente aos meus amigos e familiares.
+086.204.0594)   [+][PRODUTO]           ::  O celular embora seja lançamento e barato consegue bater de frente com a maioria dos celulares atuais e mais utilizados (2016-2017)
 
-173.429.0595)   [+][PRODUTO]           ::  Funciona com desenvoltura, tem bons recursos, não trava (diferente de alguns comentários que li, não sei o que possa ter acontecido), enfim, estou contentíssimo com o produto.
+051.122.0595)   [+][PRODUTO]           ::  Recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphone.
 
-174.437.0596)   [+][PRODUTO]           ::  Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
+003.010.0596)   [+][PRODUTO]           ::  As pessoas esquecem q esse aparelho é intermediário, não top de linha e como intermediário ele da SHOW, pois ele vai além da sua faixa intermediária.
 
-008.021.0597)   [+][PRODUTO]           ::  Meu 1° aparelho Foi o Motog-1 daí em tão Não quis outra marca ... Por isso dei credibilidade Ao fabricante Motorola..Agora adiquiri o ( Motog-5 plus ) Aparelho sensacional Motorola está de parabéns TKS ....
+058.138.0597)   [+][PRODUTO]           ::  Tenho usado o aparelho desde da 2ª geração, gosto do produto e da marca Motorola/Lenovo, por isso recomendo a todos e principalmente aos meus amigos e familiares.
 
-125.301.0598)   [+][PRODUTO]           ::  O meu Smartphone só tem um mês, então minha avaliação ainda é superficial, por enquanto me surpreendeu eu tinha o Smartphone Motorola G4 Plus que eu gostava muito também, mas fui assaltada, e na hora de comprar um novo optei em comprar a nova versão e me surpreendi, estou gostando muito.
+173.429.0598)   [+][PRODUTO]           ::  Funciona com desenvoltura, tem bons recursos, não trava (diferente de alguns comentários que li, não sei o que possa ter acontecido), enfim, estou contentíssimo com o produto.
 
-120.286.0599)  [++][PRODUTO]           ::  Perfeito.
+174.437.0599)   [+][PRODUTO]           ::  Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
 
-020.044.0600)  [++][PRODUTO]           ::  Celular perfeito.
+008.021.0600)   [+][PRODUTO]           ::  Meu 1° aparelho Foi o Motog-1 daí em tão Não quis outra marca ... Por isso dei credibilidade Ao fabricante Motorola..Agora adiquiri o ( Motog-5 plus ) Aparelho sensacional Motorola está de parabéns TKS ....
 
-011.026.0601)  [++][PRODUTO]           ::  Melhor da categoria.
+125.301.0601)   [+][PRODUTO]           ::  O meu Smartphone só tem um mês, então minha avaliação ainda é superficial, por enquanto me surpreendeu eu tinha o Smartphone Motorola G4 Plus que eu gostava muito também, mas fui assaltada, e na hora de comprar um novo optei em comprar a nova versão e me surpreendi, estou gostando muito.
 
-162.399.0602)  [++][PRODUTO]           ::  Smartphone muito bom perfeito.
+120.286.0602)  [++][PRODUTO]           ::  Perfeito.
 
-075.175.0603)  [++][PRODUTO]           ::  O melhor aparelho que tive ate hoje.
+020.044.0603)  [++][PRODUTO]           ::  Celular perfeito.
 
-122.291.0604)  [++][PRODUTO]           ::  Tô apaixonada por ele, melhor celular!
+011.026.0604)  [++][PRODUTO]           ::  Melhor da categoria.
 
-119.284.0605)  [++][PRODUTO]           ::  O PRODUTO É MUITO BOM E FUNCIONA PERFEITAMENTE.
+162.399.0605)  [++][PRODUTO]           ::  Smartphone muito bom perfeito.
 
-181.458.0606)  [++][PRODUTO]           ::  Ainda estou aprendendo a mexer nele, mas até o momento posso afirmar que é o melhor celular que tive.
+075.175.0606)  [++][PRODUTO]           ::  O melhor aparelho que tive ate hoje.
 
-126.303.0607)  [+.][PRODUTO]           ::  Bom mas pode melhorar.
+122.291.0607)  [++][PRODUTO]           ::  Tô apaixonada por ele, melhor celular!
 
-109.261.0608)  [+.][PRODUTO]           ::  Duas semanas de uso e tudo bem.
+119.284.0608)  [++][PRODUTO]           ::  O PRODUTO É MUITO BOM E FUNCIONA PERFEITAMENTE.
 
-094.223.0609)  [+.][PRODUTO]           ::  Atende o básico em um smartphone.
+181.458.0609)  [++][PRODUTO]           ::  Ainda estou aprendendo a mexer nele, mas até o momento posso afirmar que é o melhor celular que tive.
 
-042.100.0610)  [+.][PRODUTO]           ::  Bom, mas poderia ter versão de 3gb.
+126.303.0610)  [+.][PRODUTO]           ::  Bom mas pode melhorar.
 
-086.205.0611)  [+.][PRODUTO]           ::  Nao tive nenhum problema por enquanto.
+109.261.0611)  [+.][PRODUTO]           ::  Duas semanas de uso e tudo bem.
 
-170.417.0612)  [+.][PRODUTO]           ::  Aparelho Bom, porém com algumas limitações.
+094.223.0612)  [+.][PRODUTO]           ::  Atende o básico em um smartphone.
 
-068.160.0613)  [+.][PRODUTO]           ::  Facilita a vida de quem vive na tecnologia.
+042.100.0613)  [+.][PRODUTO]           ::  Bom, mas poderia ter versão de 3gb.
 
-208.522.0614)  [+.][PRODUTO]           ::  Recomendo porém se o valor estiver na faixa de 1.100.
+086.205.0614)  [+.][PRODUTO]           ::  Nao tive nenhum problema por enquanto.
 
-094.226.0615)  [+.][PRODUTO]           ::  Em resumo: perfeito para uso intermediário no dia a dia.
+170.417.0615)  [+.][PRODUTO]           ::  Aparelho Bom, porém com algumas limitações.
 
-083.195.0616)  [+.][PRODUTO]           ::  É um produto bom mas não contemplou as minhas expectativas.
+068.160.0616)  [+.][PRODUTO]           ::  Facilita a vida de quem vive na tecnologia.
 
-100.242.0617)  [+.][PRODUTO]           ::  Como é um produto que adquiri a pouco tempo, até o momento não me deu problermas.
+208.522.0617)  [+.][PRODUTO]           ::  Recomendo porém se o valor estiver na faixa de 1.100.
 
-222.565.0618)   [-][PRODUTO]           ::  FUJA!
+094.226.0618)  [+.][PRODUTO]           ::  Em resumo: perfeito para uso intermediário no dia a dia.
 
-228.602.0619)   [-][PRODUTO]           ::  Ruim.
+083.195.0619)  [+.][PRODUTO]           ::  É um produto bom mas não contemplou as minhas expectativas.
 
-216.540.0620)   [-][PRODUTO]           ::  NÃO COMPRE.
+100.242.0620)  [+.][PRODUTO]           ::  Como é um produto que adquiri a pouco tempo, até o momento não me deu problermas.
 
-223.566.0621)   [-][PRODUTO]           ::  Produto Ruim.
+222.565.0621)   [-][PRODUTO]           ::  FUJA!
 
-228.601.0622)   [-][PRODUTO]           ::  Moto G5 Plus decepciona.
+228.602.0622)   [-][PRODUTO]           ::  Ruim.
 
-216.544.0623)   [-][PRODUTO]           ::  Há dificuldade para religá-lo.
+216.540.0623)   [-][PRODUTO]           ::  NÃO COMPRE.
 
-227.600.0624)   [-][PRODUTO]           ::  Moto g 5 , não indico pra ninguém.
+223.566.0624)   [-][PRODUTO]           ::  Produto Ruim.
 
-227.599.0625)   [-][PRODUTO]           ::  Estou muito infeliz com a compra desse produto.
+228.601.0625)   [-][PRODUTO]           ::  Moto G5 Plus decepciona.
 
-227.596.0626)   [-][PRODUTO]           ::  Estou insatisfeita com o produto que eu adquiri.
+216.544.0626)   [-][PRODUTO]           ::  Há dificuldade para religá-lo.
 
-218.552.0627)   [-][PRODUTO]           ::  Já resetei o produto mas não resolveu o problema.
+227.600.0627)   [-][PRODUTO]           ::  Moto g 5 , não indico pra ninguém.
 
-215.536.0628)   [-][PRODUTO]           ::  O produto e intermediario digamos que pobre tem que tomar no *** memo.
+227.599.0628)   [-][PRODUTO]           ::  Estou muito infeliz com a compra desse produto.
 
-215.539.0629)   [-][PRODUTO]           ::  E se vcs quiserem celular bom indico que procurem um iphone da apple mesmo versões mais antigas pois nunca perdem valor de mercado apple e apple...
+227.596.0629)   [-][PRODUTO]           ::  Estou insatisfeita com o produto que eu adquiri.
 
-220.556.0630)   [-][PRODUTO]           ::  Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
+218.552.0630)   [-][PRODUTO]           ::  Já resetei o produto mas não resolveu o problema.
 
-219.554.0631)   [-][PRODUTO]           ::  Minha experiência infelizmente não foi boa já que o aparelho corrompeu 2 cartões sd um de 64gb e outro de 128gb, na primeira semana de uso tive que enviar ele para a assistência, a motorola não se responsabiliza pelos cartões sd que o aparelho corrompeu, e até agora não consegui testar o aparelho novamente pois vou ter que arcar com a compra de outro cartão para fazer o teste, já imaginando que posso vir a perder esse também.
+215.536.0631)   [-][PRODUTO]           ::  O produto e intermediario digamos que pobre tem que tomar no *** memo.
 
-228.607.0632)  [--][PRODUTO]           ::  MOTO G ou MOTO Z NUNCA MAIS!
+215.539.0632)   [-][PRODUTO]           ::  E se vcs quiserem celular bom indico que procurem um iphone da apple mesmo versões mais antigas pois nunca perdem valor de mercado apple e apple...
 
-222.561.0633)  [--][PRODUTO]           ::  MOTO G5: Pior opção possível.
+226.595.0633)   [-][PRODUTO]           ::  Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
-216.545.0634)  [--][PRODUTO]           ::  Foi o pior aparelho que já comprei, não recomendo para ninguem.
+220.556.0634)   [-][PRODUTO]           ::  Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
 
-223.570.0635)  [--][PRODUTO]           ::  Segundo o pessoal a motorola esta trazendo para o terceiro mundo o pior dos piores .
+219.554.0635)   [-][PRODUTO]           ::  Minha experiência infelizmente não foi boa já que o aparelho corrompeu 2 cartões sd um de 64gb e outro de 128gb, na primeira semana de uso tive que enviar ele para a assistência, a motorola não se responsabiliza pelos cartões sd que o aparelho corrompeu, e até agora não consegui testar o aparelho novamente pois vou ter que arcar com a compra de outro cartão para fazer o teste, já imaginando que posso vir a perder esse também.
 
-112.268.0636)  [-.][PRODUTO]           ::  Creio que para usuários mais exigentes não compensaria.
+228.607.0636)  [--][PRODUTO]           ::  MOTO G ou MOTO Z NUNCA MAIS!
 
-171.423.0637)   [.][PRODUTO]           ::  NORMAL.
+222.561.0637)  [--][PRODUTO]           ::  MOTO G5: Pior opção possível.
 
-112.266.0638)   [.][PRODUTO]           ::  Razoável.
+216.545.0638)  [--][PRODUTO]           ::  Foi o pior aparelho que já comprei, não recomendo para ninguem.
 
-150.364.0639)   [.][PRODUTO]           ::  Razoável.
+223.570.0639)  [--][PRODUTO]           ::  Segundo o pessoal a motorola esta trazendo para o terceiro mundo o pior dos piores .
 
-028.066.0640)   [.][PRODUTO]           ::  Aparelhjo simples.
+112.268.0640)  [-.][PRODUTO]           ::  Creio que para usuários mais exigentes não compensaria.
 
-150.365.0641)   [.][PRODUTO]           ::  Aparelho Razoável.
+171.423.0641)   [.][PRODUTO]           ::  NORMAL.
 
-112.267.0642)   [.][PRODUTO]           ::  É um aparelho regular.
+112.266.0642)   [.][PRODUTO]           ::  Razoável.
 
-150.367.0643)   [!][RESISTÊNCIA]       ::  Recomendo que seja comprada uma capa de proteção.
+150.364.0643)   [.][PRODUTO]           ::  Razoável.
 
-002.008.0644)   [+][RESISTÊNCIA]       ::  Display é bastante resistente.
+028.066.0644)   [.][PRODUTO]           ::  Aparelhjo simples.
 
-058.139.0645)   [+][RESISTÊNCIA]       ::  E a durabilidade também excelente.
+150.365.0645)   [.][PRODUTO]           ::  Aparelho Razoável.
 
-224.571.0646)   [-][RESISTÊNCIA]       ::  Aparelho com problema.
+112.267.0646)   [.][PRODUTO]           ::  É um aparelho regular.
 
-067.158.0647)   [-][RESISTÊNCIA]       ::  As partes em plástico o tornam frágil.
+150.367.0647)   [!][RESISTÊNCIA]       ::  Recomendo que seja comprada uma capa de proteção.
 
-217.547.0648)   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
+002.008.0648)   [+][RESISTÊNCIA]       ::  Display é bastante resistente.
 
-223.567.0649)   [-][RESISTÊNCIA]       ::  Recebi o produto mas o mesmo não carregava.
+058.139.0649)   [+][RESISTÊNCIA]       ::  E a durabilidade também excelente.
 
-223.569.0650)   [-][RESISTÊNCIA]       ::  Sem conserto, mesmo porque a bateria é lacrada.
+224.571.0650)   [-][RESISTÊNCIA]       ::  Aparelho com problema.
 
-150.367.0651)   [-][RESISTÊNCIA]       ::  O aparelho é muito liso e facilmente escapa da mão.
+067.158.0651)   [-][RESISTÊNCIA]       ::  As partes em plástico o tornam frágil.
 
-112.269.0652)   [-][RESISTÊNCIA]       ::  A câmera com uma saliência grande requer cuidados para não danificar.
+217.547.0652)   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
 
-219.553.0653)   [-][RESISTÊNCIA]       ::  Regular pois na primeira semana de uso tive que enviar ele para a assistência.
+223.567.0653)   [-][RESISTÊNCIA]       ::  Recebi o produto mas o mesmo não carregava.
 
-216.542.0654)   [-][RESISTÊNCIA]       ::  Comprei o aparelho e depois de três meses ele já apresentou problemas. O telefone desliga sozinho, mesmo a bateria apresentando carga. Há dificuldade para religá-lo.
+223.569.0654)   [-][RESISTÊNCIA]       ::  Sem conserto, mesmo porque a bateria é lacrada.
 
-217.548.0655)   [-][RESISTÊNCIA]       ::  O aparelho é muito bom, mas com 2 semanas de uso ele apagou e não funcionou mais, nesse momento esta na assistencia tecnica,, Uma decepção total, espero que consertem e volte sem mais aborrecimentos...
+150.367.0655)   [-][RESISTÊNCIA]       ::  O aparelho é muito liso e facilmente escapa da mão.
 
-213.533.0656)   [+][SISTEMA]           ::  Android puro.
+112.269.0656)   [-][RESISTÊNCIA]       ::  A câmera com uma saliência grande requer cuidados para não danificar.
 
-220.556.0657)   [+][SISTEMA]           ::  Android puro.
+219.553.0657)   [-][RESISTÊNCIA]       ::  Regular pois na primeira semana de uso tive que enviar ele para a assistência.
 
-002.008.0658)   [+][SISTEMA]           ::  O sistema é rápido.
+216.542.0658)   [-][RESISTÊNCIA]       ::  Comprei o aparelho e depois de três meses ele já apresentou problemas. O telefone desliga sozinho, mesmo a bateria apresentando carga. Há dificuldade para religá-lo.
 
-094.224.0659)   [+][SISTEMA]           ::  Já vem com Android 7.
+217.548.0659)   [-][RESISTÊNCIA]       ::  O aparelho é muito bom, mas com 2 semanas de uso ele apagou e não funcionou mais, nesse momento esta na assistencia tecnica,, Uma decepção total, espero que consertem e volte sem mais aborrecimentos...
 
-139.341.0660)   [+][SISTEMA]           ::  Celular com Android 7.0.
+213.533.0660)   [+][SISTEMA]           ::  Android puro.
 
-154.378.0661)   [+][SISTEMA]           ::  O Android 7.0 é muito bom.
+220.556.0661)   [+][SISTEMA]           ::  Android puro.
 
-054.130.0662)   [+][SISTEMA]           ::  Android e bom despacha bem rapido.
+002.008.0662)   [+][SISTEMA]           ::  O sistema é rápido.
 
-097.234.0663)   [+][SISTEMA]           ::  Sempre inovando e como sempre, Android puro.
+094.224.0663)   [+][SISTEMA]           ::  Já vem com Android 7.
 
-067.158.0664)   [+][SISTEMA]           ::  Vale a pena principalmente pelo Android puro.
+139.341.0664)   [+][SISTEMA]           ::  Celular com Android 7.0.
 
-154.377.0665)   [+][SISTEMA]           ::  Gosto do Android quase puro e a Motorola atualiza o sistema operacional mais rápido que os demais fabricantes.
+154.378.0665)   [+][SISTEMA]           ::  O Android 7.0 é muito bom.
 
-053.128.0666)   [-][SISTEMA]           ::  Só o software que poderia ter alguns recursos de fábrica a mais, como gravador de voz e ligações.
+054.130.0666)   [+][SISTEMA]           ::  Android e bom despacha bem rapido.
 
-032.079.0667)   [-][SISTEMA]           ::  Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
+097.234.0667)   [+][SISTEMA]           ::  Sempre inovando e como sempre, Android puro.
 
-019.043.0668)  [-.][SISTEMA]           ::  Eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
+067.158.0668)   [+][SISTEMA]           ::  Vale a pena principalmente pelo Android puro.
 
-229.609.0669)   [-][SOM]               ::  Alto-falante ruim.
+154.377.0669)   [+][SISTEMA]           ::  Gosto do Android quase puro e a Motorola atualiza o sistema operacional mais rápido que os demais fabricantes.
 
-067.158.0670)   [-][SOM]               ::  Ponto fraco por possuir apenas um alto-falante.
+053.128.0670)   [-][SISTEMA]           ::  Só o software que poderia ter alguns recursos de fábrica a mais, como gravador de voz e ligações.
 
-175.444.0671)   [+][TAMANHO]           ::  Diminuiu o seu tamanho.
+032.079.0671)   [-][SISTEMA]           ::  Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
 
-045.107.0672)   [+][TAMANHO]           ::  Muito bom, tamanho ideal.
+019.043.0672)  [-.][SISTEMA]           ::  Eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
 
-185.466.0673)   [+][TELA]              ::  Boa tela.
+229.609.0673)   [-][SOM]               ::  Alto-falante ruim.
 
-180.454.0674)   [+][TELA]              ::  Tela com bom tamanho.
+067.158.0674)   [-][SOM]               ::  Ponto fraco por possuir apenas um alto-falante.
 
-126.309.0675)   [+][TELA]              ::  A tela é bem brilhante.
+175.444.0675)   [+][TAMANHO]           ::  Diminuiu o seu tamanho.
 
-160.395.0676)   [+][TELA]              ::  Com uma tela de ótimo tamanho.
+045.107.0676)   [+][TAMANHO]           ::  Muito bom, tamanho ideal.
 
-002.008.0677)   [+][TELA]              ::  Display é bastante resistente.
+185.466.0677)   [+][TELA]              ::  Boa tela.
 
-152.372.0678)   [+][TELA]              ::  Display excelente e com cores vívidas.
+180.454.0678)   [+][TELA]              ::  Tela com bom tamanho.
 
-031.073.0679)   [+][TELA]              ::  A nitidez é imbatível (para ler textos por exemplo)
+126.309.0679)   [+][TELA]              ::  A tela é bem brilhante.
 
-150.365.0680)   [-][TELA]              ::  A tela está abaixo da categoria.
+160.395.0680)   [+][TELA]              ::  Com uma tela de ótimo tamanho.
 
-031.073.0681)   [-][TELA]              ::  A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED)
+002.008.0681)   [+][TELA]              ::  Display é bastante resistente.
 
-131.324.0682)   [-][TELA]              ::  Ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
+152.372.0682)   [+][TELA]              ::  Display excelente e com cores vívidas.
 
-031.076.0683)   [-][TELA]              ::  Também percebi um bug que quando se carrega o celular, dependendo da capa de proteção não dá pra usar a tela touch (a voltagem interfere na detecção dos toques)
+031.073.0683)   [+][TELA]              ::  A nitidez é imbatível (para ler textos por exemplo)
 
-190.481.0684)   [+][USABILIDADE]       ::  Pratico.
+150.365.0684)   [-][TELA]              ::  A tela está abaixo da categoria.
 
-027.064.0685)   [+][USABILIDADE]       ::  Fácil de usar.
+031.073.0685)   [-][TELA]              ::  A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED)
 
-058.139.0686)   [+][USABILIDADE]       ::  Fácil de usar.
+131.324.0686)   [-][TELA]              ::  Ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
-078.183.0687)   [+][USABILIDADE]       ::  Fácil de usar.
+031.076.0687)   [-][TELA]              ::  Também percebi um bug que quando se carrega o celular, dependendo da capa de proteção não dá pra usar a tela touch (a voltagem interfere na detecção dos toques)
 
-088.210.0688)   [+][USABILIDADE]       ::  Fácil manuseio.
+190.481.0688)   [+][USABILIDADE]       ::  Pratico.
 
-143.351.0689)   [+][USABILIDADE]       ::  Facil de usar ...
+027.064.0689)   [+][USABILIDADE]       ::  Fácil de usar.
 
-021.048.0690)   [+][USABILIDADE]       ::  De fácil manuseio.
+058.139.0690)   [+][USABILIDADE]       ::  Fácil de usar.
 
-145.355.0691)   [+][USABILIDADE]       ::  Facilidade de uso.
+078.183.0691)   [+][USABILIDADE]       ::  Fácil de usar.
 
-190.480.0692)   [+][USABILIDADE]       ::  Pratico e simples.
+088.210.0692)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-022.052.0693)   [+][USABILIDADE]       ::  Funções fáceis de usar.
+143.351.0693)   [+][USABILIDADE]       ::  Facil de usar ...
 
-051.120.0694)   [+][USABILIDADE]       ::  Praticidade e qualidade.
+021.048.0694)   [+][USABILIDADE]       ::  De fácil manuseio.
 
-029.068.0695)   [+][USABILIDADE]       ::  Produto muito fácil de se utilizar.
+145.355.0695)   [+][USABILIDADE]       ::  Facilidade de uso.
 
-113.272.0696)   [+][USABILIDADE]       ::  Muito bom o manuseio, configuração ótima.
+190.480.0696)   [+][USABILIDADE]       ::  Pratico e simples.
 
-037.089.0697)   [+][USABILIDADE]       ::  Fácil mexer, até o momento não tenho queixas.
+022.052.0697)   [+][USABILIDADE]       ::  Funções fáceis de usar.
 
-087.208.0698)   [+][USABILIDADE]       ::  Até que é fácil de manusear e encontrar as customizações.
+051.120.0698)   [+][USABILIDADE]       ::  Praticidade e qualidade.
 
-035.085.0699)   [+][USABILIDADE]       ::  Fácil de usar e com vários recurso que são encontrados na linha premium.
+029.068.0699)   [+][USABILIDADE]       ::  Produto muito fácil de se utilizar.
 
-067.158.0700)   [+][USABILIDADE]       ::  Vale a pena principalmente pelas Moto Ações que facilitam a usabilidade.
+113.272.0700)   [+][USABILIDADE]       ::  Muito bom o manuseio, configuração ótima.
 
-051.121.0701)   [+][USABILIDADE]       ::  Oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
+037.089.0701)   [+][USABILIDADE]       ::  Fácil mexer, até o momento não tenho queixas.
 
-142.349.0702)   [x][_context]          ::  Foi presente.
+087.208.0702)   [+][USABILIDADE]       ::  Até que é fácil de manusear e encontrar as customizações.
 
-175.442.0703)   [x][_context]          ::  Adquiri há 1 mês.
+035.085.0703)   [+][USABILIDADE]       ::  Fácil de usar e com vários recurso que são encontrados na linha premium.
 
-225.576.0704)   [x][_context]          ::  A promessa foi que o produto seria entregue até 09/05/17.
+067.158.0704)   [+][USABILIDADE]       ::  Vale a pena principalmente pelas Moto Ações que facilitam a usabilidade.
 
-098.236.0705)   [x][_context]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+051.121.0705)   [+][USABILIDADE]       ::  Oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
 
-126.304.0706)   [x][_context]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
+142.349.0706)   [x][_context]          ::  Foi presente.
 
-131.324.0707)   [x][_context]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
+175.442.0707)   [x][_context]          ::  Adquiri há 1 mês.
 
-225.580.0708)   [x][_context]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+225.576.0708)   [x][_context]          ::  A promessa foi que o produto seria entregue até 09/05/17.
 
-225.581.0709)   [x][_context]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+098.236.0709)   [x][_context]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
-225.577.0710)   [x][_context]          ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+126.304.0710)   [x][_context]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
-108.258.0711)   [x][broken]            ::  Chato.
+131.324.0711)   [x][_context]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
 
-108.259.0712)   [x][broken]            ::  Chato.
+225.580.0712)   [x][_context]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
-134.329.0713)   [x][broken]            ::  Otima.
+225.581.0713)   [x][_context]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
-046.108.0714)   [x][broken]            ::  Preço.
+225.577.0714)   [x][_context]          ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
-021.047.0715)   [x][broken]            ::  Moto G.
+108.258.0715)   [x][broken]            ::  Chato.
 
-124.298.0716)   [x][broken]            ::  Bateria.
+108.259.0716)   [x][broken]            ::  Chato.
 
-168.413.0717)   [x][broken]            ::  Celular.
+134.329.0717)   [x][broken]            ::  Otima.
 
-171.422.0718)   [x][broken]            ::  MOTO G5.
+046.108.0718)   [x][broken]            ::  Preço.
 
-065.152.0719)   [x][broken]            ::  Memória.
+021.047.0719)   [x][broken]            ::  Moto G.
 
-184.463.0720)   [x][broken]            ::  Moto G5.
+124.298.0720)   [x][broken]            ::  Bateria.
 
-198.497.0721)   [x][broken]            ::  Moto G5.
+168.413.0721)   [x][broken]            ::  Celular.
 
-229.608.0722)   [x][broken]            ::  Speaker.
+171.422.0722)   [x][broken]            ::  MOTO G5.
 
-214.534.0723)   [x][broken]            ::  Curiosidade.
+065.152.0723)   [x][broken]            ::  Memória.
 
-136.333.0724)   [x][broken]            ::  Moto G Plus.
+184.463.0724)   [x][broken]            ::  Moto G5.
 
-033.080.0725)   [x][broken]            ::  Moto G5plus.
+198.497.0725)   [x][broken]            ::  Moto G5.
 
-018.040.0726)   [x][broken]            ::  Moto g plus.
+229.608.0726)   [x][broken]            ::  Speaker.
 
-153.374.0727)   [x][broken]            ::  MOTOG 5 PLUS.
+214.534.0727)   [x][broken]            ::  Curiosidade.
 
-056.133.0728)   [x][broken]            ::  Moto G5 Plus.
+136.333.0728)   [x][broken]            ::  Moto G Plus.
 
-109.260.0729)   [x][broken]            ::  Moto G5 Plus.
+033.080.0729)   [x][broken]            ::  Moto G5plus.
 
-096.230.0730)   [x][broken]            ::  Moto g 5 Plus.
+018.040.0730)   [x][broken]            ::  Moto g plus.
 
-072.168.0731)   [x][broken]            ::  Avaliação do produto.
+153.374.0731)   [x][broken]            ::  MOTOG 5 PLUS.
 
-127.313.0732)   [x][broken]            ::  Pesquisa de opiniao - compra smartphone moto g5.
+056.133.0732)   [x][broken]            ::  Moto G5 Plus.
 
-050.118.0733)   [x][broken]            ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+109.260.0733)   [x][broken]            ::  Moto G5 Plus.
 
-131.323.0734)   [x][broken]            ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+096.230.0734)   [x][broken]            ::  Moto g 5 Plus.
 
-151.369.0735)   [x][duplicate]         ::  Ótimo.
+072.168.0735)   [x][broken]            ::  Avaliação do produto.
 
-014.033.0736)   [x][duplicate]         ::  Excelente.
+127.313.0736)   [x][broken]            ::  Pesquisa de opiniao - compra smartphone moto g5.
 
-009.022.0737)   [x][duplicate]         ::  Satisfeito.
+050.118.0737)   [x][broken]            ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
 
-149.363.0738)   [x][duplicate]         ::  Otimo produto.
+131.323.0738)   [x][broken]            ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-055.131.0739)   [x][duplicate]         ::  Cumpre o que promete.
+151.369.0739)   [x][duplicate]         ::  Ótimo.
 
-186.468.0740)   [x][duplicate]         ::  O produto é muito bom.
+014.033.0740)   [x][duplicate]         ::  Excelente.
 
-168.414.0741)   [x][duplicate]         ::  Uso para falar e web,.
+009.022.0741)   [x][duplicate]         ::  Satisfeito.
 
-183.461.0742)   [x][duplicate]         ::  Excelente Custo benefício.
+149.363.0742)   [x][duplicate]         ::  Otimo produto.
 
-047.111.0743)   [x][duplicate]         ::  Ótima relação custo-benefício.
+055.131.0743)   [x][duplicate]         ::  Cumpre o que promete.
 
-196.493.0744)   [x][duplicate]         ::  Mais um produto de alta qualidade!
+186.468.0744)   [x][duplicate]         ::  O produto é muito bom.
 
-196.494.0745)   [x][duplicate]         ::  Meu terceiro aparelho Motorola, não me arrependo!
+168.414.0745)   [x][duplicate]         ::  Uso para falar e web,.
 
-206.517.0746)   [x][duplicate]         ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+183.461.0746)   [x][duplicate]         ::  Excelente Custo benefício.
 
-009.023.0747)   [x][duplicate]         ::  Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+047.111.0747)   [x][duplicate]         ::  Ótima relação custo-benefício.
 
-072.169.0748)   [x][irrelevant]        ::  Já tive um moto E.
+196.493.0748)   [x][duplicate]         ::  Mais um produto de alta qualidade!
 
-174.432.0749)   [x][irrelevant]        ::  Meu primeiro Moto G foi o Moto G3 Turbo.
+196.494.0749)   [x][duplicate]         ::  Meu terceiro aparelho Motorola, não me arrependo!
 
-134.330.0750)   [x][irrelevant]        ::  Não comprei não está havendo algum erro aí..
+206.517.0750)   [x][duplicate]         ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
 
-225.587.0751)   [x][irrelevant]        ::  O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
+009.023.0751)   [x][duplicate]         ::  Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
 
-127.314.0752)   [x][irrelevant]        ::  Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
+072.169.0752)   [x][irrelevant]        ::  Já tive um moto E.
 
-214.535.0753)   [x][irrelevant]        ::  Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
+174.432.0753)   [x][irrelevant]        ::  Meu primeiro Moto G foi o Moto G3 Turbo.
 
-046.109.0754)   [x][irrelevant]        ::  Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+134.330.0754)   [x][irrelevant]        ::  Não comprei não está havendo algum erro aí..
 
-074.173.0755)   [+][outscope]          ::  Entrega rápida.
+225.587.0755)   [x][irrelevant]        ::  O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
-184.464.0756)   [+][outscope]          ::  Entrega rápida.
+127.314.0756)   [x][irrelevant]        ::  Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
 
-030.070.0757)   [+][outscope]          ::  Chegou bem rápido.
+214.535.0757)   [x][irrelevant]        ::  Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
 
-138.338.0758)   [+][outscope]          ::  Entregue antes do prazo.
+046.109.0758)   [x][irrelevant]        ::  Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
 
-086.206.0759)   [+][outscope]          ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
+074.173.0759)   [+][outscope]          ::  Entrega rápida.
 
-037.090.0760)   [+][outscope]          ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+184.464.0760)   [+][outscope]          ::  Entrega rápida.
 
-081.190.0761)   [+][outscope]          ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
+030.070.0761)   [+][outscope]          ::  Chegou bem rápido.
 
-106.254.0762)   [-][outscope]          ::  COMO VOU SABER, SE NÃO RECEBI.
+138.338.0762)   [+][outscope]          ::  Entregue antes do prazo.
 
-221.558.0763)   [-][outscope]          ::  Verificar a oferta do Shoptime.
+086.206.0763)   [+][outscope]          ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
 
-106.253.0764)   [-][outscope]          ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+037.090.0764)   [+][outscope]          ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
 
-126.312.0765)   [-][outscope]          ::  Faltou um pouco de capricho pelo fabricante.
+081.190.0765)   [+][outscope]          ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
 
-186.467.0766)   [-][outscope]          ::  Não comprei na empresa efacil, empresa ruim.
+106.254.0766)   [-][outscope]          ::  COMO VOU SABER, SE NÃO RECEBI.
 
-225.579.0767)   [-][outscope]          ::  Evidentemente houve um erro no envio do produto.
+221.558.0767)   [-][outscope]          ::  Verificar a oferta do Shoptime.
 
-224.573.0768)   [-][outscope]          ::  Tentei entrar em contato com a Onofre e não consegui.
+106.253.0768)   [-][outscope]          ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
 
-221.557.0769)   [-][outscope]          ::  Valor de oferta de 250,00 não corresponde ao produto.
+126.312.0769)   [-][outscope]          ::  Faltou um pouco de capricho pelo fabricante.
 
-186.469.0770)   [-][outscope]          ::  Por isso cancelei a compra e adquiri em outra empresa.
+186.467.0770)   [-][outscope]          ::  Não comprei na empresa efacil, empresa ruim.
 
-225.589.0771)   [-][outscope]          ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+225.579.0771)   [-][outscope]          ::  Evidentemente houve um erro no envio do produto.
 
-225.588.0772)   [-][outscope]          ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
+224.573.0772)   [-][outscope]          ::  Tentei entrar em contato com a Onofre e não consegui.
 
-225.574.0773)   [-][outscope]          ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+221.557.0773)   [-][outscope]          ::  Valor de oferta de 250,00 não corresponde ao produto.
 
-225.586.0774)   [-][outscope]          ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+186.469.0774)   [-][outscope]          ::  Por isso cancelei a compra e adquiri em outra empresa.
 
-186.468.0775)   [-][outscope]          ::  Não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+225.589.0775)   [-][outscope]          ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-225.582.0776)   [-][outscope]          ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+225.588.0776)   [-][outscope]          ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
 
-221.559.0777)   [-][outscope]          ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+225.574.0777)   [-][outscope]          ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
 
-227.599.0778)   [-][outscope]          ::  Dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+225.586.0778)   [-][outscope]          ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
 
-227.597.0779)   [-][outscope]          ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
+186.468.0779)   [-][outscope]          ::  Não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
-225.585.0780)   [-][outscope]          ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+225.582.0780)   [-][outscope]          ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 
-215.537.0781)   [-][outscope]          ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+221.559.0781)   [-][outscope]          ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
 
-215.538.0782)   [-][outscope]          ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
+227.599.0782)   [-][outscope]          ::  Dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
-228.606.0783)   [-][outscope]          ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+227.597.0783)   [-][outscope]          ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
 
-228.605.0784)   [-][outscope]          ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+225.585.0784)   [-][outscope]          ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
 
-225.578.0785)   [-][outscope]          ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+215.537.0785)   [-][outscope]          ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
 
-225.575.0786)   [-][outscope]          ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+215.538.0786)   [-][outscope]          ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
 
-216.546.0787)  [--][outscope]          ::  Motorola nunca mais!
+228.606.0787)   [-][outscope]          ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
 
-106.255.0788)  [--][outscope]          ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+228.605.0788)   [-][outscope]          ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
 
-225.583.0789)   [.][outscope]          ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+225.578.0789)   [-][outscope]          ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
-225.584.0790)   [.][outscope]          ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+225.575.0790)   [-][outscope]          ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-012.028.0791)   [x][unintelligible]    ::  ...
+216.546.0791)  [--][outscope]          ::  Motorola nunca mais!
 
-012.029.0792)   [x][unintelligible]    ::  ...
+106.255.0792)  [--][outscope]          ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
 
-148.360.0793)   [x][unintelligible]    ::  Cxb.
+225.583.0793)   [.][outscope]          ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
 
-211.527.0794)   [x][unintelligible]    ::  Xxx.
+225.584.0794)   [.][outscope]          ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
 
-211.528.0795)   [x][unintelligible]    ::  Xxx xxxx xxx x xx.
+012.028.0795)   [x][unintelligible]    ::  ...
+
+012.029.0796)   [x][unintelligible]    ::  ...
+
+148.360.0797)   [x][unintelligible]    ::  Cxb.
+
+211.527.0798)   [x][unintelligible]    ::  Xxx.
+
+211.528.0799)   [x][unintelligible]    ::  Xxx xxxx xxx x xx.
 

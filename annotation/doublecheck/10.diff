@@ -448,12 +448,6 @@
 <   [174.437]          [PRODUTO][+]    Já caí na armadilha dos Iphone (itunes..
 >   [174.437]          [PRODUTO][+]    Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
 
-<   [174.438]          [PRODUTO][+]    Grrrr), e já me encantei com alguns Galaxy.
-
-<   [174.439]            [PREÇO][+]    Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
-
-<   [174.440]          [PRODUTO][+]    Agora, só Moto G.
-
 <   [175.442][PRODUTO CÂMERA BATERIA TELEVISÃO][+]    Adquiri há 1 mês.Aparelho mais bonito pessoalmente (dourado).Câmera incrível, designer perfeito, super rápido, carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).O diferencial dele é a TV, foi por isso que adquiri esse modelo.
 >c  [175.442]         [_context][x]    Adquiri há 1 mês
 >   [175.442]           [DESIGN][+]    Aparelho mais bonito pessoalmente (dourado).
@@ -599,8 +593,6 @@
 
 <   [226.594]    [ARMAZENAMENTO][-]    Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória.
 >   [226.594]            [OUTRO][-]    Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
-
-<   [226.595]          [PRODUTO][-]    Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
 <   [227.597][PRODUTO EMPRESA BATERIA][-]    Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
 >   [227.597]         [outscope][-]    Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.

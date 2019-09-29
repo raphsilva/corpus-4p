@@ -31,8 +31,6 @@
 <   [009.024]            [VÍDEO][+]    Porém, me incomodou o ruído presente no momento de gravação de videos.
 >   [009.024]            [ÁUDIO][-]    Porém, me incomodou o ruído presente no momento de gravação de videos. A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
 
-<   [009.025]    [PRODUTO VÍDEO][+]    A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
-
 <   [009.026]   [PRODUTO IMAGEM][+]    Não recomento a câmera para quem queira fazer videos profissionais, fora isso, é uma boa câmera, e a qualidade de imagem para fotos é incrível.
 >   [009.026]           [VÍDEO][-.]    Não recomento a câmera para quem queira fazer videos profissionais
 >   [009.026]          [PRODUTO][+]    é uma boa câmera
@@ -77,7 +75,6 @@
 >   [026.063]             [PESO][+]    leve.
 >   [026.063]      [USABILIDADE][+]    agradável manuseio.
 >   [026.063]   [ARMAZENAMENTO][-.]    Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
->   [026.063]    [ARMAZENAMENTO][!]    Mas já substituí o cartão de 8gb por um de 32gb.
 
 <   [028.069]             [ZOOM][+]    Excelente zoom e muitos recursos!
 >   [028.069]             [ZOOM][+]    Excelente zoom.
@@ -95,8 +92,6 @@
 
 <   [034.084]          [PRODUTO][+]    Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações.
 >   [034.084]         [PRODUTO][++]    Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações. Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
-
-<   [034.085]          [PRODUTO][+]    Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
 <   [039.095]          [PRODUTO][+]    Ganhei de presente e não usei ainda.Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
 >   [039.095]         [PRODUTO][+.]    Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.

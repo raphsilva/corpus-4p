@@ -1173,6 +1173,12 @@ i  [174.432]       [irrelevant][x]    Meu primeiro Moto G foi o Moto G3 Turbo.
 
    [174.437]          [PRODUTO][+]    Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
 
+J  [174.438]          [PRODUTO][+]    Grrrr), e já me encantei com alguns Galaxy.
+
+J  [174.439]            [PREÇO][+]    Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
+
+J  [174.440]          [PRODUTO][+]    Agora, só Moto G.
+
    [175.441]          [PRODUTO][+]    Amando meu Moto G plus.
 
 c  [175.442]         [_context][x]    Adquiri há 1 mês
@@ -1576,6 +1582,8 @@ i  [225.587]       [irrelevant][x]    O aparelho era um presente para a minha es
    [226.593]            [OUTRO][-]    O alarme-despertador não toca se o aparelho estiver desligado.
 
    [226.594]            [OUTRO][-]    Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
+
+J  [226.595]          [PRODUTO][-]    Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
    [227.596]          [PRODUTO][-]    Estou insatisfeita com o produto que eu adquiri.
 

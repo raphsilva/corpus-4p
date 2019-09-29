@@ -43,8 +43,6 @@ def getInfo(filename, count_pol=False):
     data = io.open(filename, 'r', encoding="utf-8").read()  # Read file
 
     for line in data.splitlines():
-        print(filename)
-        print(line)
 
         # Skip blank lines
         if len(line) == 0:
@@ -59,13 +57,13 @@ def getInfo(filename, count_pol=False):
         if line[0] == '#':
             continue
 
-        # Unexpected line (not a coment, not metadata, not data)
+        # Unexpected line (not a comment, not metadata, not data)
         if '[' not in line:
             print("Weird line. Please check:")
             print(line, end="\n")
             continue
 
-        flags = line[0:line.find('(')]  # Gets flags (such as 'd' for "duplicated", 'x' for "garbage")
+        flag = line[0:line.find('(')].replace(' ', '')  # Gets flags (such as 'd' for "duplicated", 'x' for "garbage")
 
         line = line[line.find('('):]  # Removes flags from line (were already saved)
 
@@ -82,7 +80,7 @@ def getInfo(filename, count_pol=False):
         n['aspect'] = cleanExtraSpaces(info.split(']')[1])
         n['sentence'] = cleanExtraSpaces(sentence)
         n['entry_id'] = entry_id
-        n['flags'] = flags
+        n['flags'] = flag
         n['id_complement'] = ''  # Will be used to identify split and joined sentences.
 
         entry_id += 1
@@ -92,10 +90,10 @@ def getInfo(filename, count_pol=False):
         if count_pol:
             if n['aspect'] != '' and n['aspect'][0] == '_':
                 count_polarities[n['aspect']] += 1
-            elif flags == '':
+            elif flag == '':
                 count_polarities[n['polarity']] += 1
             else:
-                count_polarities[flags] += 1
+                count_polarities[flag] += 1
 
     return r
 
@@ -309,6 +307,9 @@ for filename in files_to_read:
             if p['sentence_id'] == r['sentence_id']:
                 n['excerpts'].append(p['sentence'])
                 if p['flags'] != '':
+                    if p['flags'] == 'J':
+                        n = None
+                        break
                     if p['flags'] == 'd':
                         n['aspect'] = ['duplicate']
                         p['aspect'] = 'duplicate'
@@ -338,11 +339,12 @@ for filename in files_to_read:
             #     n['aspect'] = ['PRODUTO_GENERIC']
             #     p['aspect'] = 'PRODUTO_GENERIC'
 
+        if n == None:
+            continue
+
         if len(n['aspect']) == 0:
             n['aspect'] = ['none']
             n['polarity'] = ['x']
-            # pprint(n)
-            # input()
 
         aspects = n['aspect']
         polarities = n['polarity']
@@ -388,7 +390,6 @@ for filename in files_to_read:
     ##COUNT REVIEWS
     rrr = []
     for i in data_merged:
-        pprint(i)
         if i['review_id'] not in rrr:
             rrr.append(i['review_id'])
 

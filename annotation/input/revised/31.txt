@@ -95,6 +95,7 @@
 
 (009.024) [-][ÁUDIO]  ::  Porém, me incomodou o ruído presente no momento de gravação de videos. A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
 
+J(009.025) [+][PRODUTO VÍDEO]  ::  A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
 
 (009.026) [-.][VÍDEO]  ::  Não recomento a câmera para quem queira fazer videos profissionais
 (009.026) [+][PRODUTO]  ::  é uma boa câmera
@@ -243,9 +244,7 @@ d(023.056) [][]  ::  Ótimo produto.
 (026.063) [+][PESO]  ::  leve.
 (026.063) [+][USABILIDADE]  ::  agradável manuseio.
 (026.063) [-.][ARMAZENAMENTO]  ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
-(026.063) [!][ARMAZENAMENTO]  ::  Mas já substituí o cartão de 8gb por um de 32gb.
-
-
+(026.064) [!][ARMAZENAMENTO]  ::  Mas já substituí o cartão de 8gb por um de 32gb.
 
 
 (027.065) [+][PREÇO]  ::  Excelente custo benefício para um iniciante.
@@ -319,6 +318,7 @@ d(032.078) [][]  ::  Bom legal de usar.
 (034.084) [++][PRODUTO]  ::  Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações. Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
 
+j(034.085) [+][PRODUTO]  ::  Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
 
 (035.086) [+][PRODUTO]  ::  Muito bom.

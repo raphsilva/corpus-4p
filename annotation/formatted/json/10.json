@@ -5258,36 +5258,6 @@
             "sentence": "Já caí na armadilha dos Iphone (itunes.."
         },
         {
-            "id": 438,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Grrrr), e já me encantei com alguns Galaxy."
-        },
-        {
-            "id": 439,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era."
-        },
-        {
-            "id": 440,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Agora, só Moto G."
-        },
-        {
             "id": 441,
             "opinions": [
                 [
@@ -7121,16 +7091,6 @@
             "sentence": "Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória."
         },
         {
-            "id": 595,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!"
-        },
-        {
             "id": 596,
             "opinions": [
                 [
@@ -7287,9 +7247,9 @@
         "ID": "10",
         "Product": "Smartphone Motorola Moto G 5 Plus XT1683",
         "Source": "www.buscape.com.br/smartphone-motorola-moto-g-5-plus-xt1683",
-        "Total of opinions": "795",
+        "Total of opinions": "799",
         "Total of reviews": "229",
-        "Total of sentences": "596",
+        "Total of sentences": "592",
         "Type": "Celular"
     }
 }

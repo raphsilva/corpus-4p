@@ -16,12 +16,12 @@
 
 > File generation date: 2019-09-29
 
-> Total of opinions: 161
+> Total of opinions: 163
 
-> Total of sentences: 131
+> Total of sentences: 129
 
 #_aspect_____________positive__negative___neutral____non-op_____total
-# ACESSÓRIO                 6         4                            10
+# ACESSÓRIO                 6         5                            11
 # ÁUDIO _  _  _  _  _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _   1
 # BATERIA                             1                             1
 # DESIGN _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
@@ -35,12 +35,11 @@
 # TAMANHO _  _  _  _  _  _  1 _  _  _ 1 _  _  _  _  _  _  _  _  _   2
 # TELA                      2                                       2
 # USABILIDADE _  _  _  _  _ 9 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 11
-# _TOTAL__________________135________10_________2_________________147
+# _TOTAL__________________135________11_________2_________________148
 # broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   3 _  _  _ 3
 # context                                                 2         2
 # duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
-# none                                                    3         3
-# outscope _  _  _  _  _  _ 2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
+# outscope                  2         1                             3
 
 
 
@@ -54,6 +53,13 @@ ACESSÓRIO +
 
 (002.017)
 Poderia vir um software pelo menos trial para poder editar fotos.
+
+ACESSÓRIO - 
+
+
+
+(002.015)
+Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
 
 ACESSÓRIO - 
 
@@ -745,15 +751,15 @@ broken x
 
 
 
-(002.013)
-Só para caráter de comparação.
+(002.016)
+Auxilia muito no transporte.
 
 context x 
 
 
 
-(002.015)
-Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
+(002.013)
+Só para caráter de comparação.
 
 context x 
 
@@ -791,27 +797,6 @@ duplicate x
 Recomendo, recomendo super.
 
 duplicate x 
-
-
-
-(020.074)
-Manual ou automático.
-
-none x 
-
-
-
-(002.016)
-Auxilia muito no transporte.
-
-none x 
-
-
-
-(047.140)
-Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
-
-none x 
 
 
 

@@ -251,7 +251,7 @@ b(012.049) [][]  ::  Câmera rebel T5.
 
 (020.073) [+][TELA]  ::  O Display é bem fácil de acessar
 (020.073) [+][FOCO]  ::   controle de foco fácil. Manual ou automático.
-#j (020.074) [][]  ::   Manual ou automático.
+J (020.074) [][]  ::   Manual ou automático.
 
 
 
@@ -481,6 +481,7 @@ d(038.118) [][]  ::  Excelente Produto.
 
 
 (047.139) [-][outscope]  ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+J (047.140) [-][PRODUTO]  ::  Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 
 
 

@@ -1625,7 +1625,13 @@ i(174.432) [][] :: Meu primeiro Moto G foi o Moto G3 Turbo.
 
 (174.437) [+][PRODUTO] :: Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
 
+J(174.438) [+][PRODUTO] :: Grrrr), e já me encantei com alguns Galaxy.
 
+
+J(174.439) [+][PREÇO] :: Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
+
+
+J(174.440) [+][PRODUTO] :: Agora, só Moto G.
 
 
 
@@ -2180,6 +2186,7 @@ i(225.587) [][] :: O aparelho era um presente para a minha esposa, em comemoraç
 
 (226.594) [-][OUTRO] :: Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
+J(226.595) [-][PRODUTO] :: Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
 
 

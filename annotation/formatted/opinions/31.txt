@@ -36,7 +36,7 @@
 # _TOTAL__________________109_________8_________3_________________120
 # broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
 # duplicate                                              12        12
-# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
+# outscope _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 1 _  _  _ 1
 
 
 
@@ -45,7 +45,7 @@
 
 005.013.0002)   [-][ACESSÓRIO]         ::  Algumas informações não vieram no Manual.
 
-026.063.0003)   [!][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
+026.064.0003)   [!][ARMAZENAMENTO]     ::  Mas já substituí o cartão de 8gb por um de 32gb.
 
 026.063.0004)  [-.][ARMAZENAMENTO]     ::  Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.
 
@@ -233,77 +233,81 @@
 
 039.095.0096)  [+.][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
 
-011.031.0097)   [+][RESISTÊNCIA]       ::  Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
+009.025.0097)   [+][PRODUTO VÍDEO]     ::  A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
 
-041.101.0098)  [+.][TAMANHO]           ::  Não tão grande.
+011.031.0098)   [+][RESISTÊNCIA]       ::  Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
 
-033.081.0099)  [++][TELA]              ::  Display perfeito.
+041.101.0099)  [+.][TAMANHO]           ::  Não tão grande.
 
-005.012.0100)   [&][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
+033.081.0100)  [++][TELA]              ::  Display perfeito.
 
-033.081.0101)   [+][USABILIDADE]       ::  Fácil manuseio.
+005.012.0101)   [&][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
 
-041.101.0102)   [+][USABILIDADE]       ::  Fácil manuseio.
+033.081.0102)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-014.038.0103)   [+][USABILIDADE]       ::  Fácil de manusear.
+041.101.0103)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-015.040.0104)   [+][USABILIDADE]       ::  Facilidade no uso.
+014.038.0104)   [+][USABILIDADE]       ::  Fácil de manusear.
 
-020.051.0105)   [+][USABILIDADE]       ::  Facilidade no uso.
+015.040.0105)   [+][USABILIDADE]       ::  Facilidade no uso.
 
-026.063.0106)   [+][USABILIDADE]       ::  Agradável manuseio.
+020.051.0106)   [+][USABILIDADE]       ::  Facilidade no uso.
 
-009.023.0107)   [+][USABILIDADE]       ::  Muito fácil de usar.
+026.063.0107)   [+][USABILIDADE]       ::  Agradável manuseio.
 
-032.079.0108)   [+][USABILIDADE]       ::  Ótima legal de usar.
+009.023.0108)   [+][USABILIDADE]       ::  Muito fácil de usar.
 
-006.015.0109)   [+][USABILIDADE]       ::  Muito fácil manuseio.
+032.079.0109)   [+][USABILIDADE]       ::  Ótima legal de usar.
 
-020.050.0110)   [+][USABILIDADE]       ::  Maquina Boa utilização.
+006.015.0110)   [+][USABILIDADE]       ::  Muito fácil manuseio.
 
-008.020.0111)   [+][USABILIDADE]       ::  Amei super facil de usar.
+020.050.0111)   [+][USABILIDADE]       ::  Maquina Boa utilização.
 
-015.041.0112)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
+008.020.0112)   [+][USABILIDADE]       ::  Amei super facil de usar.
 
-040.097.0113)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
+015.041.0113)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
 
-009.026.0114)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
+040.097.0114)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
 
-017.045.0115)   [+][ZOOM]              ::  Ótimo zoom.
+009.026.0115)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
 
-026.063.0116)   [+][ZOOM]              ::  Com ótimo zoom.
+017.045.0116)   [+][ZOOM]              ::  Ótimo zoom.
 
-028.069.0117)   [+][ZOOM]              ::  Excelente zoom.
+026.063.0117)   [+][ZOOM]              ::  Com ótimo zoom.
 
-025.061.0118)   [+][ZOOM]              ::  Excelente zoom (42).
+028.069.0118)   [+][ZOOM]              ::  Excelente zoom.
 
-022.055.0119)   [+][ZOOM]              ::  O zoom dela é incrível!
+025.061.0119)   [+][ZOOM]              ::  Excelente zoom (42).
 
-018.047.0120)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
+022.055.0120)   [+][ZOOM]              ::  O zoom dela é incrível!
 
-045.112.0121)   [x][broken]            ::  Nenhuma.
+018.047.0121)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
 
-038.092.0122)   [x][duplicate]         ::  Bom.
+045.112.0122)   [x][broken]            ::  Nenhuma.
 
-043.107.0123)   [x][duplicate]         ::  MT bom.
+038.092.0123)   [x][duplicate]         ::  Bom.
 
-022.054.0124)   [x][duplicate]         ::  Muito boa!
+043.107.0124)   [x][duplicate]         ::  MT bom.
 
-028.067.0125)   [x][duplicate]         ::  Muito boa.
+022.054.0125)   [x][duplicate]         ::  Muito boa!
 
-035.087.0126)   [x][duplicate]         ::  Muito bom.
+028.067.0126)   [x][duplicate]         ::  Muito boa.
 
-037.091.0127)   [x][duplicate]         ::  Muito bom.
+035.087.0127)   [x][duplicate]         ::  Muito bom.
 
-038.093.0128)   [x][duplicate]         ::  Muito bom.
+037.091.0128)   [x][duplicate]         ::  Muito bom.
 
-023.056.0129)   [x][duplicate]         ::  Ótimo produto.
+038.093.0129)   [x][duplicate]         ::  Muito bom.
 
-032.078.0130)   [x][duplicate]         ::  Bom legal de usar.
+023.056.0130)   [x][duplicate]         ::  Ótimo produto.
 
-016.042.0131)   [x][duplicate]         ::  Ótimo custo-benefício.
+032.078.0131)   [x][duplicate]         ::  Bom legal de usar.
 
-027.066.0132)   [x][duplicate]         ::  Excelente custo benefício.
+016.042.0132)   [x][duplicate]         ::  Ótimo custo-benefício.
 
-036.089.0133)   [x][duplicate]         ::  Produto coerente com todas as especificações técnicas.
+027.066.0133)   [x][duplicate]         ::  Excelente custo benefício.
+
+036.089.0134)   [x][duplicate]         ::  Produto coerente com todas as especificações técnicas.
+
+034.085.0135)   [x][outscope]          ::  Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 

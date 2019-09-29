@@ -237,16 +237,6 @@
             "sentence": "Porém, me incomodou o ruído presente no momento de gravação de videos."
         },
         {
-            "id": 25,
-            "opinions": [
-                [
-                    "none",
-                    "x"
-                ]
-            ],
-            "sentence": "A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece."
-        },
-        {
             "excerpts": [
                 "Não recomento a câmera para quem queira fazer videos profissionais",
                 "é uma boa câmera",
@@ -709,8 +699,7 @@
                 "com ótimo zoom.",
                 "leve.",
                 "agradável manuseio.",
-                "Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.",
-                "Mas já substituí o cartão de 8gb por um de 32gb."
+                "Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna."
             ],
             "id": 63,
             "opinions": [
@@ -737,10 +726,6 @@
                 [
                     "ARMAZENAMENTO",
                     "-."
-                ],
-                [
-                    "ARMAZENAMENTO",
-                    "!"
                 ]
             ],
             "sentence": "Recomendo essa excelente câmera Canon SX520!Me agradou muito sua funcionalidade, com ótimo zoom, leve e agradável manuseio.Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna."
@@ -749,8 +734,8 @@
             "id": 64,
             "opinions": [
                 [
-                    "none",
-                    "x"
+                    "ARMAZENAMENTO",
+                    "!"
                 ]
             ],
             "sentence": "Mas já substituí o cartão de 8gb por um de 32gb."
@@ -990,7 +975,7 @@
             "id": 85,
             "opinions": [
                 [
-                    "none",
+                    "outscope",
                     "x"
                 ]
             ],
@@ -1272,8 +1257,8 @@
         "Number of reviews": "45",
         "Product": "Câmera Digital Canon PowerShot SX520 HS 16.0 Megapixels",
         "Source": "www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels",
-        "Total of opinions": "133",
-        "Total of sentences": "108",
+        "Total of opinions": "135",
+        "Total of sentences": "107",
         "Type": "Câmera"
     }
 }

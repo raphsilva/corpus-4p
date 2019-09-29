@@ -16,9 +16,9 @@
 
 > File generation date: 2019-09-29
 
-> Total of opinions: 813
+> Total of opinions: 846
 
-> Total of sentences: 641
+> Total of sentences: 610
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                          11                            11
@@ -37,13 +37,12 @@
 # TELA _  _  _  _  _  _  _ 19 _  _  _ 1 _  _  _  _  _  _  _  _  _  20
 # USABILIDADE               9                                       9
 # _TOTAL__________________603________98________12_________________713
-# broken                                                 18        18
+# broken                                                 19        19
 # context _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 18 _  _   18
-# duplicate                                              25        25
+# duplicate                                              26        26
 # irrelevant _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 11 _  _   11
-# none                                                   35        35
-# outscope _  _  _  _  _  _ 9 _  _   16 _  _  _  _  _  _  _  _  _  25
-# unintelligible                                          1         1
+# outscope                  9        16                            25
+# unintelligible _  _  _  _  _  _  _  _  _  _  _  _  _  _ 1 _  _  _ 1
 
 
 
@@ -561,6 +560,13 @@ PREÇO -
 
 (188.576)
 Podia ter melhor custo-benefício.
+
+PREÇO - 
+
+
+
+(212.653)
+Pouco tempo mas caro para o que oferece.
 
 PREÇO - 
 
@@ -1770,6 +1776,13 @@ PRODUTO +
 
 
 
+(094.284)
+De mais, excelente!
+
+PRODUTO + 
+
+
+
 (111.331)
 Excelente aparelho.
 
@@ -2722,6 +2735,13 @@ PRODUTO -.
 
 
 
+(212.652)
+S7 razoavel.
+
+PRODUTO . 
+
+
+
 (125.380)
 Comprei no sabado e recebi na terça.Uma dica .
 
@@ -2892,6 +2912,13 @@ broken x
 
 (220.675)
 Geral.
+
+broken x 
+
+
+
+(202.621)
+Queda.
 
 broken x 
 
@@ -3233,6 +3260,13 @@ duplicate x
 
 
 
+(156.466)
+Vai um conselho: NÃO COMPREM NA SARAIVA !!!!
+
+duplicate x 
+
+
+
 (087.261)
 Queria manter num top de linha e peguei o S7.
 
@@ -3359,251 +3393,6 @@ irrelevant x
 
 
 
-(202.621)
-Queda.
-
-none x 
-
-
-
-(094.284)
-De mais, excelente!
-
-none x 
-
-
-
-(189.582)
-Perdi valor sedex ??
-
-none x 
-
-
-
-(156.474)
-NÃO COMPREM NA SARAIVA !
-
-none x 
-
-
-
-(038.102)
-Foi um salto de qualidade.
-
-none x 
-
-
-
-(217.668)
-Como em qualquer operadora.
-
-none x 
-
-
-
-(202.620)
-Trincou todo o display na 1a.
-
-none x 
-
-
-
-(108.324)
-Diz que vieram mas não apareceram não.
-
-none x 
-
-
-
-(125.381)
-Coloquem no seguro porque nao é barato!
-
-none x 
-
-
-
-(210.646)
-A loja com o melhor preço é o Carrefour.
-
-none x 
-
-
-
-(208.635)
-Liguei o mesmo e funcionou corretamente.
-
-none x 
-
-
-
-(212.653)
-Pouco tempo mas caro para o que oferece.
-
-none x 
-
-
-
-(165.498)
-E nesse quesito o S7 não deixa a desejar.
-
-none x 
-
-
-
-(086.253)
-Queria manter num top de linha e peguei o S7.
-
-none x 
-
-
-
-(217.667)
-O preço só é valido para quem assina um plano.
-
-none x 
-
-
-
-(189.581)
-Acabou demorando 15 dias e veio por transportadora.
-
-none x 
-
-
-
-(156.470)
-Por que não acreditar na palavra de um cliente idôneo.
-
-none x 
-
-
-
-(075.218)
-Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
-
-none x 
-
-
-
-(210.647)
-Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
-
-none x 
-
-
-
-(208.634)
-Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema.
-
-none x 
-
-
-
-(156.468)
-SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip.
-
-none x 
-
-
-
-(156.471)
-Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro.
-
-none x 
-
-
-
-(208.633)
-Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online)
-
-none x 
-
-
-
-(199.614)
-Uma sugestão para o Always On seria exibir o ícone de outros apps, como o whatsapp, facebook e instagram.
-
-none x 
-
-
-
-(156.473)
-Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA.
-
-none x 
-
-
-
-(209.642)
-Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
-
-none x 
-
-
-
-(156.469)
-Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno.
-
-none x 
-
-
-
-(075.217)
-Minhas experiências anteriores com Samsung se resumiam em hardware muito bom, mas com ROM sofrível de tanto lixo que colocavam.
-
-none x 
-
-
-
-(156.467)
-Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca.
-
-none x 
-
-
-
-(181.552)
-Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
-
-none x 
-
-
-
-(217.669)
-Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
-
-none x 
-
-
-
-(181.551)
-O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
-
-none x 
-
-
-
-(140.420)
-Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
-
-none x 
-
-
-
-(214.660)
-Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
-
-none x 
-
-
-
-(156.472)
-Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente.
-
-none x 
-
-
-
 (005.013)
 Parabéns Shopfacil.com.
 
@@ -3702,13 +3491,6 @@ outscope -
 
 
 
-(156.466)
-Vai um conselho: NÃO COMPREM NA SARAIVA !!!!
-
-outscope - 
-
-
-
 (108.323)
 Ainda não recebi a distribuidora não apareceu com celular ainda.
 
@@ -3739,6 +3521,13 @@ outscope -
 
 (189.579)
 Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
+
+outscope - 
+
+
+
+(156.467)
+Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca.
 
 outscope - 
 
@@ -4107,14 +3896,6 @@ PREÇO -
 
 
 
-(212.652)
-S7 razoavel.
-
-PRODUTO . 
-PREÇO - 
-
-
-
 (117.350)
 Produto de boa qualidade, supera as expectativas.
 
@@ -4201,6 +3982,15 @@ Excelente produto acessórios um pouco carros para ter todos, mais o óculos foi
 PRODUTO + 
 ACESSÓRIO -.
 ACESSÓRIO -.
+
+
+
+(094.283)
+Velocidade de processamento boa e design agradável.O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
+
+DESEMPENHO + 
+DESIGN + 
+ACESSÓRIO - 
 
 
 
@@ -4462,16 +4252,6 @@ Celular Bom mas poderia ser mais barato e resistente.
 PRODUTO + 
 PREÇO - 
 RESISTÊNCIA - 
-
-
-
-(094.283)
-Velocidade de processamento boa e design agradável.O único defeito é que a películas protetoras disponíveis no mercado não protegem toda a tela por conta do design ligeiramente curvo.
-
-DESEMPENHO + 
-DESIGN + 
-ACESSÓRIO - 
-PRODUTO + 
 
 
 

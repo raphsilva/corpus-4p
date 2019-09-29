@@ -16,9 +16,9 @@
 
 > File generation date: 2019-09-29
 
-> Total of opinions: 133
+> Total of opinions: 135
 
-> Total of sentences: 108
+> Total of sentences: 107
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 1         1                             2
@@ -40,7 +40,7 @@
 # _TOTAL__________________109_________8_________3_________________120
 # broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
 # duplicate                                              12        12
-# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
+# outscope _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 1 _  _  _ 1
 
 
 
@@ -49,6 +49,13 @@
 Algumas informações não viram no Manual.
 
 ACESSÓRIO - 
+
+
+
+(026.064)
+Mas já substituí o cartão de 8gb por um de 32gb.
+
+ARMAZENAMENTO ! 
 
 
 
@@ -682,24 +689,10 @@ duplicate x
 
 
 
-(026.064)
-Mas já substituí o cartão de 8gb por um de 32gb.
-
-none x 
-
-
-
 (034.085)
 Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
-none x 
-
-
-
-(009.025)
-A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
-
-none x 
+outscope x 
 
 
 
@@ -825,7 +818,6 @@ ZOOM +
 PESO + 
 USABILIDADE + 
 ARMAZENAMENTO -.
-ARMAZENAMENTO ! 
 
 
 
