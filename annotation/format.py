@@ -344,7 +344,7 @@ for filename in files_to_read:
             #     p['aspect'] = 'PRODUTO_GENERIC'
 
         if len(n['aspect']) == 0:
-            n['aspect'] = ['_NONE']
+            n['aspect'] = ['_none']
             n['polarity'] = ['x']
             # pprint(n)
             # input()
