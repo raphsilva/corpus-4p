@@ -1,14 +1,15 @@
-# Córpus de opiniões em português sobre produtos eletrônicos para sumarização contrastiva
+# Corpus of opinions in Portuguese about electronic products for contrastive summarization
 
-Este repositório contém um córpus que foi construído para testar métodos de sumarização contrastiva de opinião, que é uma tarefa que visa comparar duas entidades por meio de resumos de textos opinativos sobre elas. Houve anotação manual de informações sobre as opiniões contidas em cada sentença, sendo cada opinião indicada por seu aspecto e polaridade: o aspecto é a característica do produto que a opinião avalia e a polaridade indica se a opinião é positiva ou negativa. As 642 sentenças do córpus foram coletadas de 542 comentários opinativos publicados por compradores no site Buscapé e se referem a quatro produtos diferentes: dois aparelhos de telefone móvel e dois modelos de câmera. O córpus foi estendido por meio da criação de entidades fictícias que contêm sentenças das entidades reais selecionadas com diferentes estratégias, para, com isso, simular outras possibilidades de conjuntos de textos opinativos. Formaram-se dois pares de entidades reais e seis pares fictícios. 
+This repository contains a corpus that was built to test methods of contrastive opinion summarization, which is a task that aims to compare two entities from  opinionated texts written about them. There was manual annotation of information about the opinions contained in each sentence, each opinion being indicated by its aspect and polarity: the aspect is the characteristic of the product that the opinion evaluates and the polarity indicates whether the opinion is positive or negative. The 642 sentences of the corpus were collected from 542 opinionated reviews published by buyers on Buscapé website and refer to four different products: two mobile phones and two digital cameras. The corpus was extended through the creation of fictitious entities that contain sentences of the selected real entities with different strategies to simulate other possibilities of sets of opinionated texts. Two pairs of real entities and six fictitious pairs were formed.
 
-## Conteúdo
 
-Este repositório contém dois diretórios que são versões diferentes do mesmo córpus: o diretório `clean` contém uma versão limpa e estendida para uso geral, e o diretório `whole` contém toda a informação extraída do site, incluindo informações inúteis para a tarefa de sumarização contrastiva (devidamente marcadas como tal). 
+## Contents
+
+This repository contains two directories that are different versions of the same corpus: the `dataset` directory contains a clean, extended version for general use, and the` annotation` directory contains the files and scripts used for annotation and all information extracted from the site, including information that are not necessarily useful for the task of contrastive summarization.
 
 ### Dataset 
 
-A versão para leitura automática do conjunto de dados contém 16 arquivos em formato JSON. Cada arquivo contém opiniões sobre uma entidade. As entidades D1a, D1b, D2a e D2b são reais e as demais são fictícias, formadas a partir de subconjuntos das sentenças das entidades reais. O formato dos arquivos é como no exemplo abaixo. As opiniões da sentença são representadas por uma palavra identificando o aspecto e um número identificando a polaridade: 100 para positivo, -100 para negativo e 0 para neutro. Opiniões irrelevantes não estão presentes nesses conjuntos.
+The clean and extended version of the dataset contains 16 files in JSON format. Each file contains opinions about an entity. The entities D1a, D1b, D2a and D2b are real and the others are fictitious, formed from subsets of the sentences of real entities. The format of the files is as in the example below. The opinions found in sentences are represented by a word that identifies the aspect and a number that identifies the polarity: 100 for positive, -100 for negative, and 0 for neutral. Irrelevant opinions are not present in these sets.
 
 ```
 {
@@ -62,6 +63,6 @@ A versão para leitura automática do conjunto de dados contém 16 arquivos em f
 
 ### Annotation
 
-O diretório de anotação contém todos os dados extraídos da fonte e as informações inseridas pelos anotadores. Ela contém arquivos para os quatro produtos cujos comentários foram coletados.
+The annotation directory contains all data extracted from the source and the information entered by the annotators. It contains files for the four products whose comments have been collected.
 
-Além dos conjuntos de dados, o diretório contém o script que foi usado para transformar os dados anotados em seu formato final.
+In addition to the datasets, the directory contains the script that was used to transform annotated data into its final format.
