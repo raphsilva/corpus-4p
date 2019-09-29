@@ -238,7 +238,7 @@ def lineAspectsCounts(list_of_aspects, aspect):
 
 # Kludge to be able to sort Portuguese words alphabetically. 
 s = 'aáÁàÀAâÂbBcCçÇdDeêÊéEfFgGğĞhHiİîÎíīıIÍjJkKlLmMnNóoOÓöÖôpPqQrRsSşŞtTuUÚûúÛüÜvVwWxXyYzZ_'
-s2 = 'aaaaaaaabbccccddeeeeeffgggghhiiiiiiiiijjkkllmmnnooooooÔppqqrrssssttuuuuuuuuvvwwxxyyzzz'
+s2 = 'aaAaAAaAbBcCcCdDeeEeEfFgGgGhHiIiIiiıIIjJkKlLmMnNooOOoOopPqQrRsSsStTuUUuuUuUvVwWxXyYzZ_'
 trans = str.maketrans(s, s2)
 
 
@@ -246,7 +246,7 @@ def unikey(seq):
     # if '_' in seq:  # Specific for the aspect '_TOTAL_', which goes in the last line of the table.
     #     return 'zzzzzzzzzz'
     if seq == '_TOTAL_':
-        return 'yz'
+        return 'zz'
     return seq.translate(trans)
 
 
@@ -315,22 +315,22 @@ for filename in files_to_read:
                 n['excerpts'].append(p['sentence'])
                 if p['flags'] != '':
                     if p['flags'] == 'd':
-                        n['aspect'] = ['_duplicate']
+                        n['aspect'] = ['duplicate']
                         p['aspect'] = '_duplicate'
                     elif p['flags'] == 'u':
-                        n['aspect'] = ['_unintelligible']
+                        n['aspect'] = ['unintelligible']
                         p['aspect'] = '_unintelligible'
                     elif p['flags'] == 'b':
-                        n['aspect'] = ['_broken']
+                        n['aspect'] = ['broken']
                         p['aspect'] = '_broken'
                     elif p['flags'] == 'i':
-                        n['aspect'] = ['_irrelevant']
+                        n['aspect'] = ['irrelevant']
                         p['aspect'] = '_irrelevant'
                     elif p['flags'] == 'c':
-                        n['aspect'] = ['_context']
+                        n['aspect'] = ['context']
                         p['aspect'] = '_context'
                     else:
-                        n['aspect'] = ['_outscope']
+                        n['aspect'] = ['outscope']
                         p['aspect'] = '_outscope'
                     n['polarity'] = ['x']
                     p['polarity'] = 'x'
@@ -344,7 +344,7 @@ for filename in files_to_read:
             #     p['aspect'] = 'PRODUTO_GENERIC'
 
         if len(n['aspect']) == 0:
-            n['aspect'] = ['_none']
+            n['aspect'] = ['none']
             n['polarity'] = ['x']
             # pprint(n)
             # input()
