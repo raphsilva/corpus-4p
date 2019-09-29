@@ -67,7 +67,7 @@ c(002.013) [][]  ::  Só para caráter de comparação:
 
 
 (002.015) [-][ACESSÓRIO]  ::  Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
-c(002.015) [][]  ::  Auxilia muito no transporte.
+c(002.016) [][]  ::  Auxilia muito no transporte.
 
 
 (002.017) [-][ACESSÓRIO]  ::  Poderia vir um software pelo menos trial para poder editar fotos.
