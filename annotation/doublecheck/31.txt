@@ -14,7 +14,7 @@
 
 > Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 
    [001.001]   [+][PRODUTO]           ::  Excelente produto.
@@ -113,7 +113,7 @@
 
    [015.041]   [+][IMAGEM]            ::  Maquina de boa resolução das fotos.
 
-d  [016.042]   [x][_DUPLICATE]        ::  Ótimo custo-benefício.
+d  [016.042]   [x][_duplicate]        ::  Ótimo custo-benefício.
 
    [016.043]   [+][PREÇO]             ::  Adquiri o produto e avalio ótimo custo-benefício.
 
@@ -139,13 +139,13 @@ d  [016.042]   [x][_DUPLICATE]        ::  Ótimo custo-benefício.
 
    [021.053]  [+.][PRODUTO]           ::  Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
 
-d  [022.054]   [x][_DUPLICATE]        ::  Muito boa!
+d  [022.054]   [x][_duplicate]        ::  Muito boa!
 
    [022.055]   [+][PRODUTO]           ::  Câmera muito boa!
 
    [022.055]   [+][ZOOM]              ::  O zoom dela é incrível!
 
-d  [023.056]   [x][_DUPLICATE]        ::  Ótimo produto.
+d  [023.056]   [x][_duplicate]        ::  Ótimo produto.
 
    [023.057]   [+][PRODUTO]           ::  Ótimo produto, superou minhas expectativas, recomendo.
 
@@ -181,9 +181,9 @@ d  [023.056]   [x][_DUPLICATE]        ::  Ótimo produto.
 
    [027.065]   [+][PREÇO]             ::  Excelente custo benefício para um iniciante.
 
-d  [027.066]   [x][_DUPLICATE]        ::  Excelente custo benefício.
+d  [027.066]   [x][_duplicate]        ::  Excelente custo benefício.
 
-d  [028.067]   [x][_DUPLICATE]        ::  Muito boa.
+d  [028.067]   [x][_duplicate]        ::  Muito boa.
 
    [028.068]   [+][PRODUTO]           ::  Produto muito bom.
 
@@ -207,7 +207,7 @@ d  [028.067]   [x][_DUPLICATE]        ::  Muito boa.
 
    [031.077]   [+][PRODUTO]           ::  Grava Vídeos.
 
-d  [032.078]   [x][_DUPLICATE]        ::  Bom legal de usar.
+d  [032.078]   [x][_duplicate]        ::  Bom legal de usar.
 
    [032.079]   [+][USABILIDADE]       ::  Ótima legal de usar.
 
@@ -231,19 +231,19 @@ d  [032.078]   [x][_DUPLICATE]        ::  Bom legal de usar.
 
    [035.086]   [+][PRODUTO]           ::  Muito bom.
 
-d  [035.087]   [x][_DUPLICATE]        ::  Muito bom.
+d  [035.087]   [x][_duplicate]        ::  Muito bom.
 
    [036.088]   [+][PRODUTO]           ::  Produto coerente com todas as especificações técnicas.
 
-d  [036.089]   [x][_DUPLICATE]        ::  Produto coerente com todas as especificações técnicas.
+d  [036.089]   [x][_duplicate]        ::  Produto coerente com todas as especificações técnicas.
 
    [037.090]   [+][PRODUTO]           ::  Bom.
 
-d  [037.091]   [x][_DUPLICATE]        ::  Muito bom.
+d  [037.091]   [x][_duplicate]        ::  Muito bom.
 
-d  [038.092]   [x][_DUPLICATE]        ::  Bom.
+d  [038.092]   [x][_duplicate]        ::  Bom.
 
-d  [038.093]   [x][_DUPLICATE]        ::  Muito bom.
+d  [038.093]   [x][_duplicate]        ::  Muito bom.
 
    [039.094]   [+][PRODUTO]           ::  Produto show de bola.
 
@@ -271,7 +271,7 @@ d  [038.093]   [x][_DUPLICATE]        ::  Muito bom.
 
    [042.105]   [+][IMAGEM]            ::  se você ama registrar momentos noturno essa câmera não deixa a desejar.
 
-d  [043.107]   [x][_DUPLICATE]        ::  MT bom.
+d  [043.107]   [x][_duplicate]        ::  MT bom.
 
    [043.108]   [+][PRODUTO]           ::  Mt boa.
 
@@ -281,5 +281,5 @@ d  [043.107]   [x][_DUPLICATE]        ::  MT bom.
 
    [045.111]   [+][PRODUTO]           ::  Bom.
 
-b  [045.112]   [x][_BROKEN]           ::  Nenhuma.
+b  [045.112]   [x][_broken]           ::  Nenhuma.
 

@@ -14,7 +14,7 @@
 
   Human revisers: Raphael (May 2018, September 2019)
 
-  File generation date: 2019-09-28
+  File generation date: 2019-09-29
 
 
 <   [002.004]   [+][PRODUTO BATERIA USABILIDADE]  ::  O produto vem com correia para evitar quedas, duas lentes para fotografia, o corpo é resistente, a qualidade de fotografia é superior se comparado a prozoomers, Acompanha bateria, tampas de lentes para evitar riscos e manchas ao manusear.
@@ -34,7 +34,7 @@
 >   [002.009]   [+][FOCO]              ::  O foco automático é ótimo para poses.
 
 <   [002.013]   [+][PRODUTO]           ::  Só para caráter de comparação.
->c  [002.013]   [x][_CONTEXT]          ::  Só para caráter de comparação:
+>c  [002.013]   [x][_context]          ::  Só para caráter de comparação:
 
 <   [002.014]   [+][PREÇO]             ::  Só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
 >   [002.014]   [+][PREÇO]             ::  só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
@@ -111,7 +111,7 @@
 
 <   [040.124]   [+][PRODUTO EMPRESA DESEMPENHO]  ::  Produto me agradou muito e a entrega foi rápida.
 >   [040.124]   [+][PRODUTO]           ::  Produto me agradou muito
->   [040.124]   [+][_outscope]         ::  a entrega foi rápida.
+>   [040.124]   [+][outscope]          ::  a entrega foi rápida.
 
 <   [043.130]   [+][TAMANHO LENTE DESIGN PREÇO USABILIDADE]  ::  Confesso que me surpreendi com ela.Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.Em que pese a lente do kit basico ser de abertura maxima 3,5 nao muito apropriada para ambientes de pouca iluminacao e internos, por ter um sensor grande o ISO pode ir ate 1600 com um minimo de ruido.O acabamento e muito bom e da impressao de resistencia.O custo beneficio vale a pena.Vantajosa no tocante ao uso de outras lentes e de facil troca.Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 >   [043.130]   [+][PRODUTO]           ::  Confesso que me surpreendi com ela.
@@ -120,11 +120,11 @@
 >   [043.130]   [+][DESIGN]            ::  O acabamento e muito bom e da impressao de resistencia.
 >   [043.130]   [+][PREÇO]             ::  O custo beneficio vale a pena.
 >   [043.130]   [+][USABILIDADE]       ::  Vantajosa no tocante ao uso de outras lentes e de facil troca.
->   [043.130]   [+][_outscope]         ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
+>   [043.130]   [+][outscope]          ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
 >   [043.130]   [+][PRODUTO]           ::  Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 
 <   [047.139]   [-][PRODUTO]           ::  Anuncio falso.
->   [047.139]   [-][_outscope]         ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+>   [047.139]   [-][outscope]          ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 
 <   [047.140]   [-][PRODUTO]           ::  Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 

@@ -14,7 +14,7 @@
 
 > Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 
    [001.001]   [+][PREÇO]             ::  Bom custo/benefício.
@@ -87,9 +87,9 @@
 
    [008.021]   [+][PRODUTO]           ::  Meu 1° aparelho Foi o Motog-1 daí em tão Não quis outra marca ... Por isso dei credibilidade Ao fabricante Motorola..Agora adiquiri o ( Motog-5 plus ) Aparelho sensacional Motorola está de parabéns TKS ....
 
-d  [009.022]   [x][_DUPLICATE]        ::  Satisfeito.
+d  [009.022]   [x][_duplicate]        ::  Satisfeito.
 
-d  [009.023]   [x][_DUPLICATE]        ::  Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+d  [009.023]   [x][_duplicate]        ::  Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
 
    [010.024]   [+][PRODUTO]           ::  Excelente.
 
@@ -99,9 +99,9 @@ d  [009.023]   [x][_DUPLICATE]        ::  Meu primeiro Motorola foi o Moto-g ( 1
 
    [011.027]   [+][PRODUTO]           ::  Show de bola, era o que eu procurava.
 
-u  [012.028]   [x][_UNINTELLIGIBLE]   ::  ...
+u  [012.028]   [x][_unintelligible]   ::  ...
 
-u  [012.029]   [x][_UNINTELLIGIBLE]   ::  ...
+u  [012.029]   [x][_unintelligible]   ::  ...
 
    [013.030]   [+][PRODUTO]           ::  Satisfeita.
 
@@ -109,7 +109,7 @@ u  [012.029]   [x][_UNINTELLIGIBLE]   ::  ...
 
    [014.032]   [+][PRODUTO]           ::  Excelente.
 
-d  [014.033]   [x][_DUPLICATE]        ::  Excelente.
+d  [014.033]   [x][_duplicate]        ::  Excelente.
 
    [015.034]   [+][PRODUTO]           ::  Elogio.
 
@@ -125,7 +125,7 @@ d  [014.033]   [x][_DUPLICATE]        ::  Excelente.
 
    [017.039]   [+][PRODUTO]           ::  Útil.
 
-b  [018.040]   [x][_BROKEN]           ::  Moto g plus.
+b  [018.040]   [x][_broken]           ::  Moto g plus.
 
    [018.041]   [+][PRODUTO]           ::  Muito bom!
 
@@ -147,7 +147,7 @@ b  [018.040]   [x][_BROKEN]           ::  Moto g plus.
 
    [020.046]  [++][CÂMERA]            ::  câmeras perfeitas.
 
-b  [021.047]   [x][_BROKEN]           ::  Moto G.
+b  [021.047]   [x][_broken]           ::  Moto G.
 
    [021.048]   [+][PRODUTO]           ::  O produto é muito bom e atende ao requerido.
 
@@ -227,7 +227,7 @@ b  [021.047]   [x][_BROKEN]           ::  Moto G.
 
    [030.070]   [+][PREÇO]             ::  O preço estava bom.
 
-   [030.070]   [+][_outscope]         ::  chegou bem rápido.
+   [030.070]   [+][outscope]          ::  chegou bem rápido.
 
    [031.071]   [+][PREÇO]             ::  Excelente custo-benefício.
 
@@ -255,7 +255,7 @@ b  [021.047]   [x][_BROKEN]           ::  Moto G.
 
    [032.079]   [-][SISTEMA]           ::  Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
 
-b  [033.080]   [x][_BROKEN]           ::  Moto G5plus.
+b  [033.080]   [x][_broken]           ::  Moto G5plus.
 
    [033.081]   [+][PRODUTO]           ::  Ótimo!
 
@@ -285,7 +285,7 @@ b  [033.080]   [x][_BROKEN]           ::  Moto G5plus.
 
    [037.089]   [+][USABILIDADE]       ::  fácil mexer, até o momento não tenho queixas.
 
-   [037.090]   [+][_outscope]         ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+   [037.090]   [+][outscope]          ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
 
    [038.091]   [+][PRODUTO]           ::  Ótimo produto.
 
@@ -333,13 +333,13 @@ b  [033.080]   [x][_BROKEN]           ::  Moto G5plus.
 
    [045.107]   [+][TAMANHO]           ::  Muito bom, tamanho ideal.
 
-b  [046.108]   [x][_BROKEN]           ::  Preço.
+b  [046.108]   [x][_broken]           ::  Preço.
 
-i  [046.109]   [x][_IRRELEVANT]       ::  Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+i  [046.109]   [x][_irrelevant]       ::  Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
 
    [047.110]   [+][PREÇO]             ::  Ótima relação custo-benefício.
 
-d  [047.111]   [x][_DUPLICATE]        ::  Ótima relação custo-benefício.
+d  [047.111]   [x][_duplicate]        ::  Ótima relação custo-benefício.
 
    [048.112]   [+][PRODUTO]           ::  Celular bom.
 
@@ -359,7 +359,7 @@ d  [047.111]   [x][_DUPLICATE]        ::  Ótima relação custo-benefício.
 
    [050.117]   [+][PRODUTO]           ::  Ótimo.
 
-b  [050.118]   [x][_BROKEN]           ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+b  [050.118]   [x][_broken]           ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
 
    [050.119]   [+][PRODUTO]           ::  Estou muito satisfeito com o aparelho.
 
@@ -393,7 +393,7 @@ b  [050.118]   [x][_BROKEN]           ::  Na verdade, por enquanto é pequena, p
 
    [054.130]   [-][CÂMERA]            ::  só a câmera não é tudo aquilo que é anunciado me decepcionou.
 
-d  [055.131]   [x][_DUPLICATE]        ::  Cumpre o que promete.
+d  [055.131]   [x][_duplicate]        ::  Cumpre o que promete.
 
    [055.132]   [+][PRODUTO]           ::  Bom produto, funciona bem.
 
@@ -401,7 +401,7 @@ d  [055.131]   [x][_DUPLICATE]        ::  Cumpre o que promete.
 
    [055.132]   [+][PRODUTO]           ::  cumpre o que promete.
 
-b  [056.133]   [x][_BROKEN]           ::  Moto G5 Plus.
+b  [056.133]   [x][_broken]           ::  Moto G5 Plus.
 
    [056.134]   [+][PRODUTO]           ::  Celular excelente!
 
@@ -457,7 +457,7 @@ b  [056.133]   [x][_BROKEN]           ::  Moto G5 Plus.
 
    [064.151]   [+][PREÇO]             ::  Excelente custo-benefício.
 
-b  [065.152]   [x][_BROKEN]           ::  Memória.
+b  [065.152]   [x][_broken]           ::  Memória.
 
    [065.153]   [+][PRODUTO]           ::  Bom.
 
@@ -497,9 +497,9 @@ b  [065.152]   [x][_BROKEN]           ::  Memória.
 
    [071.167]   [+][PRODUTO]           ::  Excelente.
 
-b  [072.168]   [x][_BROKEN]           ::  Avaliação do produto.
+b  [072.168]   [x][_broken]           ::  Avaliação do produto.
 
-i  [072.169]   [x][_IRRELEVANT]       ::  Já tive um moto E.
+i  [072.169]   [x][_irrelevant]       ::  Já tive um moto E.
 
    [073.170]   [+][PRODUTO]           ::  Barato.
 
@@ -507,7 +507,7 @@ i  [072.169]   [x][_IRRELEVANT]       ::  Já tive um moto E.
 
    [074.172]   [+][PRODUTO]           ::  Bom aparelho, atende na maioria dos requisitos!
 
-   [074.173]   [+][_outscope]         ::  Entrega rápida.
+   [074.173]   [+][outscope]          ::  Entrega rápida.
 
    [074.173]   [+][PRODUTO]           ::  e até então estou gostando muito do aparelho.
 
@@ -555,7 +555,7 @@ i  [072.169]   [x][_IRRELEVANT]       ::  Já tive um moto E.
 
    [081.189]   [+][PREÇO]             ::  Celular com ótimo custo-benefício.
 
-   [081.190]   [+][_outscope]         ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
+   [081.190]   [+][outscope]          ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
 
    [081.190]   [+][PRODUTO]           ::  produto muito bom, atendendo as expectativas da marca Moto.
 
@@ -599,7 +599,7 @@ i  [072.169]   [x][_IRRELEVANT]       ::  Já tive um moto E.
 
    [086.205]  [+.][PRODUTO]           ::  nao tive nenhum problema por enquanto.
 
-   [086.206]   [+][_outscope]         ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
+   [086.206]   [+][outscope]          ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
 
    [087.207]   [+][PRODUTO]           ::  Intermediário de ponta.
 
@@ -657,7 +657,7 @@ i  [072.169]   [x][_IRRELEVANT]       ::  Já tive um moto E.
 
    [095.229]   [+][PRODUTO]           ::  Extremamente satisfeito.
 
-b  [096.230]   [x][_BROKEN]           ::  Moto g 5 Plus.
+b  [096.230]   [x][_broken]           ::  Moto g 5 Plus.
 
    [096.231]   [+][PRODUTO]           ::  Muito bom aparelho.
 
@@ -671,7 +671,7 @@ b  [096.230]   [x][_BROKEN]           ::  Moto g 5 Plus.
 
    [098.235]   [+][PREÇO]             ::  Bom celular pelo custo.
 
-c  [098.236]   [x][_CONTEXT]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+c  [098.236]   [x][_context]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
    [098.237]   [-][DESEMPENHO]        ::  Achei o Moto G5 um pouco mais lento e ocasionalmente trava e reinicia sozinho.
 
@@ -709,21 +709,21 @@ c  [098.236]   [x][_CONTEXT]          ::  Ja disponho de aparelhos semelhantes d
 
    [105.252]   [-][CÂMERA]            ::  e a camera deixa bastante a desejar.
 
-   [106.253]   [-][_outscope]         ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+   [106.253]   [-][outscope]          ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
 
-   [106.254]   [-][_outscope]         ::  COMO VOU SABER, SE NÃO RECEBI.
+   [106.254]   [-][outscope]          ::  COMO VOU SABER, SE NÃO RECEBI.
 
-   [106.255]  [--][_outscope]         ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+   [106.255]  [--][outscope]          ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
 
    [107.256]   [+][PREÇO]             ::  Bom custo/beneficio.
 
    [107.257]   [+][PRODUTO]           ::  Gostei do celular.
 
-b  [108.258]   [x][_BROKEN]           ::  Chato.
+b  [108.258]   [x][_broken]           ::  Chato.
 
-b  [108.259]   [x][_BROKEN]           ::  Chato.
+b  [108.259]   [x][_broken]           ::  Chato.
 
-b  [109.260]   [x][_BROKEN]           ::  Moto G5 Plus.
+b  [109.260]   [x][_broken]           ::  Moto G5 Plus.
 
    [109.261]  [+.][PRODUTO]           ::  Duas semanas de uso e tudo bem
 
@@ -815,7 +815,7 @@ b  [109.260]   [x][_BROKEN]           ::  Moto G5 Plus.
 
    [124.296]   [+][PRODUTO]           ::  Gostei.
 
-b  [124.298]   [x][_BROKEN]           ::  Bateria.
+b  [124.298]   [x][_broken]           ::  Bateria.
 
    [124.299]   [+][BATERIA]           ::  Dura bastante tempo.
 
@@ -829,7 +829,7 @@ b  [124.298]   [x][_BROKEN]           ::  Bateria.
 
    [126.303]  [+.][PRODUTO]           ::  Bom mas pode melhorar.
 
-c  [126.304]   [x][_CONTEXT]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
+c  [126.304]   [x][_context]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
    [126.305]   [-][CÂMERA]            ::  A câmera tem menos estabilidade, sinto de alguns app's exclusivos da série Galaxy.
 
@@ -849,11 +849,11 @@ c  [126.304]   [x][_CONTEXT]          ::  Na verdade faço comparação com a Sa
 
    [126.312]   [+][PRODUTO]           ::  Bem...é bem legal.
 
-   [126.312]   [-][_outscope]         ::  faltou um pouco de capricho pelo fabricante.
+   [126.312]   [-][outscope]          ::  faltou um pouco de capricho pelo fabricante.
 
-b  [127.313]   [x][_BROKEN]           ::  Pesquisa de opiniao - compra smartphone moto g5.
+b  [127.313]   [x][_broken]           ::  Pesquisa de opiniao - compra smartphone moto g5.
 
-i  [127.314]   [x][_IRRELEVANT]       ::  Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
+i  [127.314]   [x][_irrelevant]       ::  Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
 
    [128.315]   [+][PRODUTO]           ::  Bom produto.
 
@@ -877,9 +877,9 @@ i  [127.314]   [x][_IRRELEVANT]       ::  Smartphone Motorola Moto G5 XT1672 Oct
 
    [130.322]   [+][CÂMERA]            ::  Câmera muito boa.
 
-b  [131.323]   [x][_BROKEN]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+b  [131.323]   [x][_broken]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-c  [131.324]   [x][_CONTEXT]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas
+c  [131.324]   [x][_context]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas
 
    [131.324]   [-][TELA]              ::  ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
@@ -893,15 +893,15 @@ c  [131.324]   [x][_CONTEXT]          ::  Olha realmente tenho esse produto que 
 
    [133.328]   [-][BATERIA]           ::  apenas a bateria a bateria podia ser melhor.
 
-b  [134.329]   [x][_BROKEN]           ::  Otima.
+b  [134.329]   [x][_broken]           ::  Otima.
 
-i  [134.330]   [x][_IRRELEVANT]       ::  Não comprei não está havendo algum erro aí..
+i  [134.330]   [x][_irrelevant]       ::  Não comprei não está havendo algum erro aí..
 
    [135.331]   [+][PRODUTO]           ::  Nota 10.
 
    [135.332]   [+][PRODUTO]           ::  Muito satisfeito.
 
-b  [136.333]   [x][_BROKEN]           ::  Moto G Plus.
+b  [136.333]   [x][_broken]           ::  Moto G Plus.
 
    [136.334]   [+][PRODUTO]           ::  Ótimo!
 
@@ -913,7 +913,7 @@ b  [136.333]   [x][_BROKEN]           ::  Moto G Plus.
 
    [138.338]   [+][PREÇO]             ::  Celular de ótimo custo-benefício.
 
-   [138.338]   [+][_outscope]         ::  entregue antes do prazo.
+   [138.338]   [+][outscope]          ::  entregue antes do prazo.
 
    [138.339]   [+][PRODUTO]           ::  Recomendo.
 
@@ -941,7 +941,7 @@ b  [136.333]   [x][_BROKEN]           ::  Moto G Plus.
 
    [142.348]   [+][PRODUTO]           ::  Produto excelente.
 
-c  [142.349]   [x][_CONTEXT]          ::  Foi presente.
+c  [142.349]   [x][_context]          ::  Foi presente.
 
    [143.350]   [+][PRODUTO]           ::  Muito bom.
 
@@ -971,13 +971,13 @@ c  [142.349]   [x][_CONTEXT]          ::  Foi presente.
 
    [147.359]   [#][PRODUTO]           ::  Ainda é cedo.
 
-u  [148.360]   [x][_UNINTELLIGIBLE]   ::  Cxb.
+u  [148.360]   [x][_unintelligible]   ::  Cxb.
 
    [148.361]   [+][PREÇO]             ::  Bom.
 
    [149.362]   [+][PRODUTO]           ::  Otimo produto.
 
-d  [149.363]   [x][_DUPLICATE]        ::  Otimo produto.
+d  [149.363]   [x][_duplicate]        ::  Otimo produto.
 
    [150.364]   [.][PRODUTO]           ::  Razoável.
 
@@ -999,7 +999,7 @@ d  [149.363]   [x][_DUPLICATE]        ::  Otimo produto.
 
    [151.368]   [+][PRODUTO]           ::  Ótimo.
 
-d  [151.369]   [x][_DUPLICATE]        ::  Ótimo.
+d  [151.369]   [x][_duplicate]        ::  Ótimo.
 
    [152.370]   [+][PREÇO]             ::  Produto de excelente custo-benefício.
 
@@ -1013,7 +1013,7 @@ d  [151.369]   [x][_DUPLICATE]        ::  Ótimo.
 
    [152.373]   [+][PRODUTO]           ::  Recomendo!
 
-b  [153.374]   [x][_BROKEN]           ::  MOTOG 5 PLUS.
+b  [153.374]   [x][_broken]           ::  MOTOG 5 PLUS.
 
    [153.375]   [+][DESEMPENHO]        ::  Processador rápido.
 
@@ -1117,9 +1117,9 @@ b  [153.374]   [x][_BROKEN]           ::  MOTOG 5 PLUS.
 
    [167.411]   [+][PREÇO]             ::  Vale a pena pelo custo benefício.
 
-b  [168.413]   [x][_BROKEN]           ::  Celular.
+b  [168.413]   [x][_broken]           ::  Celular.
 
-d  [168.414]   [x][_DUPLICATE]        ::  Uso para falar e web,.
+d  [168.414]   [x][_duplicate]        ::  Uso para falar e web,.
 
    [169.415]   [+][PRODUTO]           ::  Bom.
 
@@ -1139,7 +1139,7 @@ d  [168.414]   [x][_DUPLICATE]        ::  Uso para falar e web,.
 
    [170.421]   [+][OUTRO]             ::  Gostei do fato de ter o rádio, pois as vezes é útil.
 
-b  [171.422]   [x][_BROKEN]           ::  MOTO G5.
+b  [171.422]   [x][_broken]           ::  MOTO G5.
 
    [171.423]   [.][PRODUTO]           ::  NORMAL.
 
@@ -1161,7 +1161,7 @@ b  [171.422]   [x][_BROKEN]           ::  MOTO G5.
 
    [174.431]  [++][PREÇO]             ::  Sem comparação, o melhor custo benefício da história.
 
-i  [174.432]   [x][_IRRELEVANT]       ::  Meu primeiro Moto G foi o Moto G3 Turbo.
+i  [174.432]   [x][_irrelevant]       ::  Meu primeiro Moto G foi o Moto G3 Turbo.
 
    [174.433]   [+][PRODUTO]           ::  Agora eu comprei o Moto G5 Plus, e não fica a dever a 99% dos aparelhos do mercado.
 
@@ -1175,7 +1175,7 @@ i  [174.432]   [x][_IRRELEVANT]       ::  Meu primeiro Moto G foi o Moto G3 Turb
 
    [175.441]   [+][PRODUTO]           ::  Amando meu Moto G plus.
 
-c  [175.442]   [x][_CONTEXT]          ::  Adquiri há 1 mês
+c  [175.442]   [x][_context]          ::  Adquiri há 1 mês
 
    [175.442]   [+][DESIGN]            ::  Aparelho mais bonito pessoalmente (dourado).
 
@@ -1247,17 +1247,17 @@ c  [175.442]   [x][_CONTEXT]          ::  Adquiri há 1 mês
 
    [182.460]   [-][DESIGN]            ::  deveria ter acabamento mais refinado.
 
-d  [183.461]   [x][_DUPLICATE]        ::  Excelente Custo benefício.
+d  [183.461]   [x][_duplicate]        ::  Excelente Custo benefício.
 
    [183.462]   [+][PREÇO]             ::  Excelente Custo benefício.
 
    [183.462]   [+][PRODUTO]           ::  celular muito bom, não precisa mais q isso.
 
-b  [184.463]   [x][_BROKEN]           ::  Moto G5.
+b  [184.463]   [x][_broken]           ::  Moto G5.
 
    [184.464]   [+][PRODUTO]           ::  Ótimo produto.
 
-   [184.464]   [+][_outscope]         ::  entrega rápida.
+   [184.464]   [+][outscope]          ::  entrega rápida.
 
    [184.464]   [-][DESEMPENHO]        ::  só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 
@@ -1273,13 +1273,13 @@ b  [184.463]   [x][_BROKEN]           ::  Moto G5.
 
    [186.467]   [+][PRODUTO]           ::  O produto é muito bom.
 
-   [186.467]   [-][_outscope]         ::  não comprei na empresa efacil, empresa ruim.
+   [186.467]   [-][outscope]          ::  não comprei na empresa efacil, empresa ruim.
 
-d  [186.468]   [x][_DUPLICATE]        ::  O produto é muito bom.
+d  [186.468]   [x][_duplicate]        ::  O produto é muito bom.
 
-   [186.468]   [-][_outscope]         ::  não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+   [186.468]   [-][outscope]          ::  não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
-   [186.469]   [-][_outscope]         ::  Por isso cancelei a compra e adquiri em outra empresa.
+   [186.469]   [-][outscope]          ::  Por isso cancelei a compra e adquiri em outra empresa.
 
    [187.470]   [+][PRODUTO]           ::  Muito bom produto.
 
@@ -1327,15 +1327,15 @@ d  [186.468]   [x][_DUPLICATE]        ::  O produto é muito bom.
 
    [195.492]   [+][PRODUTO]           ::  Meu terceiro aparelho da Motorola, não me arrependo!
 
-d  [196.493]   [x][_DUPLICATE]        ::  Mais um produto de alta qualidade!
+d  [196.493]   [x][_duplicate]        ::  Mais um produto de alta qualidade!
 
-d  [196.494]   [x][_DUPLICATE]        ::  Meu terceiro aparelho Motorola, não me arrependo!
+d  [196.494]   [x][_duplicate]        ::  Meu terceiro aparelho Motorola, não me arrependo!
 
    [197.495]   [+][PRODUTO]           ::  Ótimo.
 
    [197.496]   [+][PREÇO]             ::  Eu recomendo, custo beneficio são ótimo.
 
-b  [198.497]   [x][_BROKEN]           ::  Moto G5.
+b  [198.497]   [x][_broken]           ::  Moto G5.
 
    [198.498]   [+][PRODUTO]           ::  Gosto muito dele e quero muito ganhar o iPad.
 
@@ -1377,7 +1377,7 @@ b  [198.497]   [x][_BROKEN]           ::  Moto G5.
 
    [206.516]   [+][PRODUTO]           ::  Como sempre um produto sem igual!
 
-d  [206.517]   [x][_DUPLICATE]        ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+d  [206.517]   [x][_duplicate]        ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
 
    [207.518]   [+][PRODUTO]           ::  Como sempre um produto que atende as expectativas do comprador!
 
@@ -1413,9 +1413,9 @@ d  [206.517]   [x][_DUPLICATE]        ::  Este é o meu terceiro aparelho da Mot
 
    [210.526]   [+][DESEMPENHO]        ::  o principal é que os oito processadores cumprem muito bem sua função!
 
-u  [211.527]   [x][_UNINTELLIGIBLE]   ::  Xxx.
+u  [211.527]   [x][_unintelligible]   ::  Xxx.
 
-u  [211.528]   [x][_UNINTELLIGIBLE]   ::  Xxx xxxx xxx x xx.
+u  [211.528]   [x][_unintelligible]   ::  Xxx xxxx xxx x xx.
 
    [212.529]   [+][PREÇO]             ::  Otimo custo-beneficio.
 
@@ -1433,15 +1433,15 @@ u  [211.528]   [x][_UNINTELLIGIBLE]   ::  Xxx xxxx xxx x xx.
 
    [213.533]  [++][PREÇO]             ::  detalhes fazem dele o melhor custo benefício da categoria.
 
-b  [214.534]   [x][_BROKEN]           ::  Curiosidade.
+b  [214.534]   [x][_broken]           ::  Curiosidade.
 
-i  [214.535]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
+i  [214.535]   [x][_irrelevant]       ::  Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
 
    [215.536]   [-][PRODUTO]           ::  O produto e intermediario digamos que pobre tem que tomar no *** memo.
 
-   [215.537]   [-][_outscope]         ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+   [215.537]   [-][outscope]          ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
 
-   [215.538]   [-][_outscope]         ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
+   [215.538]   [-][outscope]          ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
 
    [215.539]   [-][PRODUTO]           ::  E se vcs quiserem celular bom indico que procurem um iphone da apple mesmo versões mais antigas pois nunca perdem valor de mercado apple e apple...
 
@@ -1457,7 +1457,7 @@ i  [214.535]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário dest
 
    [216.545]  [--][PRODUTO]           ::  Foi o pior aparelho que já comprei, não recomendo para ninguem.
 
-   [216.546]  [--][_outscope]         ::  Motorola nunca mais!
+   [216.546]  [--][outscope]          ::  Motorola nunca mais!
 
    [217.547]   [-][RESISTÊNCIA]       ::  Desligou sozinho e parau de funcionar.
 
@@ -1493,11 +1493,11 @@ i  [214.535]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário dest
 
    [220.556]   [-][PRODUTO]           ::  Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
 
-   [221.557]   [-][_outscope]         ::  Valor de oferta de 250,00 não corresponde ao produto.
+   [221.557]   [-][outscope]          ::  Valor de oferta de 250,00 não corresponde ao produto.
 
-   [221.558]   [-][_outscope]         ::  Verificar a oferta do Shoptime.
+   [221.558]   [-][outscope]          ::  Verificar a oferta do Shoptime.
 
-   [221.559]   [-][_outscope]         ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+   [221.559]   [-][outscope]          ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
 
    [222.561]  [--][PRODUTO]           ::  MOTO G5: Pior opção possível.
 
@@ -1533,39 +1533,39 @@ i  [214.535]   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário dest
 
    [224.572]   [-][BATERIA]           ::  O produto após duas semanas não carrega mais.
 
-   [224.573]   [-][_outscope]         ::  Tentei entrar em contato com a Onofre e não consegui.
+   [224.573]   [-][outscope]          ::  Tentei entrar em contato com a Onofre e não consegui.
 
-   [225.574]   [-][_outscope]         ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+   [225.574]   [-][outscope]          ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
 
-   [225.575]   [-][_outscope]         ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+   [225.575]   [-][outscope]          ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-c  [225.576]   [x][_CONTEXT]          ::  A promessa foi que o produto seria entregue até 09/05/17.
+c  [225.576]   [x][_context]          ::  A promessa foi que o produto seria entregue até 09/05/17.
 
-c  [225.577]   [x][_CONTEXT]          ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+c  [225.577]   [x][_context]          ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
-   [225.578]   [-][_outscope]         ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+   [225.578]   [-][outscope]          ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
-   [225.579]   [-][_outscope]         ::  Evidentemente houve um erro no envio do produto.
+   [225.579]   [-][outscope]          ::  Evidentemente houve um erro no envio do produto.
 
-c  [225.580]   [x][_CONTEXT]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+c  [225.580]   [x][_context]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
-c  [225.581]   [x][_CONTEXT]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+c  [225.581]   [x][_context]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
-   [225.582]   [-][_outscope]         ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+   [225.582]   [-][outscope]          ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 
-   [225.583]   [.][_outscope]         ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+   [225.583]   [.][outscope]          ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
 
-   [225.584]   [.][_outscope]         ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+   [225.584]   [.][outscope]          ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
 
-   [225.585]   [-][_outscope]         ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+   [225.585]   [-][outscope]          ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
 
-   [225.586]   [-][_outscope]         ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+   [225.586]   [-][outscope]          ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
 
-i  [225.587]   [x][_IRRELEVANT]       ::  O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
+i  [225.587]   [x][_irrelevant]       ::  O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
-   [225.588]   [-][_outscope]         ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
+   [225.588]   [-][outscope]          ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
 
-   [225.589]   [-][_outscope]         ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+   [225.589]   [-][outscope]          ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
    [226.590]   [+][PREÇO]             ::  Boa relação custo-benefício.
 
@@ -1579,13 +1579,13 @@ i  [225.587]   [x][_IRRELEVANT]       ::  O aparelho era um presente para a minh
 
    [227.596]   [-][PRODUTO]           ::  Estou insatisfeita com o produto que eu adquiri.
 
-   [227.597]   [-][_outscope]         ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
+   [227.597]   [-][outscope]          ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
 
    [227.598]   [-][BATERIA]           ::  A bateria mal da pra um dia completo.
 
    [227.599]   [-][PRODUTO]           ::  Estou muito infeliz com a compra desse produto.
 
-   [227.599]   [-][_outscope]         ::  dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+   [227.599]   [-][outscope]          ::  dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
    [227.600]   [-][PRODUTO]           ::  Moto g 5 , não indico pra ninguém.
 
@@ -1597,13 +1597,13 @@ i  [225.587]   [x][_IRRELEVANT]       ::  O aparelho era um presente para a minh
 
    [228.604]   [-][OUTRO]             ::  Troca de bateria só pode ser feita na assistência técnica, pois não é possível abrir a tampa do aparelho.
 
-   [228.605]   [-][_outscope]         ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+   [228.605]   [-][outscope]          ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
 
-   [228.606]   [-][_outscope]         ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+   [228.606]   [-][outscope]          ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
 
    [228.607]  [--][PRODUTO]           ::  MOTO G ou MOTO Z NUNCA MAIS!
 
-b  [229.608]   [x][_BROKEN]           ::  Speaker.
+b  [229.608]   [x][_broken]           ::  Speaker.
 
    [229.609]   [-][SOM]               ::  Alto-falante ruim.
 
