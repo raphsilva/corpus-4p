@@ -921,9 +921,6 @@ d(087.265) [][] :: Realmente resistente a água e a câmera e a duração da bat
 d(087.266) [][] :: Uso muito o aparelho.
 
 
-~~~~~~~~~~~~~~~~~~~~~~
-
-
 
 (088.267) [++][PRODUTO] :: O melhor da Samsung.
 
