@@ -72,7 +72,7 @@
 
 <   [031.078]          [PRODUTO][+]    Excelente celular, mas não tenho mais.
 >   [031.078]          [PRODUTO][+]    Excelente celular.
->i  [031.078]      [_irrelevant][x]    Não tenho mais.
+>i  [031.078]       [irrelevant][x]    Não tenho mais.
 
 <   [036.092]          [PRODUTO][+]    Bom, porem frágil.
 >   [036.092]          [PRODUTO][+]    Bom.
@@ -280,7 +280,7 @@
 >   [101.303]          [BATERIA][+]    Comparando com S4 e S5, a bateria dura muito mais...
 
 <   [104.311][PRODUTO DESEMPENHO ARMAZENAMENTO][+]    Ótimo produto, velocidade do processador e espaço em RAM perfeitos! Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
->d  [104.311]       [_duplicate][x]    Ótimo produto
+>d  [104.311]        [duplicate][x]    Ótimo produto
 >   [104.311]      [DESEMPENHO][++]    velocidade do processador perfeito!
 >   [104.311]   [ARMAZENAMENTO][++]    espaço perfeito!
 >   [104.311]      [DESEMPENHO][++]    RAM perfeita!
@@ -445,7 +445,7 @@
 >   [153.455]           [CÂMERA][+]    A câmera traseira é muito boa, porém em condições de baixa luminosidade a perda de qualidade é absurda.
 
 <   [153.456]   [CÂMERA BATERIA][+]    O mesmo para a câmera traseira, guardadas as devidas proporções. Os apps não travam nem engasgam. A duração da bateria não é tão boa quanto deveria.
->b  [153.456]          [_broken][x]    O mesmo para a câmera traseira, guardadas as devidas proporções.
+>b  [153.456]           [broken][x]    O mesmo para a câmera traseira, guardadas as devidas proporções.
 >   [153.456]       [DESEMPENHO][+]    Os apps não travam nem engasgam.
 >   [153.456]          [BATERIA][-]    A duração da bateria não é tão boa quanto deveria. Tem dias que dura apenas 10 horas de uso moderado.
 
@@ -518,7 +518,7 @@
 
 <   [170.518]       [DESEMPENHO][+]    Não possui a mesma beleza de um iphone mais o processador não se compara com o mesmo.
 >   [170.518]           [DESIGN][-]    Não possui a mesma beleza de um iphone
->b  [170.518]          [_broken][x]    mais o processador não se compara com o mesmo.
+>b  [170.518]           [broken][x]    mais o processador não se compara com o mesmo.
 
 <   [173.525][PRODUTO TELA CÂMERA][+]    Aparelho rápido, ótimo display e fotos, achei que esquenta quando utilizo o gear vr.
 >   [173.525]       [DESEMPENHO][+]    Aparelho rápido

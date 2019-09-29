@@ -281,29 +281,29 @@
 
 018.047.0120)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
 
-045.112.0121)   [x][_broken]           ::  Nenhuma.
+045.112.0121)   [x][broken]            ::  Nenhuma.
 
-038.092.0122)   [x][_duplicate]        ::  Bom.
+038.092.0122)   [x][duplicate]         ::  Bom.
 
-043.107.0123)   [x][_duplicate]        ::  MT bom.
+043.107.0123)   [x][duplicate]         ::  MT bom.
 
-022.054.0124)   [x][_duplicate]        ::  Muito boa!
+022.054.0124)   [x][duplicate]         ::  Muito boa!
 
-028.067.0125)   [x][_duplicate]        ::  Muito boa.
+028.067.0125)   [x][duplicate]         ::  Muito boa.
 
-035.087.0126)   [x][_duplicate]        ::  Muito bom.
+035.087.0126)   [x][duplicate]         ::  Muito bom.
 
-037.091.0127)   [x][_duplicate]        ::  Muito bom.
+037.091.0127)   [x][duplicate]         ::  Muito bom.
 
-038.093.0128)   [x][_duplicate]        ::  Muito bom.
+038.093.0128)   [x][duplicate]         ::  Muito bom.
 
-023.056.0129)   [x][_duplicate]        ::  Ótimo produto.
+023.056.0129)   [x][duplicate]         ::  Ótimo produto.
 
-032.078.0130)   [x][_duplicate]        ::  Bom legal de usar.
+032.078.0130)   [x][duplicate]         ::  Bom legal de usar.
 
-016.042.0131)   [x][_duplicate]        ::  Ótimo custo-benefício.
+016.042.0131)   [x][duplicate]         ::  Ótimo custo-benefício.
 
-027.066.0132)   [x][_duplicate]        ::  Excelente custo benefício.
+027.066.0132)   [x][duplicate]         ::  Excelente custo benefício.
 
-036.089.0133)   [x][_duplicate]        ::  Produto coerente com todas as especificações técnicas.
+036.089.0133)   [x][duplicate]         ::  Produto coerente com todas as especificações técnicas.
 

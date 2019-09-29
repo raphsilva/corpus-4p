@@ -19,7 +19,7 @@
 
    [001.001]          [PRODUTO][+]    Boa Câmera.
 
-b  [001.002]          [_broken][x]    Pouca, recém comprada.
+b  [001.002]           [broken][x]    Pouca, recém comprada.
 
    [002.003]          [PRODUTO][+]    Começo com pé direito.
 
@@ -113,7 +113,7 @@ c  [002.015]         [_context][x]    Auxilia muito no transporte.
 
    [007.039]          [PRODUTO][+]    Ótimo produto.
 
-d  [008.040]       [_duplicate][x]    Ótimo produto.
+d  [008.040]        [duplicate][x]    Ótimo produto.
 
    [008.041]          [PRODUTO][+]    Excelente.
 
@@ -123,13 +123,13 @@ d  [008.040]       [_duplicate][x]    Ótimo produto.
 
    [010.044]          [PRODUTO][+]    Bom.
 
-d  [010.045]       [_duplicate][x]    Bom.
+d  [010.045]        [duplicate][x]    Bom.
 
    [011.046]          [PRODUTO][+]    Quero ter uma Canon- Eos-rebel-t5- 18,0 Megapixels.
 
    [011.047]          [PRODUTO][+]    Tenho Uma Canon Power Shot SX 40 HS, é uma excelente Câmera, mas gostaria muito de ter uma Canon-Eos-rebel- T5 -18.0 megapixels.
 
-b  [012.049]          [_broken][x]    Câmera rebel T5.
+b  [012.049]           [broken][x]    Câmera rebel T5.
 
    [012.050]          [PRODUTO][+]    Muito bom!
 
@@ -231,9 +231,9 @@ b  [012.049]          [_broken][x]    Câmera rebel T5.
 
    [029.097]          [PRODUTO][+]    Recomendo, recomendo super.
 
-d  [030.098]       [_duplicate][x]    Ótima.
+d  [030.098]        [duplicate][x]    Ótima.
 
-d  [030.099]       [_duplicate][x]    Recomendo, recomendo super.
+d  [030.099]        [duplicate][x]    Recomendo, recomendo super.
 
    [031.100]          [PRODUTO][+]    Registre seus melhores momentos em detalhes!
 
@@ -261,7 +261,7 @@ d  [030.099]       [_duplicate][x]    Recomendo, recomendo super.
 
    [033.108]          [PRODUTO][+]    o produto apresenta diversas características de uso profissional amador, comprei para uso pessoal e tive bons resultados.
 
-b  [034.110]          [_broken][x]    Canon t5.
+b  [034.110]           [broken][x]    Canon t5.
 
    [034.111]          [PRODUTO][+]    Produto de excelente qualidade ! recomendo a todos .
 
@@ -279,7 +279,7 @@ b  [034.110]          [_broken][x]    Canon t5.
 
    [037.117]          [PRODUTO][+]    Faço free lance e está sendo de ótimo benefício!
 
-d  [038.118]       [_duplicate][x]    Excelente Produto.
+d  [038.118]        [duplicate][x]    Excelente Produto.
 
    [038.119]          [PRODUTO][+]    Excelente produto para iniciantes em fotografia.
 

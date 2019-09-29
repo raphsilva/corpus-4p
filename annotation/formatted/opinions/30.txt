@@ -337,25 +337,25 @@
 
 016.062.0148)  [-.][USABILIDADE]       ::  Claro que para usufruir de todas as funções, de maneira eficaz é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.
 
-034.110.0149)   [x][_broken]           ::  Canon t5.
+002.015.0149)   [x][_context]          ::  Auxilia muito no transporte.
 
-012.049.0150)   [x][_broken]           ::  Câmera rebel T5.
+002.013.0150)   [x][_context]          ::  Só para caráter de comparação:
 
-001.002.0151)   [x][_broken]           ::  Pouca, recém comprada.
+034.110.0151)   [x][broken]            ::  Canon t5.
 
-002.015.0152)   [x][_context]          ::  Auxilia muito no transporte.
+012.049.0152)   [x][broken]            ::  Câmera rebel T5.
 
-002.013.0153)   [x][_context]          ::  Só para caráter de comparação:
+001.002.0153)   [x][broken]            ::  Pouca, recém comprada.
 
-010.045.0154)   [x][_duplicate]        ::  Bom.
+010.045.0154)   [x][duplicate]         ::  Bom.
 
-030.098.0155)   [x][_duplicate]        ::  Ótima.
+030.098.0155)   [x][duplicate]         ::  Ótima.
 
-008.040.0156)   [x][_duplicate]        ::  Ótimo produto.
+008.040.0156)   [x][duplicate]         ::  Ótimo produto.
 
-038.118.0157)   [x][_duplicate]        ::  Excelente Produto.
+038.118.0157)   [x][duplicate]         ::  Excelente Produto.
 
-030.099.0158)   [x][_duplicate]        ::  Recomendo, recomendo super.
+030.099.0158)   [x][duplicate]         ::  Recomendo, recomendo super.
 
 040.124.0159)   [+][outscope]          ::  A entrega foi rápida.
 

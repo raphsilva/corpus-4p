@@ -509,7 +509,7 @@
 >   [186.467]         [outscope][-]    não comprei na empresa efacil, empresa ruim.
 
 <   [186.468]  [PRODUTO EMPRESA][+]    O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
->d  [186.468]       [_duplicate][x]    O produto é muito bom.
+>d  [186.468]        [duplicate][x]    O produto é muito bom.
 >   [186.468]         [outscope][-]    não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
 <   [188.476][ARMAZENAMENTO PRODUTO PREÇO][+]    Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel, mas na sua faixa de preço ainda está valendo a pena.

@@ -35,11 +35,11 @@
 
    [003.007]         [outscope][-]    Na propaganda diz ter tv digital é mentira.
 
-d  [004.008]       [_duplicate][x]    Bom produto.
+d  [004.008]        [duplicate][x]    Bom produto.
 
-d  [004.009]       [_duplicate][x]    Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
+d  [004.009]        [duplicate][x]    Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
 
-d  [004.010]       [_duplicate][x]    Na propaganda diz ter tv digital é mentira.
+d  [004.010]        [duplicate][x]    Na propaganda diz ter tv digital é mentira.
 
    [005.011]          [PRODUTO][+]    Excelente produto.
 
@@ -55,7 +55,7 @@ d  [004.010]       [_duplicate][x]    Na propaganda diz ter tv digital é mentir
 
    [006.015]       [DESEMPENHO][+]    Desempenho fantástico.
 
-b  [07.017]          [_broken][x]    Qualidade.
+b  [07.017]           [broken][x]    Qualidade.
 
    [007.018]          [PRODUTO][-]    Produto deixa a desejar.
 
@@ -193,9 +193,9 @@ c  [020.050]         [_context][x]    Mudança do S6 para o S7.
 
    [029.074]           [DESIGN][+]    Excelente acabamento.
 
-d  [030.075]       [_duplicate][x]    Muito bom!
+d  [030.075]        [duplicate][x]    Muito bom!
 
-d  [030.076]       [_duplicate][x]    Amigável, rapido, excelente acabamento.
+d  [030.076]        [duplicate][x]    Amigável, rapido, excelente acabamento.
 
    [031.077]          [PRODUTO][+]    Bom.
 
@@ -203,7 +203,7 @@ d  [030.076]       [_duplicate][x]    Amigável, rapido, excelente acabamento.
 
    [031.078]          [PRODUTO][+]    Excelente celular.
 
-i  [031.078]      [_irrelevant][x]    Não tenho mais.
+i  [031.078]       [irrelevant][x]    Não tenho mais.
 
    [031.079]            [PREÇO][-]    Poderia custar mais barato.
 
@@ -215,21 +215,21 @@ i  [031.078]      [_irrelevant][x]    Não tenho mais.
 
    [033.083]          [PRODUTO][+]    Por enquanto estou muito satisfeito!
 
-u  [034.084]  [_unintelligible][x]    Xvcxcvc.
+u  [034.084]   [unintelligible][x]    Xvcxcvc.
 
-b  [034.085]          [_broken][x]    Tá bom, tá é bom.
+b  [034.085]           [broken][x]    Tá bom, tá é bom.
 
-i  [035.086]      [_irrelevant][x]    Não seio o porque estou respondendo está pesquisa!!!!
+i  [035.086]       [irrelevant][x]    Não seio o porque estou respondendo está pesquisa!!!!
 
-i  [035.087]      [_irrelevant][x]    Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
+i  [035.087]       [irrelevant][x]    Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
 
-i  [035.088]      [_irrelevant][x]    Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
+i  [035.088]       [irrelevant][x]    Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
 
-i  [035.089]      [_irrelevant][x]    Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
+i  [035.089]       [irrelevant][x]    Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
 
-b  [035.090]          [_broken][x]    CISSA MAGAZINE...
+b  [035.090]           [broken][x]    CISSA MAGAZINE...
 
-b  [035.091]          [_broken][x]    SEM FUTURO!!!!!!
+b  [035.091]           [broken][x]    SEM FUTURO!!!!!!
 
    [036.092]          [PRODUTO][+]    Bom.
 
@@ -245,7 +245,7 @@ b  [035.091]          [_broken][x]    SEM FUTURO!!!!!!
 
    [036.095]          [PRODUTO][+]    Exceto pela durabilidade e desempenho, o celular é excelente.
 
-b  [037.097]          [_broken][x]    Samsung S7.
+b  [037.097]           [broken][x]    Samsung S7.
 
    [037.098]          [PRODUTO][+]    Muito bom.
 
@@ -401,9 +401,9 @@ b  [037.097]          [_broken][x]    Samsung S7.
 
    [056.160]          [PRODUTO][+]    O Galaxy S7 não decepciona.
 
-i  [057.162]      [_irrelevant][x]    Porque tenho que avaliar se não tenho o produto.
+i  [057.162]       [irrelevant][x]    Porque tenho que avaliar se não tenho o produto.
 
-i  [057.163]      [_irrelevant][x]    Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
+i  [057.163]       [irrelevant][x]    Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
 
    [057.164]         [PRODUTO][+.]    Pelo que ouço, é um aparelho muito bom, vou comprar
 
@@ -487,7 +487,7 @@ c  [064.190]         [_context][x]    Vamos ver nele como vai.
 
    [066.195]          [PRODUTO][+]    Gostei do celular conforme minhas expectativas.
 
-b  [067.196]          [_broken][x]    Samsung Galaxy S7.
+b  [067.196]           [broken][x]    Samsung Galaxy S7.
 
    [067.197]          [SISTEMA][+]    Interface mais fluida que a versão anterior.
 
@@ -497,7 +497,7 @@ b  [067.196]          [_broken][x]    Samsung Galaxy S7.
 
    [068.198]          [PRODUTO][+]    Otimo.
 
-d  [068.199]       [_duplicate][x]    Otimo.
+d  [068.199]        [duplicate][x]    Otimo.
 
    [069.200]          [PRODUTO][+]    Bom.
 
@@ -525,7 +525,7 @@ d  [068.199]       [_duplicate][x]    Otimo.
 
    [071.208]      [USABILIDADE][+]    O aparelho é de fácil manuseio.
 
-b  [072.210]          [_broken][x]    Cor.
+b  [072.210]           [broken][x]    Cor.
 
    [072.211]           [DESIGN][-]    A cor prata é bem enjoativa.
 
@@ -559,7 +559,7 @@ b  [072.210]          [_broken][x]    Cor.
 
    [079.227]         [PRODUTO][+.]    Celular como qualquer outro nesta faixa de preço, troquei meu Nexus por ele, demorei um pouco para acostumar, mas é bom...
 
-b  [080.228]          [_broken][x]    Samsung s7.
+b  [080.228]           [broken][x]    Samsung s7.
 
    [080.229]          [PRODUTO][+]    Bom produto.
 
@@ -637,21 +637,21 @@ c  [086.252]         [_context][x]    Tinha um Iphone 6 e a baixa duração da b
 
    [086.258]          [PRODUTO][&]    Uso muito o aparelho.
 
-d  [087.259]       [_duplicate][x]    Hardware muito bom.
+d  [087.259]        [duplicate][x]    Hardware muito bom.
 
-d  [087.260]       [_duplicate][x]    Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
+d  [087.260]        [duplicate][x]    Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
 
-d  [087.261]       [_duplicate][x]    Queria manter num top de linha e peguei o S7.
+d  [087.261]        [duplicate][x]    Queria manter num top de linha e peguei o S7.
 
-d  [087.262]       [_duplicate][x]    Quanto ao software, muito poluído.
+d  [087.262]        [duplicate][x]    Quanto ao software, muito poluído.
 
-d  [087.263]       [_duplicate][x]    Poderia ser mais simples.
+d  [087.263]        [duplicate][x]    Poderia ser mais simples.
 
-d  [087.264]       [_duplicate][x]    Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
+d  [087.264]        [duplicate][x]    Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
 
-d  [087.265]       [_duplicate][x]    Realmente resistente a água e a câmera e a duração da bateria me surpreende.
+d  [087.265]        [duplicate][x]    Realmente resistente a água e a câmera e a duração da bateria me surpreende.
 
-d  [087.266]       [_duplicate][x]    Uso muito o aparelho.
+d  [087.266]        [duplicate][x]    Uso muito o aparelho.
 
    [088.267]         [PRODUTO][++]    O melhor da Samsung.
 
@@ -673,15 +673,15 @@ d  [087.266]       [_duplicate][x]    Uso muito o aparelho.
 
    [089.272]          [PRODUTO][+]    Mesmo sendo de 2016, ainda vale muito a pena!
 
-b  [090.273]          [_broken][x]    MEU S7.
+b  [090.273]           [broken][x]    MEU S7.
 
    [090.274]          [PRODUTO][+]    SUPER RECOMENDO, POIS A BATERIA DE TODOS SÃO RUINS, NO MAIS ELE É MARAVILHOSO.
 
    [091.276]          [PRODUTO][+]    Otima.
 
-i  [092.277]      [_irrelevant][x]    NÃO LEIA A DESCRIÇÃO.
+i  [092.277]       [irrelevant][x]    NÃO LEIA A DESCRIÇÃO.
 
-i  [092.278]      [_irrelevant][x]    NÃO LEIA O TITULO.
+i  [092.278]       [irrelevant][x]    NÃO LEIA O TITULO.
 
    [093.279]          [PRODUTO][+]    Celular ótimo.
 
@@ -725,13 +725,13 @@ i  [092.278]      [_irrelevant][x]    NÃO LEIA O TITULO.
 
    [097.291]          [PRODUTO][+]    boas funcionalidades.
 
-d  [098.292]       [_duplicate][x]    Bom produto.
+d  [098.292]        [duplicate][x]    Bom produto.
 
-d  [098.293]       [_duplicate][x]    Um bom produto, com um bom desempenho, câmera e funcionalidades.
+d  [098.293]        [duplicate][x]    Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
-d  [099.294]       [_duplicate][x]    Bom custo/beneficio.
+d  [099.294]        [duplicate][x]    Bom custo/beneficio.
 
-d  [099.295]       [_duplicate][x]    Um bom produto, com um bom desempenho, câmera e funcionalidades.
+d  [099.295]        [duplicate][x]    Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
    [100.296]          [PRODUTO][+]    Ótimo.
 
@@ -769,7 +769,7 @@ d  [099.295]       [_duplicate][x]    Um bom produto, com um bom desempenho, câ
 
    [104.310]          [PRODUTO][+]    Ótimo produto.
 
-d  [104.311]       [_duplicate][x]    Ótimo produto
+d  [104.311]        [duplicate][x]    Ótimo produto
 
    [104.311]      [DESEMPENHO][++]    velocidade do processador perfeito!
 
@@ -929,7 +929,7 @@ c  [118.352]         [_context][x]    Ainda não possui um só vi o do meu amigo
 
    [123.369]           [CÂMERA][+]    A câmera é incrivelmente sensacional.
 
-b  [124.371]          [_broken][x]    S7 Edge.
+b  [124.371]           [broken][x]    S7 Edge.
 
    [124.372]          [PRODUTO][+]    Ótimo.
 
@@ -1055,7 +1055,7 @@ c  [136.409]         [_context][x]    Ainda não pude tê-lo.
 
    [141.422]          [PRODUTO][+]    Muito bom.
 
-d  [141.423]       [_duplicate][x]    Muito bom.
+d  [141.423]        [duplicate][x]    Muito bom.
 
    [142.424]          [PRODUTO][+]    Prudoto bom.
 
@@ -1073,9 +1073,9 @@ c  [143.426]         [_context][x]    Depois do S6, comprei o S7.
 
    [144.429]          [PRODUTO][+]    Maravilhosa.
 
-d  [145.430]       [_duplicate][x]    The best.
+d  [145.430]        [duplicate][x]    The best.
 
-d  [145.431]       [_duplicate][x]    Maravilhosa.
+d  [145.431]        [duplicate][x]    Maravilhosa.
 
    [146.432]          [PRODUTO][+]    É um ótimo aparelho.
 
@@ -1133,7 +1133,7 @@ d  [145.431]       [_duplicate][x]    Maravilhosa.
 
    [153.455]           [CÂMERA][+]    A câmera traseira é muito boa, porém em condições de baixa luminosidade a perda de qualidade é absurda.
 
-b  [153.456]          [_broken][x]    O mesmo para a câmera traseira, guardadas as devidas proporções.
+b  [153.456]           [broken][x]    O mesmo para a câmera traseira, guardadas as devidas proporções.
 
    [153.456]       [DESEMPENHO][+]    Os apps não travam nem engasgam.
 
@@ -1179,13 +1179,13 @@ c  [153.458]         [_context][x]    Nada de novidade neste quesito.
 
    [161.484]       [DESEMPENHO][+]    Alta qualidade e performance.
 
-d  [162.485]       [_duplicate][x]    Excelente produto.
+d  [162.485]        [duplicate][x]    Excelente produto.
 
-d  [162.486]       [_duplicate][x]    Produto de alta qualidade e performance.
+d  [162.486]        [duplicate][x]    Produto de alta qualidade e performance.
 
    [163.487]          [PRODUTO][+]    Aparelho excelente, cumpre com o prometido.
 
-b  [163.488]          [_broken][x]    Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
+b  [163.488]           [broken][x]    Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
 
    [163.489]         [PRODUTO][++]    Não há aparelho melhor no mercado.
 
@@ -1267,7 +1267,7 @@ c  [165.501]         [_context][x]    e agora não é mais possível usar essa f
 
    [170.518]           [DESIGN][-]    Não possui a mesma beleza de um iphone
 
-b  [170.518]          [_broken][x]    mais o processador não se compara com o mesmo.
+b  [170.518]           [broken][x]    mais o processador não se compara com o mesmo.
 
    [171.519]          [PRODUTO][+]    Produto bom.
 
@@ -1417,7 +1417,7 @@ c  [181.545]         [_context][x]    Surpresas desagradáveis com a compra do a
 
    [188.574]          [PRODUTO][+]    Excelente aparelho.
 
-d  [188.575]       [_duplicate][x]    Aparelho excelente.
+d  [188.575]        [duplicate][x]    Aparelho excelente.
 
    [188.576]            [PREÇO][-]    Podia ter melhor custo-benefício.
 
@@ -1441,7 +1441,7 @@ d  [188.575]       [_duplicate][x]    Aparelho excelente.
 
    [190.585]          [PRODUTO][+]    é um excelente aparelho.
 
-b  [191.586]          [_broken][x]    Celular samsung.
+b  [191.586]           [broken][x]    Celular samsung.
 
    [191.587]          [PRODUTO][+]    Boa.
 
@@ -1575,7 +1575,7 @@ c  [199.608]         [_context][x]    Realizei a troca do galaxy s5 para o galax
 
    [208.638]         [outscope][-]    Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
 
-b  [208.639]          [_broken][x]    Não há explicações para a fragilidade de um produto qu.
+b  [208.639]           [broken][x]    Não há explicações para a fragilidade de um produto qu.
 
    [209.640]         [PRODUTO][-.]    Boas funções mas pouco resistente.
 
@@ -1603,9 +1603,9 @@ b  [208.639]          [_broken][x]    Não há explicações para a fragilidade 
 
    [212.652]            [PREÇO][-]    Pouco tempo mas caro para o que oferece.
 
-b  [213.654]          [_broken][x]    Boa.
+b  [213.654]           [broken][x]    Boa.
 
-b  [213.655]          [_broken][x]    Foi boa.
+b  [213.655]           [broken][x]    Foi boa.
 
    [214.656]          [PRODUTO][+]    Ótima tecnologia
 
@@ -1621,9 +1621,9 @@ c  [214.658]         [_context][x]    Depois disso, os modelos que tive foram su
 
    [217.666]         [outscope][-]    O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
-i  [218.670]      [_irrelevant][x]    Nao comprei.
+i  [218.670]       [irrelevant][x]    Nao comprei.
 
-i  [218.671]      [_irrelevant][x]    Nao comprei.
+i  [218.671]       [irrelevant][x]    Nao comprei.
 
    [219.672]      [RESISTÊNCIA][-]    DEVERIA SE CHAMAR SAMSUNG TRINCA RAPIDO.
 
@@ -1631,7 +1631,7 @@ i  [218.671]      [_irrelevant][x]    Nao comprei.
 
    [219.674]         [outscope][-]    E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
 
-b  [220.675]          [_broken][x]    Geral.
+b  [220.675]           [broken][x]    Geral.
 
    [220.676]        [ACESSÓRIO][-]    Achei ruim a tela ter as bordas curvas, pois nao se encontra o protetor de tela, o que é muito complicado.
 

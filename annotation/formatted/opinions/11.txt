@@ -1474,199 +1474,199 @@
 
 186.570.0715)   [+][USABILIDADE]       ::  Super indico para quem busca praticidade no uso.
 
-213.654.0716)   [x][_broken]           ::  Boa.
+136.409.0716)   [x][_context]          ::  Ainda não pude tê-lo.
 
-072.210.0717)   [x][_broken]           ::  Cor.
+020.050.0717)   [x][_context]          ::  Mudança do S6 para o S7.
 
-220.675.0718)   [x][_broken]           ::  Geral.
+064.190.0718)   [x][_context]          ::  Vamos ver nele como vai.
 
-090.273.0719)   [x][_broken]           ::  MEU S7.
+165.495.0719)   [x][_context]          ::  Migrando do S5 para o S7.
 
-213.655.0720)   [x][_broken]           ::  Foi boa.
+143.426.0720)   [x][_context]          ::  Depois do S6, comprei o S7.
 
-124.371.0721)   [x][_broken]           ::  S7 Edge.
+153.458.0721)   [x][_context]          ::  Nada de novidade neste quesito.
 
-07.017.0722)   [x][_broken]           ::  Qualidade.
+014.035.0722)   [x][_context]          ::  Tinha o s6 e troquei para o s7.
 
-037.097.0723)   [x][_broken]           ::  Samsung S7.
+125.378.0723)   [x][_context]          ::  Vamos ver a bateria daqui um tempo.
 
-080.228.0724)   [x][_broken]           ::  Samsung s7.
+114.341.0724)   [x][_context]          ::  Troquei um S4 octa core por esse S7.
 
-191.586.0725)   [x][_broken]           ::  Celular samsung.
+118.352.0725)   [x][_context]          ::  Ainda não possui um só vi o do meu amigo.
 
-035.091.0726)   [x][_broken]           ::  SEM FUTURO!!!!!!
+199.608.0726)   [x][_context]          ::  Realizei a troca do galaxy s5 para o galaxy s7.
 
-035.090.0727)   [x][_broken]           ::  CISSA MAGAZINE...
+082.235.0727)   [x][_context]          ::  Deixei de comprar o S6 para pegar um mais atual.
 
-034.085.0728)   [x][_broken]           ::  Tá bom, tá é bom.
+181.545.0728)   [x][_context]          ::  Surpresas desagradáveis com a compra do aparelho.
 
-067.196.0729)   [x][_broken]           ::  Samsung Galaxy S7.
+165.501.0729)   [x][_context]          ::  E agora não é mais possível usar essa função na S7)
 
-170.518.0730)   [x][_broken]           ::  Mais o processador não se compara com o mesmo.
+018.046.0730)   [x][_context]          ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
 
-208.639.0731)   [x][_broken]           ::  Não há explicações para a fragilidade de um produto qu.
+086.252.0731)   [x][_context]          ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
 
-153.456.0732)   [x][_broken]           ::  O mesmo para a câmera traseira, guardadas as devidas proporções.
+214.657.0732)   [x][_context]          ::  Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
 
-163.488.0733)   [x][_broken]           ::  Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
+214.658.0733)   [x][_context]          ::  Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
 
-136.409.0734)   [x][_context]          ::  Ainda não pude tê-lo.
+213.654.0734)   [x][broken]            ::  Boa.
 
-020.050.0735)   [x][_context]          ::  Mudança do S6 para o S7.
+072.210.0735)   [x][broken]            ::  Cor.
 
-064.190.0736)   [x][_context]          ::  Vamos ver nele como vai.
+220.675.0736)   [x][broken]            ::  Geral.
 
-165.495.0737)   [x][_context]          ::  Migrando do S5 para o S7.
+090.273.0737)   [x][broken]            ::  MEU S7.
 
-143.426.0738)   [x][_context]          ::  Depois do S6, comprei o S7.
+213.655.0738)   [x][broken]            ::  Foi boa.
 
-153.458.0739)   [x][_context]          ::  Nada de novidade neste quesito.
+124.371.0739)   [x][broken]            ::  S7 Edge.
 
-014.035.0740)   [x][_context]          ::  Tinha o s6 e troquei para o s7.
+07.017.0740)   [x][broken]            ::  Qualidade.
 
-125.378.0741)   [x][_context]          ::  Vamos ver a bateria daqui um tempo.
+037.097.0741)   [x][broken]            ::  Samsung S7.
 
-114.341.0742)   [x][_context]          ::  Troquei um S4 octa core por esse S7.
+080.228.0742)   [x][broken]            ::  Samsung s7.
 
-118.352.0743)   [x][_context]          ::  Ainda não possui um só vi o do meu amigo.
+191.586.0743)   [x][broken]            ::  Celular samsung.
 
-199.608.0744)   [x][_context]          ::  Realizei a troca do galaxy s5 para o galaxy s7.
+035.091.0744)   [x][broken]            ::  SEM FUTURO!!!!!!
 
-082.235.0745)   [x][_context]          ::  Deixei de comprar o S6 para pegar um mais atual.
+035.090.0745)   [x][broken]            ::  CISSA MAGAZINE...
 
-181.545.0746)   [x][_context]          ::  Surpresas desagradáveis com a compra do aparelho.
+034.085.0746)   [x][broken]            ::  Tá bom, tá é bom.
 
-165.501.0747)   [x][_context]          ::  E agora não é mais possível usar essa função na S7)
+067.196.0747)   [x][broken]            ::  Samsung Galaxy S7.
 
-018.046.0748)   [x][_context]          ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
+170.518.0748)   [x][broken]            ::  Mais o processador não se compara com o mesmo.
 
-086.252.0749)   [x][_context]          ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
+208.639.0749)   [x][broken]            ::  Não há explicações para a fragilidade de um produto qu.
 
-214.657.0750)   [x][_context]          ::  Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
+153.456.0750)   [x][broken]            ::  O mesmo para a câmera traseira, guardadas as devidas proporções.
 
-214.658.0751)   [x][_context]          ::  Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
+163.488.0751)   [x][broken]            ::  Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
 
-068.199.0752)   [x][_duplicate]        ::  Otimo.
+068.199.0752)   [x][duplicate]         ::  Otimo.
 
-145.430.0753)   [x][_duplicate]        ::  The best.
+145.430.0753)   [x][duplicate]         ::  The best.
 
-030.075.0754)   [x][_duplicate]        ::  Muito bom!
+030.075.0754)   [x][duplicate]         ::  Muito bom!
 
-141.423.0755)   [x][_duplicate]        ::  Muito bom.
+141.423.0755)   [x][duplicate]         ::  Muito bom.
 
-004.008.0756)   [x][_duplicate]        ::  Bom produto.
+004.008.0756)   [x][duplicate]         ::  Bom produto.
 
-098.292.0757)   [x][_duplicate]        ::  Bom produto.
+098.292.0757)   [x][duplicate]         ::  Bom produto.
 
-145.431.0758)   [x][_duplicate]        ::  Maravilhosa.
+145.431.0758)   [x][duplicate]         ::  Maravilhosa.
 
-104.311.0759)   [x][_duplicate]        ::  Ótimo produto.
+104.311.0759)   [x][duplicate]         ::  Ótimo produto.
 
-162.485.0760)   [x][_duplicate]        ::  Excelente produto.
+162.485.0760)   [x][duplicate]         ::  Excelente produto.
 
-188.575.0761)   [x][_duplicate]        ::  Aparelho excelente.
+188.575.0761)   [x][duplicate]         ::  Aparelho excelente.
 
-087.259.0762)   [x][_duplicate]        ::  Hardware muito bom.
+087.259.0762)   [x][duplicate]         ::  Hardware muito bom.
 
-099.294.0763)   [x][_duplicate]        ::  Bom custo/beneficio.
+099.294.0763)   [x][duplicate]         ::  Bom custo/beneficio.
 
-087.266.0764)   [x][_duplicate]        ::  Uso muito o aparelho.
+087.266.0764)   [x][duplicate]         ::  Uso muito o aparelho.
 
-087.263.0765)   [x][_duplicate]        ::  Poderia ser mais simples.
+087.263.0765)   [x][duplicate]         ::  Poderia ser mais simples.
 
-087.262.0766)   [x][_duplicate]        ::  Quanto ao software, muito poluído.
+087.262.0766)   [x][duplicate]         ::  Quanto ao software, muito poluído.
 
-030.076.0767)   [x][_duplicate]        ::  Amigável, rapido, excelente acabamento.
+030.076.0767)   [x][duplicate]         ::  Amigável, rapido, excelente acabamento.
 
-162.486.0768)   [x][_duplicate]        ::  Produto de alta qualidade e performance.
+162.486.0768)   [x][duplicate]         ::  Produto de alta qualidade e performance.
 
-004.010.0769)   [x][_duplicate]        ::  Na propaganda diz ter tv digital é mentira.
+004.010.0769)   [x][duplicate]         ::  Na propaganda diz ter tv digital é mentira.
 
-087.261.0770)   [x][_duplicate]        ::  Queria manter num top de linha e peguei o S7.
+087.261.0770)   [x][duplicate]         ::  Queria manter num top de linha e peguei o S7.
 
-098.293.0771)   [x][_duplicate]        ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
+098.293.0771)   [x][duplicate]         ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
-099.295.0772)   [x][_duplicate]        ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
+099.295.0772)   [x][duplicate]         ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
-004.009.0773)   [x][_duplicate]        ::  Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
+004.009.0773)   [x][duplicate]         ::  Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
 
-087.265.0774)   [x][_duplicate]        ::  Realmente resistente a água e a câmera e a duração da bateria me surpreende.
+087.265.0774)   [x][duplicate]         ::  Realmente resistente a água e a câmera e a duração da bateria me surpreende.
 
-087.260.0775)   [x][_duplicate]        ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
+087.260.0775)   [x][duplicate]         ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
 
-087.264.0776)   [x][_duplicate]        ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
+087.264.0776)   [x][duplicate]         ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
 
-218.670.0777)   [x][_irrelevant]       ::  Nao comprei.
+218.670.0777)   [x][irrelevant]        ::  Nao comprei.
 
-218.671.0778)   [x][_irrelevant]       ::  Nao comprei.
+218.671.0778)   [x][irrelevant]        ::  Nao comprei.
 
-031.078.0779)   [x][_irrelevant]       ::  Não tenho mais.
+031.078.0779)   [x][irrelevant]        ::  Não tenho mais.
 
-092.278.0780)   [x][_irrelevant]       ::  NÃO LEIA O TITULO.
+092.278.0780)   [x][irrelevant]        ::  NÃO LEIA O TITULO.
 
-092.277.0781)   [x][_irrelevant]       ::  NÃO LEIA A DESCRIÇÃO.
+092.277.0781)   [x][irrelevant]        ::  NÃO LEIA A DESCRIÇÃO.
 
-057.162.0782)   [x][_irrelevant]       ::  Porque tenho que avaliar se não tenho o produto.
+057.162.0782)   [x][irrelevant]        ::  Porque tenho que avaliar se não tenho o produto.
 
-035.086.0783)   [x][_irrelevant]       ::  Não seio o porque estou respondendo está pesquisa!!!!
+035.086.0783)   [x][irrelevant]        ::  Não seio o porque estou respondendo está pesquisa!!!!
 
-057.163.0784)   [x][_irrelevant]       ::  Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
+057.163.0784)   [x][irrelevant]        ::  Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
 
-035.087.0785)   [x][_irrelevant]       ::  Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
+035.087.0785)   [x][irrelevant]        ::  Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
 
-035.089.0786)   [x][_irrelevant]       ::  Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
+035.089.0786)   [x][irrelevant]        ::  Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
 
-035.088.0787)   [x][_irrelevant]       ::  Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
+035.088.0787)   [x][irrelevant]        ::  Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
 
-034.084.0788)   [x][_unintelligible]   ::  Xvcxcvc.
+005.013.0788)   [+][outscope]          ::  Parabéns Shopfacil.com.
 
-005.013.0789)   [+][outscope]          ::  Parabéns Shopfacil.com.
+005.012.0789)   [+][outscope]          ::  A melhor oferta encontrada e entrega rápida.
 
-005.012.0790)   [+][outscope]          ::  A melhor oferta encontrada e entrega rápida.
+134.405.0790)   [+][outscope]          ::  Já sou cliente dos celulares Galaxy eu não troco.
 
-134.405.0791)   [+][outscope]          ::  Já sou cliente dos celulares Galaxy eu não troco.
+021.053.0791)   [+][outscope]          ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
 
-021.053.0792)   [+][outscope]          ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
+125.379.0792)   [+][outscope]          ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
 
-125.379.0793)   [+][outscope]          ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
+018.045.0793)   [+][outscope]          ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
 
-018.045.0794)   [+][outscope]          ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
+023.060.0794)   [+][outscope]          ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
 
-023.060.0795)   [+][outscope]          ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
+166.509.0795)   [+][outscope]          ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
 
-166.509.0796)   [+][outscope]          ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
+140.421.0796)   [+][outscope]          ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
 
-140.421.0797)   [+][outscope]          ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
+210.644.0797)   [-][outscope]          ::  Falso anúncio.
 
-210.644.0798)   [-][outscope]          ::  Falso anúncio.
+193.590.0798)   [-][outscope]          ::  Critica por não ter recebido o blinde.
 
-193.590.0799)   [-][outscope]          ::  Critica por não ter recebido o blinde.
+003.007.0799)   [-][outscope]          ::  Na propaganda diz ter tv digital é mentira.
 
-003.007.0800)   [-][outscope]          ::  Na propaganda diz ter tv digital é mentira.
+219.674.0800)   [-][outscope]          ::  E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
 
-219.674.0801)   [-][outscope]          ::  E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
+189.579.0801)   [-][outscope]          ::  Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
 
-189.579.0802)   [-][outscope]          ::  Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
+108.323.0802)   [-][outscope]          ::  Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
 
-108.323.0803)   [-][outscope]          ::  Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
+189.580.0803)   [-][outscope]          ::  Paguei sedex pra chegar em 3 dias.. Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
 
-189.580.0804)   [-][outscope]          ::  Paguei sedex pra chegar em 3 dias.. Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
+193.591.0804)   [-][outscope]          ::  O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
 
-193.591.0805)   [-][outscope]          ::  O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
+208.637.0805)   [-][outscope]          ::  Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
 
-208.637.0806)   [-][outscope]          ::  Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
+210.645.0806)   [-][outscope]          ::  O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
-210.645.0807)   [-][outscope]          ::  O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
+217.666.0807)   [-][outscope]          ::  O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
-217.666.0808)   [-][outscope]          ::  O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
+194.594.0808)   [-][outscope]          ::  O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
 
-194.594.0809)   [-][outscope]          ::  O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
+208.632.0809)   [-][outscope]          ::  Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
 
-208.632.0810)   [-][outscope]          ::  Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
+181.550.0810)   [-][outscope]          ::  Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
-181.550.0811)   [-][outscope]          ::  Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+208.638.0811)   [-][outscope]          ::  Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
 
-208.638.0812)   [-][outscope]          ::  Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
+156.466.0812)   [-][outscope]          ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
 
-156.466.0813)   [-][outscope]          ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
+034.084.0813)   [x][unintelligible]    ::  Xvcxcvc.
 

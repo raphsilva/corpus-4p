@@ -311,22 +311,22 @@ for filename in files_to_read:
                 if p['flags'] != '':
                     if p['flags'] == 'd':
                         n['aspect'] = ['duplicate']
-                        p['aspect'] = '_duplicate'
+                        p['aspect'] = 'duplicate'
                     elif p['flags'] == 'u':
                         n['aspect'] = ['unintelligible']
-                        p['aspect'] = '_unintelligible'
+                        p['aspect'] = 'unintelligible'
                     elif p['flags'] == 'b':
                         n['aspect'] = ['broken']
-                        p['aspect'] = '_broken'
+                        p['aspect'] = 'broken'
                     elif p['flags'] == 'i':
                         n['aspect'] = ['irrelevant']
-                        p['aspect'] = '_irrelevant'
+                        p['aspect'] = 'irrelevant'
                     elif p['flags'] == 'c':
                         n['aspect'] = ['context']
                         p['aspect'] = '_context'
                     else:
                         n['aspect'] = ['outscope']
-                        p['aspect'] = '_outscope'
+                        p['aspect'] = 'outscope'
                     n['polarity'] = ['x']
                     p['polarity'] = 'x'
                     # continue

@@ -113,7 +113,7 @@
 
    [015.041]           [IMAGEM][+]    Maquina de boa resolução das fotos.
 
-d  [016.042]       [_duplicate][x]    Ótimo custo-benefício.
+d  [016.042]        [duplicate][x]    Ótimo custo-benefício.
 
    [016.043]            [PREÇO][+]    Adquiri o produto e avalio ótimo custo-benefício.
 
@@ -139,13 +139,13 @@ d  [016.042]       [_duplicate][x]    Ótimo custo-benefício.
 
    [021.053]         [PRODUTO][+.]    Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
 
-d  [022.054]       [_duplicate][x]    Muito boa!
+d  [022.054]        [duplicate][x]    Muito boa!
 
    [022.055]          [PRODUTO][+]    Câmera muito boa!
 
    [022.055]             [ZOOM][+]    O zoom dela é incrível!
 
-d  [023.056]       [_duplicate][x]    Ótimo produto.
+d  [023.056]        [duplicate][x]    Ótimo produto.
 
    [023.057]          [PRODUTO][+]    Ótimo produto, superou minhas expectativas, recomendo.
 
@@ -181,9 +181,9 @@ d  [023.056]       [_duplicate][x]    Ótimo produto.
 
    [027.065]            [PREÇO][+]    Excelente custo benefício para um iniciante.
 
-d  [027.066]       [_duplicate][x]    Excelente custo benefício.
+d  [027.066]        [duplicate][x]    Excelente custo benefício.
 
-d  [028.067]       [_duplicate][x]    Muito boa.
+d  [028.067]        [duplicate][x]    Muito boa.
 
    [028.068]          [PRODUTO][+]    Produto muito bom.
 
@@ -207,7 +207,7 @@ d  [028.067]       [_duplicate][x]    Muito boa.
 
    [031.077]          [PRODUTO][+]    Grava Vídeos.
 
-d  [032.078]       [_duplicate][x]    Bom legal de usar.
+d  [032.078]        [duplicate][x]    Bom legal de usar.
 
    [032.079]      [USABILIDADE][+]    Ótima legal de usar.
 
@@ -231,19 +231,19 @@ d  [032.078]       [_duplicate][x]    Bom legal de usar.
 
    [035.086]          [PRODUTO][+]    Muito bom.
 
-d  [035.087]       [_duplicate][x]    Muito bom.
+d  [035.087]        [duplicate][x]    Muito bom.
 
    [036.088]          [PRODUTO][+]    Produto coerente com todas as especificações técnicas.
 
-d  [036.089]       [_duplicate][x]    Produto coerente com todas as especificações técnicas.
+d  [036.089]        [duplicate][x]    Produto coerente com todas as especificações técnicas.
 
    [037.090]          [PRODUTO][+]    Bom.
 
-d  [037.091]       [_duplicate][x]    Muito bom.
+d  [037.091]        [duplicate][x]    Muito bom.
 
-d  [038.092]       [_duplicate][x]    Bom.
+d  [038.092]        [duplicate][x]    Bom.
 
-d  [038.093]       [_duplicate][x]    Muito bom.
+d  [038.093]        [duplicate][x]    Muito bom.
 
    [039.094]          [PRODUTO][+]    Produto show de bola.
 
@@ -271,7 +271,7 @@ d  [038.093]       [_duplicate][x]    Muito bom.
 
    [042.105]           [IMAGEM][+]    se você ama registrar momentos noturno essa câmera não deixa a desejar.
 
-d  [043.107]       [_duplicate][x]    MT bom.
+d  [043.107]        [duplicate][x]    MT bom.
 
    [043.108]          [PRODUTO][+]    Mt boa.
 
@@ -281,5 +281,5 @@ d  [043.107]       [_duplicate][x]    MT bom.
 
    [045.111]          [PRODUTO][+]    Bom.
 
-b  [045.112]          [_broken][x]    Nenhuma.
+b  [045.112]           [broken][x]    Nenhuma.
 
