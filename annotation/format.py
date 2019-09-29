@@ -358,32 +358,6 @@ for filename in files_to_read:
 
         c_sentences_included += 1
 
-    fl = True
-
-    while fl:
-        fl = False
-        for n in data_merged:
-
-            aspects = n['aspect']
-            polarities = n['polarity']
-
-            for i in range(len(aspects)):
-
-                aspect = aspects[i]
-                polarity = polarities[i][0]
-
-                if aspects[i] == 'PRODUTO':
-                    continue
-
-                c = count_stats[aspects[i]][polarities[i][0]]
-                if c <= 0:
-                    continue
-
-                s = 0
-                for t in ['-', '+']:
-                    if t in count_stats[aspects[i]]:
-                        s += count_stats[aspects[i]][t]
-
     ##COUNT REVIEWS
     rrr = []
     for i in data_merged:
