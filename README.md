@@ -17,32 +17,17 @@ The clean and extended version of the dataset contains 16 files in JSON format. 
         {
             "id": 3,
             "opinions": [
-                [
-                    "PRODUTO",
-                    100
-                ],
-                [
-                    "CÂMERA",
-                    100/home/raphusp/Dropbox/Mestrado/Implementations/contrastive-summarization/Kim
-                ]
+                ["PRODUTO", 100],
+                ["CÂMERA", 100]
             ],
             "sentence": "Ótimo celular. Câmera excelente."
         },
         {
             "id": 18,
             "opinions": [
-                [
-                    "PRODUTO",
-                    -100
-                ],
-                [
-                    "DESIGN",
-                    -100
-                ],
-                [
-                    "OUTRO",
-                    -100
-                ]
+                ["PRODUTO", -100],
+                ["DESIGN", -100],
+                ["OUTRO", -100]
             ],
             "sentence": "Produto deixa a desejar, bordas metalicas riscam com facilidade, botão home então nem se fala."
         },
