@@ -81,7 +81,6 @@ def getInfo(filename, count_pol=False):
         n['sentence'] = cleanExtraSpaces(sentence)
         n['entry_id'] = entry_id
         n['flags'] = flag
-        n['id_complement'] = ''  # Will be used to identify split and joined sentences.
 
         entry_id += 1
 
@@ -166,8 +165,6 @@ def register_id(opinion):
     global ids_correspondency
     new_id = str(opinion['product_id']) + '.' + str(opinion['id_f'])
     old_id = str(opinion['product_id']) + '.' + str(opinion['review_id']) + '.' + str(opinion['sentence_id'])
-    if opinion['id_complement'].replace(' ', '') != '':
-        old_id += '-' + str(opinion['id_complement'])
     ids_correspondency[new_id] = old_id
 
 
