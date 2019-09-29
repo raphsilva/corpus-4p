@@ -18,7 +18,7 @@
 
 > Total of opinions: 135
 
-> Total of sentences: 107
+> Total of sentences: 106
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 1         1                             2
@@ -40,7 +40,6 @@
 # _TOTAL__________________109_________8_________3_________________120
 # broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
 # duplicate                                              12        12
-# outscope _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 1 _  _  _ 1
 
 
 
@@ -686,13 +685,6 @@ duplicate x
 Produto coerente com todas as especificações técnicas.
 
 duplicate x 
-
-
-
-(034.085)
-Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
-
-outscope x 
 
 
 

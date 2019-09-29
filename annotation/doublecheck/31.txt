@@ -231,7 +231,7 @@ d  [032.078]        [duplicate][x]    Bom legal de usar.
 
    [034.084]         [PRODUTO][++]    Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações. Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
-j  [034.085]         [outscope][x]    Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
+J  [034.085]          [PRODUTO][+]    Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
    [035.086]          [PRODUTO][+]    Muito bom.
 

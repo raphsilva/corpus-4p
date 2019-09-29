@@ -36,7 +36,6 @@
 # _TOTAL__________________109_________8_________3_________________120
 # broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
 # duplicate                                              12        12
-# outscope _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 1 _  _  _ 1
 
 
 
@@ -213,101 +212,101 @@
 
 025.061.0086)   [+][PRODUTO]           ::  Estou adorando a experiência com a Canon Powershot SX520! Muito boa, essa câmera!
 
-019.049.0087)   [+][PRODUTO]           ::  Ótimo produto, recomendo a todos a compra dessa câmera, para quem gosta de fotos vai suprir todas as necessidades.
+034.085.0087)   [+][PRODUTO]           ::  Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
-042.104.0088)  [++][PRODUTO]           ::  Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer.
+019.049.0088)   [+][PRODUTO]           ::  Ótimo produto, recomendo a todos a compra dessa câmera, para quem gosta de fotos vai suprir todas as necessidades.
 
-034.084.0089)  [++][PRODUTO]           ::  Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações. Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
+042.104.0089)  [++][PRODUTO]           ::  Sabemos que canon é a melhor marca para câmera para qualquer tipo de uso, eu tenho essa câmera e posso afirmar que ela superou as minhas expectativas não só pela qualidade da imagem mais também pela qualidade do vídeo que esse produto é capaz de fazer.
 
-012.033.0090)  [+.][PRODUTO]           ::  Não tenho mas estou encantada.
+034.084.0090)  [++][PRODUTO]           ::  Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações. Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
 
-004.008.0091)  [+.][PRODUTO]           ::  Ótimo produto pra quem está iniciando no ramo de fotografia.
+012.033.0091)  [+.][PRODUTO]           ::  Não tenho mas estou encantada.
 
-044.110.0092)  [+.][PRODUTO]           ::  Produto muito bom para quem é amador e quer tirar fotos no lazer.
+004.008.0092)  [+.][PRODUTO]           ::  Ótimo produto pra quem está iniciando no ramo de fotografia.
 
-009.022.0093)  [+.][PRODUTO]           ::  O produto era o que eu esperava, para uma câmera semi-profissional de entrada.
+044.110.0093)  [+.][PRODUTO]           ::  Produto muito bom para quem é amador e quer tirar fotos no lazer.
 
-021.053.0094)  [+.][PRODUTO]           ::  Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
+009.022.0094)  [+.][PRODUTO]           ::  O produto era o que eu esperava, para uma câmera semi-profissional de entrada.
 
-013.035.0095)  [+.][PRODUTO]           ::  Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar.
+021.053.0095)  [+.][PRODUTO]           ::  Para meus hobbies é ideal, tem zoom de longo alcance e perfeito para amador como eu.
 
-039.095.0096)  [+.][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
+013.035.0096)  [+.][PRODUTO]           ::  Não é uma câmera profissional, mas dá pra fazer muita coisa boa com ela, sabendo usar.
 
-009.025.0097)   [+][PRODUTO VÍDEO]     ::  A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
+039.095.0097)  [+.][PRODUTO]           ::  Ganhei de presente e não usei ainda. Mas, já li a respeito e por isso eu escolhi de presente de aniversario.
 
-011.031.0098)   [+][RESISTÊNCIA]       ::  Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
+009.025.0098)   [+][PRODUTO VÍDEO]     ::  A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
 
-041.101.0099)  [+.][TAMANHO]           ::  Não tão grande.
+011.031.0099)   [+][RESISTÊNCIA]       ::  Já vai fazer 1 ano que tenho ela, nunca tive problema, super recomendo!
 
-033.081.0100)  [++][TELA]              ::  Display perfeito.
+041.101.0100)  [+.][TAMANHO]           ::  Não tão grande.
 
-005.012.0101)   [&][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
+033.081.0101)  [++][TELA]              ::  Display perfeito.
 
-033.081.0102)   [+][USABILIDADE]       ::  Fácil manuseio.
+005.012.0102)   [&][USABILIDADE]       ::  Estou ainda aprendendo a manusear.
 
-041.101.0103)   [+][USABILIDADE]       ::  Fácil manuseio.
+033.081.0103)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-014.038.0104)   [+][USABILIDADE]       ::  Fácil de manusear.
+041.101.0104)   [+][USABILIDADE]       ::  Fácil manuseio.
 
-015.040.0105)   [+][USABILIDADE]       ::  Facilidade no uso.
+014.038.0105)   [+][USABILIDADE]       ::  Fácil de manusear.
 
-020.051.0106)   [+][USABILIDADE]       ::  Facilidade no uso.
+015.040.0106)   [+][USABILIDADE]       ::  Facilidade no uso.
 
-026.063.0107)   [+][USABILIDADE]       ::  Agradável manuseio.
+020.051.0107)   [+][USABILIDADE]       ::  Facilidade no uso.
 
-009.023.0108)   [+][USABILIDADE]       ::  Muito fácil de usar.
+026.063.0108)   [+][USABILIDADE]       ::  Agradável manuseio.
 
-032.079.0109)   [+][USABILIDADE]       ::  Ótima legal de usar.
+009.023.0109)   [+][USABILIDADE]       ::  Muito fácil de usar.
 
-006.015.0110)   [+][USABILIDADE]       ::  Muito fácil manuseio.
+032.079.0110)   [+][USABILIDADE]       ::  Ótima legal de usar.
 
-020.050.0111)   [+][USABILIDADE]       ::  Maquina Boa utilização.
+006.015.0111)   [+][USABILIDADE]       ::  Muito fácil manuseio.
 
-008.020.0112)   [+][USABILIDADE]       ::  Amei super facil de usar.
+020.050.0112)   [+][USABILIDADE]       ::  Maquina Boa utilização.
 
-015.041.0113)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
+008.020.0113)   [+][USABILIDADE]       ::  Amei super facil de usar.
 
-040.097.0114)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
+015.041.0114)   [+][USABILIDADE]       ::  Maquina de fácil utilização.
 
-009.026.0115)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
+040.097.0115)   [-][USABILIDADE]       ::  É necessário aprender a usar as funções. O modo automático não é muito eficiente.
 
-017.045.0116)   [+][ZOOM]              ::  Ótimo zoom.
+009.026.0116)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
 
-026.063.0117)   [+][ZOOM]              ::  Com ótimo zoom.
+017.045.0117)   [+][ZOOM]              ::  Ótimo zoom.
 
-028.069.0118)   [+][ZOOM]              ::  Excelente zoom.
+026.063.0118)   [+][ZOOM]              ::  Com ótimo zoom.
 
-025.061.0119)   [+][ZOOM]              ::  Excelente zoom (42).
+028.069.0119)   [+][ZOOM]              ::  Excelente zoom.
 
-022.055.0120)   [+][ZOOM]              ::  O zoom dela é incrível!
+025.061.0120)   [+][ZOOM]              ::  Excelente zoom (42).
 
-018.047.0121)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
+022.055.0121)   [+][ZOOM]              ::  O zoom dela é incrível!
 
-045.112.0122)   [x][broken]            ::  Nenhuma.
+018.047.0122)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
 
-038.092.0123)   [x][duplicate]         ::  Bom.
+045.112.0123)   [x][broken]            ::  Nenhuma.
 
-043.107.0124)   [x][duplicate]         ::  MT bom.
+038.092.0124)   [x][duplicate]         ::  Bom.
 
-022.054.0125)   [x][duplicate]         ::  Muito boa!
+043.107.0125)   [x][duplicate]         ::  MT bom.
 
-028.067.0126)   [x][duplicate]         ::  Muito boa.
+022.054.0126)   [x][duplicate]         ::  Muito boa!
 
-035.087.0127)   [x][duplicate]         ::  Muito bom.
+028.067.0127)   [x][duplicate]         ::  Muito boa.
 
-037.091.0128)   [x][duplicate]         ::  Muito bom.
+035.087.0128)   [x][duplicate]         ::  Muito bom.
 
-038.093.0129)   [x][duplicate]         ::  Muito bom.
+037.091.0129)   [x][duplicate]         ::  Muito bom.
 
-023.056.0130)   [x][duplicate]         ::  Ótimo produto.
+038.093.0130)   [x][duplicate]         ::  Muito bom.
 
-032.078.0131)   [x][duplicate]         ::  Bom legal de usar.
+023.056.0131)   [x][duplicate]         ::  Ótimo produto.
 
-016.042.0132)   [x][duplicate]         ::  Ótimo custo-benefício.
+032.078.0132)   [x][duplicate]         ::  Bom legal de usar.
 
-027.066.0133)   [x][duplicate]         ::  Excelente custo benefício.
+016.042.0133)   [x][duplicate]         ::  Ótimo custo-benefício.
 
-036.089.0134)   [x][duplicate]         ::  Produto coerente com todas as especificações técnicas.
+027.066.0134)   [x][duplicate]         ::  Excelente custo benefício.
 
-034.085.0135)   [x][outscope]          ::  Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
+036.089.0135)   [x][duplicate]         ::  Produto coerente com todas as especificações técnicas.
 

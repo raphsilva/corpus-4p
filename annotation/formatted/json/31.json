@@ -972,16 +972,6 @@
             "sentence": "Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações."
         },
         {
-            "id": 85,
-            "opinions": [
-                [
-                    "outscope",
-                    "x"
-                ]
-            ],
-            "sentence": "Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!"
-        },
-        {
             "id": 86,
             "opinions": [
                 [
@@ -1258,7 +1248,7 @@
         "Product": "Câmera Digital Canon PowerShot SX520 HS 16.0 Megapixels",
         "Source": "www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels",
         "Total of opinions": "135",
-        "Total of sentences": "107",
+        "Total of sentences": "106",
         "Type": "Câmera"
     }
 }
