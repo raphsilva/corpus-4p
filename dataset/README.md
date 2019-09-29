@@ -1,4 +1,5 @@
-This repository contains two directories that are different versions of the same corpus: the `skim` directory contains a clean, extended version for general use, and the` whole` directory contains the files and scripts used for annotation and all information extracted from the site, including information that are not necessarily useful for the task of contrastive summarization. Meta information is kept in all files.
+This repository contains two directories that are different versions of the same corpus: the `skim` directory contains a clean, extended version for general use, and the` whole` directory contains the files and scripts used for annotation and all information extracted from the site displayed in ways that ease both human and machine readability, including information that are not necessarily useful for the task of contrastive summarization. Meta information is kept in all files.
+
 
 ## Skim dataset
 
