@@ -1454,71 +1454,71 @@
 
 051.121.0705)   [+][USABILIDADE]       ::  Oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
 
-142.349.0706)   [x][_context]          ::  Foi presente.
+108.258.0706)   [x][broken]            ::  Chato.
 
-175.442.0707)   [x][_context]          ::  Adquiri há 1 mês.
+108.259.0707)   [x][broken]            ::  Chato.
 
-225.576.0708)   [x][_context]          ::  A promessa foi que o produto seria entregue até 09/05/17.
+134.329.0708)   [x][broken]            ::  Otima.
 
-098.236.0709)   [x][_context]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+046.108.0709)   [x][broken]            ::  Preço.
 
-126.304.0710)   [x][_context]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
+021.047.0710)   [x][broken]            ::  Moto G.
 
-131.324.0711)   [x][_context]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
+124.298.0711)   [x][broken]            ::  Bateria.
 
-225.580.0712)   [x][_context]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+168.413.0712)   [x][broken]            ::  Celular.
 
-225.581.0713)   [x][_context]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+171.422.0713)   [x][broken]            ::  MOTO G5.
 
-225.577.0714)   [x][_context]          ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+065.152.0714)   [x][broken]            ::  Memória.
 
-108.258.0715)   [x][broken]            ::  Chato.
+184.463.0715)   [x][broken]            ::  Moto G5.
 
-108.259.0716)   [x][broken]            ::  Chato.
+198.497.0716)   [x][broken]            ::  Moto G5.
 
-134.329.0717)   [x][broken]            ::  Otima.
+229.608.0717)   [x][broken]            ::  Speaker.
 
-046.108.0718)   [x][broken]            ::  Preço.
+214.534.0718)   [x][broken]            ::  Curiosidade.
 
-021.047.0719)   [x][broken]            ::  Moto G.
+136.333.0719)   [x][broken]            ::  Moto G Plus.
 
-124.298.0720)   [x][broken]            ::  Bateria.
+033.080.0720)   [x][broken]            ::  Moto G5plus.
 
-168.413.0721)   [x][broken]            ::  Celular.
+018.040.0721)   [x][broken]            ::  Moto g plus.
 
-171.422.0722)   [x][broken]            ::  MOTO G5.
+153.374.0722)   [x][broken]            ::  MOTOG 5 PLUS.
 
-065.152.0723)   [x][broken]            ::  Memória.
+056.133.0723)   [x][broken]            ::  Moto G5 Plus.
 
-184.463.0724)   [x][broken]            ::  Moto G5.
+109.260.0724)   [x][broken]            ::  Moto G5 Plus.
 
-198.497.0725)   [x][broken]            ::  Moto G5.
+096.230.0725)   [x][broken]            ::  Moto g 5 Plus.
 
-229.608.0726)   [x][broken]            ::  Speaker.
+072.168.0726)   [x][broken]            ::  Avaliação do produto.
 
-214.534.0727)   [x][broken]            ::  Curiosidade.
+127.313.0727)   [x][broken]            ::  Pesquisa de opiniao - compra smartphone moto g5.
 
-136.333.0728)   [x][broken]            ::  Moto G Plus.
+050.118.0728)   [x][broken]            ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
 
-033.080.0729)   [x][broken]            ::  Moto G5plus.
+131.323.0729)   [x][broken]            ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-018.040.0730)   [x][broken]            ::  Moto g plus.
+142.349.0730)   [x][context]           ::  Foi presente.
 
-153.374.0731)   [x][broken]            ::  MOTOG 5 PLUS.
+175.442.0731)   [x][context]           ::  Adquiri há 1 mês.
 
-056.133.0732)   [x][broken]            ::  Moto G5 Plus.
+225.576.0732)   [x][context]           ::  A promessa foi que o produto seria entregue até 09/05/17.
 
-109.260.0733)   [x][broken]            ::  Moto G5 Plus.
+098.236.0733)   [x][context]           ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
-096.230.0734)   [x][broken]            ::  Moto g 5 Plus.
+126.304.0734)   [x][context]           ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
-072.168.0735)   [x][broken]            ::  Avaliação do produto.
+131.324.0735)   [x][context]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
 
-127.313.0736)   [x][broken]            ::  Pesquisa de opiniao - compra smartphone moto g5.
+225.580.0736)   [x][context]           ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
-050.118.0737)   [x][broken]            ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+225.581.0737)   [x][context]           ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
-131.323.0738)   [x][broken]            ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+225.577.0738)   [x][context]           ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
 151.369.0739)   [x][duplicate]         ::  Ótimo.
 

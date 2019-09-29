@@ -266,7 +266,7 @@
 >   [097.234]          [SISTEMA][+]    Sempre inovando e como sempre, Android puro.
 
 <   [098.236]          [PRODUTO][+]    Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
->c  [098.236]         [_context][x]    Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+>c  [098.236]          [context][x]    Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
 <   [105.252]  [PRODUTO BATERIA][+]    O celular é bom, mas bateria dura pouco e a camera deixa bastante a desejar.
 >   [105.252]          [PRODUTO][+]    O celular é bom.
@@ -331,7 +331,7 @@
 >   [128.316]            [OUTRO][+]    recomendo por ter algo a mais que é através da digital a sua segurança, foi o que me chamou a minha atenção.
 
 <   [131.324]     [PRODUTO TELA][+]    Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
->c  [131.324]         [_context][x]    Olha realmente tenho esse produto que comprei mas lojas americanas
+>c  [131.324]          [context][x]    Olha realmente tenho esse produto que comprei mas lojas americanas
 >   [131.324]             [TELA][-]    ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
 <   [133.328]  [PRODUTO BATERIA][+]    Gostei do produto, apenas a bateria a bateria podia ser melhor.
@@ -449,7 +449,7 @@
 >   [174.437]          [PRODUTO][+]    Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
 
 <   [175.442][PRODUTO CÂMERA BATERIA TELEVISÃO][+]    Adquiri há 1 mês.Aparelho mais bonito pessoalmente (dourado).Câmera incrível, designer perfeito, super rápido, carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).O diferencial dele é a TV, foi por isso que adquiri esse modelo.
->c  [175.442]         [_context][x]    Adquiri há 1 mês
+>c  [175.442]          [context][x]    Adquiri há 1 mês
 >   [175.442]           [DESIGN][+]    Aparelho mais bonito pessoalmente (dourado).
 >   [175.442]           [CÂMERA][+]    Câmera incrível.
 >   [175.442]          [DESIGN][++]    designer perfeito.

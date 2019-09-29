@@ -55,13 +55,13 @@ b  [001.002]           [broken][x]    Pouca, recém comprada.
 
    [002.012]          [PRODUTO][+]    A qualidade é muito boa.
 
-c  [002.013]         [_context][x]    Só para caráter de comparação:
+c  [002.013]          [context][x]    Só para caráter de comparação:
 
    [002.014]            [PREÇO][+]    só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
 
    [002.015]        [ACESSÓRIO][-]    Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
 
-c  [002.016]         [_context][x]    Auxilia muito no transporte.
+c  [002.016]          [context][x]    Auxilia muito no transporte.
 
    [002.017]        [ACESSÓRIO][-]    Poderia vir um software pelo menos trial para poder editar fotos.
 

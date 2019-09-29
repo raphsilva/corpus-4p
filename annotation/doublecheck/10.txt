@@ -671,7 +671,7 @@ b  [096.230]           [broken][x]    Moto g 5 Plus.
 
    [098.235]            [PREÇO][+]    Bom celular pelo custo.
 
-c  [098.236]         [_context][x]    Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+c  [098.236]          [context][x]    Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
    [098.237]       [DESEMPENHO][-]    Achei o Moto G5 um pouco mais lento e ocasionalmente trava e reinicia sozinho.
 
@@ -829,7 +829,7 @@ b  [124.298]           [broken][x]    Bateria.
 
    [126.303]         [PRODUTO][+.]    Bom mas pode melhorar.
 
-c  [126.304]         [_context][x]    Na verdade faço comparação com a Samsung pois era o que eu tinha.
+c  [126.304]          [context][x]    Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
    [126.305]           [CÂMERA][-]    A câmera tem menos estabilidade, sinto de alguns app's exclusivos da série Galaxy.
 
@@ -879,7 +879,7 @@ i  [127.314]       [irrelevant][x]    Smartphone Motorola Moto G5 XT1672 Octa-Co
 
 b  [131.323]           [broken][x]    Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-c  [131.324]         [_context][x]    Olha realmente tenho esse produto que comprei mas lojas americanas
+c  [131.324]          [context][x]    Olha realmente tenho esse produto que comprei mas lojas americanas
 
    [131.324]             [TELA][-]    ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
@@ -941,7 +941,7 @@ b  [136.333]           [broken][x]    Moto G Plus.
 
    [142.348]          [PRODUTO][+]    Produto excelente.
 
-c  [142.349]         [_context][x]    Foi presente.
+c  [142.349]          [context][x]    Foi presente.
 
    [143.350]          [PRODUTO][+]    Muito bom.
 
@@ -1181,7 +1181,7 @@ J  [174.440]          [PRODUTO][+]    Agora, só Moto G.
 
    [175.441]          [PRODUTO][+]    Amando meu Moto G plus.
 
-c  [175.442]         [_context][x]    Adquiri há 1 mês
+c  [175.442]          [context][x]    Adquiri há 1 mês
 
    [175.442]           [DESIGN][+]    Aparelho mais bonito pessoalmente (dourado).
 
@@ -1545,17 +1545,17 @@ i  [214.535]       [irrelevant][x]    Se o senhor deixou um comentário deste na
 
    [225.575]         [outscope][-]    Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-c  [225.576]         [_context][x]    A promessa foi que o produto seria entregue até 09/05/17.
+c  [225.576]          [context][x]    A promessa foi que o produto seria entregue até 09/05/17.
 
-c  [225.577]         [_context][x]    Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+c  [225.577]          [context][x]    Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
    [225.578]         [outscope][-]    Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
    [225.579]         [outscope][-]    Evidentemente houve um erro no envio do produto.
 
-c  [225.580]         [_context][x]    Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+c  [225.580]          [context][x]    Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
-c  [225.581]         [_context][x]    Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+c  [225.581]          [context][x]    Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
    [225.582]         [outscope][-]    Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 

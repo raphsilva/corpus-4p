@@ -87,7 +87,7 @@ def getInfo(filename, count_pol=False):
         r['data'].append(n)
 
         if count_pol:
-            if n['aspect'] != '' and n['aspect'][0] == '_':
+            if n['aspect'] != '' and isExceptionAspect(n['aspect']):
                 count_polarities[n['aspect']] += 1
             elif flag == '':
                 count_polarities[n['polarity']] += 1
@@ -321,7 +321,7 @@ for filename in files_to_read:
                         p['aspect'] = 'irrelevant'
                     elif p['flags'] == 'c':
                         n['aspect'] = ['context']
-                        p['aspect'] = '_context'
+                        p['aspect'] = 'context'
                     else:
                         n['aspect'] = ['outscope']
                         p['aspect'] = 'outscope'

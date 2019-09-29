@@ -99,7 +99,7 @@ b  [07.017]           [broken][x]    Qualidade.
 
    [014.034]          [PRODUTO][+]    Muito bom!
 
-c  [014.035]         [_context][x]    Tinha o s6 e troquei para o s7.
+c  [014.035]          [context][x]    Tinha o s6 e troquei para o s7.
 
    [014.036]          [PRODUTO][+]    Valeu a pena.
 
@@ -125,7 +125,7 @@ c  [014.035]         [_context][x]    Tinha o s6 e troquei para o s7.
 
    [018.045]         [outscope][+]    Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
 
-c  [018.046]         [_context][x]    Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
+c  [018.046]          [context][x]    Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
 
    [019.047]            [PREÇO][+]    Vale o que custa.
 
@@ -133,7 +133,7 @@ c  [018.046]         [_context][x]    Os antigos , que ainda possuo, estao funci
 
    [020.049]          [PRODUTO][+]    Muito bom!
 
-c  [020.050]         [_context][x]    Mudança do S6 para o S7.
+c  [020.050]          [context][x]    Mudança do S6 para o S7.
 
    [020.051]          [PRODUTO][+]    Valeu a pena!
 
@@ -475,7 +475,7 @@ i  [057.163]       [irrelevant][x]    Eu não recebi o produto da loja, porque a
 
    [064.189]      [RESISTÊNCIA][-]    Ponto de dúvida é durabilidade: Samsung é famosa por ter perda sensível de performance depois de 6 meses.
 
-c  [064.190]         [_context][x]    Vamos ver nele como vai.
+c  [064.190]          [context][x]    Vamos ver nele como vai.
 
    [065.191]          [PRODUTO][+]    Não decepciona.
 
@@ -581,7 +581,7 @@ b  [080.228]           [broken][x]    Samsung s7.
 
    [082.234]          [PRODUTO][+]    A princípio um celular bom.
 
-c  [082.235]         [_context][x]    Deixei de comprar o S6 para pegar um mais atual.
+c  [082.235]          [context][x]    Deixei de comprar o S6 para pegar um mais atual.
 
    [082.236]          [PRODUTO][-]    O celular regrediu.
 
@@ -627,7 +627,7 @@ c  [082.235]         [_context][x]    Deixei de comprar o S6 para pegar um mais 
 
    [086.251]          [PRODUTO][+]    Aparelho rápido.
 
-c  [086.252]         [_context][x]    Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
+c  [086.252]          [context][x]    Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
 
 J  [086.253]          [PRODUTO][+]    Queria manter num top de linha e peguei o S7.
 
@@ -869,7 +869,7 @@ J  [108.324]          [PRODUTO][+]    Diz que vieram mas não apareceram não.
 
    [114.340]          [PRODUTO][+]    Muito bom, excelente produto. Me surpreendeu.
 
-c  [114.341]         [_context][x]    Troquei um S4 octa core por esse S7.
+c  [114.341]          [context][x]    Troquei um S4 octa core por esse S7.
 
    [114.342]          [PRODUTO][+]    Estava muito satisfeito com o antigo, porém esse aparelho conseguiu me surpreender em todos os aspectos.
 
@@ -895,7 +895,7 @@ c  [114.341]         [_context][x]    Troquei um S4 octa core por esse S7.
 
    [118.351]          [PRODUTO][+]    Muito bom e preciso.
 
-c  [118.352]         [_context][x]    Ainda não possui um só vi o do meu amigo.
+c  [118.352]          [context][x]    Ainda não possui um só vi o do meu amigo.
 
    [119.354]          [PRODUTO][+]    Muito bom.
 
@@ -957,7 +957,7 @@ b  [124.371]           [broken][x]    S7 Edge.
 
    [125.377]          [PRODUTO][+]    Ate agora me surpreendeu..
 
-c  [125.378]         [_context][x]    Vamos ver a bateria daqui um tempo.
+c  [125.378]          [context][x]    Vamos ver a bateria daqui um tempo.
 
    [125.378]          [PRODUTO][+]    Tudo show de bola..
 
@@ -1035,7 +1035,7 @@ J  [125.381]          [PRODUTO][+]    Coloquem no seguro porque nao é barato!
 
    [136.408]          [PRODUTO][+]    Recomendo o produto e.mbora eu não tenho mas conheço.
 
-c  [136.409]         [_context][x]    Ainda não pude tê-lo.
+c  [136.409]          [context][x]    Ainda não pude tê-lo.
 
    [137.410]          [PRODUTO][+]    RECOMENDO ...
 
@@ -1075,7 +1075,7 @@ d  [141.423]        [duplicate][x]    Muito bom.
 
    [142.425]          [PRODUTO][+]    Excelente produto para o uso do dia a dia.
 
-c  [143.426]         [_context][x]    Depois do S6, comprei o S7.
+c  [143.426]          [context][x]    Depois do S6, comprei o S7.
 
    [143.427]         [PRODUTO][++]    Não há do que reclamar! Só isso!
 
@@ -1155,7 +1155,7 @@ b  [153.456]           [broken][x]    O mesmo para a câmera traseira, guardadas
 
    [153.457]           [PREÇO][-.]    O preço ainda é salgado, como tudo que é bom no Brasil.
 
-c  [153.458]         [_context][x]    Nada de novidade neste quesito.
+c  [153.458]          [context][x]    Nada de novidade neste quesito.
 
    [153.459]          [PRODUTO][+]    No geral, é um ótimo smartphone, realmente topo de linha.
 
@@ -1235,7 +1235,7 @@ b  [163.488]           [broken][x]    Todos os aspectos marcados acima retratam 
 
    [164.494]            [OUTRO][+]    oferece atualizações frequentes.
 
-c  [165.495]         [_context][x]    Migrando do S5 para o S7.
+c  [165.495]          [context][x]    Migrando do S5 para o S7.
 
    [165.496]          [PRODUTO][+]    O aparelho é excelente.
 
@@ -1249,7 +1249,7 @@ J  [165.498]          [PRODUTO][+]    E nesse quesito o S7 não deixa a desejar.
 
    [165.500]            [OUTRO][-]    O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc.
 
-c  [165.501]         [_context][x]    e agora não é mais possível usar essa função na S7)
+c  [165.501]          [context][x]    e agora não é mais possível usar essa função na S7)
 
    [165.502]           [DESIGN][-]    O prata suja bastante na parte de trás do aparelho.
 
@@ -1369,7 +1369,7 @@ b  [170.518]           [broken][x]    mais o processador não se compara com o m
 
    [180.544]         [PRODUTO][++]    O melhore mais completo até agora!
 
-c  [181.545]         [_context][x]    Surpresas desagradáveis com a compra do aparelho.
+c  [181.545]          [context][x]    Surpresas desagradáveis com a compra do aparelho.
 
    [181.546]          [PRODUTO][-]    O celular é muito bom, pesquisei muito antes de compra-lo, mas não fazia ideia do maior problema deste modelo.
 
@@ -1383,7 +1383,7 @@ c  [181.545]         [_context][x]    Surpresas desagradáveis com a compra do a
 
 J  [181.551]  [EMPRESA PRODUTO][+]    O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
 
-J  [181.552]        [_outscope][+]    Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+J  [181.552]         [outscope][+]    Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
    [182.554]          [PRODUTO][+]    Bom.
 
@@ -1551,7 +1551,7 @@ b  [191.586]           [broken][x]    Celular samsung.
 
    [199.607]          [PRODUTO][+]    Produto de qualidade.
 
-c  [199.608]         [_context][x]    Realizei a troca do galaxy s5 para o galaxy s7.
+c  [199.608]          [context][x]    Realizei a troca do galaxy s5 para o galaxy s7.
 
    [199.609]          [PRODUTO][+]    Tirando a bateria que para mim não melhorou, por hora estou amando.
 
@@ -1669,9 +1669,9 @@ b  [213.655]           [broken][x]    Foi boa.
 
    [214.656]      [RESISTÊNCIA][-]    péssima resistência.
 
-c  [214.657]         [_context][x]    Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
+c  [214.657]          [context][x]    Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
 
-c  [214.658]         [_context][x]    Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
+c  [214.658]          [context][x]    Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
 
    [214.659]      [RESISTÊNCIA][-]    Recentemente comprei um Galaxy S7, em 3 dias, numa pequena queda trincou parte do display (falo pequena queda porque os outros modelos que tive, sofreram quedas piores e permaneceram intactos). Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
 
@@ -1683,7 +1683,7 @@ J  [214.660][PRODUTO TELA PREÇO][-]    Um dos chamativos desse modelo da Samsun
 
 J  [217.667]            [PREÇO][-]    O preço só é valido para quem assina um plano.
 
-J  [217.668]        [_outscope][-]    Como em qualquer operadora.
+J  [217.668]         [outscope][-]    Como em qualquer operadora.
 
 J  [217.669]    [PRODUTO PREÇO][-]    Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 

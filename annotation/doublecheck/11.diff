@@ -347,7 +347,7 @@
 >   [125.376]            [OUTRO][+]    A transferencia dos dados do meu cel ant pra esse foi hiper tranquila em 10 minutos apenas encostando um ap no outro. Uma coisinha ou outra com app da marca mas isso é o de menos.
 
 <   [125.378]          [BATERIA][+]    Vamos ver a bateria daqui um tempo.Tudo show de bola..
->c  [125.378]         [_context][x]    Vamos ver a bateria daqui um tempo.
+>c  [125.378]          [context][x]    Vamos ver a bateria daqui um tempo.
 >   [125.378]          [PRODUTO][+]    Tudo show de bola..
 
 <   [125.379]        [_outscope][+]    A entrega foi a JATO pela fast shop.
@@ -468,7 +468,7 @@
 >   [165.497]           [CÂMERA][+]    O que eu mais busco num celular é a qualidade e possibilidade de edição nas configurações da câmera. E nesse quesito o S7 não deixa a desejar.
 
 <   [165.501]      [USABILIDADE][+]    E agora não é mais possível usar essa função na S7)
->c  [165.501]         [_context][x]    e agora não é mais possível usar essa função na S7)
+>c  [165.501]          [context][x]    e agora não é mais possível usar essa função na S7)
 
 <   [166.507]    [ARMAZENAMENTO][+]    Bonito, funcional, rápido, a prova d´água e com 4 GB de memória RAM (um exagero, sobra!)
 >   [166.507]           [DESIGN][+]    Bonito
@@ -511,7 +511,7 @@
 >   [177.537]         [PRODUTO][++]    perfeito.
 
 <   [181.545]          [PRODUTO][+]    Duas surpresas desagradáveis com a compra do aparelho.
->c  [181.545]         [_context][x]    Surpresas desagradáveis com a compra do aparelho.
+>c  [181.545]          [context][x]    Surpresas desagradáveis com a compra do aparelho.
 
 <   [181.548]          [PRODUTO][+]    O mais estranho é que existe película para o Edge, mas para o flat não..
 >   [181.548]        [ACESSÓRIO][-]    O mais estranho é que existe película para o Edge, mas para o flat não.

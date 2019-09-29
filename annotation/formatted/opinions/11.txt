@@ -1531,177 +1531,177 @@
 
 186.570.0744)   [+][USABILIDADE]       ::  Super indico para quem busca praticidade no uso.
 
-136.409.0745)   [x][_context]          ::  Ainda não pude tê-lo.
+213.654.0745)   [x][broken]            ::  Boa.
 
-020.050.0746)   [x][_context]          ::  Mudança do S6 para o S7.
+072.210.0746)   [x][broken]            ::  Cor.
 
-064.190.0747)   [x][_context]          ::  Vamos ver nele como vai.
+220.675.0747)   [x][broken]            ::  Geral.
 
-165.495.0748)   [x][_context]          ::  Migrando do S5 para o S7.
+202.621.0748)   [x][broken]            ::  Queda.
 
-143.426.0749)   [x][_context]          ::  Depois do S6, comprei o S7.
+090.273.0749)   [x][broken]            ::  MEU S7.
 
-153.458.0750)   [x][_context]          ::  Nada de novidade neste quesito.
+213.655.0750)   [x][broken]            ::  Foi boa.
 
-014.035.0751)   [x][_context]          ::  Tinha o s6 e troquei para o s7.
+124.371.0751)   [x][broken]            ::  S7 Edge.
 
-125.378.0752)   [x][_context]          ::  Vamos ver a bateria daqui um tempo.
+07.017.0752)   [x][broken]            ::  Qualidade.
 
-114.341.0753)   [x][_context]          ::  Troquei um S4 octa core por esse S7.
+037.097.0753)   [x][broken]            ::  Samsung S7.
 
-118.352.0754)   [x][_context]          ::  Ainda não possui um só vi o do meu amigo.
+080.228.0754)   [x][broken]            ::  Samsung s7.
 
-199.608.0755)   [x][_context]          ::  Realizei a troca do galaxy s5 para o galaxy s7.
+191.586.0755)   [x][broken]            ::  Celular samsung.
 
-082.235.0756)   [x][_context]          ::  Deixei de comprar o S6 para pegar um mais atual.
+035.091.0756)   [x][broken]            ::  SEM FUTURO!!!!!!
 
-181.545.0757)   [x][_context]          ::  Surpresas desagradáveis com a compra do aparelho.
+035.090.0757)   [x][broken]            ::  CISSA MAGAZINE...
 
-165.501.0758)   [x][_context]          ::  E agora não é mais possível usar essa função na S7)
+034.085.0758)   [x][broken]            ::  Tá bom, tá é bom.
 
-018.046.0759)   [x][_context]          ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
+067.196.0759)   [x][broken]            ::  Samsung Galaxy S7.
 
-086.252.0760)   [x][_context]          ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
+170.518.0760)   [x][broken]            ::  Mais o processador não se compara com o mesmo.
 
-214.657.0761)   [x][_context]          ::  Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
+208.639.0761)   [x][broken]            ::  Não há explicações para a fragilidade de um produto qu.
 
-214.658.0762)   [x][_context]          ::  Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
+153.456.0762)   [x][broken]            ::  O mesmo para a câmera traseira, guardadas as devidas proporções.
 
-181.552.0763)   [+][_outscope]         ::  Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+163.488.0763)   [x][broken]            ::  Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
 
-217.668.0764)   [-][_outscope]         ::  Como em qualquer operadora.
+136.409.0764)   [x][context]           ::  Ainda não pude tê-lo.
 
-213.654.0765)   [x][broken]            ::  Boa.
+020.050.0765)   [x][context]           ::  Mudança do S6 para o S7.
 
-072.210.0766)   [x][broken]            ::  Cor.
+064.190.0766)   [x][context]           ::  Vamos ver nele como vai.
 
-220.675.0767)   [x][broken]            ::  Geral.
+165.495.0767)   [x][context]           ::  Migrando do S5 para o S7.
 
-202.621.0768)   [x][broken]            ::  Queda.
+143.426.0768)   [x][context]           ::  Depois do S6, comprei o S7.
 
-090.273.0769)   [x][broken]            ::  MEU S7.
+153.458.0769)   [x][context]           ::  Nada de novidade neste quesito.
 
-213.655.0770)   [x][broken]            ::  Foi boa.
+014.035.0770)   [x][context]           ::  Tinha o s6 e troquei para o s7.
 
-124.371.0771)   [x][broken]            ::  S7 Edge.
+125.378.0771)   [x][context]           ::  Vamos ver a bateria daqui um tempo.
 
-07.017.0772)   [x][broken]            ::  Qualidade.
+114.341.0772)   [x][context]           ::  Troquei um S4 octa core por esse S7.
 
-037.097.0773)   [x][broken]            ::  Samsung S7.
+118.352.0773)   [x][context]           ::  Ainda não possui um só vi o do meu amigo.
 
-080.228.0774)   [x][broken]            ::  Samsung s7.
+199.608.0774)   [x][context]           ::  Realizei a troca do galaxy s5 para o galaxy s7.
 
-191.586.0775)   [x][broken]            ::  Celular samsung.
+082.235.0775)   [x][context]           ::  Deixei de comprar o S6 para pegar um mais atual.
 
-035.091.0776)   [x][broken]            ::  SEM FUTURO!!!!!!
+181.545.0776)   [x][context]           ::  Surpresas desagradáveis com a compra do aparelho.
 
-035.090.0777)   [x][broken]            ::  CISSA MAGAZINE...
+165.501.0777)   [x][context]           ::  E agora não é mais possível usar essa função na S7)
 
-034.085.0778)   [x][broken]            ::  Tá bom, tá é bom.
+018.046.0778)   [x][context]           ::  Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
 
-067.196.0779)   [x][broken]            ::  Samsung Galaxy S7.
+086.252.0779)   [x][context]           ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução. Queria manter num top de linha e peguei o S7.
 
-170.518.0780)   [x][broken]            ::  Mais o processador não se compara com o mesmo.
+214.657.0780)   [x][context]           ::  Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
 
-208.639.0781)   [x][broken]            ::  Não há explicações para a fragilidade de um produto qu.
+214.658.0781)   [x][context]           ::  Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
 
-153.456.0782)   [x][broken]            ::  O mesmo para a câmera traseira, guardadas as devidas proporções.
+068.199.0782)   [x][duplicate]         ::  Otimo.
 
-163.488.0783)   [x][broken]            ::  Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
+145.430.0783)   [x][duplicate]         ::  The best.
 
-068.199.0784)   [x][duplicate]         ::  Otimo.
+030.075.0784)   [x][duplicate]         ::  Muito bom!
 
-145.430.0785)   [x][duplicate]         ::  The best.
+141.423.0785)   [x][duplicate]         ::  Muito bom.
 
-030.075.0786)   [x][duplicate]         ::  Muito bom!
+004.008.0786)   [x][duplicate]         ::  Bom produto.
 
-141.423.0787)   [x][duplicate]         ::  Muito bom.
+098.292.0787)   [x][duplicate]         ::  Bom produto.
 
-004.008.0788)   [x][duplicate]         ::  Bom produto.
+145.431.0788)   [x][duplicate]         ::  Maravilhosa.
 
-098.292.0789)   [x][duplicate]         ::  Bom produto.
+104.311.0789)   [x][duplicate]         ::  Ótimo produto.
 
-145.431.0790)   [x][duplicate]         ::  Maravilhosa.
+162.485.0790)   [x][duplicate]         ::  Excelente produto.
 
-104.311.0791)   [x][duplicate]         ::  Ótimo produto.
+188.575.0791)   [x][duplicate]         ::  Aparelho excelente.
 
-162.485.0792)   [x][duplicate]         ::  Excelente produto.
+087.259.0792)   [x][duplicate]         ::  Hardware muito bom.
 
-188.575.0793)   [x][duplicate]         ::  Aparelho excelente.
+099.294.0793)   [x][duplicate]         ::  Bom custo/beneficio.
 
-087.259.0794)   [x][duplicate]         ::  Hardware muito bom.
+087.266.0794)   [x][duplicate]         ::  Uso muito o aparelho.
 
-099.294.0795)   [x][duplicate]         ::  Bom custo/beneficio.
+087.263.0795)   [x][duplicate]         ::  Poderia ser mais simples.
 
-087.266.0796)   [x][duplicate]         ::  Uso muito o aparelho.
+087.262.0796)   [x][duplicate]         ::  Quanto ao software, muito poluído.
 
-087.263.0797)   [x][duplicate]         ::  Poderia ser mais simples.
+030.076.0797)   [x][duplicate]         ::  Amigável, rapido, excelente acabamento.
 
-087.262.0798)   [x][duplicate]         ::  Quanto ao software, muito poluído.
+162.486.0798)   [x][duplicate]         ::  Produto de alta qualidade e performance.
 
-030.076.0799)   [x][duplicate]         ::  Amigável, rapido, excelente acabamento.
+004.010.0799)   [x][duplicate]         ::  Na propaganda diz ter tv digital é mentira.
 
-162.486.0800)   [x][duplicate]         ::  Produto de alta qualidade e performance.
+156.466.0800)   [x][duplicate]         ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!!
 
-004.010.0801)   [x][duplicate]         ::  Na propaganda diz ter tv digital é mentira.
+087.261.0801)   [x][duplicate]         ::  Queria manter num top de linha e peguei o S7.
 
-156.466.0802)   [x][duplicate]         ::  Vai um conselho: NÃO COMPREM NA SARAIVA !!!!
+098.293.0802)   [x][duplicate]         ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
-087.261.0803)   [x][duplicate]         ::  Queria manter num top de linha e peguei o S7.
+099.295.0803)   [x][duplicate]         ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
-098.293.0804)   [x][duplicate]         ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
+004.009.0804)   [x][duplicate]         ::  Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
 
-099.295.0805)   [x][duplicate]         ::  Um bom produto, com um bom desempenho, câmera e funcionalidades.
+087.265.0805)   [x][duplicate]         ::  Realmente resistente a água e a câmera e a duração da bateria me surpreende.
 
-004.009.0806)   [x][duplicate]         ::  Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
+087.260.0806)   [x][duplicate]         ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
 
-087.265.0807)   [x][duplicate]         ::  Realmente resistente a água e a câmera e a duração da bateria me surpreende.
+087.264.0807)   [x][duplicate]         ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
 
-087.260.0808)   [x][duplicate]         ::  Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
+218.670.0808)   [x][irrelevant]        ::  Nao comprei.
 
-087.264.0809)   [x][duplicate]         ::  Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
+218.671.0809)   [x][irrelevant]        ::  Nao comprei.
 
-218.670.0810)   [x][irrelevant]        ::  Nao comprei.
+031.078.0810)   [x][irrelevant]        ::  Não tenho mais.
 
-218.671.0811)   [x][irrelevant]        ::  Nao comprei.
+092.278.0811)   [x][irrelevant]        ::  NÃO LEIA O TITULO.
 
-031.078.0812)   [x][irrelevant]        ::  Não tenho mais.
+092.277.0812)   [x][irrelevant]        ::  NÃO LEIA A DESCRIÇÃO.
 
-092.278.0813)   [x][irrelevant]        ::  NÃO LEIA O TITULO.
+057.162.0813)   [x][irrelevant]        ::  Porque tenho que avaliar se não tenho o produto.
 
-092.277.0814)   [x][irrelevant]        ::  NÃO LEIA A DESCRIÇÃO.
+035.086.0814)   [x][irrelevant]        ::  Não seio o porque estou respondendo está pesquisa!!!!
 
-057.162.0815)   [x][irrelevant]        ::  Porque tenho que avaliar se não tenho o produto.
+057.163.0815)   [x][irrelevant]        ::  Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
 
-035.086.0816)   [x][irrelevant]        ::  Não seio o porque estou respondendo está pesquisa!!!!
+035.087.0816)   [x][irrelevant]        ::  Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
 
-057.163.0817)   [x][irrelevant]        ::  Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
+035.089.0817)   [x][irrelevant]        ::  Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
 
-035.087.0818)   [x][irrelevant]        ::  Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
+035.088.0818)   [x][irrelevant]        ::  Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
 
-035.089.0819)   [x][irrelevant]        ::  Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
+005.013.0819)   [+][outscope]          ::  Parabéns Shopfacil.com.
 
-035.088.0820)   [x][irrelevant]        ::  Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
+005.012.0820)   [+][outscope]          ::  A melhor oferta encontrada e entrega rápida.
 
-005.013.0821)   [+][outscope]          ::  Parabéns Shopfacil.com.
+134.405.0821)   [+][outscope]          ::  Já sou cliente dos celulares Galaxy eu não troco.
 
-005.012.0822)   [+][outscope]          ::  A melhor oferta encontrada e entrega rápida.
+021.053.0822)   [+][outscope]          ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
 
-134.405.0823)   [+][outscope]          ::  Já sou cliente dos celulares Galaxy eu não troco.
+125.379.0823)   [+][outscope]          ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
 
-021.053.0824)   [+][outscope]          ::  Gosto muito da marca Samsung e por isso adquiri este modelo.
+018.045.0824)   [+][outscope]          ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
 
-125.379.0825)   [+][outscope]          ::  A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
+023.060.0825)   [+][outscope]          ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
 
-018.045.0826)   [+][outscope]          ::  Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
+166.509.0826)   [+][outscope]          ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
 
-023.060.0827)   [+][outscope]          ::  Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
+140.421.0827)   [+][outscope]          ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
 
-166.509.0828)   [+][outscope]          ::  Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
+181.552.0828)   [+][outscope]          ::  Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
-140.421.0829)   [+][outscope]          ::  Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
+210.644.0829)   [-][outscope]          ::  Falso anúncio.
 
-210.644.0830)   [-][outscope]          ::  Falso anúncio.
+217.668.0830)   [-][outscope]          ::  Como em qualquer operadora.
 
 193.590.0831)   [-][outscope]          ::  Critica por não ter recebido o blinde.
 

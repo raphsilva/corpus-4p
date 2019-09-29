@@ -340,15 +340,15 @@
 
 016.062.0150)  [-.][USABILIDADE]       ::  Claro que para usufruir de todas as funções, de maneira eficaz é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.
 
-002.016.0151)   [x][_context]          ::  Auxilia muito no transporte.
+034.110.0151)   [x][broken]            ::  Canon t5.
 
-002.013.0152)   [x][_context]          ::  Só para caráter de comparação:
+012.049.0152)   [x][broken]            ::  Câmera rebel T5.
 
-034.110.0153)   [x][broken]            ::  Canon t5.
+001.002.0153)   [x][broken]            ::  Pouca, recém comprada.
 
-012.049.0154)   [x][broken]            ::  Câmera rebel T5.
+002.016.0154)   [x][context]           ::  Auxilia muito no transporte.
 
-001.002.0155)   [x][broken]            ::  Pouca, recém comprada.
+002.013.0155)   [x][context]           ::  Só para caráter de comparação:
 
 010.045.0156)   [x][duplicate]         ::  Bom.
 
