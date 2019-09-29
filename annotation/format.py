@@ -116,7 +116,7 @@ def opinionToStringPlain(opinion):
     s += '[' + opinion['aspect'] + ']'
     for a in range(16 - len(opinion['aspect'])):
         s += ' '
-    s += '  ' + SENTENCE_BEGIN_INDICATOR + '  '
+    s += ' '
     s += str(opinion['sentence'])
     return s
 
