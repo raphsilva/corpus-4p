@@ -14,7 +14,7 @@
 
 > Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 > Total of opinions: 813
 
@@ -27,24 +27,23 @@
 # CÂMERA _  _  _  _  _  _  55 _  _  _ 1 _  _  _  _  _  _  _  _  _  56
 # DESEMPENHO               60         3                            63
 # DESIGN _  _  _  _  _  _  23 _  _  _ 5 _  _  _ 1 _  _  _  _  _  _ 29
-# EMPRESA                             1                             1
-# OUTRO _  _  _  _  _  _   14 _  _   10 _  _  _ 1 _  _  _  _  _  _ 25
-# PESO                      2         3                             5
-# PREÇO _  _  _  _  _  _   13 _  _   18 _  _  _  _  _  _  _  _  _  31
-# PRODUTO                 360         8         6                 374
-# RESISTÊNCIA _  _  _  _  _ 7 _  _   15 _  _  _ 2 _  _  _  _  _  _ 24
-# SISTEMA                   8         3                            11
-# TAMANHO _  _  _  _  _  _  3 _  _  _  _  _  _  _  _  _  _  _  _  _ 3
-# TELA                     19         1                            20
-# USABILIDADE _  _  _  _  _ 9 _  _  _  _  _  _  _  _  _  _  _  _  _ 9
-# _TOTAL__________________252_______105_________6________73_______436
-# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 18 _  _   18
-# _CONTEXT                                               18        18
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 25 _  _   25
-# _IRRELEVANT                                            11        11
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   35 _  _   35
-# _outscope                 9        15                            24
-# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
+# OUTRO                    14        10         1                  25
+# PESO _  _  _  _  _  _  _  2 _  _  _ 3 _  _  _  _  _  _  _  _  _   5
+# PREÇO                    13        18                            31
+# PRODUTO _  _  _  _  _   360 _  _  _ 8 _  _  _ 6 _  _  _  _  _   374
+# RESISTÊNCIA               7        15         2                  24
+# SISTEMA _  _  _  _  _  _  8 _  _  _ 3 _  _  _  _  _  _  _  _  _  11
+# TAMANHO                   3                                       3
+# TELA _  _  _  _  _  _  _ 19 _  _  _ 1 _  _  _  _  _  _  _  _  _  20
+# USABILIDADE               9                                       9
+# _TOTAL__________________603________98________12_________________713
+# broken                                                 18        18
+# context _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 18 _  _   18
+# duplicate                                              25        25
+# irrelevant _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 11 _  _   11
+# none                                                   35        35
+# outscope _  _  _  _  _  _ 9 _  _   16 _  _  _  _  _  _  _  _  _  25
+# unintelligible                                          1         1
 
 
 
@@ -417,13 +416,6 @@ DESIGN -
 Por ser todo em vidro suja um pouco, mas nada que uma capinha não resolva.
 
 DESIGN -.
-
-
-
-(003.007)
-Na propaganda diz ter tv digital é mentira.
-
-EMPRESA - 
 
 
 
@@ -966,6 +958,13 @@ PRODUTO +
 
 
 
+(158.477)
+EXCELENTE.
+
+PRODUTO + 
+
+
+
 (029.073)
 Excelente!
 
@@ -1050,13 +1049,6 @@ PRODUTO +
 
 
 
-(158.477)
-EXCELENTE.
-
-PRODUTO + 
-
-
-
 (159.479)
 Excelente.
 
@@ -1078,6 +1070,13 @@ PRODUTO +
 
 
 
+(198.602)
+Galaxy S7.
+
+PRODUTO + 
+
+
+
 (105.314)
 Galaxy s7.
 
@@ -1085,8 +1084,15 @@ PRODUTO +
 
 
 
-(198.602)
-Galaxy S7.
+(158.478)
+MUITO BOM.
+
+PRODUTO + 
+
+
+
+(172.521)
+Muito BOM!
 
 PRODUTO + 
 
@@ -1122,13 +1128,6 @@ PRODUTO +
 
 (159.480)
 Muito bom!
-
-PRODUTO + 
-
-
-
-(172.521)
-Muito BOM!
 
 PRODUTO + 
 
@@ -1199,13 +1198,6 @@ PRODUTO +
 
 (151.445)
 Muito bom.
-
-PRODUTO + 
-
-
-
-(158.478)
-MUITO BOM.
 
 PRODUTO + 
 
@@ -1323,15 +1315,15 @@ PRODUTO +
 
 
 
-(171.519)
-Produto bom.
+(172.522)
+Produto TOP.
 
 PRODUTO + 
 
 
 
-(172.522)
-Produto TOP.
+(171.519)
+Produto bom.
 
 PRODUTO + 
 
@@ -1428,6 +1420,13 @@ PRODUTO +
 
 
 
+(139.416)
+Ótimo Produto.
+
+PRODUTO + 
+
+
+
 (047.133)
 Ótimo celular.
 
@@ -1479,13 +1478,6 @@ PRODUTO +
 
 (138.414)
 Otimo produto.
-
-PRODUTO + 
-
-
-
-(139.416)
-Ótimo Produto.
 
 PRODUTO + 
 
@@ -1708,15 +1700,15 @@ PRODUTO +
 
 
 
-(073.213)
-Produto excelente.
+(179.541)
+Produto Excelente.
 
 PRODUTO + 
 
 
 
-(179.541)
-Produto Excelente.
+(073.213)
+Produto excelente.
 
 PRODUTO + 
 
@@ -1869,6 +1861,13 @@ PRODUTO +
 
 
 
+(185.565)
+APARELHO SENSACIONAL.
+
+PRODUTO + 
+
+
+
 (038.101)
 Antes eu tinha um S4.
 
@@ -1878,13 +1877,6 @@ PRODUTO +
 
 (201.617)
 Aparelho excelente!!!
-
-PRODUTO + 
-
-
-
-(185.565)
-APARELHO SENSACIONAL.
 
 PRODUTO + 
 
@@ -2887,896 +2879,903 @@ TELA +
 (213.654)
 Boa.
 
-_BROKEN x 
+broken x 
 
 
 
 (072.210)
 Cor.
 
-_BROKEN x 
+broken x 
 
 
 
 (220.675)
 Geral.
 
-_BROKEN x 
+broken x 
 
 
 
 (090.273)
 MEU S7.
 
-_BROKEN x 
+broken x 
 
 
 
 (213.655)
 Foi boa.
 
-_BROKEN x 
+broken x 
 
 
 
 (124.371)
 S7 Edge.
 
-_BROKEN x 
+broken x 
 
 
 
 (007.017)
 Qualidade.
 
-_BROKEN x 
+broken x 
 
 
 
 (037.097)
 Samsung S7.
 
-_BROKEN x 
+broken x 
 
 
 
 (080.228)
 Samsung s7.
 
-_BROKEN x 
+broken x 
 
 
 
 (191.586)
 Celular samsung.
 
-_BROKEN x 
+broken x 
 
 
 
 (035.091)
 SEM FUTURO!!!!!!
 
-_BROKEN x 
+broken x 
 
 
 
 (035.090)
 CISSA MAGAZINE...
 
-_BROKEN x 
+broken x 
 
 
 
 (034.085)
 Tá bom, tá é bom.
 
-_BROKEN x 
+broken x 
 
 
 
 (067.196)
 Samsung Galaxy S7.
 
-_BROKEN x 
+broken x 
 
 
 
 (208.639)
 Não há explicações para a fragilidade de um produto qu.
 
-_BROKEN x 
+broken x 
 
 
 
 (163.488)
 Todos os aspectos marcados acima retratam fielmente o aparelho adquirido.
 
-_BROKEN x 
+broken x 
 
 
 
 (170.518)
 Não possui a mesma beleza de um iphone mais o processador não se compara com o mesmo.
 
-_BROKEN x 
+broken x 
 
 
 
 (136.409)
 Ainda não pude tê-lo.
 
-_CONTEXT x 
+context x 
 
 
 
 (020.050)
 Mudança do S6 para o S7.
 
-_CONTEXT x 
+context x 
 
 
 
 (064.190)
 Vamos ver nele como vai.
 
-_CONTEXT x 
+context x 
 
 
 
 (165.495)
 Migrando do S5 para o S7.
 
-_CONTEXT x 
+context x 
 
 
 
 (143.426)
 Depois do S6, comprei o S7.
 
-_CONTEXT x 
+context x 
 
 
 
 (153.458)
 Nada de novidade neste quesito.
 
-_CONTEXT x 
+context x 
 
 
 
 (014.035)
 Tinha o s6 e troquei para o s7.
 
-_CONTEXT x 
+context x 
 
 
 
 (114.341)
 Troquei um S4 octa core por esse S7.
 
-_CONTEXT x 
+context x 
 
 
 
 (118.352)
 Ainda não possui um só vi o do meu amigo.
 
-_CONTEXT x 
+context x 
 
 
 
 (199.608)
 Realizei a troca do galaxy s5 para o galaxy s7.
 
-_CONTEXT x 
+context x 
 
 
 
 (082.235)
 Deixei de comprar o S6 para pegar um mais atual.
 
-_CONTEXT x 
+context x 
 
 
 
 (165.501)
 E agora não é mais possível usar essa função na S7)
 
-_CONTEXT x 
+context x 
 
 
 
 (181.545)
 Duas surpresas desagradáveis com a compra do aparelho.
 
-_CONTEXT x 
+context x 
 
 
 
 (086.252)
 Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
 
-_CONTEXT x 
+context x 
 
 
 
 (018.046)
 Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
 
-_CONTEXT x 
+context x 
 
 
 
 (214.657)
 Sempre preferi smartphones aos modelos da Apple, primeiramente pelo custo benefício, já que as configurações dos itens de primeira linha, na grande maioria das vezes, são compatíveis ou superiores aos Iphones.
 
-_CONTEXT x 
+context x 
 
 
 
 (214.658)
 Depois disso, os modelos que tive foram super resistentes (Motorola Razr Intel e Galaxy Alpha) e só os troque cerca de 2,5 anos depois da compra, para ter um celular mais atualizado e não porque tiveram algum tipo de problema.
 
-_CONTEXT x 
+context x 
 
 
 
 (068.199)
 Otimo.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (145.430)
 The best.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (030.075)
 Muito bom!
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (141.423)
 Muito bom.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (004.008)
 Bom produto.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (098.292)
 Bom produto.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (145.431)
 Maravilhosa.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (162.485)
 Excelente produto.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (188.575)
 Aparelho excelente.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.259)
 Hardware muito bom.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (099.294)
 Bom custo/beneficio.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.266)
 Uso muito o aparelho.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.263)
 Poderia ser mais simples.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.262)
 Quanto ao software, muito poluído.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (030.076)
 Amigável, rapido, excelente acabamento.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (162.486)
 Produto de alta qualidade e performance.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (004.010)
 Na propaganda diz ter tv digital é mentira.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.261)
 Queria manter num top de linha e peguei o S7.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (098.293)
 Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (099.295)
 Um bom produto, com um bom desempenho, câmera e funcionalidades.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (004.009)
 Igual aos outros a única coisa que é melhor a bateria carrega muito rápido.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.265)
 Realmente resistente a água e a câmera e a duração da bateria me surpreende.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.260)
 Tinha um Iphone 6 e a baixa duração da bateria me fez procurar outra solução.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (087.264)
 Mas acredito que em breve me adaptarei ao produto, e essa questão será passado.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (218.670)
 Nao comprei.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (218.671)
 Nao comprei.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (092.278)
 NÃO LEIA O TITULO.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (092.277)
 NÃO LEIA A DESCRIÇÃO.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (031.078)
 Excelente celular, mas não tenho mais.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (057.162)
 Porque tenho que avaliar se não tenho o produto.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (035.086)
 Não seio o porque estou respondendo está pesquisa!!!!
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (057.163)
 Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (035.087)
 Eu nunca tive e nunca comprei um S7 na minha vida!!!!!!Não sei qual é o motivo de vcs mandarem essa pesquisa pra mim....
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (035.089)
 Não vou indicar a ninguém esse site, pelo contrário irei expor para todos os meus contatos que não comprem por esse site...
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (035.088)
 Eu comprei um AASSIS e aproveitando o ensejo, estou extremamente INSATISFEITO com a compra na CISSA MAGAZINE, no dia 20/07 fará 30 dias que eu paguei a vista o produto é até agora não chegou, ninguém entra em contato comigo pra dar alguma satisfação sobre a demora terrível que está acontecendo...
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (202.621)
 Queda.
 
-_NONE x 
+none x 
 
 
 
 (094.284)
 De mais, excelente!
 
-_NONE x 
+none x 
 
 
 
 (189.582)
 Perdi valor sedex ??
 
-_NONE x 
+none x 
 
 
 
 (156.474)
 NÃO COMPREM NA SARAIVA !
 
-_NONE x 
+none x 
 
 
 
 (038.102)
 Foi um salto de qualidade.
 
-_NONE x 
+none x 
 
 
 
 (217.668)
 Como em qualquer operadora.
 
-_NONE x 
+none x 
 
 
 
 (202.620)
 Trincou todo o display na 1a.
 
-_NONE x 
+none x 
 
 
 
 (108.324)
 Diz que vieram mas não apareceram não.
 
-_NONE x 
+none x 
 
 
 
 (125.381)
 Coloquem no seguro porque nao é barato!
 
-_NONE x 
+none x 
 
 
 
 (210.646)
 A loja com o melhor preço é o Carrefour.
 
-_NONE x 
+none x 
 
 
 
 (208.635)
 Liguei o mesmo e funcionou corretamente.
 
-_NONE x 
+none x 
 
 
 
 (212.653)
 Pouco tempo mas caro para o que oferece.
 
-_NONE x 
+none x 
 
 
 
 (165.498)
 E nesse quesito o S7 não deixa a desejar.
 
-_NONE x 
+none x 
 
 
 
 (086.253)
 Queria manter num top de linha e peguei o S7.
 
-_NONE x 
+none x 
 
 
 
 (217.667)
 O preço só é valido para quem assina um plano.
 
-_NONE x 
+none x 
 
 
 
 (189.581)
 Acabou demorando 15 dias e veio por transportadora.
 
-_NONE x 
+none x 
 
 
 
 (156.470)
 Por que não acreditar na palavra de um cliente idôneo.
 
-_NONE x 
+none x 
 
 
 
 (075.218)
 Para o S7, a ROM está limpa, poderia ser um pouco mais, mas está bom!
 
-_NONE x 
+none x 
 
 
 
 (210.647)
 Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
-_NONE x 
+none x 
 
 
 
 (208.634)
 Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema.
 
-_NONE x 
+none x 
 
 
 
 (156.468)
 SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip.
 
-_NONE x 
+none x 
 
 
 
 (156.471)
 Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro.
 
-_NONE x 
+none x 
 
 
 
 (208.633)
 Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online)
 
-_NONE x 
+none x 
 
 
 
 (199.614)
 Uma sugestão para o Always On seria exibir o ícone de outros apps, como o whatsapp, facebook e instagram.
 
-_NONE x 
+none x 
 
 
 
 (156.473)
 Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA.
 
-_NONE x 
+none x 
 
 
 
 (209.642)
 Das duas vezes que o meu entrou em contato com a agua ele foi parar na assistência, sendo que da segunda vez deu PT.
 
-_NONE x 
+none x 
 
 
 
 (156.469)
 Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno.
 
-_NONE x 
+none x 
 
 
 
 (075.217)
 Minhas experiências anteriores com Samsung se resumiam em hardware muito bom, mas com ROM sofrível de tanto lixo que colocavam.
 
-_NONE x 
+none x 
 
 
 
 (156.467)
 Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca.
 
-_NONE x 
+none x 
 
 
 
 (181.552)
 Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
-_NONE x 
+none x 
 
 
 
 (217.669)
 Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
-_NONE x 
+none x 
 
 
 
 (181.551)
 O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
 
-_NONE x 
+none x 
 
 
 
 (140.420)
 Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
 
-_NONE x 
+none x 
 
 
 
 (214.660)
 Um dos chamativos desse modelo da Samsung é justamente a tela Gorilla Glass 4, mas que não tem a menor resistência e, pior, o pequeno reparo da tela ficou orçado em quase R$ 2000,00 pela assistência técnica, R$ 85,00 mais barato que o preço do aparelho novo.
 
-_NONE x 
+none x 
 
 
 
 (156.472)
 Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente.
 
-_NONE x 
+none x 
 
 
 
 (005.013)
 Parabéns Shopfacil.com.
 
-_outscope + 
+outscope + 
 
 
 
 (125.379)
 A entrega foi a JATO pela fast shop.
 
-_outscope + 
+outscope + 
 
 
 
 (005.012)
 A melhor oferta encontrada e entrega rápida.
 
-_outscope + 
+outscope + 
 
 
 
 (134.405)
 Já sou cliente dos celulares Galaxy eu não troco.
 
-_outscope + 
+outscope + 
 
 
 
 (021.053)
 Gosto muito da marca Samsung e por isso adquiri este modelo.
 
-_outscope + 
+outscope + 
 
 
 
 (018.045)
 Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
 
-_outscope + 
+outscope + 
 
 
 
 (023.060)
 Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
 
-_outscope + 
+outscope + 
 
 
 
 (166.509)
 Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
 
-_outscope + 
+outscope + 
 
 
 
 (140.421)
 Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
 
-_outscope + 
+outscope + 
 
 
 
 (210.644)
 Falso anúncio.
 
-_outscope - 
+outscope - 
 
 
 
 (217.666)
 O anuncio da TIM é uma enganação!
 
-_outscope - 
+outscope - 
 
 
 
 (189.580)
 Paguei sedex pra chegar em 3 dias..
 
-_outscope - 
+outscope - 
 
 
 
 (193.590)
 Critica por não ter recebido o blinde.
 
-_outscope - 
+outscope - 
+
+
+
+(003.007)
+Na propaganda diz ter tv digital é mentira.
+
+outscope - 
 
 
 
 (156.466)
 Vai um conselho: NÃO COMPREM NA SARAIVA !!!!
 
-_outscope - 
+outscope - 
 
 
 
 (108.323)
 Ainda não recebi a distribuidora não apareceu com celular ainda.
 
-_outscope - 
+outscope - 
 
 
 
 (210.645)
 O Bondfaro me alertou que o preço do produto havia caído para 948,00.
 
-_outscope - 
+outscope - 
 
 
 
 (208.632)
 Prática abusiva de preços de manutenção e celular que quebra na primeira queda.
 
-_outscope - 
+outscope - 
 
 
 
 (219.674)
 E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
 
-_outscope - 
+outscope - 
 
 
 
 (189.579)
 Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
 
-_outscope - 
+outscope - 
 
 
 
 (208.637)
 Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
 
-_outscope - 
+outscope - 
 
 
 
 (181.550)
 Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo.
 
-_outscope - 
+outscope - 
 
 
 
 (194.594)
 O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
 
-_outscope - 
+outscope - 
 
 
 
 (208.638)
 Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
-_outscope - 
+outscope - 
 
 
 
 (034.084)
 Xvcxcvc.
 
-_UNINTELLIGIBLE x 
+unintelligible x 
 
 
 
@@ -4040,7 +4039,7 @@ OUTRO -
 As bordas arredondadas ativa, dificulta o manuseio, pois faz com que ações não conceitual se realize.O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
 
 OUTRO - 
-_outscope - 
+outscope - 
 
 
 
@@ -4183,7 +4182,7 @@ SISTEMA +
 (125.378)
 Vamos ver a bateria daqui um tempo.Tudo show de bola..
 
-_CONTEXT x 
+context x 
 PRODUTO + 
 
 
@@ -4289,7 +4288,7 @@ BATERIA +
 (153.456)
 O mesmo para a câmera traseira, guardadas as devidas proporções. Os apps não travam nem engasgam. A duração da bateria não é tão boa quanto deveria.
 
-_BROKEN x 
+broken x 
 DESEMPENHO + 
 BATERIA - 
 
@@ -4619,7 +4618,7 @@ OUTRO #
 (104.311)
 Ótimo produto, velocidade do processador e espaço em RAM perfeitos! Infelizmente a memória interna não permite mudar a maioria dos aplicativos para a memória externa..
 
-_DUPLICATE x 
+duplicate x 
 DESEMPENHO ++
 ARMAZENAMENTO ++
 DESEMPENHO ++

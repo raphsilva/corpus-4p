@@ -14,7 +14,7 @@
 
 > Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 > Total of opinions: 133
 
@@ -36,11 +36,11 @@
 # TELA                      1                                       1
 # USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 14
 # VÍDEO                               1                             1
-# _TOTAL___________________43_________8_________3________13________67
-# _BROKEN                                                 1         1
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 12 _  _   12
-# _NONE                                                   3         3
 # ZOOM _  _  _  _  _  _  _  6 _  _  _  _  _  _  _  _  _  _  _  _  _ 6
+# _TOTAL__________________109_________8_________3_________________120
+# broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
+# duplicate                                              12        12
+# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
 
 
 
@@ -213,6 +213,13 @@ PRODUTO +
 
 
 
+(041.099)
+Muito Bom!
+
+PRODUTO + 
+
+
+
 (018.046)
 Muito boa!
 
@@ -222,13 +229,6 @@ PRODUTO +
 
 (030.073)
 Muito bom!
-
-PRODUTO + 
-
-
-
-(041.099)
-Muito Bom!
 
 PRODUTO + 
 
@@ -577,118 +577,6 @@ USABILIDADE -
 
 
 
-(045.112)
-Nenhuma.
-
-_BROKEN x 
-
-
-
-(038.092)
-Bom.
-
-_DUPLICATE x 
-
-
-
-(043.107)
-MT bom.
-
-_DUPLICATE x 
-
-
-
-(022.054)
-Muito boa!
-
-_DUPLICATE x 
-
-
-
-(028.067)
-Muito boa.
-
-_DUPLICATE x 
-
-
-
-(035.087)
-Muito bom.
-
-_DUPLICATE x 
-
-
-
-(037.091)
-Muito bom.
-
-_DUPLICATE x 
-
-
-
-(038.093)
-Muito bom.
-
-_DUPLICATE x 
-
-
-
-(023.056)
-Ótimo produto.
-
-_DUPLICATE x 
-
-
-
-(032.078)
-Bom legal de usar.
-
-_DUPLICATE x 
-
-
-
-(016.042)
-Ótimo custo-benefício.
-
-_DUPLICATE x 
-
-
-
-(027.066)
-Excelente custo benefício.
-
-_DUPLICATE x 
-
-
-
-(036.089)
-Produto coerente com todas as especificações técnicas.
-
-_DUPLICATE x 
-
-
-
-(026.064)
-Mas já substituí o cartão de 8gb por um de 32gb.
-
-_NONE x 
-
-
-
-(034.085)
-Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
-
-_NONE x 
-
-
-
-(009.025)
-A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
-
-_NONE x 
-
-
-
 (017.045)
 Ótimo zoon.
 
@@ -700,6 +588,118 @@ ZOOM +
 Nossa o zoom dela é incrível, muito boa!
 
 ZOOM + 
+
+
+
+(045.112)
+Nenhuma.
+
+broken x 
+
+
+
+(038.092)
+Bom.
+
+duplicate x 
+
+
+
+(043.107)
+MT bom.
+
+duplicate x 
+
+
+
+(022.054)
+Muito boa!
+
+duplicate x 
+
+
+
+(028.067)
+Muito boa.
+
+duplicate x 
+
+
+
+(035.087)
+Muito bom.
+
+duplicate x 
+
+
+
+(037.091)
+Muito bom.
+
+duplicate x 
+
+
+
+(038.093)
+Muito bom.
+
+duplicate x 
+
+
+
+(023.056)
+Ótimo produto.
+
+duplicate x 
+
+
+
+(032.078)
+Bom legal de usar.
+
+duplicate x 
+
+
+
+(016.042)
+Ótimo custo-benefício.
+
+duplicate x 
+
+
+
+(027.066)
+Excelente custo benefício.
+
+duplicate x 
+
+
+
+(036.089)
+Produto coerente com todas as especificações técnicas.
+
+duplicate x 
+
+
+
+(026.064)
+Mas já substituí o cartão de 8gb por um de 32gb.
+
+none x 
+
+
+
+(034.085)
+Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!
+
+none x 
+
+
+
+(009.025)
+A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece.
+
+none x 
 
 
 

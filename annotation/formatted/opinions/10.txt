@@ -14,7 +14,7 @@
 
 > Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                           4                             4
@@ -33,14 +33,14 @@
 # TAMANHO _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # TELA                      7         4                            11
 # USABILIDADE _  _  _  _   18 _  _  _  _  _  _  _  _  _  _  _  _   18
-# _TOTAL__________________253_______117_________6________58_______434
-# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 24 _  _   24
-# _CONTEXT                                                9         9
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 13 _  _   13
-# _IRRELEVANT                                             7         7
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 4 _  _  _ 4
-# _outscope                 7        27         2                  36
-# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
+# _TOTAL__________________568_______109________24_________________701
+# broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  24 _  _   24
+# context                                                 9         9
+# duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  13 _  _   13
+# irrelevant                                              7         7
+# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  4 _  _  _ 4
+# outscope                  7        27         2                  36
+# unintelligible _  _  _  _  _  _  _  _  _  _  _  _  _  _ 5 _  _  _ 5
 
 
 
@@ -359,9 +359,9 @@
 
 126.308.0157)   [+][DESIGN]            ::  O aparelho é bonito.
 
-128.316.0158)   [+][DESIGN]            ::  Aparelho muito bonito.
+146.357.0158)   [+][DESIGN]            ::  APARELHO MUITO BONITO.
 
-146.357.0159)   [+][DESIGN]            ::  APARELHO MUITO BONITO.
+128.316.0159)   [+][DESIGN]            ::  Aparelho muito bonito.
 
 145.355.0160)   [+][DESIGN]            ::  Aparelho design excelente.
 
@@ -523,9 +523,9 @@
 
 027.064.0239)   [+][PREÇO]             ::  Custo-benefício excelente.
 
-173.426.0240)   [+][PREÇO]             ::  Excelente custo benefício.
+183.462.0240)   [+][PREÇO]             ::  Excelente Custo benefício.
 
-183.462.0241)   [+][PREÇO]             ::  Excelente Custo benefício.
+173.426.0241)   [+][PREÇO]             ::  Excelente custo benefício.
 
 031.071.0242)   [+][PREÇO]             ::  Excelente custo-benefício.
 
@@ -651,25 +651,25 @@
 
 017.039.0303)   [+][PRODUTO]           ::  Útil.
 
-052.124.0304)   [+][PRODUTO]           ::  Otima.
+118.281.0304)   [+][PRODUTO]           ::  ÓTIMO.
 
-033.081.0305)   [+][PRODUTO]           ::  Ótimo!
+052.124.0305)   [+][PRODUTO]           ::  Otima.
 
-136.334.0306)   [+][PRODUTO]           ::  Ótimo!
+033.081.0306)   [+][PRODUTO]           ::  Ótimo!
 
-007.018.0307)   [+][PRODUTO]           ::  Ótimo.
+136.334.0307)   [+][PRODUTO]           ::  Ótimo!
 
-045.106.0308)   [+][PRODUTO]           ::  Ótimo.
+007.018.0308)   [+][PRODUTO]           ::  Ótimo.
 
-050.117.0309)   [+][PRODUTO]           ::  Ótimo.
+045.106.0309)   [+][PRODUTO]           ::  Ótimo.
 
-071.166.0310)   [+][PRODUTO]           ::  Otimo.
+050.117.0310)   [+][PRODUTO]           ::  Ótimo.
 
-116.277.0311)   [+][PRODUTO]           ::  Otimo.
+071.166.0311)   [+][PRODUTO]           ::  Otimo.
 
-117.279.0312)   [+][PRODUTO]           ::  Otimo.
+116.277.0312)   [+][PRODUTO]           ::  Otimo.
 
-118.281.0313)   [+][PRODUTO]           ::  ÓTIMO.
+117.279.0313)   [+][PRODUTO]           ::  Otimo.
 
 144.352.0314)   [+][PRODUTO]           ::  Otimo.
 
@@ -753,33 +753,33 @@
 
 041.098.0354)   [+][PRODUTO]           ::  Impecável.
 
-018.041.0355)   [+][PRODUTO]           ::  Muito bom!
+103.247.0355)   [+][PRODUTO]           ::  Muito Bom.
 
-093.219.0356)   [+][PRODUTO]           ::  Muito bom!
+018.041.0356)   [+][PRODUTO]           ::  Muito bom!
 
-023.054.0357)   [+][PRODUTO]           ::  Muito bom.
+093.219.0357)   [+][PRODUTO]           ::  Muito bom!
 
-024.057.0358)   [+][PRODUTO]           ::  Muito bom.
+023.054.0358)   [+][PRODUTO]           ::  Muito bom.
 
-027.063.0359)   [+][PRODUTO]           ::  Muito bom.
+024.057.0359)   [+][PRODUTO]           ::  Muito bom.
 
-032.078.0360)   [+][PRODUTO]           ::  Muito bom.
+027.063.0360)   [+][PRODUTO]           ::  Muito bom.
 
-040.097.0361)   [+][PRODUTO]           ::  Muito bom.
+032.078.0361)   [+][PRODUTO]           ::  Muito bom.
 
-052.123.0362)   [+][PRODUTO]           ::  Muito bom.
+040.097.0362)   [+][PRODUTO]           ::  Muito bom.
 
-057.135.0363)   [+][PRODUTO]           ::  Muito bom.
+052.123.0363)   [+][PRODUTO]           ::  Muito bom.
 
-062.146.0364)   [+][PRODUTO]           ::  Muito bom.
+057.135.0364)   [+][PRODUTO]           ::  Muito bom.
 
-077.179.0365)   [+][PRODUTO]           ::  Muito bom.
+062.146.0365)   [+][PRODUTO]           ::  Muito bom.
 
-099.238.0366)   [+][PRODUTO]           ::  Muito bom.
+077.179.0366)   [+][PRODUTO]           ::  Muito bom.
 
-101.243.0367)   [+][PRODUTO]           ::  Muito bom.
+099.238.0367)   [+][PRODUTO]           ::  Muito bom.
 
-103.247.0368)   [+][PRODUTO]           ::  Muito Bom.
+101.243.0368)   [+][PRODUTO]           ::  Muito bom.
 
 116.278.0369)   [+][PRODUTO]           ::  Muito bom.
 
@@ -829,11 +829,11 @@
 
 114.273.0392)   [+][PRODUTO]           ::  Satisfeito.
 
-120.287.0393)   [+][PRODUTO]           ::  Bom produto.
+133.327.0393)   [+][PRODUTO]           ::  Bom Produto.
 
-128.315.0394)   [+][PRODUTO]           ::  Bom produto.
+120.287.0394)   [+][PRODUTO]           ::  Bom produto.
 
-133.327.0395)   [+][PRODUTO]           ::  Bom Produto.
+128.315.0395)   [+][PRODUTO]           ::  Bom produto.
 
 147.358.0396)   [+][PRODUTO]           ::  Bom produto.
 
@@ -847,11 +847,11 @@
 
 048.112.0401)   [+][PRODUTO]           ::  Celular bom.
 
-122.290.0402)   [+][PRODUTO]           ::  Maravilhoso!
+044.104.0402)   [+][PRODUTO]           ::  MAravilhoso.
 
-025.058.0403)   [+][PRODUTO]           ::  Maravilhoso.
+122.290.0403)   [+][PRODUTO]           ::  Maravilhoso!
 
-044.104.0404)   [+][PRODUTO]           ::  MAravilhoso.
+025.058.0404)   [+][PRODUTO]           ::  Maravilhoso.
 
 199.499.0405)   [+][PRODUTO]           ::  Maravilhoso.
 
@@ -939,9 +939,9 @@
 
 170.418.0447)   [+][PRODUTO]           ::  O Aparelho é bom.
 
-185.466.0448)   [+][PRODUTO]           ::  Ótimo smartphone!
+085.198.0448)   [+][PRODUTO]           ::  Ótimo Smartphone.
 
-085.198.0449)   [+][PRODUTO]           ::  Ótimo Smartphone.
+185.466.0449)   [+][PRODUTO]           ::  Ótimo smartphone!
 
 180.453.0450)   [+][PRODUTO]           ::  Ótimo smartphone.
 
@@ -1447,191 +1447,191 @@
 
 051.121.0701)   [+][USABILIDADE]       ::  Oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
 
-108.258.0702)   [x][_BROKEN]           ::  Chato.
+108.258.0702)   [x][_broken]           ::  Chato.
 
-108.259.0703)   [x][_BROKEN]           ::  Chato.
+108.259.0703)   [x][_broken]           ::  Chato.
 
-134.329.0704)   [x][_BROKEN]           ::  Otima.
+134.329.0704)   [x][_broken]           ::  Otima.
 
-046.108.0705)   [x][_BROKEN]           ::  Preço.
+046.108.0705)   [x][_broken]           ::  Preço.
 
-021.047.0706)   [x][_BROKEN]           ::  Moto G.
+021.047.0706)   [x][_broken]           ::  Moto G.
 
-124.298.0707)   [x][_BROKEN]           ::  Bateria.
+124.298.0707)   [x][_broken]           ::  Bateria.
 
-168.413.0708)   [x][_BROKEN]           ::  Celular.
+168.413.0708)   [x][_broken]           ::  Celular.
 
-065.152.0709)   [x][_BROKEN]           ::  Memória.
+171.422.0709)   [x][_broken]           ::  MOTO G5.
 
-171.422.0710)   [x][_BROKEN]           ::  MOTO G5.
+065.152.0710)   [x][_broken]           ::  Memória.
 
-184.463.0711)   [x][_BROKEN]           ::  Moto G5.
+184.463.0711)   [x][_broken]           ::  Moto G5.
 
-198.497.0712)   [x][_BROKEN]           ::  Moto G5.
+198.497.0712)   [x][_broken]           ::  Moto G5.
 
-229.608.0713)   [x][_BROKEN]           ::  Speaker.
+229.608.0713)   [x][_broken]           ::  Speaker.
 
-214.534.0714)   [x][_BROKEN]           ::  Curiosidade.
+214.534.0714)   [x][_broken]           ::  Curiosidade.
 
-018.040.0715)   [x][_BROKEN]           ::  Moto g plus.
+136.333.0715)   [x][_broken]           ::  Moto G Plus.
 
-136.333.0716)   [x][_BROKEN]           ::  Moto G Plus.
+033.080.0716)   [x][_broken]           ::  Moto G5plus.
 
-033.080.0717)   [x][_BROKEN]           ::  Moto G5plus.
+018.040.0717)   [x][_broken]           ::  Moto g plus.
 
-056.133.0718)   [x][_BROKEN]           ::  Moto G5 Plus.
+153.374.0718)   [x][_broken]           ::  MOTOG 5 PLUS.
 
-109.260.0719)   [x][_BROKEN]           ::  Moto G5 Plus.
+056.133.0719)   [x][_broken]           ::  Moto G5 Plus.
 
-153.374.0720)   [x][_BROKEN]           ::  MOTOG 5 PLUS.
+109.260.0720)   [x][_broken]           ::  Moto G5 Plus.
 
-096.230.0721)   [x][_BROKEN]           ::  Moto g 5 Plus.
+096.230.0721)   [x][_broken]           ::  Moto g 5 Plus.
 
-072.168.0722)   [x][_BROKEN]           ::  Avaliação do produto.
+072.168.0722)   [x][_broken]           ::  Avaliação do produto.
 
-127.313.0723)   [x][_BROKEN]           ::  Pesquisa de opiniao - compra smartphone moto g5.
+127.313.0723)   [x][_broken]           ::  Pesquisa de opiniao - compra smartphone moto g5.
 
-050.118.0724)   [x][_BROKEN]           ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+050.118.0724)   [x][_broken]           ::  Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
 
-131.323.0725)   [x][_BROKEN]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+131.323.0725)   [x][_broken]           ::  Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-142.349.0726)   [x][_CONTEXT]          ::  Foi presente.
+142.349.0726)   [x][_context]          ::  Foi presente.
 
-175.442.0727)   [x][_CONTEXT]          ::  Adquiri há 1 mês.
+175.442.0727)   [x][_context]          ::  Adquiri há 1 mês.
 
-225.576.0728)   [x][_CONTEXT]          ::  A promessa foi que o produto seria entregue até 09/05/17.
+225.576.0728)   [x][_context]          ::  A promessa foi que o produto seria entregue até 09/05/17.
 
-098.236.0729)   [x][_CONTEXT]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+098.236.0729)   [x][_context]          ::  Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
 
-126.304.0730)   [x][_CONTEXT]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
+126.304.0730)   [x][_context]          ::  Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
-131.324.0731)   [x][_CONTEXT]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
+131.324.0731)   [x][_context]          ::  Olha realmente tenho esse produto que comprei mas lojas americanas.
 
-225.580.0732)   [x][_CONTEXT]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+225.580.0732)   [x][_context]          ::  Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
-225.581.0733)   [x][_CONTEXT]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+225.581.0733)   [x][_context]          ::  Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
-225.577.0734)   [x][_CONTEXT]          ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+225.577.0734)   [x][_context]          ::  Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
-151.369.0735)   [x][_DUPLICATE]        ::  Ótimo.
+151.369.0735)   [x][_duplicate]        ::  Ótimo.
 
-014.033.0736)   [x][_DUPLICATE]        ::  Excelente.
+014.033.0736)   [x][_duplicate]        ::  Excelente.
 
-009.022.0737)   [x][_DUPLICATE]        ::  Satisfeito.
+009.022.0737)   [x][_duplicate]        ::  Satisfeito.
 
-149.363.0738)   [x][_DUPLICATE]        ::  Otimo produto.
+149.363.0738)   [x][_duplicate]        ::  Otimo produto.
 
-055.131.0739)   [x][_DUPLICATE]        ::  Cumpre o que promete.
+055.131.0739)   [x][_duplicate]        ::  Cumpre o que promete.
 
-186.468.0740)   [x][_DUPLICATE]        ::  O produto é muito bom.
+186.468.0740)   [x][_duplicate]        ::  O produto é muito bom.
 
-168.414.0741)   [x][_DUPLICATE]        ::  Uso para falar e web,.
+168.414.0741)   [x][_duplicate]        ::  Uso para falar e web,.
 
-183.461.0742)   [x][_DUPLICATE]        ::  Excelente Custo benefício.
+183.461.0742)   [x][_duplicate]        ::  Excelente Custo benefício.
 
-047.111.0743)   [x][_DUPLICATE]        ::  Ótima relação custo-benefício.
+047.111.0743)   [x][_duplicate]        ::  Ótima relação custo-benefício.
 
-196.493.0744)   [x][_DUPLICATE]        ::  Mais um produto de alta qualidade!
+196.493.0744)   [x][_duplicate]        ::  Mais um produto de alta qualidade!
 
-196.494.0745)   [x][_DUPLICATE]        ::  Meu terceiro aparelho Motorola, não me arrependo!
+196.494.0745)   [x][_duplicate]        ::  Meu terceiro aparelho Motorola, não me arrependo!
 
-206.517.0746)   [x][_DUPLICATE]        ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+206.517.0746)   [x][_duplicate]        ::  Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
 
-009.023.0747)   [x][_DUPLICATE]        ::  Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+009.023.0747)   [x][_duplicate]        ::  Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
 
-072.169.0748)   [x][_IRRELEVANT]       ::  Já tive um moto E.
+072.169.0748)   [x][_irrelevant]       ::  Já tive um moto E.
 
-174.432.0749)   [x][_IRRELEVANT]       ::  Meu primeiro Moto G foi o Moto G3 Turbo.
+174.432.0749)   [x][_irrelevant]       ::  Meu primeiro Moto G foi o Moto G3 Turbo.
 
-134.330.0750)   [x][_IRRELEVANT]       ::  Não comprei não está havendo algum erro aí..
+134.330.0750)   [x][_irrelevant]       ::  Não comprei não está havendo algum erro aí..
 
-225.587.0751)   [x][_IRRELEVANT]       ::  O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
+225.587.0751)   [x][_irrelevant]       ::  O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
-127.314.0752)   [x][_IRRELEVANT]       ::  Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
+127.314.0752)   [x][_irrelevant]       ::  Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
 
-214.535.0753)   [x][_IRRELEVANT]       ::  Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
+214.535.0753)   [x][_irrelevant]       ::  Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
 
-046.109.0754)   [x][_IRRELEVANT]       ::  Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+046.109.0754)   [x][_irrelevant]       ::  Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
 
-074.173.0755)   [+][_outscope]         ::  Entrega rápida.
+012.028.0755)   [x][_unintelligible]   ::  ...
 
-184.464.0756)   [+][_outscope]         ::  Entrega rápida.
+012.029.0756)   [x][_unintelligible]   ::  ...
 
-030.070.0757)   [+][_outscope]         ::  Chegou bem rápido.
+148.360.0757)   [x][_unintelligible]   ::  Cxb.
 
-138.338.0758)   [+][_outscope]         ::  Entregue antes do prazo.
+211.527.0758)   [x][_unintelligible]   ::  Xxx.
 
-086.206.0759)   [+][_outscope]         ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
+211.528.0759)   [x][_unintelligible]   ::  Xxx xxxx xxx x xx.
 
-037.090.0760)   [+][_outscope]         ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+074.173.0760)   [+][outscope]          ::  Entrega rápida.
 
-081.190.0761)   [+][_outscope]         ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
+184.464.0761)   [+][outscope]          ::  Entrega rápida.
 
-106.254.0762)   [-][_outscope]         ::  COMO VOU SABER, SE NÃO RECEBI.
+030.070.0762)   [+][outscope]          ::  Chegou bem rápido.
 
-221.558.0763)   [-][_outscope]         ::  Verificar a oferta do Shoptime.
+138.338.0763)   [+][outscope]          ::  Entregue antes do prazo.
 
-106.253.0764)   [-][_outscope]         ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+086.206.0764)   [+][outscope]          ::  A ENTREGA FOI RÁPIDA E MUITO BOA.
 
-126.312.0765)   [-][_outscope]         ::  Faltou um pouco de capricho pelo fabricante.
+037.090.0765)   [+][outscope]          ::  Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
 
-186.467.0766)   [-][_outscope]         ::  Não comprei na empresa efacil, empresa ruim.
+081.190.0766)   [+][outscope]          ::  Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
 
-225.579.0767)   [-][_outscope]         ::  Evidentemente houve um erro no envio do produto.
+106.254.0767)   [-][outscope]          ::  COMO VOU SABER, SE NÃO RECEBI.
 
-224.573.0768)   [-][_outscope]         ::  Tentei entrar em contato com a Onofre e não consegui.
+221.558.0768)   [-][outscope]          ::  Verificar a oferta do Shoptime.
 
-221.557.0769)   [-][_outscope]         ::  Valor de oferta de 250,00 não corresponde ao produto.
+106.253.0769)   [-][outscope]          ::  NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
 
-186.469.0770)   [-][_outscope]         ::  Por isso cancelei a compra e adquiri em outra empresa.
+126.312.0770)   [-][outscope]          ::  Faltou um pouco de capricho pelo fabricante.
 
-225.589.0771)   [-][_outscope]         ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+186.467.0771)   [-][outscope]          ::  Não comprei na empresa efacil, empresa ruim.
 
-225.588.0772)   [-][_outscope]         ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
+225.579.0772)   [-][outscope]          ::  Evidentemente houve um erro no envio do produto.
 
-225.574.0773)   [-][_outscope]         ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+224.573.0773)   [-][outscope]          ::  Tentei entrar em contato com a Onofre e não consegui.
 
-225.586.0774)   [-][_outscope]         ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+221.557.0774)   [-][outscope]          ::  Valor de oferta de 250,00 não corresponde ao produto.
 
-186.468.0775)   [-][_outscope]         ::  Não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+186.469.0775)   [-][outscope]          ::  Por isso cancelei a compra e adquiri em outra empresa.
 
-225.582.0776)   [-][_outscope]         ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+225.589.0776)   [-][outscope]          ::  Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-221.559.0777)   [-][_outscope]         ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+225.588.0777)   [-][outscope]          ::  Porém, para a minha frustração, o produto não veio no prazo prometido.
 
-227.599.0778)   [-][_outscope]         ::  Dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+225.574.0778)   [-][outscope]          ::  Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
 
-227.597.0779)   [-][_outscope]         ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
+225.586.0779)   [-][outscope]          ::  Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
 
-225.585.0780)   [-][_outscope]         ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+186.468.0780)   [-][outscope]          ::  Não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
-215.537.0781)   [-][_outscope]         ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+225.582.0781)   [-][outscope]          ::  Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 
-215.538.0782)   [-][_outscope]         ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
+221.559.0782)   [-][outscope]          ::  Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
 
-228.606.0783)   [-][_outscope]         ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+227.599.0783)   [-][outscope]          ::  Dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
-228.605.0784)   [-][_outscope]         ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+227.597.0784)   [-][outscope]          ::  Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
 
-225.578.0785)   [-][_outscope]         ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+225.585.0785)   [-][outscope]          ::  É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
 
-225.575.0786)   [-][_outscope]         ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+215.537.0786)   [-][outscope]          ::  Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
 
-216.546.0787)  [--][_outscope]         ::  Motorola nunca mais!
+215.538.0787)   [-][outscope]          ::  Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
 
-106.255.0788)  [--][_outscope]         ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+228.606.0788)   [-][outscope]          ::  Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
 
-225.583.0789)   [.][_outscope]         ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+228.605.0789)   [-][outscope]          ::  Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
 
-225.584.0790)   [.][_outscope]         ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+225.578.0790)   [-][outscope]          ::  Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
-012.028.0791)   [x][_UNINTELLIGIBLE]   ::  ...
+225.575.0791)   [-][outscope]          ::  Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-012.029.0792)   [x][_UNINTELLIGIBLE]   ::  ...
+216.546.0792)  [--][outscope]          ::  Motorola nunca mais!
 
-148.360.0793)   [x][_UNINTELLIGIBLE]   ::  Cxb.
+106.255.0793)  [--][outscope]          ::  COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
 
-211.527.0794)   [x][_UNINTELLIGIBLE]   ::  Xxx.
+225.583.0794)   [.][outscope]          ::  O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
 
-211.528.0795)   [x][_UNINTELLIGIBLE]   ::  Xxx xxxx xxx x xx.
+225.584.0795)   [.][outscope]          ::  A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
 

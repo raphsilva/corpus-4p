@@ -14,7 +14,7 @@
 
 > Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 6         4                            10
@@ -31,12 +31,12 @@
 # TAMANHO _  _  _  _  _  _  1 _  _  _ 1 _  _  _  _  _  _  _  _  _   2
 # TELA                      2                                       2
 # USABILIDADE _  _  _  _  _ 9 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 11
-# _TOTAL___________________47________11_________1________10________69
-# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
-# _CONTEXT                                                2         2
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
-# _NONE                                                   3         3
-# _outscope _  _  _  _  _   2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
+# _TOTAL__________________135________10_________2_________________147
+# broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   3 _  _  _ 3
+# context                                                 2         2
+# duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
+# none                                                    3         3
+# outscope _  _  _  _  _  _ 2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
 
 
 
@@ -337,29 +337,29 @@
 
 016.062.0148)  [-.][USABILIDADE]       ::  Claro que para usufruir de todas as funções, de maneira eficaz é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.
 
-034.110.0149)   [x][_BROKEN]           ::  Canon t5.
+034.110.0149)   [x][_broken]           ::  Canon t5.
 
-012.049.0150)   [x][_BROKEN]           ::  Câmera rebel T5.
+012.049.0150)   [x][_broken]           ::  Câmera rebel T5.
 
-001.002.0151)   [x][_BROKEN]           ::  Pouca, recém comprada.
+001.002.0151)   [x][_broken]           ::  Pouca, recém comprada.
 
-002.015.0152)   [x][_CONTEXT]          ::  Auxilia muito no transporte.
+002.015.0152)   [x][_context]          ::  Auxilia muito no transporte.
 
-002.013.0153)   [x][_CONTEXT]          ::  Só para caráter de comparação:
+002.013.0153)   [x][_context]          ::  Só para caráter de comparação:
 
-010.045.0154)   [x][_DUPLICATE]        ::  Bom.
+010.045.0154)   [x][_duplicate]        ::  Bom.
 
-030.098.0155)   [x][_DUPLICATE]        ::  Ótima.
+030.098.0155)   [x][_duplicate]        ::  Ótima.
 
-008.040.0156)   [x][_DUPLICATE]        ::  Ótimo produto.
+008.040.0156)   [x][_duplicate]        ::  Ótimo produto.
 
-038.118.0157)   [x][_DUPLICATE]        ::  Excelente Produto.
+038.118.0157)   [x][_duplicate]        ::  Excelente Produto.
 
-030.099.0158)   [x][_DUPLICATE]        ::  Recomendo, recomendo super.
+030.099.0158)   [x][_duplicate]        ::  Recomendo, recomendo super.
 
-040.124.0159)   [+][_outscope]         ::  A entrega foi rápida.
+040.124.0159)   [+][outscope]          ::  A entrega foi rápida.
 
-043.130.0160)   [+][_outscope]         ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
+043.130.0160)   [+][outscope]          ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
 
-047.139.0161)   [-][_outscope]         ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+047.139.0161)   [-][outscope]          ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 

@@ -14,7 +14,7 @@
 
 > Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 1         1                             2
@@ -32,11 +32,11 @@
 # TELA                      1                                       1
 # USABILIDADE _  _  _  _   12 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 14
 # VÍDEO                               1                             1
-# _TOTAL___________________43_________8_________3________13________67
-# _BROKEN                                                 1         1
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 12 _  _   12
-# _NONE                                                   3         3
 # ZOOM _  _  _  _  _  _  _  6 _  _  _  _  _  _  _  _  _  _  _  _  _ 6
+# _TOTAL__________________109_________8_________3_________________120
+# broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   1 _  _  _ 1
+# duplicate                                              12        12
+# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
 
 
 
@@ -125,11 +125,11 @@
 
 002.003.0042)   [+][PRODUTO]           ::  Excelente.
 
-018.046.0043)   [+][PRODUTO]           ::  Muito boa!
+041.099.0043)   [+][PRODUTO]           ::  Muito Bom!
 
-030.073.0044)   [+][PRODUTO]           ::  Muito bom!
+018.046.0044)   [+][PRODUTO]           ::  Muito boa!
 
-041.099.0045)   [+][PRODUTO]           ::  Muito Bom!
+030.073.0045)   [+][PRODUTO]           ::  Muito bom!
 
 005.011.0046)   [+][PRODUTO]           ::  Muito bom.
 
@@ -269,41 +269,41 @@
 
 009.026.0114)  [-.][VÍDEO]             ::  Não recomento a câmera para quem queira fazer videos profissionais.
 
-045.112.0115)   [x][_BROKEN]           ::  Nenhuma.
+017.045.0115)   [+][ZOOM]              ::  Ótimo zoom.
 
-038.092.0116)   [x][_DUPLICATE]        ::  Bom.
+026.063.0116)   [+][ZOOM]              ::  Com ótimo zoom.
 
-043.107.0117)   [x][_DUPLICATE]        ::  MT bom.
+028.069.0117)   [+][ZOOM]              ::  Excelente zoom.
 
-022.054.0118)   [x][_DUPLICATE]        ::  Muito boa!
+025.061.0118)   [+][ZOOM]              ::  Excelente zoom (42).
 
-028.067.0119)   [x][_DUPLICATE]        ::  Muito boa.
+022.055.0119)   [+][ZOOM]              ::  O zoom dela é incrível!
 
-035.087.0120)   [x][_DUPLICATE]        ::  Muito bom.
+018.047.0120)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
 
-037.091.0121)   [x][_DUPLICATE]        ::  Muito bom.
+045.112.0121)   [x][_broken]           ::  Nenhuma.
 
-038.093.0122)   [x][_DUPLICATE]        ::  Muito bom.
+038.092.0122)   [x][_duplicate]        ::  Bom.
 
-023.056.0123)   [x][_DUPLICATE]        ::  Ótimo produto.
+043.107.0123)   [x][_duplicate]        ::  MT bom.
 
-032.078.0124)   [x][_DUPLICATE]        ::  Bom legal de usar.
+022.054.0124)   [x][_duplicate]        ::  Muito boa!
 
-016.042.0125)   [x][_DUPLICATE]        ::  Ótimo custo-benefício.
+028.067.0125)   [x][_duplicate]        ::  Muito boa.
 
-027.066.0126)   [x][_DUPLICATE]        ::  Excelente custo benefício.
+035.087.0126)   [x][_duplicate]        ::  Muito bom.
 
-036.089.0127)   [x][_DUPLICATE]        ::  Produto coerente com todas as especificações técnicas.
+037.091.0127)   [x][_duplicate]        ::  Muito bom.
 
-017.045.0128)   [+][ZOOM]              ::  Ótimo zoom.
+038.093.0128)   [x][_duplicate]        ::  Muito bom.
 
-026.063.0129)   [+][ZOOM]              ::  Com ótimo zoom.
+023.056.0129)   [x][_duplicate]        ::  Ótimo produto.
 
-028.069.0130)   [+][ZOOM]              ::  Excelente zoom.
+032.078.0130)   [x][_duplicate]        ::  Bom legal de usar.
 
-025.061.0131)   [+][ZOOM]              ::  Excelente zoom (42).
+016.042.0131)   [x][_duplicate]        ::  Ótimo custo-benefício.
 
-022.055.0132)   [+][ZOOM]              ::  O zoom dela é incrível!
+027.066.0132)   [x][_duplicate]        ::  Excelente custo benefício.
 
-018.047.0133)   [+][ZOOM]              ::  Nossa o zoom dela é incrível, muito boa!
+036.089.0133)   [x][_duplicate]        ::  Produto coerente com todas as especificações técnicas.
 

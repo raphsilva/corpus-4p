@@ -14,7 +14,7 @@
 
 > Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 > Total of opinions: 795
 
@@ -37,14 +37,14 @@
 # TAMANHO _  _  _  _  _  _  2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
 # TELA                      7         4                            11
 # USABILIDADE _  _  _  _   18 _  _  _  _  _  _  _  _  _  _  _  _   18
-# _TOTAL__________________253_______117_________6________58_______434
-# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 24 _  _   24
-# _CONTEXT                                                9         9
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 13 _  _   13
-# _IRRELEVANT                                             7         7
-# _NONE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _ 4 _  _  _ 4
-# _outscope                 7        27         2                  36
-# _UNINTELLIGIBLE _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
+# _TOTAL__________________568_______109________24_________________701
+# broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  24 _  _   24
+# context                                                 9         9
+# duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  13 _  _   13
+# irrelevant                                              7         7
+# none _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  4 _  _  _ 4
+# outscope                  7        27         2                  36
+# unintelligible _  _  _  _  _  _  _  _  _  _  _  _  _  _ 5 _  _  _ 5
 
 
 
@@ -861,6 +861,13 @@ PRODUTO +
 
 
 
+(118.281)
+ÓTIMO.
+
+PRODUTO + 
+
+
+
 (052.124)
 Otima.
 
@@ -919,13 +926,6 @@ PRODUTO +
 
 (117.279)
 Otimo.
-
-PRODUTO + 
-
-
-
-(118.281)
-ÓTIMO.
 
 PRODUTO + 
 
@@ -1197,6 +1197,13 @@ PRODUTO +
 
 
 
+(103.247)
+Muito Bom.
+
+PRODUTO + 
+
+
+
 (018.041)
 Muito bom!
 
@@ -1283,13 +1290,6 @@ PRODUTO +
 
 (101.243)
 Muito bom.
-
-PRODUTO + 
-
-
-
-(103.247)
-Muito Bom.
 
 PRODUTO + 
 
@@ -1442,6 +1442,13 @@ PRODUTO +
 
 
 
+(133.327)
+Bom Produto.
+
+PRODUTO + 
+
+
+
 (120.287)
 Bom produto.
 
@@ -1451,13 +1458,6 @@ PRODUTO +
 
 (128.315)
 Bom produto.
-
-PRODUTO + 
-
-
-
-(133.327)
-Bom Produto.
 
 PRODUTO + 
 
@@ -1498,6 +1498,13 @@ PRODUTO +
 
 
 
+(044.104)
+MAravilhoso.
+
+PRODUTO + 
+
+
+
 (122.290)
 Maravilhoso!
 
@@ -1507,13 +1514,6 @@ PRODUTO +
 
 (025.058)
 Maravilhoso.
-
-PRODUTO + 
-
-
-
-(044.104)
-MAravilhoso.
 
 PRODUTO + 
 
@@ -2915,602 +2915,602 @@ USABILIDADE +
 (108.258)
 Chato.
 
-_BROKEN x 
+broken x 
 
 
 
 (108.259)
 Chato.
 
-_BROKEN x 
+broken x 
 
 
 
 (134.329)
 Otima.
 
-_BROKEN x 
+broken x 
 
 
 
 (046.108)
 Preço.
 
-_BROKEN x 
+broken x 
 
 
 
 (021.047)
 Moto G.
 
-_BROKEN x 
+broken x 
 
 
 
 (124.298)
 Bateria.
 
-_BROKEN x 
+broken x 
 
 
 
 (168.413)
 Celular.
 
-_BROKEN x 
-
-
-
-(065.152)
-Memória.
-
-_BROKEN x 
+broken x 
 
 
 
 (171.422)
 MOTO G5.
 
-_BROKEN x 
+broken x 
+
+
+
+(065.152)
+Memória.
+
+broken x 
 
 
 
 (184.463)
 Moto G5.
 
-_BROKEN x 
+broken x 
 
 
 
 (198.497)
 Moto G5.
 
-_BROKEN x 
+broken x 
 
 
 
 (229.608)
 Speaker.
 
-_BROKEN x 
+broken x 
 
 
 
 (214.534)
 Curiosidade.
 
-_BROKEN x 
-
-
-
-(018.040)
-Moto g plus.
-
-_BROKEN x 
+broken x 
 
 
 
 (136.333)
 Moto G Plus.
 
-_BROKEN x 
+broken x 
 
 
 
 (033.080)
 Moto G5plus.
 
-_BROKEN x 
+broken x 
 
 
 
-(056.133)
-Moto G5 Plus.
+(018.040)
+Moto g plus.
 
-_BROKEN x 
-
-
-
-(109.260)
-Moto G5 Plus.
-
-_BROKEN x 
+broken x 
 
 
 
 (153.374)
 MOTOG 5 PLUS.
 
-_BROKEN x 
+broken x 
+
+
+
+(056.133)
+Moto G5 Plus.
+
+broken x 
+
+
+
+(109.260)
+Moto G5 Plus.
+
+broken x 
 
 
 
 (096.230)
 Moto g 5 Plus.
 
-_BROKEN x 
+broken x 
 
 
 
 (072.168)
 Avaliação do produto.
 
-_BROKEN x 
+broken x 
 
 
 
 (127.313)
 Pesquisa de opiniao - compra smartphone moto g5.
 
-_BROKEN x 
+broken x 
 
 
 
 (050.118)
 Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
 
-_BROKEN x 
+broken x 
 
 
 
 (131.323)
 Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
-_BROKEN x 
+broken x 
 
 
 
 (142.349)
 Foi presente.
 
-_CONTEXT x 
+context x 
 
 
 
 (225.576)
 A promessa foi que o produto seria entregue até 09/05/17.
 
-_CONTEXT x 
+context x 
 
 
 
 (098.236)
 Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
 
-_CONTEXT x 
+context x 
 
 
 
 (126.304)
 Na verdade faço comparação com a Samsung pois era o que eu tinha.
 
-_CONTEXT x 
+context x 
 
 
 
 (225.580)
 Primeiramente, moro em um condomínio onde existe portaria 24 horas.
 
-_CONTEXT x 
+context x 
 
 
 
 (225.581)
 Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
-_CONTEXT x 
+context x 
 
 
 
 (225.577)
 Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
-_CONTEXT x 
+context x 
 
 
 
 (151.369)
 Ótimo.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (014.033)
 Excelente.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (009.022)
 Satisfeito.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (149.363)
 Otimo produto.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (055.131)
 Cumpre o que promete.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (168.414)
 Uso para falar e web,.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (183.461)
 Excelente Custo benefício.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (047.111)
 Ótima relação custo-benefício.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (196.493)
 Mais um produto de alta qualidade!
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (196.494)
 Meu terceiro aparelho Motorola, não me arrependo!
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (206.517)
 Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (009.023)
 Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (072.169)
 Já tive um moto E.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (174.432)
 Meu primeiro Moto G foi o Moto G3 Turbo.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (134.330)
 Não comprei não está havendo algum erro aí..
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (225.587)
 O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (127.314)
 Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (214.535)
 Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (046.109)
 Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
 
-_IRRELEVANT x 
+irrelevant x 
 
 
 
 (174.440)
 Agora, só Moto G.
 
-_NONE x 
+none x 
 
 
 
 (174.438)
 Grrrr), e já me encantei com alguns Galaxy.
 
-_NONE x 
+none x 
 
 
 
 (174.439)
 Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era.
 
-_NONE x 
+none x 
 
 
 
 (226.595)
 Se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
-_NONE x 
+none x 
 
 
 
 (086.206)
 A ENTREGA FOI RÁPIDA E MUITO BOA.
 
-_outscope + 
+outscope + 
 
 
 
 (037.090)
 Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
 
-_outscope + 
+outscope + 
 
 
 
 (106.254)
 COMO VOU SABER, SE NÃO RECEBI.
 
-_outscope - 
+outscope - 
 
 
 
 (221.558)
 Verificar a oferta do Shoptime.
 
-_outscope - 
+outscope - 
 
 
 
 (106.253)
 NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
 
-_outscope - 
+outscope - 
 
 
 
 (225.579)
 Evidentemente houve um erro no envio do produto.
 
-_outscope - 
+outscope - 
 
 
 
 (224.573)
 Tentei entrar en contato com a Onofre e não consegui.
 
-_outscope - 
+outscope - 
 
 
 
 (221.557)
 Valor de oferta de 250,00 não corresponde ao produto.
 
-_outscope - 
+outscope - 
 
 
 
 (186.469)
 Por isso cancelei a compra e adquiri em outra empresa.
 
-_outscope - 
+outscope - 
 
 
 
 (225.575)
 Em 02/05/17, comprei este smartphone pelo site do Extra.
 
-_outscope - 
+outscope - 
 
 
 
 (225.589)
 Decepção! Portanto, fica a dica: não comprem pelo Extra!!
 
-_outscope - 
+outscope - 
 
 
 
 (225.588)
 Porém, para a minha frustração, o produto não veio no prazo prometido.
 
-_outscope - 
+outscope - 
 
 
 
 (225.574)
 Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
 
-_outscope - 
+outscope - 
 
 
 
 (225.586)
 Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
 
-_outscope - 
+outscope - 
 
 
 
 (227.597)
 Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
 
-_outscope - 
+outscope - 
 
 
 
 (225.582)
 Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 
-_outscope - 
+outscope - 
 
 
 
 (221.559)
 Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
 
-_outscope - 
+outscope - 
 
 
 
 (225.585)
 É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
 
-_outscope - 
+outscope - 
 
 
 
 (215.537)
 Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
 
-_outscope - 
+outscope - 
 
 
 
 (215.538)
 Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
 
-_outscope - 
+outscope - 
 
 
 
 (228.606)
 Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
 
-_outscope - 
+outscope - 
 
 
 
 (228.605)
 Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
 
-_outscope - 
+outscope - 
 
 
 
 (225.578)
 Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
-_outscope - 
+outscope - 
 
 
 
 (216.546)
 Motorola nunca mais!
 
-_outscope --
+outscope --
 
 
 
 (106.255)
 COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
 
-_outscope --
+outscope --
 
 
 
 (225.583)
 O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
 
-_outscope . 
+outscope . 
 
 
 
 (225.584)
 A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
 
-_outscope . 
+outscope . 
 
 
 
 (012.028)
 ...
 
-_UNINTELLIGIBLE x 
+unintelligible x 
 
 
 
 (012.029)
 ...
 
-_UNINTELLIGIBLE x 
+unintelligible x 
 
 
 
 (148.360)
 Cxb.
 
-_UNINTELLIGIBLE x 
+unintelligible x 
 
 
 
 (211.527)
 Xxx.
 
-_UNINTELLIGIBLE x 
+unintelligible x 
 
 
 
 (211.528)
 Xxx xxxx xxx x xx.
 
-_UNINTELLIGIBLE x 
+unintelligible x 
 
 
 
@@ -3822,7 +3822,7 @@ PREÇO -
 Celular de ótimo custo-benefício e entregue antes do prazo.
 
 PREÇO + 
-_outscope + 
+outscope + 
 
 
 
@@ -3845,7 +3845,7 @@ USABILIDADE +
 (074.173)
 Entrega rápida e até então estou gostando muito do aparelho.
 
-_outscope + 
+outscope + 
 PRODUTO + 
 
 
@@ -3853,7 +3853,7 @@ PRODUTO +
 (081.190)
 Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
 
-_outscope + 
+outscope + 
 PRODUTO + 
 
 
@@ -3862,7 +3862,7 @@ PRODUTO +
 Bem...é bem legal mas faltou um pouco de capricho pelo fabricante.
 
 PRODUTO + 
-_outscope - 
+outscope - 
 
 
 
@@ -3870,7 +3870,7 @@ _outscope -
 O produto é muito bom, porém não comprei na empresa efacil, empresa ruim.
 
 PRODUTO + 
-_outscope - 
+outscope - 
 
 
 
@@ -3878,7 +3878,7 @@ _outscope -
 Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
 PRODUTO - 
-_outscope - 
+outscope - 
 
 
 
@@ -3901,7 +3901,7 @@ TELA +
 (131.324)
 Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 
-_CONTEXT x 
+context x 
 TELA - 
 
 
@@ -3909,8 +3909,8 @@ TELA -
 (186.468)
 O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
-_DUPLICATE x 
-_outscope - 
+duplicate x 
+outscope - 
 
 
 
@@ -4071,7 +4071,7 @@ PREÇO ++
 Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 
 PRODUTO + 
-_outscope + 
+outscope + 
 DESEMPENHO - 
 
 
@@ -4365,14 +4365,14 @@ DESIGN +
 PRODUTO + 
 BATERIA + 
 PREÇO + 
-_outscope + 
+outscope + 
 
 
 
 (175.442)
 Adquiri há 1 mês.Aparelho mais bonito pessoalmente (dourado).Câmera incrível, designer perfeito, super rápido, carrega mais rápido ainda e a bateria dura muito (uso muito celular, jogos, aplicativos, redes sociais).O diferencial dele é a TV, foi por isso que adquiri esse modelo.
 
-_CONTEXT x 
+context x 
 DESIGN + 
 CÂMERA + 
 DESIGN ++

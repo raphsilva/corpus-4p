@@ -240,7 +240,7 @@
             "id": 25,
             "opinions": [
                 [
-                    "_NONE",
+                    "none",
                     "x"
                 ]
             ],
@@ -462,7 +462,7 @@
             "id": 42,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -590,7 +590,7 @@
             "id": 54,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -618,7 +618,7 @@
             "id": 56,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -749,7 +749,7 @@
             "id": 64,
             "opinions": [
                 [
-                    "_NONE",
+                    "none",
                     "x"
                 ]
             ],
@@ -769,7 +769,7 @@
             "id": 66,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -779,7 +779,7 @@
             "id": 67,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -897,7 +897,7 @@
             "id": 78,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -990,7 +990,7 @@
             "id": 85,
             "opinions": [
                 [
-                    "_NONE",
+                    "none",
                     "x"
                 ]
             ],
@@ -1010,7 +1010,7 @@
             "id": 87,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1030,7 +1030,7 @@
             "id": 89,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1050,7 +1050,7 @@
             "id": 91,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1060,7 +1060,7 @@
             "id": 92,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1070,7 +1070,7 @@
             "id": 93,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1206,7 +1206,7 @@
             "id": 107,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1256,7 +1256,7 @@
             "id": 112,
             "opinions": [
                 [
-                    "_BROKEN",
+                    "broken",
                     "x"
                 ]
             ],
@@ -1266,7 +1266,7 @@
     "meta": {
         "Average rating": "9/10",
         "Collection date": "2018-05-28",
-        "File generation date": "2019-09-28",
+        "File generation date": "2019-09-29",
         "Human revisers": "Otávio (May 2018), Raphael (July 2018, September 2019)",
         "ID": "31",
         "Number of reviews": "45",

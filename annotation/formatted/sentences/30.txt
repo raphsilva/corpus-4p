@@ -14,7 +14,7 @@
 
 > Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-09-28
+> File generation date: 2019-09-29
 
 > Total of opinions: 161
 
@@ -35,12 +35,12 @@
 # TAMANHO _  _  _  _  _  _  1 _  _  _ 1 _  _  _  _  _  _  _  _  _   2
 # TELA                      2                                       2
 # USABILIDADE _  _  _  _  _ 9 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 11
-# _TOTAL___________________47________11_________1________10________69
-# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
-# _CONTEXT                                                2         2
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
-# _NONE                                                   3         3
-# _outscope _  _  _  _  _   2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
+# _TOTAL__________________135________10_________2_________________147
+# broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   3 _  _  _ 3
+# context                                                 2         2
+# duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
+# none                                                    3         3
+# outscope _  _  _  _  _  _ 2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
 
 
 
@@ -727,98 +727,98 @@ USABILIDADE +.
 (034.110)
 Canon t5.
 
-_BROKEN x 
+broken x 
 
 
 
 (012.049)
 Câmera rebel T5.
 
-_BROKEN x 
+broken x 
 
 
 
 (001.002)
 Pouca, recém comprada.
 
-_BROKEN x 
+broken x 
 
 
 
 (002.013)
 Só para caráter de comparação.
 
-_CONTEXT x 
+context x 
 
 
 
 (002.015)
 Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
 
-_CONTEXT x 
+context x 
 
 
 
 (010.045)
 Bom.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (030.098)
 Ótima.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (008.040)
 Ótimo produto.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (038.118)
 Excelente Produto.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (030.099)
 Recomendo, recomendo super.
 
-_DUPLICATE x 
+duplicate x 
 
 
 
 (020.074)
 Manual ou automático.
 
-_NONE x 
+none x 
 
 
 
 (002.016)
 Auxilia muito no transporte.
 
-_NONE x 
+none x 
 
 
 
 (047.140)
 Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 
-_NONE x 
+none x 
 
 
 
 (047.139)
 Anuncio falso.
 
-_outscope - 
+outscope - 
 
 
 
@@ -946,7 +946,7 @@ USABILIDADE +
 Produto me agradou muito e a entrega foi rápida.
 
 PRODUTO + 
-_outscope + 
+outscope + 
 
 
 
@@ -989,7 +989,7 @@ ACESSÓRIO +
 DESIGN + 
 PREÇO + 
 USABILIDADE + 
-_outscope + 
+outscope + 
 PRODUTO + 
 
 
