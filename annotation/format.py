@@ -315,23 +315,23 @@ for filename in files_to_read:
                 n['excerpts'].append(p['sentence'])
                 if p['flags'] != '':
                     if p['flags'] == 'd':
-                        n['aspect'] = ['_DUPLICATE']
-                        p['aspect'] = '_DUPLICATE'
+                        n['aspect'] = ['_duplicate']
+                        p['aspect'] = '_duplicate'
                     elif p['flags'] == 'u':
-                        n['aspect'] = ['_UNINTELLIGIBLE']
-                        p['aspect'] = '_UNINTELLIGIBLE'
+                        n['aspect'] = ['_unintelligible']
+                        p['aspect'] = '_unintelligible'
                     elif p['flags'] == 'b':
-                        n['aspect'] = ['_BROKEN']
-                        p['aspect'] = '_BROKEN'
+                        n['aspect'] = ['_broken']
+                        p['aspect'] = '_broken'
                     elif p['flags'] == 'i':
-                        n['aspect'] = ['_IRRELEVANT']
-                        p['aspect'] = '_IRRELEVANT'
+                        n['aspect'] = ['_irrelevant']
+                        p['aspect'] = '_irrelevant'
                     elif p['flags'] == 'c':
-                        n['aspect'] = ['_CONTEXT']
-                        p['aspect'] = '_CONTEXT'
+                        n['aspect'] = ['_context']
+                        p['aspect'] = '_context'
                     else:
-                        n['aspect'] = ['_OUTSCOPE']
-                        p['aspect'] = '_OUTSCOPE'
+                        n['aspect'] = ['_outscope']
+                        p['aspect'] = '_outscope'
                     n['polarity'] = ['x']
                     p['polarity'] = 'x'
                     # continue
