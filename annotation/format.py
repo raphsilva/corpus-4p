@@ -191,8 +191,10 @@ def getPolarity(s):
         return '.'
 
 
-SPECIAL_ASPECTS = ['PRODUTO', 'EMPRESA', '_NONE', '_GENERIC', 'X', 'x']
-
+def isExceptionAspect(aspectname):
+    if 'a' <= aspectname[0] <= 'z':
+        return True
+    return False
 
 def countAspects(info):
     count_aspects = {}
@@ -208,7 +210,7 @@ def countAspects(info):
                 count_aspects[aspect] = {'+': 0, '-': 0, '.': 0, 'x': 0, 'total': 0}
             count_aspects[aspect][getPolarity(polarity)] += 1
 
-            if aspect not in SPECIAL_ASPECTS:
+            if not isExceptionAspect(aspect):
                 count_aspects['_TOTAL_'][getPolarity(polarity)] += 1
 
     return count_aspects
@@ -246,7 +248,7 @@ def unikey(seq):
     # if '_' in seq:  # Specific for the aspect '_TOTAL_', which goes in the last line of the table.
     #     return 'zzzzzzzzzz'
     if seq == '_TOTAL_':
-        return 'zz'
+        return 'ZZ'
     return seq.translate(trans)
 
 
