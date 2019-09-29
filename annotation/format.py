@@ -14,13 +14,13 @@ DIR_ANNOTATED_MANUAL = 'input/revised'
 DIR_ANNOTATED_AUTO = 'input/automatic'
 
 # Output directories
-DIR_FORMATTED_SPLIT = 'formatted/opinions'  # Folder where formatted files will be saved to.
-DIR_FORMATTED_NOSPLIT = 'formatted/sentences'  # Folder where formatted files will be saved to.
-DIR_OUTPUT_JSON= 'formatted/json'  # Folder where formatted files will be saved to.
+DIR_FORMATTED_SPLIT = '../dataset/whole/opinions'  # Folder where formatted files will be saved to.
+DIR_FORMATTED_NOSPLIT = '../dataset/whole/sentences'  # Folder where formatted files will be saved to.
+DIR_OUTPUT_JSON= '../dataset/whole/json'  # Folder where formatted files will be saved to.
 DIR_DOUBLECHECK = 'doublecheck'  # Folder that will contain files to help review the annotation.
 
 # Create directories 
-output_directories = [DIR_FORMATTED_SPLIT, DIR_FORMATTED_NOSPLIT, DIR_DOUBLECHECK]
+output_directories = [DIR_FORMATTED_SPLIT, DIR_FORMATTED_NOSPLIT, DIR_OUTPUT_JSON, DIR_DOUBLECHECK]
 for i in output_directories:
     if not os.path.exists(i):
         os.makedirs(i)

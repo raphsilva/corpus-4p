@@ -11,7 +11,7 @@ This repository contains two directories that are different versions of the same
 
 The clean and extended version of the dataset contains 16 files in JSON format. Each file contains opinions about an entity. The entities D1a, D1b, D2a and D2b are real and the others are fictitious, formed from subsets of the sentences of real entities. The format of the files is as in the example below. The opinions found in sentences are represented by a word that identifies the aspect and a number that identifies the polarity: 100 for positive, -100 for negative, and 0 for neutral. Irrelevant opinions are not present in these sets.
 
-```
+```json
 {
     "data": [
         {
