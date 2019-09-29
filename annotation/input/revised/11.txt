@@ -38,7 +38,7 @@
 (003.006) [+][BATERIA] :: Igual aos outros, a única coisa que é melhor é que a bateria carrega muito rápido.
 
 
-(003.007) [-][_outscope] :: Na propaganda diz ter tv digital é mentira.
+(003.007) [-][outscope] :: Na propaganda diz ter tv digital é mentira.
 
 
 
@@ -55,10 +55,10 @@ d(004.010) [][] :: Na propaganda diz ter tv digital é mentira.
 
 (005.011) [+][PRODUTO] :: Excelente produto.
 
-(005.012) [+][_outscope] :: A melhor oferta encontrada e entrega rápida.
+(005.012) [+][outscope] :: A melhor oferta encontrada e entrega rápida.
 
 
-(005.013) [+][_outscope] :: Parabéns Shopfacil.com.
+(005.013) [+][outscope] :: Parabéns Shopfacil.com.
 
 
 
@@ -173,7 +173,7 @@ c(014.035) [][] :: Tinha o s6 e troquei para o s7.
 
 (018.044) [+][PRODUTO] :: Excelente.
 
-(018.045) [+][_outscope] :: Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
+(018.045) [+][outscope] :: Não é o prmeiro produto deste fabricante que compro, so venho me atualizando.
 c(018.046) [][] :: Os antigos , que ainda possuo, estao funcionando, limitados pelas novas tecnologias, mas funcionam.
 
 
@@ -198,7 +198,7 @@ c(020.050) [][] :: Mudança do S6 para o S7.
 
 (021.052) [+][PRODUTO] :: Ótimo.
 
-(021.053) [+][_outscope] :: Gosto muito da marca Samsung e por isso adquiri este modelo.
+(021.053) [+][outscope] :: Gosto muito da marca Samsung e por isso adquiri este modelo.
 
 
 
@@ -223,7 +223,7 @@ c(020.050) [][] :: Mudança do S6 para o S7.
 (023.059) [+][PRODUTO] :: Top de linha.
 (023.059) [+][PREÇO] :: Excelente custo beneficio.
 
-(023.060) [+][_outscope] :: Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
+(023.060) [+][outscope] :: Sou usuário Samsung a pelo menos 7 anos, recomendo a todos este fabricante, excelente !!!
 
 
 
@@ -1123,7 +1123,7 @@ d(104.311) [][] :: Ótimo produto
 (108.322) [+][PRODUTO] :: Celular bom.
 (108.322) [-][PREÇO] :: caro.
 
-(108.323) [-][_outscope] :: Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
+(108.323) [-][outscope] :: Ainda não recebi a distribuidora não apareceu com celular ainda. Diz que vieram mas não apareceram não.
 
 
 
@@ -1316,7 +1316,7 @@ c(125.378) [][] :: Vamos ver a bateria daqui um tempo.
 (125.378) [+][PRODUTO] :: Tudo show de bola..
 
 
-(125.379) [+][_outscope] :: A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
+(125.379) [+][outscope] :: A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
 
 
 (125.380) [!][RESISTÊNCIA] :: Uma dica: Coloquem no seguro porque nao é barato!
@@ -1406,7 +1406,7 @@ c(125.378) [][] :: Vamos ver a bateria daqui um tempo.
 
 (134.404) [+][PRODUTO] :: Bom Aparelho.
 
-(134.405) [+][_outscope] :: Já sou cliente dos celulares Galaxy eu não troco.
+(134.405) [+][outscope] :: Já sou cliente dos celulares Galaxy eu não troco.
 
 
 
@@ -1459,7 +1459,7 @@ c(136.409) [][] :: Ainda não pude tê-lo.
 (140.419) [-][ACESSÓRIO] :: Só não dei 5 estrelas porque devido o mesmo ser curvo, desnecessário, não é possível encontrar no mercado nenhuma película que fica perfeita nele. Ai você escolhe ficar com o aparelho sem proteção, colocar uma película que fica sobrando pelos lados e soltando ou colocar uma que deixa meio centímetro de cada lado sem proteção.
 
 
-(140.421) [+][_outscope] :: Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
+(140.421) [+][outscope] :: Vale ressaltar que a Samsung me mandou rapidamente o Gear VR SM-R323NBKAZTO e o ponto frio entregou numa rapidez impressionante.
 
 
 
@@ -1610,7 +1610,7 @@ c(153.458) [][] :: Nada de novidade neste quesito.
 
 
 
-(156.466) [-][_outscope] :: Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
+(156.466) [-][outscope] :: Vai um conselho: NÃO COMPREM NA SARAIVA !!!! Comprei celular que chegou com defeito de recepção de sinais, enviei imediatamente para troca. SARAIVA informou que não pode proceder a troca, pois eu tinha quebrado a trava do chip. Não quebrei nenhuma trava, e por que não analisar a possibilidade da trava ter sido quebrada na SARAIVA após o retorno. Por que não acreditar na palavra de um cliente idôneo. Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro. Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente. Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA. Então Vai um conselho : NÃO COMPREM NA SARAIVA !
 
 
 
@@ -1728,7 +1728,7 @@ c(165.501) [][] ::  e agora não é mais possível usar essa função na S7)
 (166.508) [-][OUTRO] :: Único ponto negativo é a impossibilidade de trocar a bateria (ou seja, tem vida útil contada, de 2-3 anos, fora isso, só alegria.
 
 
-(166.509) [+][_outscope] :: Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
+(166.509) [+][outscope] :: Fora isso ainda ganhei um Galaxy Gear VR na compra (promoção da Samsung ainda em vigor), show.
 
 
 
@@ -1871,7 +1871,7 @@ c(181.545) [][] :: Surpresas desagradáveis com a compra do aparelho.
 (181.549) [-][ACESSÓRIO] :: Os modelos de película disponíveis tem uma margem de uns 4mm, o que torna uma luta a experiência de manipular o menu e selecionar um aplicativo e jogar para o canto da tela para ele ir para a página do lado.
 
 
-(181.550) [-][_outscope] :: Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+(181.550) [-][outscope] :: Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo. O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos. Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
 
 
@@ -1973,10 +1973,10 @@ d(188.575) [][] :: Aparelho excelente.
 (189.578) [-.][PRODUTO] :: Comprei 2 s7, o meu veio perfeito, já o do meu marido veio com problema, travamento, não lê a digital, desliga..
 
 
-(189.579) [-][_outscope] :: Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
+(189.579) [-][outscope] :: Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
 
 
-(189.580) [-][_outscope] :: Paguei sedex pra chegar em 3 dias..  Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
+(189.580) [-][outscope] :: Paguei sedex pra chegar em 3 dias..  Acabou demorando 15 dias e veio por transportadora. Perdi valor sedex ??
 
 
 
@@ -2008,10 +2008,10 @@ b(191.586) [][] :: Celular samsung.
 
 
 
-(193.590) [-][_outscope] :: Critica por não ter recebido o blinde.
+(193.590) [-][outscope] :: Critica por não ter recebido o blinde.
 
 (193.591) [-][OUTRO] :: As bordas arredondadas ativa, dificulta o manuseio, pois faz com que ações não conceitual se realize.
-(193.591) [-][_outscope] :: O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
+(193.591) [-][outscope] :: O blinde que estava previsto em sem entregue junto com o produto não veio, mesmo estando dentro da período promocional.
 
 
 
@@ -2023,7 +2023,7 @@ b(191.586) [][] :: Celular samsung.
 (194.593) [-][BATERIA] :: bateria ruim.
 
 
-(194.594) [-][_outscope] :: O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
+(194.594) [-][outscope] :: O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram pra ver com o Girafa e nenhum resolveu.
 
 
 
@@ -2161,16 +2161,16 @@ c(199.608) [][] :: Realizei a troca do galaxy s5 para o galaxy s7.
 
 
 
-(208.632) [-][_outscope] :: Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
+(208.632) [-][outscope] :: Prática abusiva de preços de manutenção e celular que quebra na primeira queda. Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online). Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema. Liguei o mesmo e funcionou corretamente.
 
 
 (208.636) [-][RESISTÊNCIA] :: Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
 
-(208.637) [-][_outscope] :: Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
+(208.637) [-][outscope] :: Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
 
 
-(208.638) [-][_outscope] :: Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
+(208.638) [-][outscope] :: Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
 
 
 b(208.639) [][] :: Não há explicações para a fragilidade de um produto qu.
@@ -2186,9 +2186,9 @@ b(208.639) [][] :: Não há explicações para a fragilidade de um produto qu.
 
 
 
-(210.644) [-][_outscope] :: Falso anúncio.
+(210.644) [-][outscope] :: Falso anúncio.
 
-(210.645) [-][_outscope] :: O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
+(210.645) [-][outscope] :: O Bondfaro me alertou que o preço do produto havia caído para 948,00. A loja com o melhor preço é o Carrefour. Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
 
 
@@ -2244,7 +2244,7 @@ c(214.658) [][] :: Depois disso, os modelos que tive foram super resistentes (Mo
 
 
 
-(217.666) [-][_outscope] :: O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
+(217.666) [-][outscope] :: O anuncio da TIM é uma enganação! O preço só é valido para quem assina um plano. Como em qualquer operadora. Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!
 
 
 
@@ -2261,7 +2261,7 @@ i(218.671) [][] :: Nao comprei.
 (219.673) [-][RESISTÊNCIA] :: PÉSSIMA COM DOIS MESES DE USO TRINCOU O DISPLAY DE LCD DENTRO DA BOLSA.
 
 
-(219.674) [-][_outscope] :: E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
+(219.674) [-][outscope] :: E O CONCERTO É 70% DO PREÇO DO CELULAR E PAGAMENTO NO MÁXIMO DE 2 VEZES, E DIZEM QUE É MAL USO.
 
 
 
