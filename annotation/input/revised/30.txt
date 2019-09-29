@@ -251,7 +251,7 @@ b(012.049) [][]  ::  Câmera rebel T5.
 
 (020.073) [+][TELA]  ::  O Display é bem fácil de acessar
 (020.073) [+][FOCO]  ::   controle de foco fácil. Manual ou automático.
-#j (020.073) [][]  ::   Manual ou automático.
+#j (020.074) [][]  ::   Manual ou automático.
 
 
 
