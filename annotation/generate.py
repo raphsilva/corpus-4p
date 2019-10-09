@@ -1,9 +1,7 @@
 import datetime
 import io
-import os
-from pprint import pprint
 import json
-
+import os
 
 date = datetime.datetime.now()
 
@@ -16,7 +14,7 @@ DIR_ANNOTATED_AUTO = 'input/automatic'
 # Output directories
 DIR_FORMATTED_SPLIT = '../dataset/whole/opinions'  # Folder where formatted files will be saved to.
 DIR_FORMATTED_NOSPLIT = '../dataset/whole/sentences'  # Folder where formatted files will be saved to.
-DIR_OUTPUT_JSON= '../dataset/whole/json'  # Folder where formatted files will be saved to.
+DIR_OUTPUT_JSON = '../dataset/whole/json'  # Folder where formatted files will be saved to.
 DIR_DOUBLECHECK = 'doublecheck'  # Folder that will contain files to help review the annotation.
 
 # Create directories 
@@ -25,7 +23,6 @@ for i in output_directories:
     if not os.path.exists(i):
         os.makedirs(i)
 
-from collections import defaultdict
 
 # Read file (revised or automatically annotaded)
 def getInfo(filename):
@@ -68,7 +65,8 @@ def getInfo(filename):
 
         sentence = line.split('::')[-1]  # Get sentence from the entry
         info = line.split('::')[0]  # Get info (polarity, aspect, etc) from the sentence
-        info = info.replace('[', '').replace('(', '') # Remove characters that won't be used (they are there for human readability)
+        info = info.replace('[', '').replace('(',
+                                             '')  # Remove characters that won't be used (they are there for human readability)
         line_id = info.split(')')[0]
 
         n = {}  # Will save information about this entry
@@ -86,7 +84,6 @@ def getInfo(filename):
         r['data'].append(n)
 
     return r
-
 
 
 def opinionToStringPlain(opinion):
@@ -175,6 +172,7 @@ def isExceptionAspect(aspectname):
         return True
     return False
 
+
 def countAspects(info):
     count_aspects = {}
     count_aspects['_TOTAL_'] = {'+': 0, '-': 0, '.': 0, 'x': 0, 'total': 0}
@@ -213,7 +211,8 @@ def lineAspectsCounts(list_of_aspects, aspect):
     s += "%10d" % list_of_aspects[aspect]['-']
     s += "%10d" % list_of_aspects[aspect]['.']
     s += "%10d" % list_of_aspects[aspect]['x']
-    s += "%10d" % (list_of_aspects[aspect]['+'] + list_of_aspects[aspect]['-'] + list_of_aspects[aspect]['.'] + list_of_aspects[aspect]['x'])
+    s += "%10d" % (list_of_aspects[aspect]['+'] + list_of_aspects[aspect]['-'] + list_of_aspects[aspect]['.'] +
+                   list_of_aspects[aspect]['x'])
     return s.replace(' 0 ', '   ')
 
 
@@ -224,8 +223,6 @@ trans = str.maketrans(s, s2)
 
 
 def unikey(seq):
-    # if '_' in seq:  # Specific for the aspect '_TOTAL_', which goes in the last line of the table.
-    #     return 'zzzzzzzzzz'
     if seq == '_TOTAL_':
         return 'ZZ'
     return seq.translate(trans)
@@ -254,7 +251,8 @@ def tabularAspectsCount(list_of_aspects):
 
 
 files_to_read = []
-list_of_files = [f for f in os.listdir(DIR_ANNOTATED_MANUAL) if os.path.isfile(os.path.join(DIR_ANNOTATED_MANUAL, f))]  # List of data files already saved in the disk
+list_of_files = [f for f in os.listdir(DIR_ANNOTATED_MANUAL) if
+                 os.path.isfile(os.path.join(DIR_ANNOTATED_MANUAL, f))]  # List of data files already saved in the disk
 for i in list_of_files:
     i_filename = i.split('.')[0]  # Get filename without extension, which is that product's ID
     files_to_read.append(i)
@@ -323,10 +321,6 @@ for filename in files_to_read:
                     n['aspect'].append(p['aspect'])
                     n['polarity'].append(p['polarity'])
 
-            # if len(n['aspect']) == 1 and 'PRODUTO' in n['aspect']:
-            #     n['aspect'] = ['PRODUTO_GENERIC']
-            #     p['aspect'] = 'PRODUTO_GENERIC'
-
         if n == None:
             continue
 
@@ -349,7 +343,7 @@ for filename in files_to_read:
 
         c_sentences_included += 1
 
-    ##COUNT REVIEWS
+    # Count reviews
     rrr = []
     for i in data_merged:
         if i['review_id'] not in rrr:
@@ -395,7 +389,8 @@ for filename in files_to_read:
     f.write(tabularAspectsCount(count_aspects))
     f.write('\n\n\n\n')
 
-    data_parsed_by_aspects = sorted(data_revised, key=lambda k: (unikey(k['aspect']), k['polarity'], len(k['sentence']), unikey(formatSentence(k['sentence']))))
+    data_parsed_by_aspects = sorted(data_revised, key=lambda k: (
+    unikey(k['aspect']), k['polarity'], len(k['sentence']), unikey(formatSentence(k['sentence']))))
     id_f = 1
     for i in data_parsed_by_aspects:
         i['id_f'] = ("%04d" % (id_f))
@@ -414,7 +409,9 @@ for filename in files_to_read:
         f.write(i + '\n\n')
     f.write(tabularAspectsCount(count_aspects))
     f.write('\n\n\n\n')
-    data_parsed_by_aspects = sorted(data_merged, key=lambda k: (len(k['aspect']) == 0, len(k['aspect']), unikey(str(sorted(k['aspect']))), str(k['polarity']), len(k['sentence']), unikey(formatSentence(k['sentence']))))
+    data_parsed_by_aspects = sorted(data_merged, key=lambda k: (
+    len(k['aspect']) == 0, len(k['aspect']), unikey(str(sorted(k['aspect']))), str(k['polarity']), len(k['sentence']),
+    unikey(formatSentence(k['sentence']))))
 
     for i in data_parsed_by_aspects:
 
