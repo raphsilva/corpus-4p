@@ -1,8 +1,10 @@
-This directory contains the framework used in the process of annotation of the corpus. It consists of two folders: 
-* `input` contains the annotated input set in two versions: raw data and the data manually revised. 
-* `doublecheck` contains files that help annotators revise their work.
+# annotation
 
-The file `generate.py` is a script that gets the files from the `input` directory and generates files for the other two directories. 
+This directory contains the framework used in the process of annotation of the corpus. It consists of two folders: 
+* **input** contains the annotated input set in two versions: raw data and the data manually revised. 
+* **doublecheck** contains files that help annotators revise their work.
+
+The file **generate.py** is a script that gets the files from the `input` directory and generates files for `doublecheck` and the data set in `../dataset`. 
 
 
 ## Instructions

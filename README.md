@@ -3,11 +3,31 @@
 This repository contains a corpus that was built to test methods of contrastive opinion summarization, which is a task that aims to compare two entities from  opinionated texts written about them. There was manual annotation of information about the opinions contained in each sentence, each opinion being indicated by its aspect and polarity: the aspect is the characteristic of the product that the opinion evaluates and the polarity indicates whether the opinion is positive or negative. The 642 sentences of the corpus were collected from 542 opinionated reviews published by buyers on Buscapé website and refer to four different products: two mobile phones and two digital cameras. The corpus was extended through the creation of fictitious entities that contain sentences of the selected real entities with different strategies to simulate other possibilities of sets of opinionated texts. Two pairs of real entities and six fictitious pairs were formed.
 
 
+## Structure
+
+The contents of this directory are organized in the following directories:
+
+* **dataset**:  Contains different versions of the data set: 
+    * **skim**: A clean and extended version of the data set, in JSON format.
+    * **whole**: Data set containing all information from the annotation: 
+        * **sentences**: The original text is segmented in sentences; 
+        * **opinion**: The text is segmented in a way that each segment contains only one opinion.
+        * **json**: Contains all information from the two other directories in JSON format.
+
+* **annotation**: Cointains tools and auxiliary files used in the process of annotation.
+    * **input**: Contains the annotated input set in two versions: the raw data and the data manually revised. 
+    * **doublecheck**: Contains files that help annotators revise their work.
+    * **generate.py**: Script that gets the files from the `input` directory and generates files for double check (at `annotation/doublecheck`) and writes the data set in its final format at `dataset`. 
+
+
+More information about those directories is in the readme files inside each directory.
+
+
 ## Syntax
 
 ### Aspects
 
-Aspects are represented for an uppercase tag, for example, **SCREEN**. 
+Aspects are represented by an uppercase tag, for example, **SCREEN**. 
 
 Special aspects were defined for exception cases. They are:
 * **outscope**:  text segments that talk not about the target product, but about some entity related to it or to the user's purchase experience, such as manufacturer, vendor, shipping company, etc. – _Arrived fast._
@@ -15,12 +35,12 @@ Special aspects were defined for exception cases. They are:
 * **irrelevant**:  segments that are not related to the target product and do not add value to comments about the product. – _I don't know why I'm posting this review._
 * **duplicate**:  segments that have been posted before by the same person (for example, when the reviewer repeats a sentence in the title and in the body.
 * **broken**:  segments that are missing words. – _Screen_
-* **unintelligible**:  segments that don't contain valid words. – _'xvcxcvc'_
+* **unintelligible**:  segments that don't contain valid words. – _xvcxcvc_
 
 
 ### Polarity
 
-Polarities were represented by symbols:
+Polarities are represented by symbols:
 * ` +` (**positive**): something good, desirable – '_Very fast phone_'
 * `.+` (**weak positive**): something conditionally good or partially good – _It's expensive, but it's worth it._
 * `++` (**strong positive**): something exceptionally good – _Perfect, without any flaw_. 
