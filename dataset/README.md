@@ -1,4 +1,6 @@
-This repository contains two directories that are different versions of the same corpus: the `skim` directory contains a clean, extended version for general use, and the` whole` directory contains the files and scripts used for annotation and all information extracted from the site displayed in ways that ease both human and machine readability, including information that are not necessarily useful for the task of contrastive summarization. Meta information is kept in all files.
+# dataset
+
+This directory contains two directories that are different versions of the same corpus: the `skim` directory contains a clean, extended version for general use, and the `whole` directory contains the files and scripts used for annotation and all information extracted from the source displayed in ways that ease either human or machine readability. Meta information is kept in all files.
 
 
 ## Skim dataset
@@ -19,12 +21,14 @@ The clean and extended version of the dataset contains 16 files in JSON format a
 
 ## Whole
 
-The directory `whole` contains all data extracted from the source after it has been annotated and formatted. It contains files for the four products whose comments have been collected. The dataset comes in three flavors, two intended for human readability and one that joins all information thought for machine input:
+The directory `whole` contains all data extracted from the source after it has been annotated and formatted. It contains files for the four products whose comments have been collected, including information that are not necessarily useful for the task of contrastive summarization and excerpts that are considered undesirable or unuseful (properlly marked as such).
+
+The dataset comes in three flavors (one in each subdirectory), two intended for human readability and one that joins all information thought for machine input:
 
 **sentences**: Text is segmented by sentences. All opinions of each sentence are identified:
 ```
 (133.328)
-Gostei do produto, apenas a bateria a bateria podia ser melhor.
+Gostei do produto, apenas a bateria podia ser melhor.
 
 PRODUTO + 
 BATERIA - 
@@ -32,28 +36,27 @@ BATERIA -
 **opinions**: Text is segmented by excerpts where each excerpt contain only one opinion:
 ```
 133.328.0459)   [+][PRODUTO]           ::  Gostei do produto.
-133.328.0044)   [-][BATERIA]           ::  Apenas a bateria a bateria podia ser melhor.
+133.328.0044)   [-][BATERIA]           ::  Apenas a bateria podia ser melhor.
 ```
 **json**: Information of segmentation is kept for both sentences and opinions:
 ```json
 {
         "id": 328,    
-        "sentence": "Gostei do produto, apenas a bateria a bateria podia ser melhor.",    
+        "sentence": "Gostei do produto, apenas a bateria podia ser melhor.",    
         "opinions": [
             ["PRODUTO","+"],
             ["BATERIA","-"]
         ],
         "excerpts": [
             "Gostei do produto.",
-            "apenas a bateria a bateria podia ser melhor."
+            "apenas a bateria podia ser melhor."
         ]          
-    }
 }
 ``` 
 
 ## Metadata
 
-Metadata are kept in all files. They show information about the entity, the reviews extracted and the annotation process. Example of metadata is:
+Metadata are kept in all files. They show information about the entity, about the reviews extracted and about the annotation process. An examples of metadata is:
 ```buildoutcfg
 ID: 10
 Type: Celular
@@ -69,7 +72,7 @@ Total of sentences: 592
 ```
 
 Files intended for human readability contain a table that summarizes quantitatively the aspects and polarities found for the entity: 
-```buildoutcfg
+```
 #_aspect_____________positive__negative___neutral____non-op_____total
 # ACESSÓRIO                 6         5                            11
 # ÁUDIO _  _  _  _  _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _   1
