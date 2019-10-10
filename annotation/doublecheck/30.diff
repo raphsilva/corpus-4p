@@ -14,116 +14,113 @@
 
   Human revisers: Raphael (May 2018, September 2019)
 
-  File generation date: 2019-09-15
+  File generation date: 2019-09-29
 
 
-<   [002.004][]   [+][PRODUTO BATERIA USABILIDADE]  ::  O produto vem com correia para evitar quedas, duas lentes para fotografia, o corpo é resistente, a qualidade de fotografia é superior se comparado a prozoomers, Acompanha bateria, tampas de lentes para evitar riscos e manchas ao manusear.
->   [002.004][]   [+][ACESSÓRIO]         ::  O produto vem com correia para evitar quedas
->   [002.004][]   [+][ACESSÓRIO]         ::  O produto vem com duas lentes para fotografia
->   [002.004][]   [+][RESISTÊNCIA]       ::  o corpo é resistente
->   [002.004][]   [+][FOTO]              ::  a qualidade de fotografia é superior se comparado a prozoomers
->   [002.004][]   [+][ACESSÓRIO]         ::  Acompanha bateria
->   [002.004][]   [+][ACESSÓRIO]         ::  Acompanha tampas de lentes para evitar riscos e manchas ao manusear.
+<   [002.004][PRODUTO BATERIA USABILIDADE][+]    O produto vem com correia para evitar quedas, duas lentes para fotografia, o corpo é resistente, a qualidade de fotografia é superior se comparado a prozoomers, Acompanha bateria, tampas de lentes para evitar riscos e manchas ao manusear.
+>   [002.004]        [ACESSÓRIO][+]    O produto vem com correia para evitar quedas
+>   [002.004]        [ACESSÓRIO][+]    O produto vem com duas lentes para fotografia
+>   [002.004]      [RESISTÊNCIA][+]    o corpo é resistente
+>   [002.004]             [FOTO][+]    a qualidade de fotografia é superior se comparado a prozoomers
+>   [002.004]        [ACESSÓRIO][+]    Acompanha bateria
+>   [002.004]        [ACESSÓRIO][+]    Acompanha tampas de lentes para evitar riscos e manchas ao manusear.
 
-<   [002.007][]   [+][PESO TAMANHO PRODUTO]  ::  O peso e o tamanho atrapalham um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
->   [002.007][]  [-.][PESO]              ::  O peso atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
->   [002.007][]  [-.][TAMANHO]           ::  O tamanho atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
+<   [002.007][PESO TAMANHO PRODUTO][+]    O peso e o tamanho atrapalham um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
+>   [002.007]            [PESO][-.]    O peso atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
+>   [002.007]         [TAMANHO][-.]    O tamanho atrapalha um pouco, mas para este tipo de equipamento é comum, se comparado aos outros modelos de câmera.
 
-<   [002.009][]   [+][IMAGEM]            ::  O foco automático é um pouco lento, o que não permite muitas fotos em movimento, mas é ótimo para poses.
->   [002.009][]   [-][FOCO]              ::  O foco automático é um pouco lento, o que não permite muitas fotos em movimento.
->   [002.009][]   [+][FOCO]              ::  O foco automático é ótimo para poses.
+<   [002.009]           [IMAGEM][+]    O foco automático é um pouco lento, o que não permite muitas fotos em movimento, mas é ótimo para poses.
+>   [002.009]             [FOCO][-]    O foco automático é um pouco lento, o que não permite muitas fotos em movimento.
+>   [002.009]             [FOCO][+]    O foco automático é ótimo para poses.
 
-<   [002.013][]   [+][PRODUTO]           ::  Só para caráter de comparação.
->   [002.013][]   [x][x]                 ::  Só para caráter de comparação:
+<   [002.013]          [PRODUTO][+]    Só para caráter de comparação.
+>c  [002.013]          [context][x]    Só para caráter de comparação:
 
-<   [002.014][]   [+][PREÇO]             ::  Só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
->   [002.014][]   [+][PREÇO]             ::  só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
+<   [002.014]            [PREÇO][+]    Só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
+>   [002.014]            [PREÇO][+]    só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
 
-<   [003.021][]   [-][BATERIA]           ::  Deveria vir com bateria extrado demais atende minhas necessidades.
->   [003.021][]   [-][ACESSÓRIO]         ::  Deveria vir com bateria extra
->   [003.021][]   [+][PRODUTO]           ::  atende minhas necessidades.
+<   [003.021]          [BATERIA][-]    Deveria vir com bateria extrado demais atende minhas necessidades.
+>   [003.021]        [ACESSÓRIO][-]    Deveria vir com bateria extra
+>   [003.021]          [PRODUTO][+]    atende minhas necessidades.
 
-<   [005.025][]   [+][USABILIDADE PRODUTO]  ::  Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom.
->   [005.025][]  [+.][PRODUTO]           ::  Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom. Amei o produto!
+<   [005.025][USABILIDADE PRODUTO][+]    Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom.
+>   [005.025]         [PRODUTO][+.]    Comprei para uso doméstico, pois queria fotos com muita qualidade e uma câmera com mais recursos do que as superzoom. Amei o produto!
 
-<   [005.026][]   [+][PRODUTO TAMANHO]   ::  Amei o produto! É uma câmera de entrada no mundo DSLR, com funções pré-programadas e a possibilidade de fazer configurações próprias, à medida que o usuário vai se familiarizando com esse tipo de equipamento.
->   [005.026][]  [+.][USABILIDADE]       ::  É uma câmera de entrada no mundo DSLR, com funções pré-programadas e a possibilidade de fazer configurações próprias, à medida que o usuário vai se familiarizando com esse tipo de equipamento.
+<   [005.026]  [PRODUTO TAMANHO][+]    Amei o produto! É uma câmera de entrada no mundo DSLR, com funções pré-programadas e a possibilidade de fazer configurações próprias, à medida que o usuário vai se familiarizando com esse tipo de equipamento.
+>   [005.026]     [USABILIDADE][+.]    É uma câmera de entrada no mundo DSLR, com funções pré-programadas e a possibilidade de fazer configurações próprias, à medida que o usuário vai se familiarizando com esse tipo de equipamento.
 
-<   [005.031][]   [+][TAMANHO]           ::  Achei os comandos bem intuitivos e consigo fotos muito bonitas sem muito trabalho de ajuste fino.
->   [005.031][]   [+][USABILIDADE]       ::  Achei os comandos bem intuitivos
->   [005.031][]   [+][FOTO]              ::  consigo fotos muito bonitas sem muito trabalho de ajuste fino.
+<   [005.031]          [TAMANHO][+]    Achei os comandos bem intuitivos e consigo fotos muito bonitas sem muito trabalho de ajuste fino.
+>   [005.031]      [USABILIDADE][+]    Achei os comandos bem intuitivos
+>   [005.031]             [FOTO][+]    consigo fotos muito bonitas sem muito trabalho de ajuste fino.
 
-<   [005.032][]   [+][FUNCIONALIDADE PRODUTO]  ::  Recomendo muito a compra! Para quem quer tirar fotos pessoais com qualidade profissional, essa é uma ótima opção de produto.
->   [005.032][]   [+][PRODUTO]           ::  Recomendo muito a compra!
->   [005.032][]  [+.][PRODUTO]           ::  Para quem quer tirar fotos pessoais com qualidade profissional, essa é uma ótima opção de produto.
+<   [005.032][FUNCIONALIDADE PRODUTO][+]    Recomendo muito a compra! Para quem quer tirar fotos pessoais com qualidade profissional, essa é uma ótima opção de produto.
+>   [005.032]          [PRODUTO][+]    Recomendo muito a compra!
+>   [005.032]         [PRODUTO][+.]    Para quem quer tirar fotos pessoais com qualidade profissional, essa é uma ótima opção de produto.
 
-<   [006.037][]   [+][PRODUTO]           ::  Uma câmera para a introdução a fotografia, uma coisa que falta é a utilização de um microfone externo que faz muita falta.
->   [006.037][]  [+.][PRODUTO]           ::  Uma câmera para a introdução a fotografia
->   [006.037][]   [-][ÁUDIO]             ::  uma coisa que falta é a utilização de um microfone externo que faz muita falta.
+<   [006.037]          [PRODUTO][+]    Uma câmera para a introdução a fotografia, uma coisa que falta é a utilização de um microfone externo que faz muita falta.
+>   [006.037]         [PRODUTO][+.]    Uma câmera para a introdução a fotografia
+>   [006.037]            [ÁUDIO][-]    uma coisa que falta é a utilização de um microfone externo que faz muita falta.
 
-<   [016.061][]   [+][FUNCIONALIDADE PREÇO]  ::  Uma ótima opção para fotógrafos iniciantes e amadores que querem se profissionalizar.O custo beneficio, é um dos maiores pontos positivos.
->   [016.061][]  [+.][PRODUTO]           ::  Uma ótima opção para fotógrafos iniciantes e amadores que querem se profissionalizar.
->   [016.061][]   [+][PREÇO]             ::  O custo beneficio, é um dos maiores pontos positivos.
+<   [016.061][FUNCIONALIDADE PREÇO][+]    Uma ótima opção para fotógrafos iniciantes e amadores que querem se profissionalizar.O custo beneficio, é um dos maiores pontos positivos.
+>   [016.061]         [PRODUTO][+.]    Uma ótima opção para fotógrafos iniciantes e amadores que querem se profissionalizar.
+>   [016.061]            [PREÇO][+]    O custo beneficio, é um dos maiores pontos positivos.
 
-<   [016.062][]   [-][LENTE FUNCIONALIDADE]  ::  Claro que para usufruir de todas as funções, de maneira aficais é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.Um ponto negativo é a lente do kit, porem essa pode ser ótima opção para começo e assim q perceber sua necessidade saberá qual tipo de lente é melhor para cada usuário.
->   [016.062][]  [-.][USABILIDADE]       ::  Claro que para usufruir de todas as funções, de maneira eficaz é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.
->   [016.062][]   [-][ACESSÓRIO]         ::  Um ponto negativo é a lente do kit, porem essa pode ser ótima opção para começo e assim q perceber sua necessidade saberá qual tipo de lente é melhor para cada usuário.
+<   [016.062][LENTE FUNCIONALIDADE][-]    Claro que para usufruir de todas as funções, de maneira aficais é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.Um ponto negativo é a lente do kit, porem essa pode ser ótima opção para começo e assim q perceber sua necessidade saberá qual tipo de lente é melhor para cada usuário.
+>   [016.062]     [USABILIDADE][-.]    Claro que para usufruir de todas as funções, de maneira eficaz é necessário estudar e testar, assim é possivel criar imagens com qualidade profissionais, sem deixar nada a desejar.
+>   [016.062]        [ACESSÓRIO][-]    Um ponto negativo é a lente do kit, porem essa pode ser ótima opção para começo e assim q perceber sua necessidade saberá qual tipo de lente é melhor para cada usuário.
 
-<   [020.073][]   [+][TELA IMAGEM]       ::  O Display é bem fácil de acessar, controle de foco fácil.
->   [020.073][]   [+][TELA]              ::  O Display é bem fácil de acessar
->   [020.073][]   [+][FOCO]              ::  controle de foco fácil.
->   [020.073][]   [x][X]                 ::  Manual ou automático.
+<   [020.073]      [TELA IMAGEM][+]    O Display é bem fácil de acessar, controle de foco fácil.
+>   [020.073]             [TELA][+]    O Display é bem fácil de acessar
+>   [020.073]             [FOCO][+]    controle de foco fácil. Manual ou automático.
 
-<   [023.084][]   [+][PREÇO]             ::  Ótimo custo benefício! Fotos em alta definição.
->   [023.084][]   [+][PREÇO]             ::  Ótimo custo benefício!
->   [023.084][]   [+][FOTO]              ::  Fotos em alta definição.
+<   [023.084]            [PREÇO][+]    Ótimo custo benefício! Fotos em alta definição.
+>   [023.084]            [PREÇO][+]    Ótimo custo benefício!
+>   [023.084]             [FOTO][+]    Fotos em alta definição.
 
-<   [025.089][]   [+][USABILIDADE]       ::  Fácil manuseio, ótimo p/ elaborar trabalhos etc.
->   [025.089][]   [+][USABILIDADE]       ::  Fácil manuseio
->   [025.089][]   [+][PRODUTO]           ::  ótimo p/ elaborar trabalhos etc.
+<   [025.089]      [USABILIDADE][+]    Fácil manuseio, ótimo p/ elaborar trabalhos etc.
+>   [025.089]      [USABILIDADE][+]    Fácil manuseio
+>   [025.089]          [PRODUTO][+]    ótimo p/ elaborar trabalhos etc.
 
-<   [026.091][]   [+][PRODUTO]           ::  Excelente câmera! Vale a pena.Quem não é profissional basta dar uma estudada, ler e praticar!
->   [026.091][]   [+][PRODUTO]           ::  Excelente câmera! Vale a pena.
->   [026.091][]   [!][USABILIDADE]       ::  Quem não é profissional basta dar uma estudada, ler e praticar!
+<   [026.091]          [PRODUTO][+]    Excelente câmera! Vale a pena.Quem não é profissional basta dar uma estudada, ler e praticar!
+>   [026.091]          [PRODUTO][+]    Excelente câmera! Vale a pena.
+>   [026.091]      [USABILIDADE][!]    Quem não é profissional basta dar uma estudada, ler e praticar!
 
-<   [031.101][]   [+][PRODUTO RESOLUÇÃO]  ::  Que tal unir lazer e profissionalismo? Com a Câmera Digital Canon EOS Rebel T5 18.0 Megapixels agora você pode! É super portátil, levo para todos os lugares comigo, viagens longas ou no parque da cidade que fica bem em frente a minha casa.
->   [031.101][]   [+][PRODUTO]           ::  Que tal unir lazer e profissionalismo? Com a Câmera Digital Canon EOS Rebel T5 18.0 Megapixels agora você pode!
->   [031.101][]   [+][TAMANHO]           ::  É super portátil, levo para todos os lugares comigo, viagens longas ou no parque da cidade que fica bem em frente a minha casa.
+<   [031.101][PRODUTO RESOLUÇÃO][+]    Que tal unir lazer e profissionalismo? Com a Câmera Digital Canon EOS Rebel T5 18.0 Megapixels agora você pode! É super portátil, levo para todos os lugares comigo, viagens longas ou no parque da cidade que fica bem em frente a minha casa.
+>   [031.101]          [PRODUTO][+]    Que tal unir lazer e profissionalismo? Com a Câmera Digital Canon EOS Rebel T5 18.0 Megapixels agora você pode!
+>   [031.101]          [TAMANHO][+]    É super portátil, levo para todos os lugares comigo, viagens longas ou no parque da cidade que fica bem em frente a minha casa.
 
-<   [032.106][]   [-][PRODUTO BATERIA USABILIDADE]  ::  Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,só que o ruim dela é a duração da bateria,acaba rápido,mais o respo é ótimo,e ela é super fácil de mexer.Recomendo para todos.
->   [032.106][]   [+][PRODUTO]           ::  Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,
->   [032.106][]   [-][BATERIA]           ::  o ruim dela é a duração da bateria,acaba rápido
->   [032.106][]   [+][USABILIDADE]       ::  e ela é super fácil de mexer.Recomendo para todos.
+<   [032.106][PRODUTO BATERIA USABILIDADE][-]    Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,só que o ruim dela é a duração da bateria,acaba rápido,mais o respo é ótimo,e ela é super fácil de mexer.Recomendo para todos.
+>   [032.106]          [PRODUTO][+]    Amei esse produto,me surpreendi com a ótima qualidade,essa câmera virou minha queridinha,amei ela mesmo,
+>   [032.106]          [BATERIA][-]    o ruim dela é a duração da bateria,acaba rápido
+>   [032.106]      [USABILIDADE][+]    e ela é super fácil de mexer.Recomendo para todos.
 
-<   [033.108][]   [+][PREÇO PRODUTO USABILIDADE]  ::  Relativamente bom o investimento, o produto apresenta diversas características de uso profissional amador, comprei para uso pessoal e tive bons resultados.
->   [033.108][]  [+.][PREÇO]             ::  Relativamente bom o investimento
->   [033.108][]   [+][PRODUTO]           ::  o produto apresenta diversas características de uso profissional amador, comprei para uso pessoal e tive bons resultados.
+<   [033.108][PREÇO PRODUTO USABILIDADE][+]    Relativamente bom o investimento, o produto apresenta diversas características de uso profissional amador, comprei para uso pessoal e tive bons resultados.
+>   [033.108]           [PREÇO][+.]    Relativamente bom o investimento
+>   [033.108]          [PRODUTO][+]    o produto apresenta diversas características de uso profissional amador, comprei para uso pessoal e tive bons resultados.
 
-<   [035.113][]   [+][PRODUTO USABILIDADE IMAGEM]  ::  Produto de qualidade, muito intuitiva, fácil de usar e qualidade de imagem.Recomendo a todos os iniciantes que desejam dar um passo a mais no mundo da fotografia.
->   [035.113][]   [+][PRODUTO]           ::  Produto de qualidade
->   [035.113][]   [+][USABILIDADE]       ::  muito intuitiva, fácil de usar
->   [035.113][]   [+][PRODUTO]           ::  Recomendo a todos os iniciantes que desejam dar um passo a mais no mundo da fotografia.
+<   [035.113][PRODUTO USABILIDADE IMAGEM][+]    Produto de qualidade, muito intuitiva, fácil de usar e qualidade de imagem.Recomendo a todos os iniciantes que desejam dar um passo a mais no mundo da fotografia.
+>   [035.113]          [PRODUTO][+]    Produto de qualidade
+>   [035.113]      [USABILIDADE][+]    muito intuitiva, fácil de usar
+>   [035.113]          [PRODUTO][+]    Recomendo a todos os iniciantes que desejam dar um passo a mais no mundo da fotografia.
 
-<   [039.121][]   [+][PRODUTO USABILIDADE]  ::  Produto muito bom, ótima qualidade, fácil manuseio.
->   [039.121][]   [+][PRODUTO]           ::  Produto muito bom, ótima qualidade
->   [039.121][]   [+][USABILIDADE]       ::  fácil manuseio.
+<   [039.121][PRODUTO USABILIDADE][+]    Produto muito bom, ótima qualidade, fácil manuseio.
+>   [039.121]          [PRODUTO][+]    Produto muito bom, ótima qualidade
+>   [039.121]      [USABILIDADE][+]    fácil manuseio.
 
-<   [040.124][]   [+][PRODUTO EMPRESA DESEMPENHO]  ::  Produto me agradou muito e a entrega foi rápida.
->   [040.124][]   [+][PRODUTO]           ::  Produto me agradou muito
->   [040.124][]   [+][_outscope]           ::  a entrega foi rápida.
+<   [040.124][PRODUTO EMPRESA DESEMPENHO][+]    Produto me agradou muito e a entrega foi rápida.
+>   [040.124]          [PRODUTO][+]    Produto me agradou muito
+>   [040.124]         [outscope][+]    a entrega foi rápida.
 
-<   [043.130][]   [+][TAMANHO LENTE DESIGN PREÇO USABILIDADE]  ::  Confesso que me surpreendi com ela.Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.Em que pese a lente do kit basico ser de abertura maxima 3,5 nao muito apropriada para ambientes de pouca iluminacao e internos, por ter um sensor grande o ISO pode ir ate 1600 com um minimo de ruido.O acabamento e muito bom e da impressao de resistencia.O custo beneficio vale a pena.Vantajosa no tocante ao uso de outras lentes e de facil troca.Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
->   [043.130][]   [+][PRODUTO]           ::  Confesso que me surpreendi com ela.
->   [043.130][]   [+][PREÇO]             ::  Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.
->   [043.130][]   [+][ACESSÓRIO]         ::  Em que pese a lente do kit basico ser de abertura maxima 3,5 nao muito apropriada para ambientes de pouca iluminacao e internos, por ter um sensor grande o ISO pode ir ate 1600 com um minimo de ruido.
->   [043.130][]   [+][DESIGN]            ::  O acabamento e muito bom e da impressao de resistencia.
->   [043.130][]   [+][PREÇO]             ::  O custo beneficio vale a pena.
->   [043.130][]   [+][USABILIDADE]       ::  Vantajosa no tocante ao uso de outras lentes e de facil troca.
->   [043.130][]   [+][_outscope]           ::  Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
->   [043.130][]   [+][PRODUTO]           ::  Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
+<   [043.130][TAMANHO LENTE DESIGN PREÇO USABILIDADE][+]    Confesso que me surpreendi com ela.Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.Em que pese a lente do kit basico ser de abertura maxima 3,5 nao muito apropriada para ambientes de pouca iluminacao e internos, por ter um sensor grande o ISO pode ir ate 1600 com um minimo de ruido.O acabamento e muito bom e da impressao de resistencia.O custo beneficio vale a pena.Vantajosa no tocante ao uso de outras lentes e de facil troca.Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
+>   [043.130]          [PRODUTO][+]    Confesso que me surpreendi com ela.
+>   [043.130]            [PREÇO][+]    Comprei recentemente essa camera por um otimo preco em uma grande rede de hipermercados.
+>   [043.130]        [ACESSÓRIO][+]    Em que pese a lente do kit basico ser de abertura maxima 3,5 nao muito apropriada para ambientes de pouca iluminacao e internos, por ter um sensor grande o ISO pode ir ate 1600 com um minimo de ruido.
+>   [043.130]           [DESIGN][+]    O acabamento e muito bom e da impressao de resistencia.
+>   [043.130]            [PREÇO][+]    O custo beneficio vale a pena.
+>   [043.130]      [USABILIDADE][+]    Vantajosa no tocante ao uso de outras lentes e de facil troca.
+>   [043.130]         [outscope][+]    Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
+>   [043.130]          [PRODUTO][+]    Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 
-<   [047.139][]   [-][PRODUTO]           ::  Anuncio falso.
->   [047.139][]   [-][_outscope]           ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
-
-<   [047.140][]   [-][PRODUTO]           ::  Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+<   [047.139]          [PRODUTO][-]    Anuncio falso.
+>   [047.139]         [outscope][-]    Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 

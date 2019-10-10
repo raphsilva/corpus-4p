@@ -1,67 +1,55 @@
-# Córpus de opiniões em português sobre produtos eletrônicos para sumarização contrastiva
+# Corpus of opinions in Portuguese about electronic products for contrastive summarization
 
-Este repositório contém um córpus que foi construído para testar métodos de sumarização contrastiva de opinião, que é uma tarefa que visa comparar duas entidades por meio de resumos de textos opinativos sobre elas. Houve anotação manual de informações sobre as opiniões contidas em cada sentença, sendo cada opinião indicada por seu aspecto e polaridade: o aspecto é a característica do produto que a opinião avalia e a polaridade indica se a opinião é positiva ou negativa. As 642 sentenças do córpus foram coletadas de 542 comentários opinativos publicados por compradores no site Buscapé e se referem a quatro produtos diferentes: dois aparelhos de telefone móvel e dois modelos de câmera. O córpus foi estendido por meio da criação de entidades fictícias que contêm sentenças das entidades reais selecionadas com diferentes estratégias, para, com isso, simular outras possibilidades de conjuntos de textos opinativos. Formaram-se dois pares de entidades reais e seis pares fictícios. 
-
-## Conteúdo
-
-Este repositório contém dois diretórios que são versões diferentes do mesmo córpus: o diretório `clean` contém uma versão limpa e estendida para uso geral, e o diretório `whole` contém toda a informação extraída do site, incluindo informações inúteis para a tarefa de sumarização contrastiva (devidamente marcadas como tal). 
-
-### Dataset 
-
-A versão para leitura automática do conjunto de dados contém 16 arquivos em formato JSON. Cada arquivo contém opiniões sobre uma entidade. As entidades D1a, D1b, D2a e D2b são reais e as demais são fictícias, formadas a partir de subconjuntos das sentenças das entidades reais. O formato dos arquivos é como no exemplo abaixo. As opiniões da sentença são representadas por uma palavra identificando o aspecto e um número identificando a polaridade: 100 para positivo, -100 para negativo e 0 para neutro. Opiniões irrelevantes não estão presentes nesses conjuntos.
-
-```
-{
-    "data": [
-        {
-            "id": 3,
-            "opinions": [
-                [
-                    "PRODUTO",
-                    100
-                ],
-                [
-                    "CÂMERA",
-                    100
-                ]
-            ],
-            "sentence": "Ótimo celular. Câmera excelente."
-        },
-        {
-            "id": 18,
-            "opinions": [
-                [
-                    "PRODUTO",
-                    -100
-                ],
-                [
-                    "DESIGN",
-                    -100
-                ],
-                [
-                    "OUTRO",
-                    -100
-                ]
-            ],
-            "sentence": "Produto deixa a desejar, bordas metalicas riscam com facilidade, botão home então nem se fala."
-        },
-    ],
-    "meta": {
-        "Crawl date": "17/may/2018 ",
-        "ID": "11",
-        "Product": "Smartphone Samsung Galaxy S7 SM-G930 32GB",
-        "Source": "www.buscape.com.br/smartphone-samsung-galaxy-j5-prime-sm-g570m",
-        "Total of opinions": "755",
-        "Total of reviews": "221",
-        "Total of sentences": "641",
-        "Type": "Celular"
-    }
-}
-```
+This repository contains a corpus that was built to test methods of contrastive opinion summarization, which is a task that aims to compare two entities from  opinionated texts written about them. There was manual annotation of information about the opinions contained in each sentence, each opinion being indicated by its aspect and polarity: the aspect is the characteristic of the product that the opinion evaluates and the polarity indicates whether the opinion is positive or negative. The 642 sentences of the corpus were collected from 542 opinionated reviews published by buyers on Buscapé website and refer to four different products: two mobile phones and two digital cameras. The corpus was extended through the creation of fictitious entities that contain sentences of the selected real entities with different strategies to simulate other possibilities of sets of opinionated texts. Two pairs of real entities and six fictitious pairs were formed.
 
 
-### Annotation
+## Structure
 
-O diretório de anotação contém todos os dados extraídos da fonte e as informações inseridas pelos anotadores. Ela contém arquivos para os quatro produtos cujos comentários foram coletados.
+The contents of this directory are organized in the following directories:
 
-Além dos conjuntos de dados, o diretório contém o script que foi usado para transformar os dados anotados em seu formato final.
+* **dataset**:  Contains different versions of the data set: 
+    * **skim**: A clean and extended version of the data set, in JSON format.
+    * **whole**: Data set containing all information from the annotation: 
+        * **sentences**: The original text is segmented in sentences; 
+        * **opinion**: The text is segmented in a way that each segment contains only one opinion.
+        * **json**: Contains all information from the two other directories in JSON format.
+
+* **annotation**: Cointains tools and auxiliary files used in the process of annotation.
+    * **input**: Contains the annotated input set in two versions: the raw data and the data manually revised. 
+    * **doublecheck**: Contains files that help annotators revise their work.
+    * **generate.py**: Script that gets the files from the `input` directory and generates files for double check (at `annotation/doublecheck`) and writes the data set in its final format at `dataset`. 
+
+
+More information about those directories is in the readme files inside each directory.
+
+
+## Syntax
+
+### Aspects
+
+Aspects are represented by an uppercase tag, for example, **SCREEN**. 
+
+Special aspects were defined for exception cases. They are:
+* **outscope**:  text segments that talk not about the target product, but about some entity related to it or to the user's purchase experience, such as manufacturer, vendor, shipping company, etc. – _Arrived fast._
+* **context**:  segments that contain additional information that may add value to the review, but don't help to evaluate the product when isolated. – _It was a gift._
+* **irrelevant**:  segments that are not related to the target product and do not add value to comments about the product. – _I don't know why I'm posting this review._
+* **duplicate**:  segments that have been posted before by the same person (for example, when the reviewer repeats a sentence in the title and in the body.
+* **broken**:  segments that are missing words. – _Screen_
+* **unintelligible**:  segments that don't contain valid words. – _xvcxcvc_
+
+
+### Polarity
+
+Polarities are represented by symbols:
+* ` +` (**positive**): something good, desirable – '_Very fast phone_'
+* `.+` (**weak positive**): something conditionally good or partially good – _It's expensive, but it's worth it._
+* `++` (**strong positive**): something exceptionally good – _Perfect, without any flaw_. 
+* ` -` (**negative**): something bad, undesirable – _The price is too high._
+* `.-` (**weak negative**): something conditionally bad or partially bad – `I believe it's not worth it for more picky users._ 
+* `--` (**strong negative**): something exceptionally bad – _It was the worst phone I've ever bought._
+* `.` (**moderate**): something in the middle of the scale between positive and negative – _Fair device._ 
+* `*` (**relative**): subjective segment where there isn't a clear value of positive or negative – _Discreet design._
+* `..` (**dual**): segment that indicates something simultaneously good and bad about the same aspect – _It accepts SD but it doesn't allow to expand the internal memory._
+* `#` (**irresolute**): indicates hesitation or lack of opinion – _I'm still evaluating._
+* `!` (**advice**): information that helps to better use the product – _I recommend you get a case._
+* `&` (**experience**): narrates use experience in a way that doesn't imply an opinion – _I use it a lot to access the internet_

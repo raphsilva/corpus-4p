@@ -14,14 +14,14 @@
 
 > Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-09-15
+> File generation date: 2019-09-29
 
-> Total of opinions: 161
+> Total of opinions: 163
 
-> Total of sentences: 131
+> Total of sentences: 129
 
 #_aspect_____________positive__negative___neutral____non-op_____total
-# ACESSÓRIO                 6         4                            10
+# ACESSÓRIO                 6         5                            11
 # ÁUDIO _  _  _  _  _  _  _  _  _  _  1 _  _  _  _  _  _  _  _  _   1
 # BATERIA                             1                             1
 # DESIGN _  _  _  _  _  _   2 _  _  _  _  _  _  _  _  _  _  _  _  _ 2
@@ -35,12 +35,11 @@
 # TAMANHO _  _  _  _  _  _  1 _  _  _ 1 _  _  _  _  _  _  _  _  _   2
 # TELA                      2                                       2
 # USABILIDADE _  _  _  _  _ 9 _  _  _ 1 _  _  _ 1 _  _  _  _  _  _ 11
-# _TOTAL___________________47________11_________1________10________69
-# _BROKEN _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  3 _  _  _ 3
-# _CONTEXT                                                2         2
-# _DUPLICATE _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  5 _  _  _ 5
-# _NONE                                                   3         3
-# _outscope _  _  _  _  _   2 _  _  _ 1 _  _  _  _  _  _  _  _  _   3
+# _TOTAL__________________135________11_________2_________________148
+# broken _  _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   3 _  _  _ 3
+# context                                                 2         2
+# duplicate _  _  _  _  _  _  _  _  _  _  _  _  _  _  _   5 _  _  _ 5
+# outscope                  2         1                             3
 
 
 
@@ -54,6 +53,13 @@ ACESSÓRIO +
 
 (002.017)
 Poderia vir um software pelo menos trial para poder editar fotos.
+
+ACESSÓRIO - 
+
+
+
+(002.015)
+Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
 
 ACESSÓRIO - 
 
@@ -727,98 +733,77 @@ USABILIDADE +.
 (034.110)
 Canon t5.
 
-_BROKEN x 
+broken x 
 
 
 
 (012.049)
 Câmera rebel T5.
 
-_BROKEN x 
+broken x 
 
 
 
 (001.002)
 Pouca, recém comprada.
 
-_BROKEN x 
-
-
-
-(002.013)
-Só para caráter de comparação.
-
-_CONTEXT x 
-
-
-
-(002.015)
-Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
-
-_CONTEXT x 
-
-
-
-(010.045)
-Bom.
-
-_DUPLICATE x 
-
-
-
-(030.098)
-Ótima.
-
-_DUPLICATE x 
-
-
-
-(008.040)
-Ótimo produto.
-
-_DUPLICATE x 
-
-
-
-(038.118)
-Excelente Produto.
-
-_DUPLICATE x 
-
-
-
-(030.099)
-Recomendo, recomendo super.
-
-_DUPLICATE x 
-
-
-
-(020.074)
-Manual ou automático.
-
-_NONE x 
+broken x 
 
 
 
 (002.016)
 Auxilia muito no transporte.
 
-_NONE x 
+context x 
 
 
 
-(047.140)
-Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+(002.013)
+Só para caráter de comparação.
 
-_NONE x 
+context x 
+
+
+
+(010.045)
+Bom.
+
+duplicate x 
+
+
+
+(030.098)
+Ótima.
+
+duplicate x 
+
+
+
+(008.040)
+Ótimo produto.
+
+duplicate x 
+
+
+
+(038.118)
+Excelente Produto.
+
+duplicate x 
+
+
+
+(030.099)
+Recomendo, recomendo super.
+
+duplicate x 
 
 
 
 (047.139)
 Anuncio falso.
 
-_outscope - 
+outscope - 
 
 
 
@@ -946,7 +931,7 @@ USABILIDADE +
 Produto me agradou muito e a entrega foi rápida.
 
 PRODUTO + 
-_outscope + 
+outscope + 
 
 
 
@@ -989,7 +974,7 @@ ACESSÓRIO +
 DESIGN + 
 PREÇO + 
 USABILIDADE + 
-_outscope + 
+outscope + 
 PRODUTO + 
 
 

@@ -237,16 +237,6 @@
             "sentence": "Porém, me incomodou o ruído presente no momento de gravação de videos."
         },
         {
-            "id": 25,
-            "opinions": [
-                [
-                    "_NONE",
-                    "x"
-                ]
-            ],
-            "sentence": "A câmera fica com um ruído, como se estivesse se esforçando muito para gravar, e no vídeo pronto, o ruído aparece."
-        },
-        {
             "excerpts": [
                 "Não recomento a câmera para quem queira fazer videos profissionais",
                 "é uma boa câmera",
@@ -462,7 +452,7 @@
             "id": 42,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -590,7 +580,7 @@
             "id": 54,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -618,7 +608,7 @@
             "id": 56,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -709,8 +699,7 @@
                 "com ótimo zoom.",
                 "leve.",
                 "agradável manuseio.",
-                "Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna.",
-                "Mas já substituí o cartão de 8gb por um de 32gb."
+                "Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna."
             ],
             "id": 63,
             "opinions": [
@@ -737,10 +726,6 @@
                 [
                     "ARMAZENAMENTO",
                     "-."
-                ],
-                [
-                    "ARMAZENAMENTO",
-                    "!"
                 ]
             ],
             "sentence": "Recomendo essa excelente câmera Canon SX520!Me agradou muito sua funcionalidade, com ótimo zoom, leve e agradável manuseio.Vem com um cartão de memória, mas, para uma excelente câmera, faltou a disponibilidade de memória interna."
@@ -749,8 +734,8 @@
             "id": 64,
             "opinions": [
                 [
-                    "_NONE",
-                    "x"
+                    "ARMAZENAMENTO",
+                    "!"
                 ]
             ],
             "sentence": "Mas já substituí o cartão de 8gb por um de 32gb."
@@ -769,7 +754,7 @@
             "id": 66,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -779,7 +764,7 @@
             "id": 67,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -897,7 +882,7 @@
             "id": 78,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -987,16 +972,6 @@
             "sentence": "Um parente meu comprou e me emprestou para que eu pudesse avaliar, eu fiquei completa e absurdamente viciada, meu celular ficou em um canto que eu só usava para fazer ligações."
         },
         {
-            "id": 85,
-            "opinions": [
-                [
-                    "_NONE",
-                    "x"
-                ]
-            ],
-            "sentence": "Quando ele me pediu de volta eu disse que o produto ficaria comigo e não devolveria mais em hipótese alguma!"
-        },
-        {
             "id": 86,
             "opinions": [
                 [
@@ -1010,7 +985,7 @@
             "id": 87,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1030,7 +1005,7 @@
             "id": 89,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1050,7 +1025,7 @@
             "id": 91,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1060,7 +1035,7 @@
             "id": 92,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1070,7 +1045,7 @@
             "id": 93,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1206,7 +1181,7 @@
             "id": 107,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1256,7 +1231,7 @@
             "id": 112,
             "opinions": [
                 [
-                    "_BROKEN",
+                    "broken",
                     "x"
                 ]
             ],
@@ -1266,14 +1241,14 @@
     "meta": {
         "Average rating": "9/10",
         "Collection date": "2018-05-28",
-        "File generation date": "2019-09-15",
+        "File generation date": "2019-09-29",
         "Human revisers": "Otávio (May 2018), Raphael (July 2018, September 2019)",
         "ID": "31",
         "Number of reviews": "45",
         "Product": "Câmera Digital Canon PowerShot SX520 HS 16.0 Megapixels",
         "Source": "www.buscape.com.br/avaliacoes/canon-powershot-sx520-hs-16-0-megapixels",
-        "Total of opinions": "133",
-        "Total of sentences": "108",
+        "Total of opinions": "135",
+        "Total of sentences": "106",
         "Type": "Câmera"
     }
 }

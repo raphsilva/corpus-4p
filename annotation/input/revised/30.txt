@@ -21,7 +21,7 @@
 
 (001.001) [+][PRODUTO]  ::  Boa Câmera.
 
-b(001.002) [+][PRODUTO]  ::  Pouca, recém comprada.
+b(001.002) [][]  ::  Pouca, recém comprada.
 
 
 
@@ -62,12 +62,12 @@ b(001.002) [+][PRODUTO]  ::  Pouca, recém comprada.
 (002.012) [+][PRODUTO]  ::  A qualidade é muito boa.
 
 
-c(002.013) [x][x]  ::  Só para caráter de comparação:
+c(002.013) [][]  ::  Só para caráter de comparação:
 (002.014) [+][PREÇO]  ::  só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon.
 
 
 (002.015) [-][ACESSÓRIO]  ::  Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.
-c(002.015) [x][ACESSÓRIO]  ::  Auxilia muito no transporte.
+c(002.016) [][]  ::  Auxilia muito no transporte.
 
 
 (002.017) [-][ACESSÓRIO]  ::  Poderia vir um software pelo menos trial para poder editar fotos.
@@ -142,7 +142,7 @@ c(002.015) [x][ACESSÓRIO]  ::  Auxilia muito no transporte.
 
 
 
-d(008.040) [+][PRODUTO]  ::  Ótimo produto.
+d(008.040) [][]  ::  Ótimo produto.
 
 (008.041) [+][PRODUTO]  ::  Excelente.
 
@@ -158,7 +158,7 @@ d(008.040) [+][PRODUTO]  ::  Ótimo produto.
 
 (010.044) [+][PRODUTO]  ::  Bom.
 
-d(010.045) [+][PRODUTO]  ::  Bom.
+d(010.045) [][]  ::  Bom.
 
 
 
@@ -171,7 +171,7 @@ d(010.045) [+][PRODUTO]  ::  Bom.
 
 
 
-b(012.049) [+][PRODUTO]  ::  Câmera rebel T5.
+b(012.049) [][]  ::  Câmera rebel T5.
 
 (012.050) [+][PRODUTO]  ::  Muito bom!
 
@@ -251,7 +251,7 @@ b(012.049) [+][PRODUTO]  ::  Câmera rebel T5.
 
 (020.073) [+][TELA]  ::  O Display é bem fácil de acessar
 (020.073) [+][FOCO]  ::   controle de foco fácil. Manual ou automático.
-#j (020.073) [][]  ::   Manual ou automático.
+J (020.074) [][]  ::   Manual ou automático.
 
 
 
@@ -335,9 +335,9 @@ b(012.049) [+][PRODUTO]  ::  Câmera rebel T5.
 
 
 
-d(030.098) [+][PRODUTO]  ::  Ótima.
+d(030.098) [][]  ::  Ótima.
 
-d(030.099) [+][PRODUTO]  ::  Recomendo, recomendo super.
+d(030.099) [][]  ::  Recomendo, recomendo super.
 
 
 
@@ -373,7 +373,7 @@ d(030.099) [+][PRODUTO]  ::  Recomendo, recomendo super.
 
 
 
-b(034.110) [+][PRODUTO]  ::  Canon t5.
+b(034.110) [][]  ::  Canon t5.
 
 (034.111) [+][PRODUTO]  ::  Produto de excelente qualidade ! recomendo a todos .
 
@@ -401,7 +401,7 @@ b(034.110) [+][PRODUTO]  ::  Canon t5.
 
 
 
-d(038.118) [+][PRODUTO]  ::  Excelente Produto.
+d(038.118) [][]  ::  Excelente Produto.
 
 (038.119) [+][PRODUTO]  ::  Excelente produto para iniciantes em fotografia.
 
@@ -422,7 +422,7 @@ d(038.118) [+][PRODUTO]  ::  Excelente Produto.
 (040.123) [+][PRODUTO]  ::  Ótimo pra quem está começando.
 
 (040.124) [+][PRODUTO]  ::  Produto me agradou muito
-(040.124) [+][_outscope]  ::  a entrega foi rápida.
+(040.124) [+][outscope]  ::  a entrega foi rápida.
 
 
 
@@ -449,7 +449,7 @@ d(038.118) [+][PRODUTO]  ::  Excelente Produto.
 (043.130) [+][DESIGN]  ::   O acabamento e muito bom e da impressao de resistencia.
 (043.130) [+][PREÇO]  ::   O custo beneficio vale a pena.
 (043.130) [+][USABILIDADE]  ::    Vantajosa no tocante ao uso de outras lentes e de facil troca.
-(043.130) [+][_outscope]  ::     Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
+(043.130) [+][outscope]  ::     Sempre tive as cameras Canon e considero a melhor marca do mundo pela qualidade das lentes e acabamento.
 (043.130) [+][PRODUTO]  ::     Recomendo a sua compra para quem esta comecando a fotografia profissional e laser.
 
 
@@ -480,7 +480,8 @@ d(038.118) [+][PRODUTO]  ::  Excelente Produto.
 
 
 
-(047.139) [-][_outscope]  ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+(047.139) [-][outscope]  ::  Anuncio falso. Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
+J (047.140) [-][PRODUTO]  ::  Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso.
 
 
 

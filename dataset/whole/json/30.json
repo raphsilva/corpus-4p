@@ -14,7 +14,7 @@
             "id": 2,
             "opinions": [
                 [
-                    "_BROKEN",
+                    "broken",
                     "x"
                 ]
             ],
@@ -168,7 +168,7 @@
             "id": 13,
             "opinions": [
                 [
-                    "_CONTEXT",
+                    "context",
                     "x"
                 ]
             ],
@@ -185,15 +185,11 @@
             "sentence": "Só o corpo da Nikon chega ao preço que paguei no kit inteiro da Canon."
         },
         {
-            "excerpts": [
-                "Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo.",
-                "Auxilia muito no transporte."
-            ],
             "id": 15,
             "opinions": [
                 [
-                    "_CONTEXT",
-                    "x"
+                    "ACESSÓRIO",
+                    "-"
                 ]
             ],
             "sentence": "Falta uma mochila para transporte, o que daria muito mais segurança, mesmo sabendo da robustez do corpo."
@@ -202,7 +198,7 @@
             "id": 16,
             "opinions": [
                 [
-                    "_NONE",
+                    "context",
                     "x"
                 ]
             ],
@@ -454,7 +450,7 @@
             "id": 40,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -504,7 +500,7 @@
             "id": 45,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -534,7 +530,7 @@
             "id": 49,
             "opinions": [
                 [
-                    "_BROKEN",
+                    "broken",
                     "x"
                 ]
             ],
@@ -795,16 +791,6 @@
             "sentence": "O Display é bem fácil de acessar, controle de foco fácil."
         },
         {
-            "id": 74,
-            "opinions": [
-                [
-                    "_NONE",
-                    "x"
-                ]
-            ],
-            "sentence": "Manual ou automático."
-        },
-        {
             "id": 75,
             "opinions": [
                 [
@@ -1042,7 +1028,7 @@
             "id": 98,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1052,7 +1038,7 @@
             "id": 99,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1181,7 +1167,7 @@
             "id": 110,
             "opinions": [
                 [
-                    "_BROKEN",
+                    "broken",
                     "x"
                 ]
             ],
@@ -1264,7 +1250,7 @@
             "id": 118,
             "opinions": [
                 [
-                    "_DUPLICATE",
+                    "duplicate",
                     "x"
                 ]
             ],
@@ -1340,7 +1326,7 @@
                     "+"
                 ],
                 [
-                    "_outscope",
+                    "outscope",
                     "+"
                 ]
             ],
@@ -1434,7 +1420,7 @@
                     "+"
                 ],
                 [
-                    "_outscope",
+                    "outscope",
                     "+"
                 ],
                 [
@@ -1518,34 +1504,24 @@
             "id": 139,
             "opinions": [
                 [
-                    "_outscope",
+                    "outscope",
                     "-"
                 ]
             ],
             "sentence": "Anuncio falso."
-        },
-        {
-            "id": 140,
-            "opinions": [
-                [
-                    "_NONE",
-                    "x"
-                ]
-            ],
-            "sentence": "Vocês indicam que a camera custa 1.349 , quando vou no site fazer a compra lá custa 1.899, anuncio falso."
         }
     ],
     "meta": {
         "Average rating": "9/10",
         "Collection date": "2018-05-28",
-        "File generation date": "2019-09-15",
+        "File generation date": "2019-09-29",
         "Human revisers": "Raphael (May 2018, September 2019)",
         "ID": "30",
         "Number of reviews": "47",
         "Product": "Câmera Digital Canon EOS Rebel T5 18.0 Megapixels",
         "Source": "www.buscape.com.br/avaliacoes/canon-eos-rebel-t5-18-0-megapixels",
-        "Total of opinions": "161",
-        "Total of sentences": "131",
+        "Total of opinions": "163",
+        "Total of sentences": "129",
         "Type": "Câmera"
     }
 }
