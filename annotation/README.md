@@ -2,9 +2,9 @@
 
 This directory contains the framework used in the process of annotation of the corpus. It consists of two folders: 
 * **input** contains the annotated input set in two versions: the automatically annotated data and the manually revised data. 
-* **doublecheck** contains files that help annotators revise their work.
+* **preview** contains files that help annotators revise their work.
 
-The file **generate.py** is a script that gets the files from the `input` directory and generates files for `doublecheck` and the data set in `../dataset`. 
+The file **generate.py** is a script that gets the files from the `input` directory and generates files for `preview` and the data set in `../dataset`. 
 
 
 ## Instructions
@@ -40,5 +40,5 @@ For example,
 ### Generation of files
 
 
-Run the file `generate.py` with Python 3.6. It'll generate files in `doublecheck` to help check the annotation. If anything is wrong, go back to the manual annotation process to fix it. If everything is right, get the output files in `/dataset/whole`.
+Run the file `generate.py` with Python 3.6. It'll generate files in `preview` to help check the annotation. If anything is wrong, go back to the manual annotation process to fix it. If everything is right, get the output files in `/dataset/whole`.
 

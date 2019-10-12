@@ -15,10 +15,10 @@ DIR_ANNOTATED_AUTO = 'input/automatic'
 DIR_FORMATTED_SPLIT = '../dataset/whole/opinions'  # Folder where formatted files will be saved to.
 DIR_FORMATTED_NOSPLIT = '../dataset/whole/sentences'  # Folder where formatted files will be saved to.
 DIR_OUTPUT_JSON = '../dataset/whole/json'  # Folder where formatted files will be saved to.
-DIR_DOUBLECHECK = 'doublecheck'  # Folder that will contain files to help review the annotation.
+DIR_PREVIEW = 'preview'  # Folder that will contain files to help review the annotation.
 
 # Create directories 
-output_directories = [DIR_FORMATTED_SPLIT, DIR_FORMATTED_NOSPLIT, DIR_OUTPUT_JSON, DIR_DOUBLECHECK]
+output_directories = [DIR_FORMATTED_SPLIT, DIR_FORMATTED_NOSPLIT, DIR_OUTPUT_JSON, DIR_PREVIEW]
 for i in output_directories:
     if not os.path.exists(i):
         os.makedirs(i)
@@ -356,7 +356,7 @@ for filename in files_to_read:
 
     info_revised['meta'].append("> File generation date: " + str(date.strftime("%Y-%m-%d")))
 
-    f = open(DIR_DOUBLECHECK + '/' + filename_save + '.txt', 'w')
+    f = open(DIR_PREVIEW + '/' + filename_save + '.txt', 'w')
     for i in info_revised['meta']:
         f.write(i + '\n\n')
     f.write('\n')
@@ -365,7 +365,7 @@ for filename in files_to_read:
         f.write('\n\n')
     f.close()
 
-    f = open(DIR_DOUBLECHECK + '/' + filename_save + '.diff', 'w')
+    f = open(DIR_PREVIEW + '/' + filename_save + '.diff', 'w')
     for i in info_revised['meta']:
         f.write(i.replace('>', ' ') + '\n\n')
     f.write('\n')

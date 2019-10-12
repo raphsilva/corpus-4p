@@ -16,8 +16,8 @@ The contents of this directory are organized in the following directories:
 
 * **annotation**: Cointains tools and files used in the process of annotation.
     * **input**: Contains the annotated input set in two versions: the automatically annotated data and the manually revised data. 
-    * **doublecheck**: Contains files that help annotators revise their work.
-    * **generate.py**: Script that gets the files from the `input` directory and generates files for double check (at `annotation/doublecheck`) and writes the data set in its final format (at `dataset`). 
+    * **preview**: Contains files that help annotators revise their work.
+    * **generate.py**: Script that gets the files from the `input` directory and generates files for double check (at `annotation/preview`) and writes the data set in its final format (at `dataset`). 
 
 
 More information about those directories is in the readme files inside each directory.
