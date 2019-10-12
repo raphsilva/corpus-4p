@@ -7,16 +7,14 @@ This directory contains the framework used in the process of annotation of the c
 The file **generate.py** is a script that gets the files from the `input` directory and generates files for `preview` and for `../dataset`. 
 
 
-## Instructions
-
-### Structure
+## Organization
 
 The files edited by annotators must be in the directory `revised`. Initially, they are a copy of the automatically annotated files in `automatic`. For each text file in `revised`, there must be a file with the same name in `automatic` with the same reviews. The files in `automatic` must be kept unchanged, because they contain information that will be used to track text segmentation that may be manually made by annotators. 
 
  To annotate new data, place the new files in `input/automatic` following the format of the files that are already there. A tool that can help with the automatic annotation of opinions is available at www.github.com/raphsilva/naive-opinion-miner.  
 
 
-### File format
+## Basic syntax
 
 Annotators should edit only the files in the `revised` directory. There is one file for each product. In those files: 
 * Meta information are in lines that start with a `>` symbol followed by the meta information key, a `:` symbol and the meta information value. Annotators may change the meta information and add new keys and values if they want. For example: 
@@ -27,7 +25,7 @@ Annotators should edit only the files in the `revised` directory. There is one f
 * Blank lines are ignored.
 * Lines that are not one of the three types described above contain the main information of the data set, that is, the annotation. Initially, each line contains a sentence and the automatic annotation of it. 
 
-### Opinions identification
+## Opinions identification
 
 To revise annotated sentences, annotators should change the information whenever they consider that the one automatically provided is not the more suitable for the case. Annotated sentences follow the order
 ```
@@ -38,7 +36,7 @@ For example,
 (001.001) [+][PRODUTO] :: Bom custo/benefício.
 ```
 
-#### Aspects
+### Aspects
 
 Any aspect tag can be used by annotators. Annotators should be provided with a list of aspect tags that they may use for the task. 
 
@@ -83,7 +81,7 @@ In this project, the following aspect tags (written in Portuguese) were used:
 
 There is also the special aspect `outscope` that identifies opinions that are not about the entity. These opinions are usually tagged as `EMPRESA` by the automatic annotation system.
 
-#### Polarities 
+### Polarities 
 
 It's suggested that annotators use the following tags for polarities:
 * ` +` (**positive**): something good, desirable – '_Very fast phone_'
@@ -162,7 +160,7 @@ J(209.642) [-][PRODUTO] :: Das duas vezes que o meu entrou em contato com a agua
 
 
 
-### Generation of files
+## Generation of data set
 
 
 Run the file `generate.py` with Python 3.6. It'll generate files in `preview` to help check the annotation. If anything is wrong, go back to the manual annotation process to fix it. If everything is right, get the output files in `/dataset/whole`.
