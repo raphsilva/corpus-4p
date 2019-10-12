@@ -30,12 +30,12 @@ More information about those directories is in the readme files inside each dire
 Aspects are represented by an uppercase tag, for example, **SCREEN**. 
 
 Special aspects were defined for exception cases. They are:
-* **out of scope**:  Text segments that talk not about the target product, but about some entity related to it or to the user's purchase experience, such as manufacturer, vendor, shipping company, etc. – _Arrived fast._
+* **outscope**:  Text segments that talk not about the target product, but about some entity related to it or to the user's purchase experience, such as manufacturer, vendor, shipping company, etc. – _Arrived fast._
 * **context**:  Segments that contain additional information that may add value to the review, but don't help to evaluate the product when isolated. – _It was a gift._
 * **irrelevant**:  Segments that are not related to the target product and do not add value to comments about the product. – _I don't know why I'm posting this review._
-* **duplicate**:  Segments that have been posted before by the same person (for example, when the reviewer repeats a sentence in the title and in the body).
 * **broken**:  Segments that are missing words. – _Screen_
 * **unintelligible**:  Segments that don't contain valid words. – _xvcxcvc_
+* **duplicate**:  Segments that have been posted before by the same person (for example, when the reviewer repeats a sentence in the title and in the body).
 
 
 ### Polarity
