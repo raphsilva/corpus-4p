@@ -1,6 +1,6 @@
 # Corpus of opinions in Portuguese about electronic products for contrastive summarization
 
-This repository contains a corpus that was built to test methods of **contrastive opinion summarization**, which is a task that aims to compare two entities from  opinionated texts written about them. There was **manual annotation** of information about the opinions contained in each sentence, each opinion being indicated by its aspect and polarity: the **aspect** is the characteristic of the product that the opinion evaluates and the **polarity** indicates whether the opinion is positive or negative. The **642 sentences** of the corpus were collected from **542 opinionated** reviews published by buyers on Buscapé website and refer to **four products**: two mobile phones and two digital cameras. The corpus was **extended** through the creation of fictitious entities that contain sentences of the selected real entities with different strategies to simulate other possibilities of sets of opinionated texts. Two pairs of real entities and six fictitious pairs were formed.
+This repository contains a data set that was built to test methods of **contrastive opinion summarization**, which is a task that aims to compare two entities from  opinionated texts written about them. There was **manual annotation** of information about the opinions contained in each sentence, each opinion being indicated by its aspect and polarity: the **aspect** is the characteristic of the product that the opinion evaluates and the **polarity** indicates whether the opinion is positive or negative. The **642 sentences** of the corpus were collected from **542 opinionated** reviews published by buyers on Buscapé website and refer to **four products**: two mobile phones and two digital cameras. The corpus was **extended** through the creation of fictitious entities that contain sentences of the selected real entities with different strategies to simulate other possibilities of sets of opinionated texts. Two pairs of real entities and six fictitious pairs were formed.
 
 
 ## Structure
@@ -53,3 +53,8 @@ Polarities are represented by symbols:
 * `#` (**irresolute**): indicates hesitation or lack of opinion – _I'm still evaluating._
 * `!` (**advice**): information that helps to better use the product – _I recommend you get a protective case._
 * `&` (**experience**): narrates use experience in a way that doesn't imply an opinion – _I use it a lot to access the internet._
+
+## Reference
+
+The creation of this dataset is described in the following paper: 
+* SILVA, R. R.; PARDO, T. A. S., 2019. **Um córpus anotado de opiniões em português sobre produtos eletrônicos para fins de sumarização contrastiva de opinião**. In the _Proceedings of the 6a Jornada de Descrição do Português (JDP)_ . October, 15-18. Salvador/Bahia, Brazil. To appear. Preview available at https://drive.google.com/file/d/1Nqu66l-z7eQenXEsvcnAEClt1LQzioJw/view.
