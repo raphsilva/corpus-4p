@@ -90,16 +90,16 @@ The table below shows the pairs formed for the extended data set and the quantit
 
 ### Authorship
 
-This project was made by researchers of the NILC laboratory at the University of São Paulo, São Carlos: 
+This project was made by researchers of the **NILC laboratory** at the **University of São Paulo**, São Carlos: 
 * **Raphael Rocha da Silva** (http://raphsilva.github.io)
 * **Otávio Augusto Ferreira Sousa**
 * **Thiago Alexandre Salgueiro Pardo** (http://conteudo.icmc.usp.br/pessoas/taspardo)
 
-This work is part of the Opinando project: **http://sites.google.com/icmc.usp.br/opinando/**
+This work is part of the **Opinando project**: **http://sites.google.com/icmc.usp.br/opinando/**
 
 #### Acknowlegment
 
-The authors are grateful to São Paulo Research Foundation (process 17/12236-0) and USP Research Office (PRP N. 668) for the financial support.
+The authors are grateful to **São Paulo Research Foundation** (process 17/12236-0) and **University of São Paulo Research Office** (PRP N. 668) for the financial support.
 
 ### Publication
 
