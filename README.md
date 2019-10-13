@@ -63,7 +63,7 @@ Polarities are represented by symbols:
 
 ### Quantitative view
 
-The table below shows the pairs formed for the extended data set and the quantities of sentences, different aspects, positive opinions and negative opinions of each. Each pair is made of two arrangements of names DXa and DXb, where X is a number between 1 and 8.
+The table below shows arrangements formed for the extended data set and the quantities of sentences, different aspects, positive opinions and negative opinions of each arrangement. Each pair is made of two arrangements of names DXa and DXb, where X is a number between 1 and 8.
 
 ```
 | arr. | entity                   |  aspects | sentences | positive  | negative  |
