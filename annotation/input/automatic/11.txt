@@ -37,7 +37,7 @@
 (003.006) [+][BATERIA] :: Igual aos outros  a única coisa que  é  melhor a bateria carrega muito rápido.
 
 
-(003.007) [+][EMPRESA  TELEVISÃO] :: Na propaganda diz ter tv digital  é mentira.
+(003.007) [+][outscope  TELEVISÃO] :: Na propaganda diz ter tv digital  é mentira.
 
 
 
@@ -47,14 +47,14 @@
 (004.009) [+][BATERIA] :: Igual aos outros  a única coisa que  é  melhor a bateria carrega muito rápido.
 
 
-(004.010) [+][EMPRESA  TELEVISÃO] :: Na propaganda diz ter tv digital  é mentira.
+(004.010) [+][outscope  TELEVISÃO] :: Na propaganda diz ter tv digital  é mentira.
 
 
 
 
 (005.011) [+][PRODUTO] :: Excelente produto.
 
-(005.012) [+][_outscope] :: A melhor oferta encontrada e entrega rápida.
+(005.012) [+][outscope] :: A melhor oferta encontrada e entrega rápida.
 
 
 (005.013) [+][PRODUTO] :: Parabéns Shopfacil.com.
@@ -541,7 +541,7 @@
 
 (057.162) [+][PRODUTO] :: Porque tenho que avaliar se não tenho o produto.
 
-(057.163) [+][PRODUTO  EMPRESA] :: Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
+(057.163) [+][PRODUTO  outscope] :: Eu não recebi o produto da loja, porque algum motivo meu pedido não foi aprovado.
 
 
 (057.164) [+][PRODUTO] :: Pelo que ouço, é um aparelho muito bom, vou comprar, mas por hora, não sou capaz de opinar.
@@ -1233,7 +1233,7 @@
 (125.378) [+][BATERIA] :: Vamos ver a bateria daqui um tempo.Tudo show de bola..
 
 
-(125.379) [+][_outscope] :: A entrega foi a JATO pela fast shop.
+(125.379) [+][outscope] :: A entrega foi a JATO pela fast shop.
 
 
 (125.380) [+][PRODUTO] :: Comprei no sabado e recebi na terça.Uma dica .
@@ -1527,7 +1527,7 @@
 (156.471) [+][PRODUTO] :: Instalar um chip no celular não é nada complexo para ninguém, nem pra eu como engenheiro.
 
 
-(156.472) [+][PRODUTO  EMPRESA] :: Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente.
+(156.472) [+][PRODUTO  outscope] :: Se tivesse quebrado trava e utilizasse de má fé como afirmam teria enviado o produto para a troca informando que recebi o produto quebrado !!!! Mas não adianta não querem escutar os argumentos, não consegue falar com supervisor/ gerente que poderia refletir sobre a decisão ( só atendentes te atendem e só respondem o que for determinado ), não recebem e-mails pelo atendimento@saraiva.com ( servidor responde haver problema na entrega ???? ) , reclamações pelo site não são respondidos formalmente.
 
 
 (156.473) [+][PRODUTO] :: Vou ter que consertar o celular ( perdi a garantia ) por um dano causado no retorno do celular para a SARAIVA.
@@ -1620,7 +1620,7 @@
 (165.499) [+][CÂMERA] :: Já tive o S5 e a Samsung mantem o padrão alto na qualidade da câmera.
 
 
-(165.500) [+][EMPRESA  TELEVISÃO] :: O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc.
+(165.500) [+][outscope  TELEVISÃO] :: O que me frustou foi o fato da empresa ter resolvido retirar a função de infravermelho (eu sempre usava o S5 como controle remoto da TV, ar condicionado, etc.
 
 
 (165.501) [+][USABILIDADE] :: E agora não é mais possível usar essa função na S7)
@@ -1789,10 +1789,10 @@
 (181.550) [+][PRODUTO] :: Outro problema (o mais grave na minha avaliação) é que a Samsung faz promoções que oferece brindes (no meu caso o óculos VR), mas na hora que você preenche o cadastro fala que o óculos acabou e fica por isso mesmo.
 
 
-(181.551) [+][EMPRESA  PRODUTO] :: O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
+(181.551) [+][outscope  PRODUTO] :: O que mais me deixa chateado é que no meu facebook (por ter pesquisado sobre o celular) eu recebo no meu feed a propaganda do S7 e tá lá que quem compra o celular ganha um óculos.
 
 
-(181.552) [+][_outscope] :: Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
+(181.552) [+][outscope] :: Me senti passo para trás pela empresa, e como eles não pararam com a propaganda, me dá a sensação de que a empresa continua a passar outros clientes para trás.
 
 
 
@@ -1877,7 +1877,7 @@
 (189.578) [+][PRODUTO] :: Produto maravilhoso! Lindo! Estou amando! Comprei 2 s7, o meu veio perfeito, já o do meu marido veio com problema, travamento, não lê a digital, desliga..
 
 
-(189.579) [+][_outscope] :: Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
+(189.579) [+][outscope] :: Vou tentar entrar em contato com a empresa.???????Só houve uma demora gigantesca na entrega, mas veio.
 
 
 (189.580) [+][PRODUTO] :: Paguei sedex  pra chegar em 3 dias..
@@ -1927,7 +1927,7 @@
 (194.593) [+][DESEMPENHO  BATERIA] :: Gostei muito do s7, desempenho excelente, apenas a bateria ruim.
 
 
-(194.594) [+][EMPRESA  PRODUTO] :: O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram  pra ver com o Girafa e nenhum resolveu.
+(194.594) [+][outscope  PRODUTO] :: O atendimento do Girafa que deixou a desejar, fizeram propaganda enganosa que o produto acompanha um óculos de realidade virtual e quando chegou não acompanhou e disseram que eu teria que cadastrar na Samsung, porém na Samsung não havia mais disponível e pediram  pra ver com o Girafa e nenhum resolveu.
 
 
 
@@ -2065,7 +2065,7 @@
 
 (208.632) [-][PRODUTO] :: Prática abusiva de preços de manutenção e celular que quebra na primeira queda.
 
-(208.633) [-][PRODUTO  EMPRESA] :: Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online)
+(208.633) [-][PRODUTO  outscope] :: Efetuei a compra de um celular samsung galaxy s7 SM-G930F no dia 08/01/18 na loja pontofrio (online)
 
 
 (208.634) [-][PRODUTO] :: Recebi o produto no dia 12/01/18 com aparencia de estar intacto e sem nenhum problema.
@@ -2080,7 +2080,7 @@
 (208.637) [-][TELA] :: Me direcionei a assistência técnica (Anatech em Porto Alegre-RS) e me informaram que não poderiam dar entrada na garantia, uma vez que a garantia não cobre o reparo da tela.
 
 
-(208.638) [-][TELA  PREÇO  PRODUTO  EMPRESA] :: Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
+(208.638) [-][TELA  PREÇO  PRODUTO  outscope] :: Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
 
 (208.639) [-][PRODUTO] :: Não há explicações para a fragilidade de um produto qu.
@@ -2104,10 +2104,10 @@
 (210.645) [-][PREÇO  PRODUTO] :: O Bondfaro me alertou que o preço do produto havia caído para 948,00.
 
 
-(210.646) [-][EMPRESA  PREÇO] :: A loja com o melhor preço é o Carrefour.
+(210.646) [-][outscope  PREÇO] :: A loja com o melhor preço é o Carrefour.
 
 
-(210.647) [-][EMPRESA  PREÇO] :: Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
+(210.647) [-][outscope  PREÇO] :: Mas quando entramos na loja para efetuar a compra, o preço consta como 2298,00.
 
 
 
@@ -2167,7 +2167,7 @@
 (217.667) [-][PREÇO] :: O preço só é valido para quem assina um plano.
 
 
-(217.668) [-][_outscope] :: Como em qualquer operadora.
+(217.668) [-][outscope] :: Como em qualquer operadora.
 
 
 (217.669) [-][PRODUTO  PREÇO] :: Voce entra no site para comprar o celular, escolhe só o celular, sem venda casada, e o preço vai para R$3.499!!!! O Buscapé não deveria permitir esse tipo de engodo!

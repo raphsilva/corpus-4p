@@ -184,7 +184,7 @@ d(010.045) [+][PRODUTO]  ::  Bom.
 
 (014.053) [+][PRODUTO]  ::  Excelente.
 
-(014.054) [+][_outscope]  ::  Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
+(014.054) [+][outscope]  ::  Eu não possuo uma, mas trabalhei com ela no meu emprego, Agencia de Propaganda, e achei excelente.
 
 
 (014.055) [+][TELA]  ::  O display giratório que possui em alguns modelos diferentes não interfere na qualidade do T5!!! Recomendo.
@@ -410,7 +410,7 @@ d(030.099) [+][PRODUTO]  ::  Recomendo, recomendo super.
 
 (040.123) [+][PRODUTO]  ::  Ótimo pra quem está começando.
 
-(040.124) [+][PRODUTO EMPRESA DESEMPENHO]  ::  Produto me agradou muito e a entrega foi rápida.
+(040.124) [+][PRODUTO outscope DESEMPENHO]  ::  Produto me agradou muito e a entrega foi rápida.
 
 
 
