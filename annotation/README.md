@@ -79,7 +79,7 @@ In this project, the following aspect tags (written in Portuguese) were used:
     * `TELA`: Part of the equipment that displays the visual interface.
     * `USABILIDADE`: Ease of use.
 
-There is also the special aspect `outscope` that identifies opinions that are not about the entity. These opinions are usually tagged as `EMPRESA` by the automatic annotation system.
+There is also the special aspect `outscope` that identifies opinions that are not about the entity.
 
 ### Polarities 
 
