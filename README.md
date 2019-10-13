@@ -1,6 +1,10 @@
-# Corpus of opinions in Portuguese about electronic products for contrastive summarization
+# 4P Corpus: opinions in Portuguese about electronic products
 
-This repository contains a data set that was built to test methods of **contrastive opinion summarization**, which is a task that aims to compare two entities from  opinionated texts written about them. There was **manual annotation** of information about the opinions contained in each sentence, each opinion being indicated by its aspect and polarity: the **aspect** is the characteristic of the product that the opinion evaluates and the **polarity** indicates whether the opinion is positive or negative. The **642 sentences** of the corpus were collected from **542 opinionated** reviews published by buyers on Buscapé website and refer to **four products**: two mobile phones and two digital cameras. The corpus was **extended** through the creation of new arrangements that contain sentences selected with different strategies to simulate other possibilities of sets of opinionated texts. **Eight pairs of arrangements** were formed.
+This repository contains a data set that was built to test methods of **contrastive opinion summarization**, which is a task that aims to compare two entities from  opinionated texts written about them. There was **manual annotation** of information about the opinions contained in each sentence, each opinion being indicated by its aspect and polarity: the **aspect** is the characteristic of the product that the opinion evaluates and the **polarity** indicates whether the opinion is positive or negative. 
+
+The **642 sentences** of the corpus were collected from **542 opinionated** reviews published by buyers on Buscapé website and refer to **four products**: two mobile phones and two digital cameras. 
+
+The corpus was **extended** through the creation of new arrangements that contain sentences selected with different strategies to simulate other possibilities of sets of opinionated texts. **Eight pairs of arrangements** were formed.
 
 
 ## Contents
@@ -59,11 +63,11 @@ Polarities are represented by symbols:
 
 ### Quantitative view
 
-The table below shows the pairs formed for the extended data set. Each pair is made of two arrangements of names DXa and DXb, where X is a number between 1 and 8.
+The table below shows the pairs formed for the extended data set and the quantities of sentences, different aspects, positive opinions and negative opinions of each. Each pair is made of two arrangements of names DXa and DXb, where X is a number between 1 and 8.
 
 ```
 | arr. | entity                   |  aspects | sentences | positive  | negative  |
-|:----:|--------------------------|---------:|----------:|----------:|----------:|
+|------|--------------------------|----------|-----------|-----------|-----------|
 |  D1a | Motorola Moto G5 Plus    |       15 |       269 |       346 |       101 |
 |  D1b | Galaxy S7                |       14 |       253 |       342 |        91 |
 |  D2a | Canon EOS Rebel T5       |       13 |        68 |        77 |        11 |
@@ -82,37 +86,37 @@ The table below shows the pairs formed for the extended data set. Each pair is m
 |  D8b | (subset of D1b)          |       12 |        32 |        36 |        15 |
 ```
 
+## The project
 
-
-## Authorship
+### Authorship
 
 This project was made by researchers of the NILC laboratory at the University of São Paulo, São Carlos: 
-* **Raphael Rocha da Silva** (http://raphsilva.github.io/)
+* **Raphael Rocha da Silva** (http://raphsilva.github.io)
 * **Otávio Augusto Ferreira Sousa**
-* **Thiago Alexandre Salgueiro Pardo**
+* **Thiago Alexandre Salgueiro Pardo** (http://conteudo.icmc.usp.br/pessoas/taspardo)
 
 This work is part of the Opinando project: **http://sites.google.com/icmc.usp.br/opinando/**
 
 
 
-## Publication
+### Publication
 
 The creation of this dataset is described in the following paper (in Portuguese): 
 * SILVA, R. R.; PARDO, T. A. S., 2019. **Um córpus anotado de opiniões em português sobre produtos eletrônicos para fins de sumarização contrastiva de opinião**. In the _Proceedings of the 6a Jornada de Descrição do Português (JDP)_ . October, 15-18. Salvador/Bahia, Brazil. To appear. Preview available at http://drive.google.com/file/d/1Nqu66l-z7eQenXEsvcnAEClt1LQzioJw/view.
 
-## Repository
+### Repository
 
 The repository is publicly available at **http://github.com/raphsilva/corpus-4p** as of October, 2019. 
 
-### Versioning
+#### Versioning
 Stable releases are listed at https://github.com/raphsilva/corpus-4p/releases.
 Versions have the format X.Y.Z, where: 
 * X changes when there are changes in the format of the data set or significant change of its contents; 
 * Y changes when there are small changes in the annotation information; 
-* Z changes when there are changes in the documentation, changes in meta information and refactoring. 
+* Z changes when there are changes in the documentation, changes in meta information or refactoring. 
 
 
-## License
+### License
 
 This repository is licensed under GNU GENERAL PUBLIC LICENSE  (Version 3, 29 June 2007). Find the full text in the file `LICENSE.md`.
 
