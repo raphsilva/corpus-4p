@@ -97,7 +97,9 @@ This project was made by researchers of the NILC laboratory at the University of
 
 This work is part of the Opinando project: **http://sites.google.com/icmc.usp.br/opinando/**
 
+#### Acknowlegment
 
+The authors are grateful to São Paulo Research Foundation (process 17/12236-0) and USP Research Office (PRP N. 668) for the financial support.
 
 ### Publication
 
@@ -134,11 +136,11 @@ In summary, you are free to use its contents for:
 * **Disclose source**
 * **Same license**
 * **Attribution**
- 
-The contents are provided **without liability or warranty**. 
 
 In derivative work that uses the contents provided, we ask you to either mention the authors,  cite their publication or add a link to the public repository, whichever best fits the format of your work. 
 
+The contents are provided **without liability or warranty**. 
 
+The use of reviews are in accordance with Buscapé's terms of service, available at www.buscape.com.br/termos-de-uso.
 
 
