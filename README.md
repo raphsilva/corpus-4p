@@ -120,7 +120,7 @@ Versions have the format X.Y.Z, where:
 
 ### License
 
-This repository is licensed under GNU GENERAL PUBLIC LICENSE  (Version 3, 29 June 2007). Find the full text in the file `LICENSE.md`.
+This repository is licensed under GNU GENERAL PUBLIC LICENSE  (Version 3, 29 June 2007) as of October 2019. Find the legal text in the file `LICENSE.md`.
 
 In summary, you are free to use its contents for:
 * **Commercial use**
