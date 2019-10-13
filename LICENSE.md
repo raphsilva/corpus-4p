@@ -1,30 +1,3 @@
-This repository is licensed under . 
-
-You are free to use its contents for:
-* Commercial use
-* Modification
-* Distribution
-* Patent use
-* Private use
- 
-As long as you publish your work with:
- License and copyright notice
- State changes
- Disclose source
- Same license
- Attribution 
- 
-The contents are provided without liability or warranty. 
-
-
-
-The full legal copyright text is copied below. 
-
-
-
-
-
-
                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
