@@ -35,8 +35,8 @@ BATERIA -
 ```
 **opinions**: Text is segmented by excerpts where each excerpt contain only one opinion:
 ```
-133.328.0459)   [+][PRODUTO]           ::  Gostei do produto.
-133.328.0044)   [-][BATERIA]           ::  Apenas a bateria podia ser melhor.
+133.328.0459)   [+][PRODUTO]    ::  Gostei do produto.
+133.328.0044)   [-][BATERIA]    ::  Apenas a bateria podia ser melhor.
 ```
 **json**: Information of segmentation is kept for both sentences and opinions:
 ```json
@@ -56,7 +56,7 @@ BATERIA -
 
 ## Metadata
 
-Metadata are kept in all files. They show information about the entity, about the reviews extracted and about the annotation process. An examples of metadata is:
+Metadata is kept in all files. They show information about the entity, about the reviews extracted and about the annotation process. An examples of metadata is:
 ```buildoutcfg
 ID: 10
 Type: Celular

@@ -113,8 +113,8 @@ The repository is publicly available at **http://github.com/raphsilva/corpus-4p*
 #### Versioning
 Stable releases are listed at https://github.com/raphsilva/corpus-4p/releases.
 Versions have the format X.Y.Z, where: 
-* X changes when there are changes in the format of the data set or significant change of its contents; 
-* Y changes when there are small changes in the annotation information; 
+* X changes when there are significant changes in the data set contents; 
+* Y changes when there are small changes in the data set contents; 
 * Z changes when there are changes in the documentation, changes in meta information or refactoring. 
 
 
