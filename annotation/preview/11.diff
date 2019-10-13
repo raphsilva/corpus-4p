@@ -14,7 +14,7 @@
 
   Human revisers: Raphael (May 2018, September 2019)
 
-  File generation date: 2019-09-29
+  File generation date: 2019-10-13
 
 
 <   [002.003]          [PRODUTO][+]    Ótimo celular. Câmera excelente.
@@ -350,7 +350,7 @@
 >c  [125.378]          [context][x]    Vamos ver a bateria daqui um tempo.
 >   [125.378]          [PRODUTO][+]    Tudo show de bola..
 
-<   [125.379]        [_outscope][+]    A entrega foi a JATO pela fast shop.
+<   [125.379]         [outscope][+]    A entrega foi a JATO pela fast shop.
 >   [125.379]         [outscope][+]    A entrega foi a JATO pela fast shop. Comprei no sabado e recebi na terça.
 
 <   [125.380]          [PRODUTO][+]    Comprei no sabado e recebi na terça.Uma dica .
@@ -624,7 +624,7 @@
 <   [208.636]     [PRODUTO TELA][-]    Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela.
 >   [208.636]      [RESISTÊNCIA][-]    Em menos de 24horas, no dia 13/01/18, ocorreu a primeira queda do aparelho do meu bolso (o mesmo é muito liso e escorrega do bolso ao se sentar) e o aparelho trincou a tela. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 
-<   [208.638][TELA PREÇO PRODUTO EMPRESA][-]    Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
+<   [208.638][TELA PREÇO PRODUTO outscope][-]    Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes. Possuia um celular da motorola moto G5 a cerca de 1 ano, que teve quedas muito piores e que ainda funciona perfeitamente e está com minha namorada.
 >   [208.638]         [outscope][-]    Além disso, solicitei para a atendente um orçamento para troca da tela e a mesma me informou que o valor seria de 980R$, além de 35R$ de orçamento, totalizando 1015R$.O preço que paguei pelo produto foi de 1661,59R$.Sendo assim, o valor para um reparo custaria mais de 60% do valor do aparelho.Além disso, no próprio site da empresa samsung, é informado que o reparo de tela custaria 439R$ nos centros de Reparo vide link: www.samsung.com/br/support/valorreparo/. Essa prática, de vender um produto de baixa qualidade, que escorrega e que quebra facilmente e depois cobrar valores surreais de reparo, na minha opinião se caracteriza como uma prática abusiva de preços e uma maneira de tentar extorquir os clientes.
 
 <   [209.641]          [PRODUTO][-]    O Celular é alérgico a agua, já vi celulares sem proteção resistir melhor.

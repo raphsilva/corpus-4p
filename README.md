@@ -63,7 +63,7 @@ Polarities are represented by symbols:
 
 ### Quantitative view
 
-The table below shows the pairs formed for the extended data set and the quantities of sentences, different aspects, positive opinions and negative opinions of each. Each pair is made of two arrangements of names DXa and DXb, where X is a number between 1 and 8.
+The table below shows arrangements formed for the extended data set and the quantities of sentences, different aspects, positive opinions and negative opinions of each arrangement. Each pair is made of two arrangements of names DXa and DXb, where X is a number between 1 and 8.
 
 ```
 | arr. | entity                   |  aspects | sentences | positive  | negative  |
@@ -90,21 +90,21 @@ The table below shows the pairs formed for the extended data set and the quantit
 
 ### Authorship
 
-This project was made by researchers of the NILC laboratory at the University of São Paulo, São Carlos: 
+This project was made by researchers of the **NILC laboratory** at the **University of São Paulo**, São Carlos: 
 * **Raphael Rocha da Silva** (http://raphsilva.github.io)
 * **Otávio Augusto Ferreira Sousa**
 * **Thiago Alexandre Salgueiro Pardo** (http://conteudo.icmc.usp.br/pessoas/taspardo)
 
-This work is part of the Opinando project: **http://sites.google.com/icmc.usp.br/opinando/**
+This work is part of the **Opinando project**: **http://sites.google.com/icmc.usp.br/opinando/**
 
 #### Acknowlegment
 
-The authors are grateful to São Paulo Research Foundation (process 17/12236-0) and USP Research Office (PRP N. 668) for the financial support.
+The authors are grateful to **São Paulo Research Foundation** (process 17/12236-0) and **University of São Paulo Research Office** (PRP N. 668) for the financial support.
 
 ### Publication
 
 The creation of this dataset is described in the following paper (in Portuguese): 
-* SILVA, R. R.; PARDO, T. A. S., 2019. **Um córpus anotado de opiniões em português sobre produtos eletrônicos para fins de sumarização contrastiva de opinião**. In the _Proceedings of the 6a Jornada de Descrição do Português (JDP)_ . October, 15-18. Salvador/Bahia, Brazil. To appear. Preview available at http://drive.google.com/file/d/1Nqu66l-z7eQenXEsvcnAEClt1LQzioJw/view.
+* SILVA, R. R.; PARDO, T. A. S., 2019. **Corpus 4P: um córpus anotado de opiniões em português sobre produtos eletrônicos para fins de sumarização contrastiva de opinião**. In the _Proceedings of the 6a Jornada de Descrição do Português (JDP)_ . October, 15-18. Salvador/Bahia, Brazil. To appear. Preview available at http://drive.google.com/file/d/1Nqu66l-z7eQenXEsvcnAEClt1LQzioJw/view.
 
 ### Repository
 
@@ -120,7 +120,7 @@ Versions have the format X.Y.Z, where:
 
 ### License
 
-This repository is licensed under GNU GENERAL PUBLIC LICENSE  (Version 3, 29 June 2007). Find the full text in the file `LICENSE.md`.
+This repository is licensed under GNU GENERAL PUBLIC LICENSE  (Version 3, 29 June 2007) as of October 2019. Find the legal text in the file `LICENSE.md`.
 
 In summary, you are free to use its contents for:
 * **Commercial use**

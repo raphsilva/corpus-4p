@@ -14,7 +14,7 @@
 
   Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-  File generation date: 2019-09-29
+  File generation date: 2019-10-13
 
 
 <   [001.003][CÂMERA ARMAZENAMENTO][+]    Boa velocidade na reprodução de vídeos e bom de espaço de memória.
@@ -201,7 +201,7 @@
 >   [069.162]            [PREÇO][+]    com preço bom.
 >   [069.162]          [PRODUTO][+]    e qualidade melhor ainda.
 
-<   [074.173]  [EMPRESA PRODUTO][+]    Entrega rápida e até então estou gostando muito do aparelho.
+<   [074.173] [outscope PRODUTO][+]    Entrega rápida e até então estou gostando muito do aparelho.
 >   [074.173]         [outscope][+]    Entrega rápida.
 >   [074.173]          [PRODUTO][+]    e até então estou gostando muito do aparelho.
 
@@ -220,7 +220,7 @@
 >   [080.188]            [PREÇO][+]    Tendo em vista seu custo, vale muito a pena...
 >   [080.188]           [CÂMERA][-]    apenas não gostei muito da câmera, mas quando ao restante estou satisfeita!
 
-<   [081.190]  [EMPRESA PRODUTO][+]    Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
+<   [081.190] [outscope PRODUTO][+]    Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
 >   [081.190]         [outscope][+]    Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
 >   [081.190]          [PRODUTO][+]    produto muito bom, atendendo as expectativas da marca Moto.
 
@@ -338,7 +338,7 @@
 >   [133.328]          [PRODUTO][+]    Gostei do produto.
 >   [133.328]          [BATERIA][-]    apenas a bateria a bateria podia ser melhor.
 
-<   [138.338][PRODUTO PREÇO EMPRESA][+]    Celular de ótimo custo-benefício e entregue antes do prazo.
+<   [138.338][PRODUTO PREÇO outscope][+]    Celular de ótimo custo-benefício e entregue antes do prazo.
 >   [138.338]            [PREÇO][+]    Celular de ótimo custo-benefício.
 >   [138.338]         [outscope][+]    entregue antes do prazo.
 
@@ -487,7 +487,7 @@
 >   [183.462]            [PREÇO][+]    Excelente Custo benefício.
 >   [183.462]          [PRODUTO][+]    celular muito bom, não precisa mais q isso.
 
-<   [184.464]  [PRODUTO EMPRESA][+]    Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
+<   [184.464] [PRODUTO outscope][+]    Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 >   [184.464]          [PRODUTO][+]    Ótimo produto.
 >   [184.464]         [outscope][+]    entrega rápida.
 >   [184.464]       [DESEMPENHO][-]    só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
@@ -502,7 +502,7 @@
 >   [186.467]          [PRODUTO][+]    O produto é muito bom.
 >   [186.467]         [outscope][-]    não comprei na empresa efacil, empresa ruim.
 
-<   [186.468]  [PRODUTO EMPRESA][+]    O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+<   [186.468] [PRODUTO outscope][+]    O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 >d  [186.468]        [duplicate][x]    O produto é muito bom.
 >   [186.468]         [outscope][-]    não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
@@ -527,7 +527,7 @@
 >   [208.520]          [PRODUTO][+]    Ótimo smartphone
 >   [208.520]            [PREÇO][-]    custo benefício baixo.
 
-<   [208.521][ARMAZENAMENTO PREÇO PRODUTO EMPRESA][+]    E um ótimo smartphone, com um design? que agrada, os detalhes são bem feitos.Apesar de ser rápido a memória ram ainda é baixa e o preço é muito alto em relação aos benefícios que o aparelho entrega.
+<   [208.521][ARMAZENAMENTO PREÇO PRODUTO outscope][+]    E um ótimo smartphone, com um design? que agrada, os detalhes são bem feitos.Apesar de ser rápido a memória ram ainda é baixa e o preço é muito alto em relação aos benefícios que o aparelho entrega.
 >   [208.521]          [PRODUTO][+]    E um ótimo smartphone.
 >   [208.521]           [DESIGN][+]    smartphone com um design que agrada, os detalhes são bem feitos.
 >   [208.521]       [DESEMPENHO][+]    smartphone rápido
@@ -594,10 +594,10 @@
 <   [226.594]    [ARMAZENAMENTO][-]    Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória.
 >   [226.594]            [OUTRO][-]    Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
 
-<   [227.597][PRODUTO EMPRESA BATERIA][-]    Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
+<   [227.597][PRODUTO outscope BATERIA][-]    Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
 >   [227.597]         [outscope][-]    Comprei o produto, através de uma propaganda enganosa da empresa. propaganda enganosa a respeito da durabilidade da bateria.
 
-<   [227.599]  [PRODUTO EMPRESA][-]    Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+<   [227.599] [PRODUTO outscope][-]    Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 >   [227.599]          [PRODUTO][-]    Estou muito infeliz com a compra desse produto.
 >   [227.599]         [outscope][-]    dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 

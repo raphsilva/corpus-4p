@@ -315,7 +315,7 @@
 (037.089) [+][PRODUTO] :: Produto bom, fácil mexer, até o momento não tenho queixas.
 
 
-(037.090) [+][_outscope] :: Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
+(037.090) [+][outscope] :: Não tive nenhum a queixa da entrega, obrigada Kabum pela entrega no prazo.
 
 
 
@@ -595,7 +595,7 @@
 
 (074.172) [+][PRODUTO] :: Bom aparelho, atende na maioria dos requisitos!
 
-(074.173) [+][EMPRESA PRODUTO] :: Entrega rápida e até então estou gostando muito do aparelho.
+(074.173) [+][outscope PRODUTO] :: Entrega rápida e até então estou gostando muito do aparelho.
 
 
 
@@ -653,7 +653,7 @@
 
 (081.189) [+][PRODUTO] :: Celular com ótimo custo-benefício.
 
-(081.190) [+][EMPRESA PRODUTO] :: Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
+(081.190) [+][outscope PRODUTO] :: Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
 
 
 
@@ -706,7 +706,7 @@
 (086.205) [+][CÂMERA DESEMPENHO PREÇO] :: Sua câmera é ok para os demais do mercado e seu processador consegue rodar todos os aplicativos-jogos que eu utilizava antes e ate os atuais portanto tem um preço ótimo portanto nao me arrependi e nao tive nenhum problema por enquanto.
 
 
-(086.206) [+][_outscope] :: A ENTREGA FOI RÁPIDA E MUITO BOA.
+(086.206) [+][outscope] :: A ENTREGA FOI RÁPIDA E MUITO BOA.
 
 
 
@@ -873,7 +873,7 @@
 (106.254) [+][PRODUTO] :: COMO VOU SABER, SE NÃO RECEBI.
 
 
-(106.255) [+][_outscope] :: COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+(106.255) [+][outscope] :: COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
 
 
 
@@ -1146,7 +1146,7 @@
 
 (138.337) [+][PRODUTO] :: Excelente.
 
-(138.338) [+][PRODUTO PREÇO EMPRESA] :: Celular de ótimo custo-benefício e entregue antes do prazo.
+(138.338) [+][PRODUTO PREÇO outscope] :: Celular de ótimo custo-benefício e entregue antes do prazo.
 
 
 (138.339) [+][PRODUTO] :: Recomendo.
@@ -1562,7 +1562,7 @@
 
 (184.463) [+][PRODUTO] :: Moto G5.
 
-(184.464) [+][PRODUTO EMPRESA] :: Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
+(184.464) [+][PRODUTO outscope] :: Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 
 
 
@@ -1576,10 +1576,10 @@
 
 (186.467) [+][PRODUTO] :: O produto é muito bom, porém não comprei na empresa efacil, empresa ruim.
 
-(186.468) [+][PRODUTO EMPRESA] :: O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
+(186.468) [+][PRODUTO outscope] :: O produto é muito bom, porém não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
 
-(186.469) [+][_outscope] :: Por isso cancelei a compra e adquiri em outra empresa.
+(186.469) [+][outscope] :: Por isso cancelei a compra e adquiri em outra empresa.
 
 
 
@@ -1755,7 +1755,7 @@
 
 (208.520) [+][PRODUTO] :: Ótimo smartphone porém custo benefício baixo.
 
-(208.521) [+][ARMAZENAMENTO PREÇO PRODUTO EMPRESA] :: E um ótimo smartphone, com um design? que agrada, os detalhes são bem feitos.Apesar de ser rápido a memória ram ainda é baixa e o preço é muito alto em relação aos benefícios que o aparelho entrega.
+(208.521) [+][ARMAZENAMENTO PREÇO PRODUTO outscope] :: E um ótimo smartphone, com um design? que agrada, os detalhes são bem feitos.Apesar de ser rápido a memória ram ainda é baixa e o preço é muito alto em relação aos benefícios que o aparelho entrega.
 
 
 (208.522) [+][PRODUTO] :: Recomendo porém se o valor estiver na faixa de 1.100.
@@ -1810,7 +1810,7 @@
 
 (215.536) [+][PRODUTO] :: O produto e intermediario digamos que pobre tem que tomar no *** memo.
 
-(215.537) [+][EMPRESA PREÇO] :: Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+(215.537) [+][outscope PREÇO] :: Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
 
 
 (215.538) [+][PRODUTO] :: Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
@@ -1888,7 +1888,7 @@
 (221.558) [-][PRODUTO] :: Verificar a oferta do Shoptime.
 
 
-(221.559) [-][_outscope] :: Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
+(221.559) [-][outscope] :: Ela não corresponde ao Smartphone da Motorola que está em propaganda, e sim a um bem inferior da Multilaser.
 
 
 
@@ -1947,7 +1947,7 @@
 (225.577) [-][PRODUTO] :: Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
 
 
-(225.578) [-][EMPRESA PRODUTO] :: Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+(225.578) [-][outscope PRODUTO] :: Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
 
 
 (225.579) [-][PRODUTO] :: Evidentemente houve um erro no envio do produto.
@@ -1959,16 +1959,16 @@
 (225.581) [-][PRODUTO] :: Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
 
 
-(225.582) [-][_outscope] :: Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
+(225.582) [-][outscope] :: Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas.
 
 
-(225.583) [-][PRODUTO EMPRESA] :: O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+(225.583) [-][PRODUTO outscope] :: O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
 
 
-(225.584) [-][_outscope] :: A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+(225.584) [-][outscope] :: A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
 
 
-(225.585) [-][_outscope] :: É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
+(225.585) [-][outscope] :: É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega.
 
 
 (225.586) [-][PRODUTO] :: Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
@@ -1977,7 +1977,7 @@
 (225.587) [-][PRODUTO] :: O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
 
 
-(225.588) [-][PRODUTO EMPRESA] :: Porém, para a minha frustração, o produto não veio no prazo prometido.
+(225.588) [-][PRODUTO outscope] :: Porém, para a minha frustração, o produto não veio no prazo prometido.
 
 
 (225.589) [-][PRODUTO] :: Decepção! Portanto, fica a dica: não comprem pelo Extra!!
@@ -2006,13 +2006,13 @@
 
 (227.596) [-][PRODUTO] :: Estou insatisfeita com o produto que eu adquiri.
 
-(227.597) [-][PRODUTO EMPRESA BATERIA] :: Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
+(227.597) [-][PRODUTO outscope BATERIA] :: Comprei o produto, através de uma propaganda enganosa da empresa a respeito da durabilidade da bateria.
 
 
 (227.598) [-][BATERIA] :: A bateria mal da pra um dia completo.
 
 
-(227.599) [-][PRODUTO EMPRESA] :: Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
+(227.599) [-][PRODUTO outscope] :: Estou muito infeliz com a compra desse produto e devido a isso dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
 
 (227.600) [-][PRODUTO] :: Moto g 5 , não indico pra ninguém.
