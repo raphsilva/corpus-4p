@@ -24,7 +24,7 @@ for i in output_directories:
         os.makedirs(i)
 
 
-# Read file (revised or automatically annotaded)
+# Read file (revised or automatically annotated)
 def getInfo(filename):
     # Get product ID from filename 
     product_id = filename.split('/')[-1].split('.')[0]
