@@ -370,14 +370,17 @@ for filename in files_to_read:
         f.write(i.replace('>', ' ') + '\n\n')
     f.write('\n')
     for i in info_raw['data']:
-        if i['sentence'] not in [y['sentence'] for y in info_revised['data']]:
-            f.write('<' + opinionToStringPlain(i))
-            f.write('\n')
-            for j in info_revised['data']:
-                if j['sentence_id'] == i['sentence_id']:
+        first = True
+        for j in info_revised['data']:
+            if j['sentence_id'] == i['sentence_id']:
+                if i['sentence'] != j['sentence']:
+                    if first:
+                        f.write('\n<' + opinionToStringPlain(i))
+                        f.write('\n')
+                        first = False
                     f.write('>' + opinionToStringPlain(j))
                     f.write('\n')
-            f.write('\n')
+
     f.close()
 
     count_aspects = countAspects(data_merged)
