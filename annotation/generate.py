@@ -373,7 +373,7 @@ for filename in files_to_read:
         first = True
         for j in info_revised['data']:
             if j['sentence_id'] == i['sentence_id']:
-                if i['sentence'] != j['sentence']:
+                if (i['sentence'], i['polarity'], i['aspect']) != (j['sentence'], j['polarity'], j['aspect']):
                     if first:
                         f.write('\n<' + opinionToStringPlain(i))
                         f.write('\n')
