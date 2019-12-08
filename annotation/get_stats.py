@@ -1,5 +1,4 @@
 import json
-from pprint import pprint
 from collections import defaultdict
 
 DIRECTORY_REV = '../dataset/whole/json'
@@ -49,17 +48,22 @@ for FILENUMBER in ['10', '11', '30', '31']:
                             confusion_aspect[asp][revised_aspect] += 1
 
 
-
 import pandas as pd
 
 confusion_polarity_matrix = pd.DataFrame(confusion_polarity).T.fillna(0)
 confusion_aspect_matrix = pd.DataFrame(confusion_aspect).T.fillna(0)
+opinions_per_sentence_matrix = pd.DataFrame.from_dict(opinions_per_sentence, orient='index').fillna(0)
 
 confusion_aspect_matrix = confusion_aspect_matrix.reindex(sorted(confusion_aspect_matrix.columns), axis=1)
 confusion_polarity_matrix = confusion_polarity_matrix.reindex(sorted(confusion_polarity_matrix.columns), axis=1)
+opinions_per_sentence_matrix = opinions_per_sentence_matrix.reindex(sorted(opinions_per_sentence_matrix.columns), axis=1)
 
-confusion_aspect_matrix.to_csv('aspect_confusion.csv')
-confusion_polarity_matrix.to_csv('polarity_confusion.csv')
+confusion_aspect_matrix.to_csv('preview/statistics/aspect_confusion.csv')
+confusion_polarity_matrix.to_csv('preview/statistics/polarity_confusion.csv')
+opinions_per_sentence_matrix.to_csv('preview/statistics/opinions_per_sentence.csv', header=False)
 
 
+print('\n\nOpinions per sentence')
+for i in sorted(opinions_per_sentence.items(), key=lambda a : a[0]):
+    print("  %2d :  %4d" % (i[0], i[1]))
 
