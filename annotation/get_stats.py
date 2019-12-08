@@ -2,7 +2,7 @@ import json
 from collections import defaultdict
 
 DIRECTORY_REV = '../dataset/whole/json'
-DIRECTORY_RAW = 'preview'
+DIRECTORY_RAW = 'input/automatic'
 
 confusion_polarity = defaultdict(lambda : defaultdict(int))
 confusion_aspect = defaultdict(lambda : defaultdict(int))
@@ -61,9 +61,3 @@ opinions_per_sentence_matrix = opinions_per_sentence_matrix.reindex(sorted(opini
 confusion_aspect_matrix.to_csv('preview/statistics/aspect_confusion.csv')
 confusion_polarity_matrix.to_csv('preview/statistics/polarity_confusion.csv')
 opinions_per_sentence_matrix.to_csv('preview/statistics/opinions_per_sentence.csv', header=False)
-
-
-print('\n\nOpinions per sentence')
-for i in sorted(opinions_per_sentence.items(), key=lambda a : a[0]):
-    print("  %2d :  %4d" % (i[0], i[1]))
-
