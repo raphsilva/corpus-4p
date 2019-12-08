@@ -165,3 +165,4 @@ J(209.642) [-][PRODUTO] :: Das duas vezes que o meu entrou em contato com a agua
 
 Run the file `generate.py` with Python 3.6. It'll generate files in `preview` to help check the annotation. If anything is wrong, go back to the manual annotation process to fix it. If everything is right, get the output files in `/dataset/whole`.
 
+Run the file `get_stats.py` to get some quantitative information about the process. It saves confusion matrixes of aspects and polarities, which help understand the error of the automatic opinion identification. It also saves a table showing the frequency of each amount of opinions per sentence. All its output files are at `preview/statistics`.
