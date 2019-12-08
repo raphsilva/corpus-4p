@@ -14,12 +14,22 @@
 
   Human revisers: Otávio (May 2018), Raphael (July 2018, September 2019)
 
-  File generation date: 2019-10-13
+  File generation date: 2019-12-08
 
+
+
+<   [001.001]          [PRODUTO][+]    Bom custo/benefício.
+>   [001.001]            [PREÇO][+]    Bom custo/benefício.
+
+<   [001.002]          [PRODUTO][+]    Muito bom custo/benefício.
+>   [001.002]            [PREÇO][+]    Muito bom custo/benefício.
 
 <   [001.003][CÂMERA ARMAZENAMENTO][+]    Boa velocidade na reprodução de vídeos e bom de espaço de memória.
 >   [001.003]       [DESEMPENHO][+]    Boa velocidade na reprodução de vídeos.
 >   [001.003]    [ARMAZENAMENTO][+]    bom de espaço de memória.
+
+<   [002.006]          [PRODUTO][+]    Bom custo benefício.
+>   [002.006]            [PREÇO][+]    Bom custo benefício.
 
 <   [002.007]    [CÂMERA DESIGN][+]    A câmera não é das melhores, nem o design.
 >   [002.007]           [CÂMERA][-]    A câmera não é das melhores.
@@ -42,13 +52,43 @@
 >   [003.010]            [OUTRO][+]    TV digital em alta qualidade.
 >   [003.010]          [PRODUTO][+]    Funcionalidades é melhores ou iguais a maioria dos intermediários.
 
+<   [004.012]          [PRODUTO][+]    Quase nao utilizei ainda.
+>   [004.012]          [PRODUTO][&]    Quase nao utilizei ainda.
+
+<   [005.014]          [PRODUTO][+]    Ainda descobrindo suas funcionalidades.
+>   [005.014]          [PRODUTO][&]    Ainda descobrindo suas funcionalidades.
+
 <   [006.016]          [PRODUTO][+]    Produto de muita boa qualidade, eficiente e ágil.
 >   [006.016]          [PRODUTO][+]    Produto de muita boa qualidade.
 >   [006.016]       [DESEMPENHO][+]    eficiente e ágil.
 
+<   [009.022]          [PRODUTO][+]    Satisfeito.
+>d  [009.022]        [duplicate][x]    Satisfeito.
+
+<   [009.023]          [PRODUTO][+]    Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+>d  [009.023]        [duplicate][x]    Meu primeiro Motorola foi o Moto-g ( 1 ) Por isso satisfeito com a marca eu preferi continuar Com Motorola...Este meu ( moto-5 plus ) .E sensacional a marca está de parabéns TKS.
+
+<   [011.026]          [PRODUTO][+]    Melhor da categoria.
+>   [011.026]         [PRODUTO][++]    Melhor da categoria.
+
+<   [012.028]          [PRODUTO][+]    ...
+>u  [012.028]   [unintelligible][x]    ...
+
+<   [012.029]          [PRODUTO][+]    ...
+>u  [012.029]   [unintelligible][x]    ...
+
+<   [013.031]          [PRODUTO][+]    Como foi comprado recentemente está em avaliação.
+>   [013.031]          [PRODUTO][#]    Como foi comprado recentemente está em avaliação.
+
+<   [014.033]          [PRODUTO][+]    Excelente.
+>d  [014.033]        [duplicate][x]    Excelente.
+
 <   [016.037]     [PREÇO CÂMERA][+]    Ótimo custo-beneficio com destaque para sua câmera, e o moto gestos!!!!
 >   [016.037]            [PREÇO][+]    Ótimo custo-beneficio.
 >   [016.037]           [CÂMERA][+]    com destaques para sua câmera, e o moto gestos!!!!
+
+<   [018.040]          [PRODUTO][+]    Moto g plus.
+>b  [018.040]           [broken][x]    Moto g plus.
 
 <   [019.043] [SO ARMAZENAMENTO][+]    Gostei, eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom, uma coisa que falta é a função nativa da transmitir arquivos via Wi-Fi direct.
 >   [019.043]          [PRODUTO][+]    Gostei.
@@ -56,9 +96,15 @@
 >   [019.043]         [SISTEMA][-.]    eu tava com Windows phone, então percebi que Android é menos fluido, em alguns animações se percebe atraso, mas é bom.
 >   [019.043]            [OUTRO][-]    uma coisa que falta é a função nativa da transmitir arquivos via Wi-Fi direct.
 
+<   [020.044]          [PRODUTO][+]    Celular perfeito.
+>   [020.044]         [PRODUTO][++]    Celular perfeito.
+
 <   [020.046]          [BATERIA][+]    Boa durabilidade da bateria e câmeras perfeitas.
 >   [020.046]          [BATERIA][+]    Boa durabilidade da bateria.
 >   [020.046]          [CÂMERA][++]    câmeras perfeitas.
+
+<   [021.047]          [PRODUTO][+]    Moto G.
+>b  [021.047]           [broken][x]    Moto G.
 
 <   [021.048]   [PRODUTO CÂMERA][+]    O produto é muito bom e atende ao requerido, de fácil manuseio e a câmera é alta qualidade.
 >   [021.048]          [PRODUTO][+]    O produto é muito bom e atende ao requerido.
@@ -71,6 +117,12 @@
 >   [022.052]          [BATERIA][+]    bateria com ótima duração.
 >   [022.052]      [USABILIDADE][+]    funções fáceis de usar.
 
+<   [023.055]           [CÂMERA][+]    Só acho que devem melhorar a qualidade da câmera tanto traseira quanto frontal.
+>   [023.055]           [CÂMERA][-]    Só acho que devem melhorar a qualidade da câmera tanto traseira quanto frontal.
+
+<   [026.061]          [PRODUTO][+]    Otimo custo beneficio.
+>   [026.061]            [PREÇO][+]    Otimo custo beneficio.
+
 <   [026.062]       [DESEMPENHO][+]    Destaque para o desempenho em jogos e camera.
 >   [026.062]       [DESEMPENHO][+]    Destaque para o desempenho em jogos.
 >   [026.062]           [CÂMERA][+]    Destaque para a câmera.
@@ -82,10 +134,16 @@
 >   [027.064]      [USABILIDADE][+]    fácil de usar.
 >   [027.064]           [CÂMERA][+]    Fotos maravilhosas,.
 
+<   [028.065]          [PRODUTO][+]    Smartphone com custo-benefício muito bom.
+>   [028.065]            [PREÇO][+]    Smartphone com custo-benefício muito bom.
+
 <   [028.066]            [PREÇO][+]    Aparelhjo simples, moderno e com ótimo custo-benefício.
 >   [028.066]          [PRODUTO][.]    Aparelhjo simples
 >   [028.066]          [PRODUTO][+]    moderno.
 >   [028.066]            [PREÇO][+]    ótimo custo-benefício.
+
+<   [029.068]          [PRODUTO][+]    Produto muito fácil de se utilizar.
+>   [029.068]      [USABILIDADE][+]    Produto muito fácil de se utilizar.
 
 <   [030.070][PRODUTO DESIGN BATERIA PREÇO][+]    Fiz uma ótima compra, celular com um lindo design, muitas funções e bateria que dura bastante.O preço estava bom e chegou bem rápido.
 >   [030.070]          [PRODUTO][+]    Fiz uma ótima compra.
@@ -94,6 +152,9 @@
 >   [030.070]          [BATERIA][+]    bateria que dura bastante.
 >   [030.070]            [PREÇO][+]    O preço estava bom.
 >   [030.070]         [outscope][+]    chegou bem rápido.
+
+<   [031.071]          [PRODUTO][+]    Excelente custo-benefício.
+>   [031.071]            [PREÇO][+]    Excelente custo-benefício.
 
 <   [031.072]   [PRODUTO CÂMERA][+]    Um celular excelente, rápido, câmera boa e funcionalidade boa.
 >   [031.072]          [PRODUTO][+]    Um celular excelente.
@@ -105,8 +166,23 @@
 >   [031.073]             [TELA][-]    A tela não tem o melhor contraste de cores (eu descobri que prefiro tela super AMOLED)
 >   [031.073]             [TELA][+]    a nitidez é imbatível (para ler textos por exemplo)
 
+<   [031.074][SO USABILIDADE TELEVISÃO][+]    O único ponto negativo por enquanto é que o android stock NÃO PERMITE USAR MIRACAST (na TV smart), mesmo o telefone tendo essa opção.
+>   [031.074]            [OUTRO][-]    O único ponto negativo por enquanto é que o android stock NÃO PERMITE USAR MIRACAST (na TV smart), mesmo o telefone tendo essa opção.
+
+<   [031.075]      [USABILIDADE][+]    Se você fizer root (usuários avançados) consegue usar o miracast, sem precisar comprar o chromecast qe custa uns 300 reais.
+>   [031.075]            [OUTRO][!]    Se você fizer root (usuários avançados) consegue usar o miracast, sem precisar comprar o chromecast qe custa uns 300 reais.
+
+<   [031.076][PRODUTO USABILIDADE TELA][+]    Também percebi um bug que quando se carrega o celular, dependendo da capa de proteção não dá pra usar a tela touch (a voltagem interfere na detecção dos toques)
+>   [031.076]             [TELA][-]    Também percebi um bug que quando se carrega o celular, dependendo da capa de proteção não dá pra usar a tela touch (a voltagem interfere na detecção dos toques)
+
 <   [031.077]          [PRODUTO][+]    Tirando esses detalhes, o celular é excelente!
 >   [031.077]          [PRODUTO][+]    Tirando alguns detalhes, o celular é excelente!
+
+<   [032.079]       [PRODUTO SO][+]    Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
+>   [032.079]          [SISTEMA][-]    Tudo bem, mas uma das maiores vantagens do aparelho que é vir com o Android sem muitas modificações, acaba se tornando uma fraqueza, pq ele não tem a função compartilhar via Wi-Fi direct nativa, é preciso baixar apps que façam isso, e até agora não achei um com sem anúncios.
+
+<   [033.080]          [PRODUTO][+]    Moto G5plus.
+>b  [033.080]           [broken][x]    Moto G5plus.
 
 <   [036.087]            [PREÇO][+]    Bonito, bom hardware, preço honesto, enfim, cumpre o que promete, ótimo custo/benefício.
 >   [036.087]           [DESIGN][+]    Bonito.
@@ -123,6 +199,9 @@
 >   [039.095]          [PRODUTO][+]    Aparelho muito bom, me atende no que preciso no dia a dia.
 >   [039.095]            [PREÇO][+]    para que pagar mais se pode ter quase o mesmo por menos.
 
+<   [042.100]          [PRODUTO][+]    Bom, mas poderia ter versão de 3gb.
+>   [042.100]         [PRODUTO][+.]    Bom, mas poderia ter versão de 3gb.
+
 <   [042.101]          [PRODUTO][+]    Os gestos ajudam bastante no dia a dia, e o aparelho é bem rápido, e o leitor de digitais dá uma segurança a mais.
 >   [042.101]            [OUTRO][+]    Os gestos ajudam bastante no dia a dia
 >   [042.101]       [DESEMPENHO][+]    aparelho é bem rápido
@@ -137,17 +216,38 @@
 >   [044.105]           [CÂMERA][-]    as funções da câmera podia ser melhor, não tem embeleze , como assim? é não tem, triste!!
 >   [044.105]            [OUTRO][-]    e o sinal da tv, é enfeite ja rodei , todos os lugares que vou não pega, tenho outro aparelho da concorrência e pega normalmente!!
 
+<   [046.108]          [PRODUTO][+]    Preço.
+>b  [046.108]           [broken][x]    Preço.
+
+<   [046.109]    [PREÇO PRODUTO][+]    Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+>i  [046.109]       [irrelevant][x]    Há algum erro no histórico de preço, pois um celular com um menor preço de $ 990,00 e no histórico de preço está dizendo que hoje chegou a $ 249,00.estou pesquisando á algum tempo e o preço não diminui a não ser nesse histórico.
+
+<   [047.110]          [PRODUTO][+]    Ótima relação custo-benefício.
+>   [047.110]            [PREÇO][+]    Ótima relação custo-benefício.
+
+<   [047.111]            [PREÇO][+]    Ótima relação custo-benefício.
+>d  [047.111]        [duplicate][x]    Ótima relação custo-benefício.
+
 <   [048.112]          [PRODUTO][+]    Celular bom e barato!
 >   [048.112]          [PRODUTO][+]    Celular bom.
 >   [048.112]            [PREÇO][+]    Celular barato!
+
+<   [048.113]    [PRODUTO PREÇO][+]    Comparado com outras marcas, atualmente achei que este celular tem o melhor custo-benefício.
+>   [048.113]           [PREÇO][++]    Comparado com outras marcas, atualmente achei que este celular tem o melhor custo-benefício.
 
 <   [049.116][PRODUTO ARMAZENAMENTO][+]    Na realiza eu comprei para o meu filho, segundo ele, o aparelho é ótimo, atende quase todas às necessidades, único detalhe contra é que não acita cartão de memória então é tudo de bom, cinco estrelas.
 >   [049.116]          [PRODUTO][+]    Na realiza eu comprei para o meu filho, segundo ele, o aparelho é ótimo, atende quase todas às necessidades.
 >   [049.116]    [ARMAZENAMENTO][-]    único detalhe contra é que não aceita cartão de memória.
 >   [049.116]          [PRODUTO][+]    então é tudo de bom, cinco estrelas.
 
+<   [050.118]          [PRODUTO][+]    Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+>b  [050.118]           [broken][x]    Na verdade, por enquanto é pequena, pois tenho o celular há menos de um mês.
+
 <   [050.119]          [PRODUTO][+]    Mas estou muito satisfeito com o aparelho.
 >   [050.119]          [PRODUTO][+]    Estou muito satisfeito com o aparelho.
+
+<   [051.120]          [PRODUTO][+]    Praticidade e qualidade.
+>   [051.120]      [USABILIDADE][+]    Praticidade e qualidade.
 
 <   [051.121]          [PRODUTO][+]    É um produto com uma ótima qualidade, oferece uma praticidade muito elevada tanto em termos de uso como em caracteres de opções.
 >   [051.121]          [PRODUTO][+]    É um produto com uma ótima qualidade.
@@ -156,6 +256,9 @@
 <   [051.122]          [PRODUTO][+]    Por esses e outros motivos recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphofe.
 >   [051.122]          [PRODUTO][+]    recomendo a todos que procuram um produto com alta performance, ampla opção de caracteres, prático e ótima qualidade, compre esse smartphone.
 
+<   [053.125]          [PRODUTO][+]    Otimo custo beneficio.
+>   [053.125]            [PREÇO][+]    Otimo custo beneficio.
+
 <   [053.126]          [PRODUTO][+]    Excelente aparelo.
 >   [053.126]          [PRODUTO][+]    Excelente aparelho.
 
@@ -163,15 +266,24 @@
 >   [053.127]       [DESEMPENHO][+]    Otimo desempenho.
 >   [053.127]           [CÂMERA][+]    Otima camera.
 
+<   [053.128]          [PRODUTO][+]    Só o software que poderia ter alguns recursos de fábrica a mais, como gravador de voz e ligações.
+>   [053.128]          [SISTEMA][-]    Só o software que poderia ter alguns recursos de fábrica a mais, como gravador de voz e ligações.
+
 <   [054.130]   [PRODUTO CÂMERA][+]    Aparelho muito bom androide e bom despacha bem rapido , só a câmera não é tudo aquilo que é anunciado me decepcionou.
 >   [054.130]          [PRODUTO][+]    Aparelho muito bom.
 >   [054.130]          [SISTEMA][+]    android e bom despacha bem rapido.
 >   [054.130]           [CÂMERA][-]    só a câmera não é tudo aquilo que é anunciado me decepcionou.
 
+<   [055.131]          [PRODUTO][+]    Cumpre o que promete.
+>d  [055.131]        [duplicate][x]    Cumpre o que promete.
+
 <   [055.132]    [PRODUTO PREÇO][+]    Bom produto, funciona bem, tem bom preço e cumpre o que promete.
 >   [055.132]          [PRODUTO][+]    Bom produto, funciona bem.
 >   [055.132]            [PREÇO][+]    tem bom preço.
 >   [055.132]          [PRODUTO][+]    cumpre o que promete.
+
+<   [056.133]          [PRODUTO][+]    Moto G5 Plus.
+>b  [056.133]           [broken][x]    Moto G5 Plus.
 
 <   [058.139][PREÇO USABILIDADE CÂMERA][+]    Um smartphone com excelentes características, designer moderno, preço bom, fácil de usar, foco, câmera nítidas e a durabilidade também excelente.Recomendo!
 >   [058.139]          [PRODUTO][+]    Um smartphone com excelentes características.
@@ -182,12 +294,21 @@
 >   [058.139]      [RESISTÊNCIA][+]    e a durabilidade também excelente.
 >   [058.139]          [PRODUTO][+]    Recomendo!
 
+<   [061.144]          [PRODUTO][+]    Ótimo custo-beneficio.
+>   [061.144]            [PREÇO][+]    Ótimo custo-beneficio.
+
 <   [063.149]   [PRODUTO CÂMERA][+]    Foi meu primeiro Moto que tenho, até o momento estou satisfeito.O sensor digital é muito bem vindo,pois facilita o acesso ao Celular e até alguns aplicativo de bancos.Estava usando o Crome que veio instalado e nao sei porque estava travando muito o Celular,instalei o Firefox acabou o problema.Câmera é bem rápida e de boa qualidade.Recomendo.
 >   [063.149]          [PRODUTO][+]    Foi meu primeiro Moto que tenho, até o momento estou satisfeito.
 >   [063.149]            [OUTRO][+]    O sensor digital é muito bem vindo, pois facilita o acesso ao Celular e até alguns aplicativo de bancos.
 >   [063.149]      [DESEMPENHO][-.]    Estava usando o Chrome que veio instalado e nao sei porque estava travando muito o Celular, instalei o Firefox acabou o problema.
 >   [063.149]           [CÂMERA][+]    Câmera é bem rápida e de boa qualidade.
 >   [063.149]          [PRODUTO][+]    Recomendo.
+
+<   [065.152]          [PRODUTO][+]    Memória.
+>b  [065.152]           [broken][x]    Memória.
+
+<   [067.157]          [PRODUTO][+]    Ótimo custo-benifício.
+>   [067.157]            [PREÇO][+]    Ótimo custo-benifício.
 
 <   [067.158][SO USABILIDADE DESIGN][+]    Vale a pena principalmente pelo Android puro e pelas Moto Ações que facilitam a usabilidade.Ponto fraco por possuir apenas um alto-falante e para design, as partes em plástico o tornam frágil.
 >   [067.158]          [SISTEMA][+]    Vale a pena principalmente pelo Android puro.
@@ -196,14 +317,29 @@
 >   [067.158]           [DESIGN][-]    Ponto fraco para design
 >   [067.158]      [RESISTÊNCIA][-]    as partes em plástico o tornam frágil.
 
+<   [068.160]          [PRODUTO][+]    Facilita a vida de quem vive na tecnologia.
+>   [068.160]         [PRODUTO][+.]    Facilita a vida de quem vive na tecnologia.
+
 <   [069.162]    [PRODUTO PREÇO][+]    Ótimo aparelho, com preço bom e qualidade melhora ainda.
 >   [069.162]          [PRODUTO][+]    Ótimo aparelho.
 >   [069.162]            [PREÇO][+]    com preço bom.
 >   [069.162]          [PRODUTO][+]    e qualidade melhor ainda.
 
+<   [072.168]          [PRODUTO][+]    Avaliação do produto.
+>b  [072.168]           [broken][x]    Avaliação do produto.
+
+<   [072.169]          [PRODUTO][+]    Já tive um moto E.
+>i  [072.169]       [irrelevant][x]    Já tive um moto E.
+
 <   [074.173] [outscope PRODUTO][+]    Entrega rápida e até então estou gostando muito do aparelho.
 >   [074.173]         [outscope][+]    Entrega rápida.
 >   [074.173]          [PRODUTO][+]    e até então estou gostando muito do aparelho.
+
+<   [075.174]          [PRODUTO][+]    Muito rapido.
+>   [075.174]       [DESEMPENHO][+]    Muito rapido.
+
+<   [075.175]          [PRODUTO][+]    O melhor aparelho que tive ate hoje.
+>   [075.175]         [PRODUTO][++]    O melhor aparelho que tive ate hoje.
 
 <   [076.177]          [PRODUTO][+]    Celular top de linha, camera muito boa, excelente aparelho.
 >   [076.177]          [PRODUTO][+]    Celular top de linha.
@@ -220,9 +356,18 @@
 >   [080.188]            [PREÇO][+]    Tendo em vista seu custo, vale muito a pena...
 >   [080.188]           [CÂMERA][-]    apenas não gostei muito da câmera, mas quando ao restante estou satisfeita!
 
+<   [081.189]          [PRODUTO][+]    Celular com ótimo custo-benefício.
+>   [081.189]            [PREÇO][+]    Celular com ótimo custo-benefício.
+
 <   [081.190] [outscope PRODUTO][+]    Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas, produto muito bom, atendendo as expectativas da marca Moto.
 >   [081.190]         [outscope][+]    Tudo certo em relação à loja, que foi rápida e me atendeu prontamente quando tive dúvidas.
 >   [081.190]          [PRODUTO][+]    produto muito bom, atendendo as expectativas da marca Moto.
+
+<   [082.191]          [PRODUTO][+]    Bom custo beneficio.
+>   [082.191]            [PREÇO][+]    Bom custo beneficio.
+
+<   [083.195]          [PRODUTO][+]    É um produto bom mas não contemplou as minhas expectativas.
+>   [083.195]         [PRODUTO][+.]    É um produto bom mas não contemplou as minhas expectativas.
 
 <   [084.197]     [PREÇO DESIGN][+]    Cumpre o que promete com um ótimo custo-benefício, além do desing maravilhoso e ótimo acabamento.
 >   [084.197]            [PREÇO][+]    Cumpre o que promete com um ótimo custo-benefício.
@@ -232,11 +377,32 @@
 >   [085.201]    [ARMAZENAMENTO][+]    Ótima memória.
 >   [085.201]       [DESEMPENHO][+]    muito bom desempenho.
 
+<   [086.203]          [PRODUTO][+]    Produto de um ALTO custo beneficio.
+>   [086.203]            [PREÇO][+]    Produto de um ALTO custo beneficio.
+
+<   [086.204]    [PRODUTO PREÇO][+]    O celular embora seja lançamento e barato consegue bater de frente com a maioria dos celulares atuais e mais utilizados (2016-2017)
+>   [086.204]          [PRODUTO][+]    O celular embora seja lançamento e barato consegue bater de frente com a maioria dos celulares atuais e mais utilizados (2016-2017)
+
 <   [086.205][CÂMERA DESEMPENHO PREÇO][+]    Sua câmera é ok para os demais do mercado e seu processador consegue rodar todos os aplicativos-jogos que eu utilizava antes e ate os atuais portanto tem um preço ótimo portanto nao me arrependi e nao tive nenhum problema por enquanto.
 >   [086.205]          [CÂMERA][+.]    Sua câmera é ok para os demais do mercado.
 >   [086.205]       [DESEMPENHO][+]    seu processador consegue rodar todos os aplicativos-jogos que eu utilizava antes e ate os atuais.
 >   [086.205]            [PREÇO][+]    tem um preço ótimo portanto nao me arrependi
 >   [086.205]         [PRODUTO][+.]    nao tive nenhum problema por enquanto.
+
+<   [088.210]          [PRODUTO][+]    Fácil manuseio.
+>   [088.210]      [USABILIDADE][+]    Fácil manuseio.
+
+<   [089.211]          [PRODUTO][+]    Muito bom o produto, ótimo custo beneficio.
+>   [089.211]            [PREÇO][+]    Muito bom o produto, ótimo custo beneficio.
+
+<   [090.214]          [PRODUTO][+]    Ainda pouco tempo de uso.
+>   [090.214]          [PRODUTO][&]    Ainda pouco tempo de uso.
+
+<   [091.215]          [PRODUTO][+]    Ótimo custo benefício.
+>   [091.215]            [PREÇO][+]    Ótimo custo benefício.
+
+<   [091.216]            [PREÇO][+]    Boas configurações por um preço razoável.
+>   [091.216]          [PRODUTO][+]    Boas configurações por um preço razoável.
 
 <   [093.220]          [PRODUTO][+]    Boa velocidad.e.
 >   [093.220]       [DESEMPENHO][+]    Boa velocidade.
@@ -244,6 +410,9 @@
 <   [093.221]             [PESO][+]    Bonito e leve.
 >   [093.221]           [DESIGN][+]    Bonito.
 >   [093.221]             [PESO][+]    leve.
+
+<   [094.223]          [PRODUTO][+]    Atende o básico em um smartphone.
+>   [094.223]         [PRODUTO][+.]    Atende o básico em um smartphone.
 
 <   [094.224][PRODUTO SO ARMAZENAMENTO USABILIDADE][+]    É um excelente aparelho, já vem com Android 7 e com 32GB de armazenamento que é o suficiente para usar sem problemas futuros.
 >   [094.224]          [PRODUTO][+]    É um excelente aparelho.
@@ -254,9 +423,15 @@
 >   [094.225]       [DESEMPENHO][+]    A memória RAM de 2GB dá conta de realizar várias tarefas ao mesmo tempo sem travar.
 >   [094.225]           [CÂMERA][+]    a câmera melhorou bastante em relação as versões anteriores do Moto G.
 
+<   [094.226]          [PRODUTO][+]    Em resumo: perfeito para uso intermediário no dia a dia.
+>   [094.226]         [PRODUTO][+.]    Em resumo: perfeito para uso intermediário no dia a dia.
+
 <   [094.227]   [BATERIA DESIGN][+]    Só a duração da bateria e o design que poderiam ser melhores.
 >   [094.227]          [BATERIA][-]    a duração da bateria que poderia ser melhor.
 >   [094.227]           [DESIGN][-]    o design que poderia ser melhor.
+
+<   [096.230]          [PRODUTO][+]    Moto g 5 Plus.
+>b  [096.230]           [broken][x]    Moto g 5 Plus.
 
 <   [096.231]          [PRODUTO][+]    Muito bom aparelho, apenas começou a esquentar do nada, Resetei e nunca mais esquentou.
 >   [096.231]          [PRODUTO][+]    Muito bom aparelho.
@@ -265,23 +440,80 @@
 <   [097.234]          [PRODUTO][+]    Sempre inovando e como sempre, Androide puro.
 >   [097.234]          [SISTEMA][+]    Sempre inovando e como sempre, Android puro.
 
+<   [098.235]          [PRODUTO][+]    Bom celular pelo custo.
+>   [098.235]            [PREÇO][+]    Bom celular pelo custo.
+
 <   [098.236]          [PRODUTO][+]    Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay)
 >c  [098.236]          [context][x]    Ja disponho de aparelhos semelhantes da Motorola (Moto Xplay).
+
+<   [098.237]          [PRODUTO][+]    Achei o Moto G5 um pouco mais lento e ocasionalmente trava e reinicia sozinho.
+>   [098.237]       [DESEMPENHO][-]    Achei o Moto G5 um pouco mais lento e ocasionalmente trava e reinicia sozinho.
+
+<   [099.239]          [PRODUTO][+]    Quando no wi fi a navegação é bem rápida, no 4G nem tanto.
+>   [099.239]            [OUTRO][+]    Quando no wi fi a navegação é bem rápida, no 4G nem tanto.
+
+<   [099.240]          [PRODUTO][+]    Não tem a opção de excluir uma unica ligação feita ou recebida.
+>   [099.240]            [OUTRO][-]    Não tem a opção de excluir uma unica ligação feita ou recebida.
+
+<   [100.242]          [PRODUTO][+]    Como é um produto que adquiri a pouco tempo, até o momento não me deu problermas.
+>   [100.242]         [PRODUTO][+.]    Como é um produto que adquiri a pouco tempo, até o momento não me deu problermas.
 
 <   [105.252]  [PRODUTO BATERIA][+]    O celular é bom, mas bateria dura pouco e a camera deixa bastante a desejar.
 >   [105.252]          [PRODUTO][+]    O celular é bom.
 >   [105.252]          [BATERIA][-]    bateria dura pouco.
 >   [105.252]           [CÂMERA][-]    e a camera deixa bastante a desejar.
 
+<   [106.253]          [PRODUTO][+]    NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+>   [106.253]         [outscope][-]    NÃO RECEBI O PRODUTO A MAIS DE 30 DIAS.
+
+<   [106.254]          [PRODUTO][+]    COMO VOU SABER, SE NÃO RECEBI.
+>   [106.254]         [outscope][-]    COMO VOU SABER, SE NÃO RECEBI.
+
+<   [106.255]         [outscope][+]    COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+>   [106.255]        [outscope][--]    COM A LOJA ESTÁ ALÉM DA PIOR POSSÍVEL.
+
+<   [107.256]          [PRODUTO][+]    Bom custo/beneficio.
+>   [107.256]            [PREÇO][+]    Bom custo/beneficio.
+
+<   [108.258]          [PRODUTO][+]    Chato.
+>b  [108.258]           [broken][x]    Chato.
+
+<   [108.259]          [PRODUTO][+]    Chato.
+>b  [108.259]           [broken][x]    Chato.
+
+<   [109.260]          [PRODUTO][+]    Moto G5 Plus.
+>b  [109.260]           [broken][x]    Moto G5 Plus.
+
 <   [109.261][BATERIA PRODUTO TELA][+]    Duas semanas de uso e tudo bem, a bateria não está durando muito e algumas vezes o aparelho esquenta muito,, mesmo estando com o Display apagado.
 >   [109.261]         [PRODUTO][+.]    Duas semanas de uso e tudo bem
 >   [109.261]          [BATERIA][-]    a bateria não está durando muito.
 >   [109.261]       [DESEMPENHO][-]    algumas vezes o aparelho esquenta muito, mesmo estando com o Display apagado.
 
+<   [110.262]          [PRODUTO][+]    Diferente.
+>   [110.262]          [PRODUTO][*]    Diferente.
+
+<   [110.263]          [PRODUTO][+]    Ainda estou avaliando.
+>   [110.263]          [PRODUTO][#]    Ainda estou avaliando.
+
 <   [111.265][PRODUTO DESEMPENHO][+]    O aparelho é show.se desempenho é excelente, principalmente pelo seu valor, porém ele poderia ser um pouco menor.
 >   [111.265]          [PRODUTO][+]    O aparelho é show.
 >   [111.265]       [DESEMPENHO][+]    seu desempenho é excelente, principalmente pelo seu valor.
 >   [111.265]            [PREÇO][-]    seu valor poderia ser um pouco menor.
+
+<   [112.266]          [PRODUTO][+]    Razoável.
+>   [112.266]          [PRODUTO][.]    Razoável.
+
+<   [112.267]          [PRODUTO][+]    É um aparelho regular.
+>   [112.267]          [PRODUTO][.]    É um aparelho regular.
+
+<   [112.268]          [PRODUTO][+]    Creio que para usuários mais exigentes não compensaria.
+>   [112.268]         [PRODUTO][-.]    Creio que para usuários mais exigentes não compensaria.
+
+<   [112.269]           [CÂMERA][+]    A câmera com uma saliência grande requer cuidados para não danificar.
+>   [112.269]      [RESISTÊNCIA][-]    A câmera com uma saliência grande requer cuidados para não danificar.
+
+<   [113.272]          [PRODUTO][+]    Muito bom o manuseio, configuração ótima.
+>   [113.272]      [USABILIDADE][+]    Muito bom o manuseio, configuração ótima.
 
 <   [115.275]          [PRODUTO][+]    Exelente.
 >   [115.275]          [PRODUTO][+]    Excelente.
@@ -290,6 +522,12 @@
 >   [116.278]          [PRODUTO][+]    Muito bom.
 >   [116.278]          [BATERIA][-]    deixa a desejar na bateria.
 >   [116.278]           [DESIGN][-]    deixa a desejar no designer.
+
+<   [119.284]          [PRODUTO][+]    O PRODUTO É MUITO BOM E FUNCIONA PERFEITAMENTE.
+>   [119.284]         [PRODUTO][++]    O PRODUTO É MUITO BOM E FUNCIONA PERFEITAMENTE.
+
+<   [120.286]          [PRODUTO][+]    Perfeito.
+>   [120.286]         [PRODUTO][++]    Perfeito.
 
 <   [122.291][DESEMPENHO BATERIA][+]    Ele é lindo! Super rápido, não trava, processador muito bom! A bateria dura mais de 1 dia, isso usando com frequência! Tô apaixonada por ele, melhor celular!
 >   [122.291]           [DESIGN][+]    Ele é lindo!
@@ -305,6 +543,9 @@
 >   [123.294]    [ARMAZENAMENTO][+]    A memória é muito boa.
 >   [123.294]          [BATERIA][+]    a bateria chega a durar 48 horas.
 
+<   [124.298]          [BATERIA][+]    Bateria.
+>b  [124.298]           [broken][x]    Bateria.
+
 <   [124.299]          [PRODUTO][+]    Dura bastane tempo.
 >   [124.299]          [BATERIA][+]    Dura bastante tempo.
 
@@ -316,6 +557,27 @@
 >   [125.301]          [PRODUTO][+]    O meu Smartphone só tem um mês, então minha avaliação ainda é superficial, por enquanto me surpreendeu eu tinha o Smartphone Motorola G4 Plus que eu gostava muito também, mas fui assaltada, e na hora de comprar um novo optei em comprar a nova versão e me surpreendi, estou gostando muito
 >   [125.301]            [OUTRO][+]    ele tem mais precisão e o reconhecimento digital e bem superior ao G4plus.
 
+<   [126.303]          [PRODUTO][+]    Bom mas pode melhorar.
+>   [126.303]         [PRODUTO][+.]    Bom mas pode melhorar.
+
+<   [126.304]          [PRODUTO][+]    Na verdade faço comparação com a Samsung pois era o que eu tinha.
+>c  [126.304]          [context][x]    Na verdade faço comparação com a Samsung pois era o que eu tinha.
+
+<   [126.305]           [CÂMERA][+]    A câmera tem menos estabilidade, sinto de alguns app's exclusivos da série Galaxy.
+>   [126.305]           [CÂMERA][-]    A câmera tem menos estabilidade, sinto de alguns app's exclusivos da série Galaxy.
+
+<   [126.306]        [TELEVISÃO][+]    A tv não tem boa recepção.
+>   [126.306]            [OUTRO][-]    A tv não tem boa recepção.
+
+<   [126.307]          [PRODUTO][+]    O fone que vem com o aparelho não tem boa qualidade.
+>   [126.307]        [ACESSÓRIO][-]    O fone que vem com o aparelho não tem boa qualidade.
+
+<   [126.308]          [PRODUTO][+]    O aparelho é bonito.
+>   [126.308]           [DESIGN][+]    O aparelho é bonito.
+
+<   [126.310]          [PRODUTO][+]    Os sub ícones como sinal do wi fi poderia ser mais destacados e amigáveis.
+>   [126.310]            [OUTRO][-]    Os sub ícones como sinal do wi fi poderia ser mais destacados e amigáveis.
+
 <   [126.311]    [ARMAZENAMENTO][+]    Ele é rápido e tem boa memória.
 >   [126.311]       [DESEMPENHO][+]    Ele é rápido.
 >   [126.311]    [ARMAZENAMENTO][+]    ele tem boa memória.
@@ -324,11 +586,29 @@
 >   [126.312]          [PRODUTO][+]    Bem...é bem legal.
 >   [126.312]         [outscope][-]    faltou um pouco de capricho pelo fabricante.
 
+<   [127.313]          [PRODUTO][+]    Pesquisa de opiniao - compra smartphone moto g5.
+>b  [127.313]           [broken][x]    Pesquisa de opiniao - compra smartphone moto g5.
+
+<   [127.314]  [PRODUTO SO TELA][+]    Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
+>i  [127.314]       [irrelevant][x]    Smartphone Motorola Moto G5 XT1672 Octa-Core, Android 7.0, Tela 5.0´ 32GB, 13MP, 4G, Dual Chip Desbloqueado - Dourado.
+
 <   [128.316][PRODUTO ARMAZENAMENTO][+]    Um bom produto,com muita memória,aparelho muito bonito e recomendo por ter algo a mais que é através da digital a sua segurança,foi o que me chamou a minha atenção.
 >   [128.316]          [PRODUTO][+]    Um bom produto.
 >   [128.316]    [ARMAZENAMENTO][+]    com muita memória.
 >   [128.316]           [DESIGN][+]    aparelho muito bonito.
 >   [128.316]            [OUTRO][+]    recomendo por ter algo a mais que é através da digital a sua segurança, foi o que me chamou a minha atenção.
+
+<   [129.318]          [PRODUTO][+]    Gostei do assistente de configuração que importou totalmente os aplicativos existentes no celular Moto E antigo.
+>   [129.318]            [OUTRO][+]    Gostei do assistente de configuração que importou totalmente os aplicativos existentes no celular Moto E antigo.
+
+<   [130.319]          [PRODUTO][+]    Ótimo custo benefício.
+>   [130.319]            [PREÇO][+]    Ótimo custo benefício.
+
+<   [130.320]    [PRODUTO PREÇO][+]    Melhor celular na sua faixa de preço.
+>   [130.320]           [PREÇO][++]    Melhor celular na sua faixa de preço.
+
+<   [131.323]          [PRODUTO][+]    Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
+>b  [131.323]           [broken][x]    Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele es.
 
 <   [131.324]     [PRODUTO TELA][+]    Olha realmente tenho esse produto que comprei mas lojas americanas, porém ele está com uma mancha na tela do lado direito na parte inferior do aparelho, o que vocês podem fazer a respeito.
 >c  [131.324]          [context][x]    Olha realmente tenho esse produto que comprei mas lojas americanas
@@ -337,6 +617,15 @@
 <   [133.328]  [PRODUTO BATERIA][+]    Gostei do produto, apenas a bateria a bateria podia ser melhor.
 >   [133.328]          [PRODUTO][+]    Gostei do produto.
 >   [133.328]          [BATERIA][-]    apenas a bateria a bateria podia ser melhor.
+
+<   [134.329]          [PRODUTO][+]    Otima.
+>b  [134.329]           [broken][x]    Otima.
+
+<   [134.330]          [PRODUTO][+]    Não comprei não está havendo algum erro aí..
+>i  [134.330]       [irrelevant][x]    Não comprei não está havendo algum erro aí..
+
+<   [136.333]          [PRODUTO][+]    Moto G Plus.
+>b  [136.333]           [broken][x]    Moto G Plus.
 
 <   [138.338][PRODUTO PREÇO outscope][+]    Celular de ótimo custo-benefício e entregue antes do prazo.
 >   [138.338]            [PREÇO][+]    Celular de ótimo custo-benefício.
@@ -352,6 +641,9 @@
 <   [141.347]          [PRODUTO][+]    Camara muito boa.
 >   [141.347]           [CÂMERA][+]    Câmera muito boa.
 
+<   [142.349]          [PRODUTO][+]    Foi presente.
+>c  [142.349]          [context][x]    Foi presente.
+
 <   [143.351]      [USABILIDADE][+]    Rápido, facil de usar, ...
 >   [143.351]       [DESEMPENHO][+]    Rápido ...
 >   [143.351]      [USABILIDADE][+]    facil de usar ...
@@ -365,6 +657,18 @@
 >   [146.357]           [DESIGN][+]    APARELHO MUITO BONITO.
 >   [146.357]          [PRODUTO][+]    APARELHO FUNCIONAL ACERTEI NA COMPRA POIS SÓ GOSTO DA MARCA MOTOROLA (MOTO G 5).
 
+<   [147.359]          [PRODUTO][+]    Ainda é cedo.
+>   [147.359]          [PRODUTO][#]    Ainda é cedo.
+
+<   [148.360]          [PRODUTO][+]    Cxb.
+>u  [148.360]   [unintelligible][x]    Cxb.
+
+<   [148.361]          [PRODUTO][+]    Bom.
+>   [148.361]            [PREÇO][+]    Bom.
+
+<   [149.363]          [PRODUTO][+]    Otimo produto.
+>d  [149.363]        [duplicate][x]    Otimo produto.
+
 <   [150.364]          [PRODUTO][+]    Rasoável.
 >   [150.364]          [PRODUTO][.]    Razoável.
 
@@ -375,6 +679,9 @@
 >   [150.365]             [TELA][-]    a tela está abaixo da categoria.
 >   [150.365]          [BATERIA][-]    a duração da bateria deixa a desejar, pois um dia que se tenha uma maior conversação ou se decida usar os recursos de TV que o aparelho fornece ela se esgota rapidamente.
 
+<   [150.366]          [PRODUTO][+]    Para um uso simples, apenas internet, redes sociais, email e uma ou outro ligação o aparelho atende, mas um uso um pouco mais intenso dos recursos o aparelho não suporta.
+>   [150.366]      [DESEMPENHO][-.]    Para um uso simples, apenas internet, redes sociais, email e uma ou outro ligação o aparelho atende, mas um uso um pouco mais intenso dos recursos o aparelho não suporta.
+
 <   [150.367]          [PRODUTO][+]    Recomendo que seja compara uma capa de proteção, pois o aparelho e muito liso e facilmente escapa da mão, e com certeza uma película de proteção.
 >   [150.367]      [RESISTÊNCIA][!]    Recomendo que seja comprada uma capa de proteção
 >   [150.367]      [RESISTÊNCIA][-]    o aparelho é muito liso e facilmente escapa da mão.
@@ -382,19 +689,40 @@
 <   [151.368]          [PRODUTO][+]    Òtimo.
 >   [151.368]          [PRODUTO][+]    Ótimo.
 
+<   [151.369]          [PRODUTO][+]    Ótimo.
+>d  [151.369]        [duplicate][x]    Ótimo.
+
+<   [152.370]          [PRODUTO][+]    Produto de excelente custo-benefício.
+>   [152.370]            [PREÇO][+]    Produto de excelente custo-benefício.
+
 <   [152.372][BATERIA TELA DESEMPENHO][+]    Bateria muito boa que aguenta até mais de um dia sem recarregar com minha experiência de uso, display excelente e com cores vívidas, além de um processador muito bom que otimiza demais o uso no dia-a-dia.
 >   [152.372]          [BATERIA][+]    Bateria muito boa que aguenta até mais de um dia sem recarregar com minha experiência de uso.
 >   [152.372]             [TELA][+]    display excelente e com cores vívidas.
 >   [152.372]       [DESEMPENHO][+]    um processador muito bom que otimiza demais o uso no dia-a-dia.
 
+<   [153.374]          [PRODUTO][+]    MOTOG 5 PLUS.
+>b  [153.374]           [broken][x]    MOTOG 5 PLUS.
+
 <   [153.375][DESEMPENHO BATERIA][+]    Processador rápido, duração da bateria excelente!
 >   [153.375]       [DESEMPENHO][+]    Processador rápido.
 >   [153.375]          [BATERIA][+]    duração da bateria excelente!
+
+<   [154.377]               [SO][+]    Gosto do Android quase puro e a Motorola atualiza o sistema operacional mais rápido que os demais fabricantes.
+>   [154.377]          [SISTEMA][+]    Gosto do Android quase puro e a Motorola atualiza o sistema operacional mais rápido que os demais fabricantes.
+
+<   [154.378]               [SO][+]    O Android 7.0 é muito bom.
+>   [154.378]          [SISTEMA][+]    O Android 7.0 é muito bom.
+
+<   [154.379] [TELA USABILIDADE][+]    A função de dividir a tela e usar dois aplicativos simultaneamente é ótima.
+>   [154.379]            [OUTRO][+]    A função de dividir a tela e usar dois aplicativos simultaneamente é ótima.
 
 <   [156.384]   [DESIGN BATERIA][+]    Design muito bonito, rápido e com uma boa duração de bateria.
 >   [156.384]           [DESIGN][+]    Design muito bonito.
 >   [156.384]       [DESEMPENHO][+]    rápido.
 >   [156.384]          [BATERIA][+]    boa duração de bateria.
+
+<   [157.385]          [PRODUTO][+]    Custo beneficio.
+>   [157.385]            [PREÇO][+]    Custo beneficio.
 
 <   [157.386]  [PRODUTO BATERIA][+]    Aparelho excelente, exceto a durabilidade da bateria que não dura 12 horas vc usando as redes sociais mas tirando isto estou satisfeita com o produto.
 >   [157.386]          [PRODUTO][+]    Aparelho excelente.
@@ -416,6 +744,21 @@
 >   [160.395]             [TELA][+]    com uma tela de ótimo tamanho.
 >   [160.395]           [PREÇO][++]    para mim melhor custo benefício do mercado.
 
+<   [162.399]          [PRODUTO][+]    Smartphone muito bom perfeito.
+>   [162.399]         [PRODUTO][++]    Smartphone muito bom perfeito.
+
+<   [163.402]          [PRODUTO][+]    Ainda estou conhecendo pois não faz 1 mês que adquiri.
+>   [163.402]          [PRODUTO][#]    Ainda estou conhecendo pois não faz 1 mês que adquiri.
+
+<   [164.404]          [PRODUTO][+]    Estou experimentando....
+>   [164.404]          [PRODUTO][#]    Estou experimentando....
+
+<   [165.405]          [PRODUTO][+]    Pouco tempo de uso.
+>   [165.405]          [PRODUTO][#]    Pouco tempo de uso.
+
+<   [165.406]          [PRODUTO][+]    Estou experimentando....
+>   [165.406]          [PRODUTO][#]    Estou experimentando....
+
 <   [166.407]          [PRODUTO][+]    Lindo e inovador.
 >   [166.407]           [DESIGN][+]    Lindo.
 >   [166.407]          [PRODUTO][+]    inovador.
@@ -426,24 +769,66 @@
 >   [166.408]       [DESEMPENHO][+]    Gostei da rapidez no processamento.
 >   [166.408]           [CÂMERA][+]    Gostei da câmera.
 
+<   [167.409]          [PRODUTO][+]    Bom custo benefício.
+>   [167.409]            [PREÇO][+]    Bom custo benefício.
+
 <   [167.410]   [PRODUTO CÂMERA][+]    Celular bem completo, com ponto forte na qualidade das fotos.
 >   [167.410]          [PRODUTO][+]    Celular bem completo.
 >   [167.410]           [CÂMERA][+]    celular com ponto forte na qualidade das fotos.
+
+<   [168.413]          [PRODUTO][+]    Celular.
+>b  [168.413]           [broken][x]    Celular.
+
+<   [168.414]          [PRODUTO][+]    Uso para falar e web,.
+>d  [168.414]        [duplicate][x]    Uso para falar e web,.
+
+<   [169.416]          [PRODUTO][+]    Uso para falar e web,.
+>   [169.416]          [PRODUTO][&]    Uso para falar e web,.
+
+<   [170.417]          [PRODUTO][+]    Aparelho Bom, porém com algumas limitações.
+>   [170.417]         [PRODUTO][+.]    Aparelho Bom, porém com algumas limitações.
 
 <   [170.418]    [PRODUTO PREÇO][+]    O Aparelho é bom, e no tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
 >   [170.418]          [PRODUTO][+]    O Aparelho é bom.
 >   [170.418]            [PREÇO][+]    no tocante ao preço quando comparado aos outros da mesma categoria possui um relação custo beneficio melhor.
 
+<   [170.419] [ARMAZENAMENTO SO][+]    Para mim, a memória interna deveria ser aumentada, pois o Android quase ocupa toda ela.
+>   [170.419]    [ARMAZENAMENTO][-]    Para mim, a memória interna deveria ser aumentada, pois o Android quase ocupa toda ela.
+
+<   [170.420]          [BATERIA][+]    A bateria está no razoável, pois um dia de conversação mais intensa ira acabar com a mesma.
+>   [170.420]          [BATERIA][.]    A bateria está no razoável, pois um dia de conversação mais intensa ira acabar com a mesma.
+
 <   [170.421]  [TELEVISÃO RÁDIO][+]    Gostei do fato de ter a televisão e o rádio, pois as vezes em elas são uteis.
 >   [170.421]            [OUTRO][+]    Gostei do fato de ter a televisão, pois as vezes é útil.
 >   [170.421]            [OUTRO][+]    Gostei do fato de ter o rádio, pois as vezes é útil.
+
+<   [171.422]          [PRODUTO][+]    MOTO G5.
+>b  [171.422]           [broken][x]    MOTO G5.
+
+<   [171.423]          [PRODUTO][+]    NORMAL.
+>   [171.423]          [PRODUTO][.]    NORMAL.
+
+<   [173.426]          [PRODUTO][+]    Excelente custo benefício.
+>   [173.426]            [PREÇO][+]    Excelente custo benefício.
 
 <   [173.429]   [DESIGN PRODUTO][+]    Funciona com desenvoltura, tem bons recursos, não trava (diferente de alguns comentários que li, não sei o que possa ter acontecido), design elegante, enfim, estou contentíssimo com o produto.
 >   [173.429]          [PRODUTO][+]    Funciona com desenvoltura, tem bons recursos, não trava (diferente de alguns comentários que li, não sei o que possa ter acontecido), enfim, estou contentíssimo com o produto.
 >   [173.429]           [DESIGN][+]    design elegante.
 
+<   [174.431]          [PRODUTO][+]    Sem comparação, o melhor custo benefício da história.
+>   [174.431]           [PREÇO][++]    Sem comparação, o melhor custo benefício da história.
+
+<   [174.432]          [PRODUTO][+]    Meu primeiro Moto G foi o Moto G3 Turbo.
+>i  [174.432]       [irrelevant][x]    Meu primeiro Moto G foi o Moto G3 Turbo.
+
+<   [174.434]          [PRODUTO][+]    Para ter mais do que ele oferece, você vai ter que gastar o dobro em aparelhos como Galaxy S8 ou Iphone 9999s, que custam 3k.
+>   [174.434]            [PREÇO][+]    Para ter mais do que ele oferece, você vai ter que gastar o dobro em aparelhos como Galaxy S8 ou Iphone 9999s, que custam 3k.
+
 <   [174.435]          [BATERIA][+]    A diferença é que esse aqui não trava e a bateria dura, DE FATO, 1 dia inteiro.
 >   [174.435]          [BATERIA][+]    Esse aqui não trava e a bateria dura, DE FATO, 1 dia inteiro.
+
+<   [174.436]    [ARMAZENAMENTO][+]    Pena não vender no Brasil a versão americana com 4GB de RAM e 64GB de memória interna (o meu é esse)
+>   [174.436]       [DESEMPENHO][-]    Pena não vender no Brasil a versão americana com 4GB de RAM e 64GB de memória interna (o meu é esse)
 
 <   [174.437]          [PRODUTO][+]    Já caí na armadilha dos Iphone (itunes..
 >   [174.437]          [PRODUTO][+]    Já caí na armadilha dos Iphone (itunes.. Grrrr), e já me encantei com alguns Galaxy. Depois do preço absurdamente abusivo desses aparelhos, no entanto, já era. Agora, só Moto G.
@@ -479,13 +864,22 @@
 >   [181.457]           [DESIGN][+]    Celular lindo.
 >   [181.457]          [BATERIA][+]    Celular com uma bateria super durável.
 
+<   [181.458]          [PRODUTO][+]    Ainda estou aprendendo a mexer nele, mas até o momento posso afirmar que é o melhor celular que tive.
+>   [181.458]         [PRODUTO][++]    Ainda estou aprendendo a mexer nele, mas até o momento posso afirmar que é o melhor celular que tive.
+
 <   [182.460]     [PREÇO DESIGN][+]    Um dos melhores aparelhos pelo preço mas deveria ter acabamento mais refinado.
 >   [182.460]            [PREÇO][+]    Um dos melhores aparelhos pelo preço
 >   [182.460]           [DESIGN][-]    deveria ter acabamento mais refinado.
 
+<   [183.461]          [PRODUTO][+]    Excelente Custo benefício.
+>d  [183.461]        [duplicate][x]    Excelente Custo benefício.
+
 <   [183.462]    [PREÇO PRODUTO][+]    Excelente Custo benefício, celular muito bom, não precisa mais q isso.
 >   [183.462]            [PREÇO][+]    Excelente Custo benefício.
 >   [183.462]          [PRODUTO][+]    celular muito bom, não precisa mais q isso.
+
+<   [184.463]          [PRODUTO][+]    Moto G5.
+>b  [184.463]           [broken][x]    Moto G5.
 
 <   [184.464] [PRODUTO outscope][+]    Ótimo produto entrega rápida só fica a desejar por ele travar e ser meio lento em alguns aplicativos no mais é um ótimo aparelho.
 >   [184.464]          [PRODUTO][+]    Ótimo produto.
@@ -506,22 +900,76 @@
 >d  [186.468]        [duplicate][x]    O produto é muito bom.
 >   [186.468]         [outscope][-]    não comprei na empresa efacil, empresa não tem um serviço de entrega que permita o agendamento.
 
+<   [186.469]         [outscope][+]    Por isso cancelei a compra e adquiri em outra empresa.
+>   [186.469]         [outscope][-]    Por isso cancelei a compra e adquiri em outra empresa.
+
+<   [188.475]    [PRODUTO PREÇO][+]    Eu comprei esse aparelho depois de varios reviews de outros smartphone nessa faixa de preço e não me decepcionei.
+>   [188.475]          [PRODUTO][+]    Eu comprei esse aparelho depois de varios reviews de outros smartphone nessa faixa de preço e não me decepcionei.
+
 <   [188.476][ARMAZENAMENTO PRODUTO PREÇO][+]    Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel, mas na sua faixa de preço ainda está valendo a pena.
 >   [188.476]       [DESEMPENHO][-]    Creio que a única coisa negativa são os "apenas" 2 GB de memória, se fossem 3 GB o aparelho seria imbativel.
 >   [188.476]            [PREÇO][+]    na sua faixa de preço ainda está valendo a pena.
 
+<   [189.477]          [PRODUTO][+]    Bom custo benefício.
+>   [189.477]            [PREÇO][+]    Bom custo benefício.
+
+<   [189.479]          [PRODUTO][+]    O que falta é um bom manual de uso.
+>   [189.479]        [ACESSÓRIO][-]    O que falta é um bom manual de uso.
+
+<   [190.480]          [PRODUTO][+]    Pratico e simples.
+>   [190.480]      [USABILIDADE][+]    Pratico e simples.
+
+<   [190.481]          [PRODUTO][+]    Pratico.
+>   [190.481]      [USABILIDADE][+]    Pratico.
+
+<   [191.482]          [PRODUTO][+]    Melhor Custo Beneficio.
+>   [191.482]           [PREÇO][++]    Melhor Custo Beneficio.
+
+<   [192.485]          [PRODUTO][+]    Eu estou aprendendo ainda algumas funcionalidades do produto.
+>   [192.485]          [PRODUTO][&]    Eu estou aprendendo ainda algumas funcionalidades do produto.
+
 <   [192.486]          [PRODUTO][+]    Mas ele é muito bom nas funcionalidades que já usei.
 >   [192.486]          [PRODUTO][+]    ele é muito bom nas funcionalidades que já usei.
+
+<   [193.487]          [PRODUTO][+]    Moto g 5 plus ótimo desempenho.
+>   [193.487]       [DESEMPENHO][+]    Moto g 5 plus ótimo desempenho.
+
+<   [193.488]          [PRODUTO][+]    Muito rápido!
+>   [193.488]       [DESEMPENHO][+]    Muito rápido!
+
+<   [194.490]          [PRODUTO][+]    O celular realmente é bom mas o fone de ouvido deixa a desejar, machuca o ouvido e incomoda bastante.
+>   [194.490]        [ACESSÓRIO][-]    O celular realmente é bom mas o fone de ouvido deixa a desejar, machuca o ouvido e incomoda bastante.
+
+<   [196.493]          [PRODUTO][+]    Mais um produto de alta qualidade!
+>d  [196.493]        [duplicate][x]    Mais um produto de alta qualidade!
+
+<   [196.494]          [PRODUTO][+]    Meu terceiro aparelho Motorola, não me arrependo!
+>d  [196.494]        [duplicate][x]    Meu terceiro aparelho Motorola, não me arrependo!
+
+<   [198.497]          [PRODUTO][+]    Moto G5.
+>b  [198.497]           [broken][x]    Moto G5.
 
 <   [199.500]  [PRODUTO BATERIA][+]    Ótimo aparelho, bateria dura até o fim do dia tranquilo.
 >   [199.500]          [PRODUTO][+]    Ótimo aparelho.
 >   [199.500]          [BATERIA][+]    bateria dura até o fim do dia tranquilo.
+
+<   [199.501]          [PRODUTO][+]    Não trava e não engasga.
+>   [199.501]       [DESEMPENHO][+]    Não trava e não engasga.
+
+<   [200.503]          [PRODUTO][+]    Custo Benefício Bom.
+>   [200.503]            [PREÇO][+]    Custo Benefício Bom.
+
+<   [200.504]          [PRODUTO][+]    Aparelho eficiente, sem frescuras e bem performático.
+>   [200.504]       [DESEMPENHO][+]    Aparelho eficiente, sem frescuras e bem performático.
 
 <   [204.513]          [PRODUTO][+]    Ja é meu terceiro aparelho da linha MOTO G!Mais uma vez um aparelho ótimo!
 >   [204.513]          [PRODUTO][+]    Ja é meu terceiro aparelho da linha MOTO G! Mais uma vez um aparelho ótimo!
 
 <   [206.516]          [PRODUTO][+]    Com sempre um produto sem igual!
 >   [206.516]          [PRODUTO][+]    Como sempre um produto sem igual!
+
+<   [206.517]          [PRODUTO][+]    Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
+>d  [206.517]        [duplicate][x]    Este é o meu terceiro aparelho da Motorola e não compraria um de outra marca!
 
 <   [208.520]          [PRODUTO][+]    Ótimo smartphone porém custo benefício baixo.
 >   [208.520]          [PRODUTO][+]    Ótimo smartphone
@@ -534,20 +982,53 @@
 >   [208.521]       [DESEMPENHO][-]    Apesar de ser rápido a memória ram ainda é baixa.
 >   [208.521]            [PREÇO][-]    o preço é muito alto em relação aos benefícios que o aparelho entrega.
 
+<   [208.522]          [PRODUTO][+]    Recomendo porém se o valor estiver na faixa de 1.100.
+>   [208.522]         [PRODUTO][+.]    Recomendo porém se o valor estiver na faixa de 1.100.
+
+<   [209.523]          [PRODUTO][+]    Ainda não testei muito.
+>   [209.523]          [PRODUTO][&]    Ainda não testei muito.
+
 <   [209.524]   [BATERIA CÂMERA][+]    Compra recente não testei muito, mas a bateria está durando bastante! A câmera com zoom perde bastante qualidade.
 >   [209.524]          [BATERIA][+]    Compra recente não testei muito, mas a bateria está durando bastante!
 >   [209.524]           [CÂMERA][-]    A câmera com zoom perde bastante qualidade.
+
+<   [210.525]          [PRODUTO][+]    Lindo.
+>   [210.525]           [DESIGN][+]    Lindo.
 
 <   [210.526]   [BATERIA CÂMERA][+]    Achei que a duração da bateria e a qualidade da câmera foram excelentes pontos, mas o principal é que os oito processadores cumprem muito bem sua função!
 >   [210.526]          [BATERIA][+]    Achei que a duração da bateria é um excelente ponto.
 >   [210.526]           [CÂMERA][+]    Achei que a qualidade da câmera é um excelente ponto.
 >   [210.526]       [DESEMPENHO][+]    o principal é que os oito processadores cumprem muito bem sua função!
 
+<   [211.527]          [PRODUTO][+]    Xxx.
+>u  [211.527]   [unintelligible][x]    Xxx.
+
+<   [211.528]          [PRODUTO][+]    Xxx xxxx xxx x xx.
+>u  [211.528]   [unintelligible][x]    Xxx xxxx xxx x xx.
+
+<   [212.529]          [PRODUTO][+]    Otimo custo-beneficio.
+>   [212.529]            [PREÇO][+]    Otimo custo-beneficio.
+
 <   [213.533][PRODUTO CÂMERA SO PREÇO][+]    Produto bonito, câmera boa, Android puro, fora detalhes de isso fazem dele o melhor custo benefício da categoria.
 >   [213.533]           [DESIGN][+]    Produto bonito.
 >   [213.533]           [CÂMERA][+]    câmera boa.
 >   [213.533]          [SISTEMA][+]    Android puro.
 >   [213.533]           [PREÇO][++]    detalhes fazem dele o melhor custo benefício da categoria.
+
+<   [214.534]          [PRODUTO][+]    Curiosidade.
+>b  [214.534]           [broken][x]    Curiosidade.
+
+<   [214.535]          [PRODUTO][+]    Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
+>i  [214.535]       [irrelevant][x]    Se o senhor deixou um comentário deste na pesquisa de um Motorola e diz que o melhor telefone é um Iphone, então você veio aqui pra...???
+
+<   [215.536]          [PRODUTO][+]    O produto e intermediario digamos que pobre tem que tomar no *** memo.
+>   [215.536]          [PRODUTO][-]    O produto e intermediario digamos que pobre tem que tomar no *** memo.
+
+<   [215.537]   [outscope PREÇO][+]    Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+>   [215.537]         [outscope][-]    Sempre visito o site do buscape e sempre tem preços descritos na imagem so que quando vc clica na loja o preço sobe igual magica ..
+
+<   [215.538]          [PRODUTO][+]    Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
+>   [215.538]         [outscope][-]    Entao nao utilizem o buscape como referencia pois ele nunca acerta os preços e nao consigo falar com a central deles para reclamar ..
 
 <   [215.539]          [PRODUTO][+]    E se vcs kiserem celular bom indico que procurem um iphone da aplee mesmo versoes mais antigas pois nunca perdem valor de mercado aplee e aplee...
 >   [215.539]          [PRODUTO][-]    E se vcs quiserem celular bom indico que procurem um iphone da apple mesmo versões mais antigas pois nunca perdem valor de mercado apple e apple...
@@ -558,6 +1039,33 @@
 <   [216.544]          [PRODUTO][-]    Há dificuldade para religa-lo.
 >   [216.544]          [PRODUTO][-]    Há dificuldade para religá-lo.
 
+<   [216.545]          [PRODUTO][-]    Foi o pior aparelho que já comprei, não recomendo para ninguem.
+>   [216.545]         [PRODUTO][--]    Foi o pior aparelho que já comprei, não recomendo para ninguem.
+
+<   [216.546]          [PRODUTO][-]    Motorola nunca mais!
+>   [216.546]        [outscope][--]    Motorola nunca mais!
+
+<   [217.547]          [PRODUTO][-]    Desligou sozinho e parau de funcionar.
+>   [217.547]      [RESISTÊNCIA][-]    Desligou sozinho e parau de funcionar.
+
+<   [217.548]          [PRODUTO][-]    O aparelho é muito bom, mas com 2 semanas de uso ele apagou e não funcionou mais, nesse momento esta na assistencia tecnica,, Uma decepção total, espero que consertem e volte sem mais aborrecimentos...
+>   [217.548]      [RESISTÊNCIA][-]    O aparelho é muito bom, mas com 2 semanas de uso ele apagou e não funcionou mais, nesse momento esta na assistencia tecnica,, Uma decepção total, espero que consertem e volte sem mais aborrecimentos...
+
+<   [218.549]          [PRODUTO][-]    Bom produto.
+>   [218.549]          [PRODUTO][+]    Bom produto.
+
+<   [218.550]          [PRODUTO][-]    Produto simples e que atende as principais funções do dia a dia.
+>   [218.550]          [PRODUTO][+]    Produto simples e que atende as principais funções do dia a dia.
+
+<   [218.551]          [PRODUTO][-]    Porém em algumas situações ele trava.
+>   [218.551]       [DESEMPENHO][-]    Porém em algumas situações ele trava.
+
+<   [219.553]          [PRODUTO][-]    Regular pois na primeira semana de uso tive que enviar ele para a assistência.
+>   [219.553]      [RESISTÊNCIA][-]    Regular pois na primeira semana de uso tive que enviar ele para a assistência.
+
+<   [220.555]          [PRODUTO][-]    Um bom aparelho porém baixo desempenho.
+>   [220.555]       [DESEMPENHO][-]    Um bom aparelho porém baixo desempenho.
+
 <   [220.556][PRODUTO DESIGN PESO CÂMERA][-]    Gostei muito do aparelho de início, design bonito, leve, Android puro, porém com tempo de uso começou a reiniciar sozinho, trava de vez em quando, esquentar bastante, infelizmente os 2Gb de RAM não suprem a necessidade para quem usa bastante o aparelho com mais de um app ligado.A câmera deixa a desejar, pois se você usa o zoom a qualidade de imagem da foto cai muito, mais muito mesmo.Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
 >   [220.556]          [PRODUTO][+]    Gostei muito do aparelho de início.
 >   [220.556]           [DESIGN][+]    design bonito.
@@ -567,6 +1075,15 @@
 >   [220.556]       [DESEMPENHO][-]    infelizmente os 2Gb de RAM não suprem a necessidade para quem usa bastante o aparelho com mais de um app ligado.
 >   [220.556]           [CÂMERA][-]    A câmera deixa a desejar, pois se você usa o zoom a qualidade de imagem da foto cai muito, mais muito mesmo.
 >   [220.556]          [PRODUTO][-]    Como a Lenovo viu que vacilou no aparelho pretende lançar agora o G5S Plus corrigindo esses detalhes, trazendo melhoria na câmera que vai ter 2 câmeras traseiras e modelos com 3GB de RAM e com 4GB de RAM.
+
+<   [221.557]          [PRODUTO][-]    Valor de oferta de 250,00 não corresponde ao produto.
+>   [221.557]         [outscope][-]    Valor de oferta de 250,00 não corresponde ao produto.
+
+<   [221.558]          [PRODUTO][-]    Verificar a oferta do Shoptime.
+>   [221.558]         [outscope][-]    Verificar a oferta do Shoptime.
+
+<   [222.561]          [PRODUTO][-]    MOTO G5: Pior opção possível.
+>   [222.561]         [PRODUTO][--]    MOTO G5: Pior opção possível.
 
 <   [222.562][PRODUTO CÂMERA ÁUDIO][-]    O celular não tem "Galeria" para ver fotos, tem que entrar pelo Google Fotos, você acessa até fotos do orkut, do facebook, de todas as redes sociais antes de conseguir acessar as fotos armazenadas no celular;Não tem "Media Player", tem que ver pelo Google Música, você acessa antes um tipo de "Spotify da google" antes de acessar suas próprias músicas;Não tem botão "Reiniciar", aparentemente é algo genial demais para os desenvolvedores.
 >   [222.562]            [OUTRO][-]    O celular não tem "Galeria" para ver fotos, tem que entrar pelo Google Fotos, você acessa até fotos do orkut, do facebook, de todas as redes sociais antes de conseguir acessar as fotos armazenadas no celular.
@@ -582,14 +1099,74 @@
 <   [222.564]    [ARMAZENAMENTO][-]    Genial demais para eles também. Não possui nem "meus documentos" ou "biblioteca", é preciso baixar APP pra gerenciar seus arquivos, acessar seus downloads, etc.
 >   [222.564]            [OUTRO][-]    Não possui nem "meus documentos" ou "biblioteca", é preciso baixar APP pra gerenciar seus arquivos, acessar seus downloads, etc.
 
+<   [223.567]          [PRODUTO][-]    Recebi o produto mas o mesmo não carregava.
+>   [223.567]      [RESISTÊNCIA][-]    Recebi o produto mas o mesmo não carregava.
+
+<   [223.569]          [BATERIA][-]    Sem conserto, mesmo porque a bateria é lacrada.
+>   [223.569]      [RESISTÊNCIA][-]    Sem conserto, mesmo porque a bateria é lacrada.
+
+<   [223.570]          [PRODUTO][-]    Segundo o pessoal a motorola esta trazendo para o terceiro mundo o pior dos piores .
+>   [223.570]         [PRODUTO][--]    Segundo o pessoal a motorola esta trazendo para o terceiro mundo o pior dos piores .
+
 <   [224.571]          [PRODUTO][-]    Aparelbo com problema.
 >   [224.571]      [RESISTÊNCIA][-]    Aparelho com problema.
+
+<   [224.572]          [PRODUTO][-]    O produto após duas semanas não carrega mais.
+>   [224.572]          [BATERIA][-]    O produto após duas semanas não carrega mais.
 
 <   [224.573]          [PRODUTO][-]    Tentei entrar en contato com a Onofre e não consegui.
 >   [224.573]         [outscope][-]    Tentei entrar em contato com a Onofre e não consegui.
 
+<   [225.574]          [PRODUTO][-]    Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+>   [225.574]         [outscope][-]    Cuidado: não comprem pelo site do Extra, pois esta empresa não entrega no prazo.
+
 <   [225.575]          [PRODUTO][-]    Em 02/05/17, comprei este smartphone pelo site do Extra.
 >   [225.575]         [outscope][-]    Em 02/05/17, comprei este smartphone pelo site do Extra. A promessa foi que o produto seria entregue até 09/05/17. Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve. Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa. Evidentemente houve um erro no envio do produto. Primeiramente, moro em um condomínio onde existe portaria 24 horas. Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência. Em segundo lugar, estranha-me o fato de a empresa afirmar que houve três tentativas de entrega frustradas. O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36. A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29. É evidente que, num curto período de menos de 4 horas, de um único dia, não ocorreram três tentativas frustradas de entrega. Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor. O aparelho era um presente para a minha esposa, em comemoração de uma data especial. Porém, para a minha frustração, o produto não veio no prazo prometido. Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+
+<   [225.576]          [PRODUTO][-]    A promessa foi que o produto seria entregue até 09/05/17.
+>c  [225.576]          [context][x]    A promessa foi que o produto seria entregue até 09/05/17.
+
+<   [225.577]          [PRODUTO][-]    Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+>c  [225.577]          [context][x]    Em 05/05/17, recebi e-mail do Extra no qual afirmava que o produto estava em transporte e seria entregue em breve.
+
+<   [225.578] [outscope PRODUTO][-]    Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+>   [225.578]         [outscope][-]    Todavia, para minha surpresa, no mesmo dia 05/05/17, recebi outro e-mail do Extra no qual dizia que a entrega não foi concluída, pois supostamente houve três tentativas de entrega e o destinatário estava ausente, sendo o produto devolvido ao Centro de Distribuição da empresa.
+
+<   [225.579]          [PRODUTO][-]    Evidentemente houve um erro no envio do produto.
+>   [225.579]         [outscope][-]    Evidentemente houve um erro no envio do produto.
+
+<   [225.580]          [PRODUTO][-]    Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+>c  [225.580]          [context][x]    Primeiramente, moro em um condomínio onde existe portaria 24 horas.
+
+<   [225.581]          [PRODUTO][-]    Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+>c  [225.581]          [context][x]    Realizo com frequência compras pela Internet e sempre recebo os produtos em minha residência.
+
+<   [225.583] [PRODUTO outscope][-]    O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+>   [225.583]         [outscope][.]    O e-mail que recebi afirmando que o produto estava em rota de entrega foi enviado no dia 05/05/17, às 10h36.
+
+<   [225.584]         [outscope][-]    A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+>   [225.584]         [outscope][.]    A informação que obtive na central de atendimento do Extra foi de que a terceira tentativa frustrada de entrega ocorreu no dia 05/05/17, às 14h29.
+
+<   [225.586]          [PRODUTO][-]    Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+>   [225.586]         [outscope][-]    Mesmo com esse grave erro, o Extra não demonstrou respeito perante o consumidor.
+
+<   [225.587]          [PRODUTO][-]    O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
+>i  [225.587]       [irrelevant][x]    O aparelho era um presente para a minha esposa, em comemoração de uma data especial.
+
+<   [225.588] [PRODUTO outscope][-]    Porém, para a minha frustração, o produto não veio no prazo prometido.
+>   [225.588]         [outscope][-]    Porém, para a minha frustração, o produto não veio no prazo prometido.
+
+<   [225.589]          [PRODUTO][-]    Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+>   [225.589]         [outscope][-]    Decepção! Portanto, fica a dica: não comprem pelo Extra!!
+
+<   [226.590]          [PRODUTO][-]    Boa relação custo-benefício.
+>   [226.590]            [PREÇO][+]    Boa relação custo-benefício.
+
+<   [226.592]          [PRODUTO][-]    O carregamento rápido só funciona com o aparelho desligado.
+>   [226.592]          [BATERIA][-]    O carregamento rápido só funciona com o aparelho desligado.
+
+<   [226.593]          [PRODUTO][-]    O alarme-despertador não toca se o aparelho estiver desligado.
+>   [226.593]            [OUTRO][-]    O alarme-despertador não toca se o aparelho estiver desligado.
 
 <   [226.594]    [ARMAZENAMENTO][-]    Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória.
 >   [226.594]            [OUTRO][-]    Infeliz foi o projetista que desenhou aquela maldita bandejinha para a colocação dos 2 chips e do cartão de memória e se você colocou esses 3 itens uma vez com sucesso, não mexa nunca mais com a tal bandejinha porque, senão, jamais conseguirá esse feito novamente!!!
@@ -601,6 +1178,23 @@
 >   [227.599]          [PRODUTO][-]    Estou muito infeliz com a compra desse produto.
 >   [227.599]         [outscope][-]    dou nota zero para a empresa que autorizou uma propaganda mentirosa ir ao ar para seus enganar seus consumidores.
 
+<   [228.603]          [PRODUTO][-]    Bandeja de chips é fraca, de plástico, dificulta inserção do cartão micro SD.
+>   [228.603]            [OUTRO][-]    Bandeja de chips é fraca, de plástico, dificulta inserção do cartão micro SD.
+
+<   [228.604]  [BATERIA PRODUTO][-]    Troca de bateria só pode ser feita na assistência técnica, pois não é possível abrir a tampa do aparelho.
+>   [228.604]            [OUTRO][-]    Troca de bateria só pode ser feita na assistência técnica, pois não é possível abrir a tampa do aparelho.
+
+<   [228.605]          [PRODUTO][-]    Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+>   [228.605]         [outscope][-]    Assistência técnica em Belo Horizonte (WB Celulares) deixa muito a desejar - não tem foco no cliente e pessoal parece ser despreparado: levei meu aparelho para destravar a bandeja de chips, que tinha ficado emperrada no interior do aparelho após inserção do micro SD.
+
+<   [228.606]          [PRODUTO][-]    Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+>   [228.606]         [outscope][-]    Quando fui buscar o aparelho, quiseram entregá-lo para mim sem os chips e sem o micro SD que estavam no aparelho - penso que perderam esses chips! Reclamei com a Motorola e estou aguardando solução.
+
+<   [228.607]          [PRODUTO][-]    MOTO G ou MOTO Z NUNCA MAIS!
+>   [228.607]         [PRODUTO][--]    MOTO G ou MOTO Z NUNCA MAIS!
+
+<   [229.608]          [PRODUTO][-]    Speaker.
+>b  [229.608]           [broken][x]    Speaker.
+
 <   [229.609]          [PRODUTO][-]    Review speaker ruim.
 >   [229.609]              [SOM][-]    Alto-falante ruim.
-
