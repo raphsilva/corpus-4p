@@ -460,3 +460,7 @@ for filename in files_to_read:
     f = open(DIR_OUTPUT_JSON + '/' + filename_save + '.json', 'w')
     f.write(json.dumps(s, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
     f.close()
+
+    f = open('input/automatic/' + filename_save + '.json', 'w')
+    f.write(json.dumps(info_raw, sort_keys=True, indent=4, separators=(',', ': '), ensure_ascii=False))
+    f.close()
