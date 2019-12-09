@@ -14,7 +14,7 @@ The contents of this repository are organized in the following directories:
 * **dataset**:  Contains different versions of the data set.
     * **skim**: A clean and extended version of the data set, in JSON format.
     * **whole**: Data set containing all information from the annotation: 
-        * **sentences**: The original text is segmented in sentences; 
+        * **sentences**: The original text is segmented in sentences. 
         * **opinion**: The text is segmented in a way that each segment contains only one opinion.
         * **json**: Contains all information from the two other directories in JSON format.
 
@@ -97,10 +97,6 @@ This project was made by researchers of the **NILC laboratory** at the **Univers
 
 This work is part of the **Opinando project**: **http://sites.google.com/icmc.usp.br/opinando/**
 
-#### Acknowlegment
-
-The authors are grateful to **São Paulo Research Foundation** (process 17/12236-0) and **University of São Paulo Research Office** (PRP N. 668) for the financial support.
-
 ### Publication
 
 The creation of this dataset is described in the following paper (in Portuguese): 
@@ -143,4 +139,9 @@ The contents are provided **without liability or warranty**.
 
 The use of reviews are in accordance with Buscapé's terms of service, available at www.buscape.com.br/termos-de-uso.
 
+
+
+### Acknowledgments
+
+The authors are grateful to **São Paulo Research Foundation** (process 17/12236-0) and **University of São Paulo Research Office** (PRP N. 668) for the financial support.
 
