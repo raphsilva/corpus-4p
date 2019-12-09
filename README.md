@@ -100,7 +100,7 @@ This work is part of the **Opinando project**: **http://sites.google.com/icmc.us
 ### Publication
 
 The creation of this dataset is described in the following paper (in Portuguese): 
-* SILVA, R. R.; PARDO, T. A. S., 2019. **Corpus 4P: um córpus anotado de opiniões em português sobre produtos eletrônicos para fins de sumarização contrastiva de opinião**. In the _Proceedings of the 6a Jornada de Descrição do Português (JDP)_ . October, 15-18. Salvador/Bahia, Brazil. To appear. Preview available at http://drive.google.com/file/d/1Nqu66l-z7eQenXEsvcnAEClt1LQzioJw/view.
+* SILVA, R. R.; PARDO, T. A. S., 2019. **Corpus 4P: um córpus anotado de opiniões em português sobre produtos eletrônicos para fins de sumarização contrastiva de opinião**. In the _Proceedings of the 6a Jornada de Descrição do Português (JDP)_, p. 330 – 338. October, 15 – 18. Salvador/Bahia, Brazil. To appear. Preview available at http://drive.google.com/file/d/1Nqu66l-z7eQenXEsvcnAEClt1LQzioJw/view.
 
 ### Repository
 
