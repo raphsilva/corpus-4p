@@ -405,7 +405,7 @@ for filename in files_to_read:
 
     f = open(DIR_FORMATTED_NOSPLIT + '/' + filename_save + '.txt', 'w')
 
-    info_revised['meta'].append('> Total of opinions: %d' % (len(data_revised)))
+    info_revised['meta'].append('> Total of opinions: %d' % (sum([len(i['excerpts']) for i in data_merged])))
     info_revised['meta'].append('> Total of sentences: %d' % (len(data_merged)))
 
     for i in info_revised['meta']:
@@ -417,7 +417,6 @@ for filename in files_to_read:
     unikey(formatSentence(k['sentence']))))
 
     for i in data_parsed_by_aspects:
-
         f.write('(%03d.%03d)\n%s\n\n' % (int(i['review_id']), int(i['sentence_id']), i['sentence']))
         for s in range(len(i['aspect'])):
             f.write('%s %-2s\n' % (i['aspect'][s], i['polarity'][s]))
