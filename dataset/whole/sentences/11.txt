@@ -14,9 +14,9 @@
 
 > Human revisers: Raphael (May 2018, September 2019)
 
-> File generation date: 2019-10-13
+> File generation date: 2019-12-15
 
-> Total of opinions: 846
+> Total of opinions: 815
 
 > Total of sentences: 610
 
