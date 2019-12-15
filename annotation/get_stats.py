@@ -12,6 +12,15 @@ opinions_per_sentence = defaultdict(int)
 stats_polarities = defaultdict(int)
 stats_aspects = defaultdict(int)
 
+opinion_types = defaultdict(lambda : defaultdict(int))
+
+
+def opinion_type(aspect):
+    if aspect[0].upper() == aspect[0]:
+        return 'opinion'
+    else:
+        return aspect
+
 for FILENUMBER in ['10', '11', '30', '31']:
 
     rev_data = json.loads(open(f'{DIRECTORY_REV}/{FILENUMBER}.json').read())
@@ -22,6 +31,12 @@ for FILENUMBER in ['10', '11', '30', '31']:
         qnt_opinions_in_sentence = len(d['opinions'])
 
         opinions_per_sentence[qnt_opinions_in_sentence] += 1
+
+        for aspect, polarity in d['opinions']:
+            opinion_types[FILENUMBER][opinion_type(aspect)] += 1
+            opinion_types[FILENUMBER]['total'] += 1
+            opinion_types['TOTAL'][opinion_type(aspect)] += 1
+            opinion_types['TOTAL']['total'] += 1
 
         for r in raw_data['data']:
 
@@ -61,3 +76,5 @@ opinions_per_sentence_matrix = opinions_per_sentence_matrix.reindex(sorted(opini
 confusion_aspect_matrix.to_csv('preview/statistics/aspect_confusion.csv')
 confusion_polarity_matrix.to_csv('preview/statistics/polarity_confusion.csv')
 opinions_per_sentence_matrix.to_csv('preview/statistics/opinions_per_sentence.csv', header=False)
+
+open('preview/statistics/opinion_types.json', 'w').write(json.dumps(opinion_types, ensure_ascii=False, indent=4))
